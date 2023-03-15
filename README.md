@@ -1,2 +1,7 @@
 # MarRelEs
-Spanish conceptual relation patterns 
+
+Les marqueurs de relation conceptuelle sont des éléments lexicaux, lexico-syntaxiques voire typo-dispositionnels qui peuvent aider à repérer une relation conceptuelle. Dans le cadre des travaux menés en terminologie –c’est-à-dire la science qui observe lexique (l’ensemble des désignations et des notions) appartenant à un domaine spécialisé–, les relations conceptuelles les plus décrites sont l’hyperonymie, la méronymie ou la cause.
+L'étude des énoncés définitoires se justifie d'abord parce qu'il s'agit d'énoncés qui constituent un lieu privilégié où s'actualisent les relations sémantiques que les mots entretiennent entre eux et ensuite parce qu'ils ont des propriétés suffisamment stables pour que leur repérage automatique puisse être envisagé dans différents discours. (Cf. Rebeyrolle, et Tanguy, 2000)
+Dans le cadre de ce projet de recherche, nous étudions les marqueurs de relations conceptuelles d’hyperonymie. A la suite de l’étude exhaustive de ces types de marqueurs pour deux langues romanes, le français et l’italien (Cf. Lefeuvre et Condamines, 2015 ; Lefeuvre, 2017 ; Federzoni, 2018 ; Condamines, Escoubas-Benveniste et Federzoni, 2021), nous nous fixons pour objectif de les explorer en espagnol. Nous chercherons à identifier la présence des marqueurs de relation d’hyperonymie en explorant deux corpus spécialisés en espagnol.
+
+## 
