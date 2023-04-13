@@ -1,0 +1,49 @@
+french,glosa,spanish
+ABR,abbreviation,ACRNM
+ADJ,adjective,ADJ
+ADV,adverb,ADV
+DET:ART,article,ART
+DET:POS,"possessive pronoun (ma, ta, ...)",PPO
+INT,interjection,ITJN
+KON,conjunction,CC
+KON,conjunction,CCAD
+KON,conjunction,CCNEG
+KON,conjunction,CQUE
+KON,conjunction,CSUBF
+KON,conjunction,CSUBI
+KON,conjunction,CSUBX
+NAM,proper name,NP
+NOM,noun,NC
+NUM,numeral,CARD
+NUM,numeral,CODE
+NUM,numeral,ORD
+PRO,pronoun,
+PRO:DEM,demonstrative pronoun,DM
+PRO:IND,indefinite pronoun,
+PRO:PER,personal pronoun,PPX
+PRO:POS,"possessive pronoun (mien, tien, ...)",PPO
+PRO:REL,relative pronoun,REL
+PRP,preposition,PREP
+PRP:det,"preposition plus article (au,du,aux,des)",PREP/DEL
+PUN,punctuation,FS
+PUN,punctuation,DOTS
+PUN,punctuation,DASH
+PUN,punctuation,LP
+PUN,punctuation,RP
+PUN,punctuation,SLASH
+PUN,punctuation,SEMICOLON
+PUN,punctuation,BACKSLASH
+PUN:cit,punctuation citation,QT
+SENT,sentence tag,
+SYM,symbol,SYM
+VER:cond,verb conditional,
+VER:futu,verb futur,
+VER:impe,verb imperative,
+VER:impf,verb imperfect,
+VER:infi,verb infinitive,
+VER:pper,verb past participle,
+VER:ppre,verb present participle,
+VER:pres,verb present,
+VER:simp,verb simple past,
+VER:subi,verb subjunctive imperfect,
+VER:subp,verb subjunctive present,
