@@ -1,0 +1,243 @@
+
+Nuevo árbol de la vida
+
+Hace unos diez años aparecían esbozadas las líneas básicas de la evolución. 
+Parte de ese esquema, sobrio y elegante, comienza a cuestionarse. 
+
+Va para siglo y medio que Charles Darwin postulara el origen de todas las especies actuales a partir de otro elenco menor, surgido a su vez de otro más restringido, que procedía de otro más exiguo- y así hasta el amanecer de la vida.
+A tenor de esa explicación, las relaciones de parentesco entre los organismos, modernos y extintos, podían plasmarse en un árbol genealógico.
+
+La mayoría de los investigadores acepta ese planteamiento. 
+Muchos alegan incluso que están perfectamente claros los rasgas generales del árbol, cuya raíz sería una célula, el antepasado común universal de todos los organismos, aparecida hace unos 3500 o 3800 millones de años.
+Aunque no resultó fácil ponerse de acuerdo sobre ese guión, se ha convertido en doctrina oficial desde hace poco más de un decenio.
+
+Mas, para sorpresa general, el árbol se tambalea. 
+Descubrimientos recientes han empezado a minar los supuestos parentescos primeros, los inmediatos a la raíz.
+
+Figura 1
+
+REPRESENTACIÓN del árbol universal de la vida, según la doctrina mayoritaria
+
+Propone ésta que los primero descendientes del último ancestro común - una célula sin núcleo- dieron lugar a dos grupos de procariotas (células sin núcleo): las bacterias y las arqueas.
+Más tarde, a partir de las arqueas surgieron unos organismos cuyas células mostraban una estructura más compleja: los eucariotas.
+En el transcurso de su proceso evolutivo, los eucariotas adquirieron, al ingerir y retener en su citoplasma a ciertas bacterias, unos valiosos orgánulos capaces de generar energía, las mitocondrias; en el caso de las plantas, los cloroplastos.
+
+El primer bosquejo
+
+Hasta hace unos 35 años, a nadie se le ocurrió reconstruir un árbol universal.
+
+Desde Aristóteles, en el siglo IV antes de Cristo, hasta los años sesenta del siglo XX, se infería el parentesco entre organismos de su comparación anatómica, fisiológica o ambas.
+Con ese sistema se establecieron relaciones genealógicas razonables entre los organismos superiores.
+Los análisis de innumerables caracteres revelaban, por ejemplo, que los homínidos compartían antepasado con los primates, precursor que compartía con los simios otro ancestro; éste tenía en común con los prosimios otro antecedente, etcétera.
+
+Pero los microscópicos seres unicelulares no solían aportar una información desbordantes sobre sus relaciones de parentesco.
+La situación resultaba especialmente decepcionante, pues los microorganismos fueron los únicos habitantes de la Tierra durante la primera mitad, si no dos tercios, de la historia del planeta; la ausencia de una filogenia clara (árbol genealógico) para los microorganismos generaba en los científicos grandes dudas sobre la naturaleza y la secuencia de sucesos que dieron lugar a las innovaciones radicales en la estructura y función celular.
+Por ejemplo, entre el nacimiento de la primera célula y la aparición de hongos, plantas y animales, las células aumentaron en tamaño y complejidad, adquirieron un núcleo y un citoesqueleto (el andamiaje interno) y encontraron un mecanismo que les permitió alimentarse de otras células. 
+
+A mediados de los sesenta, Emile Zuckerkandl y Linus Pauling, del Instituto de Tecnología de California, idearon una estrategia revolucionaria que paliara esa falta de información. 
+En vez de ceñirse a los caracteres anatómicos o fisiológicos, se plantearon la posibilidad de utilizar diferencias en genes o proteínas para trazar parentescos y dependencias.
+
+La filogenia molecular, así se llama el método, resulta ser de una lógica implacable.
+Los genes, constituidos por secuencias específicas de nucleótidos, son los responsables de la síntesis de proteínas, compuestas por cadenas de aminoácidos.
+Pero los genes matan (cambian su secuencia), lo que no pocas veces redunda en alteración de la proteína cifrada.
+Las mutaciones genéticas que no dejan sentir su efecto en la función de la proteína o que la mejoran, se acumularán a lo largo del tiempo.
+Y así, conforme dos especies van alejándose de su antepasado común, las secuencias de sus genes irán también divergiendo, divergencia que se acrecienta con el transcurso de las generaciones.
+Para reconstruir el pasado evolutivo de los organismos - sus árboles filogenéticos- habrá, pues, que atender a las semejanzas y diferencias existentes entre las secuencias de sus genes o proteínas. 
+
+Hace 35 años se lograban las primeras secuenciaciones de aminoácidos de las proteínas; los genes tendrían que esperar.
+Los estudios realizados con proteínas, a lo largo de los años sesenta y setenta, demostraron la validez de la filogenia molecular al confirmar, y extender luego, los árboles filogenéticos de los vertebrados, grupo cabalmente conocido.
+Refrendaron, además, algunas hipótesis sobre la relación existente entre ciertas bacterias; demostraron, por ejemplo, que las bacterias que producen oxigeno durante la fotosíntesis forman un grupo homogéneo, el de las cianobacterias.
+
+Con el recurso creciente a las secuencias proteicas, Carl R., Woese, de la Universidad de Illinois, fijó la atención en un nuevo parámetro de distancias evolutivas: el ARN ribosómico microsubunitario (« small subunit ribosomal RNA », SSU rRNA ).
+
+Esta molécula, genéticamente determinada, constituye un componente clave de los ribosomas, las «fábricas» celulares que sintetizan las proteínas; en efecto, las células necesitan dicha microsubunidad para vivir.
+Así las cosas, Woese pensó - nos hallamos en las postrimerías de los años sesenta- que las variaciones experimentadas por la microsubunidad (o, con mayor exactitud, por los genes que la cifran) serían un excelente indicador del grado de parentesco entre los seres vivos, de las bacterias elementales a los animales complejos.
+Por consiguiente, el ARN ribosómico microsubunitario podría desempeñar la función, en palabras de Woese, de «cronómetro molecular universal».
+
+Al principio, los métodos para avanzar en dicho proyecto eran indirectos y laboriosos.
+Pero hacia el ocaso de los años setenta, Woese contaba ya con suficientes datos para extraer sus importantes conclusiones.
+Desde entonces, los expertos en filogenia que estudian la evolución microbiana, lo mismo- que los interesados en las ramas superiores del árbol, han basado sus pautas de ramificación en el análisis de la secuencia de los genes del ARNr microsubunitario.
+Este cúmulo de secuencias de ARNr resultó determinante para forzar, a finales de los ochenta, un acuerdo común sobre la estructura del árbol universal.
+Hoy se dispone de secuencias de ARNr de varios millares de especies.
+
+Desde el comienzo, los resultados obtenidos con el ARNr corroboraron algunas intuiciones, al par que produjeron inesperadas sorpresas.
+En los años sesenta, los microscopistas habían arribado a la conclusión de que el mundo de lo vivo podía dividirse en dos grandes dominios, Eukarya (eucariotas) y Bacteria (procariotas), en razón de la estructura de sus células.
+Los organismos eucariotas (animales, plantas, hongos y muchos seres unicelulares) contenían un núcleo verdadero (un orgánulo donde alojan los cromosomas, intracelular y envuelto por una membrana).
+Las células eucariotas presentaban, por su lado, otras características específicas; así, un citoesqueleto, un intrincado sistema de membranas internas y mitocondrias (orgánulos en los que tiene lugar la respiración aeróbica que permite la obtención de energía a partir de los nutrientes).
+En las células de las algas y las plantas superiores distinguíanse los cloroplastos (orgánulos en los que se lleva a cabo la fotosíntesis). 
+
+A los procariotas, sinónimo entonces de bacterias, se les consideraban células sencillas, sin núcleo y protegidas por una membrana y una pared externa rígida. 
+
+Los primeros datos obtenidos por Woese confirmaban la distinción entre procariotas y eucariotas al demostrar que las secuencias de los ARNr microsubunitarios bacterianos guardaban entre sí un mayor parecido que con las secuencias de los ARNr eucariotas.
+Los hallazgos iniciales a propósito de esa molécula otorgaron también credibilidad a uno de los temas más interesantes de la biología celular evolutiva:
+la hipótesis del endosimbionte, avanzada para explicar el mecanismo en cuya virtud las células eucariotas adquirieron mitocondrias y cloroplastos.
+
+A tenor de la hipótesis endosimbionte, en el camino hacia la conversión en eucariotas hubo algunos, entre los primitivos procariotas anaeróbicos (incapaces de utilizar el oxígeno para obtener energía), que perdieron su pared celular.
+La membrana, más flexible, que subyacía bajo dicha pared creció y se replegó sobre sí misma.
+Fruto de esas remodelaciones surgieron el núcleo y otras membranas intracelulares, al tiempo que la célula adquiría la capacidad de engullir y digerir procariotas vecinos, sin tener que recabar siempre los nutrientes por adsorción de pequeñas moléculas de su entorno.
+
+Llegó un momento en que uno de los descendientes de nuestro eucariota primitivo ingirió células bacterianas del grupo de las proteobacterias alfa, duchas en obtener energía por respiración.
+Pero en vez de digerir tales células bacterianas, como si se tratara de mera nutrición, el eucariota estableció una relación mutuamente beneficiosa (simbióntica) con ellas.
+El eucariota daba cobijo a las bacterias engullidas, y el «endosimbionte» le proveía de energía extra gracias a la respiración.
+Por último, los endosimbiontes perdieron los genes que hasta entonces precisaban para su crecimiento independiente y transfirieron otros al núcleo de la célula hospedadora, terminando por transformarse en mitocondrias.
+En un proceso similar, los cloroplastos derivan de cianobacterias engullidas, y retenidas, en cierto momento de su historia por una célula eucariota portadora de mitocondrias.
+
+Las mitocondrias y los cloroplastos de las células eucariotas actuales conservan todavía un escueto número de genes; entre ellos, los que codifican el ARNr microsubunitario.
+Por consiguiente, y una vez se dispuso de las herramientas apropiadas a mediados de los años setenta, los investigadores decidieron comprobar si esos genes que cifran el ARNr microsubunitario se habían heredado, respectivamente, de las proteobacterias alfa y de las cianobacterias, en consonancia con lo predicho por la teoría endosimbionte. 
+Se demostró que así era.
+
+Pero la paz conseguida se vio turbada por una idea arriesgada. 
+Estamos a finales de los setenta.
+Woese aseguró entonces que el cuadro de la vida que pivotaba sobre los dos dominios, el de las bacterias ( Bacteria ) y el de los eucariotas ( Eukarya ), debía ceder el paso a otro que incorporase un tercer dominio.
+
+Algunos procariotas adscritos a las bacterias, aunque a éstas se parecieran, en su genética distaban mucho, sostenía Woese.
+De entrada, el ARNr respaldaba una divergencia precoz.
+De muchas de estas especies se conocía ya su comportamiento peculiar, sin ir más lejos su preferencia por vivir en condiciones ambientales extremas; nadie, sin embargo, había cuestionado su «estatuto bacteriano».
+
+Woese sugería ahora que conformaban un tercer dominio ( Archaea ), no menos distante de las bacterias que éstas de los eucariotas.
+
+Figura 2
+
+LA TEORÍA ENDOSIMBIÓNTICA propone que las mitocondrias se formaron después de que un procariota que había evolucionado hasta convertirse en eucariota primitivo engulló ( a ) y conservó ( b ) una o más células de las proteobacterias alfa
+
+Con el tiempo, la bacteria adquirió la capacidad de vivir en el interior de la célula huésped, a la vez que transfirió algunos de sus genes al núcleo de ésta ( c ), convirtiéndose en una mitocondria.
+Más tarde, algunos eucariotas portadores de mitocondrias ingirieron una cianobacteria, que acabó dando lugar a un cloroplasto ( d ).
+
+Figura 3
+
+REPRESENTACIÓN de las relaciones de parentesco existentes entre los ARN ribosómicos ( ARNr ) procedentes de unas 600 especies
+
+Cada línea equivale a la secuencia del ARNr de una especie o un grupo; la mayoría de las líneas corresponde a ARNr cifrados por genes del núcleo, aunque hay también genes de ARNr de cloroplastos y mitocondrias.
+Las líneas de los ARNr mitocondriales deben su mayor longitud a la rápida evolución de los genes mitocondriales.
+Los árboles construidos a partir de los ARNr carecen de raíz; otra serie de datos sitúan a ésta en el punto coloreado, que corresponde a la parte inferior de los árboles de la figura 1.
+
+Tras la polémica, el acuerdo 
+
+Contra la propuesta de Woese se opuso una feroz resistencia inicial.
+Pero la mayoría acabó por convencerse. 
+En la aceptación tuvo que ver la estructura global de ciertas moléculas de especies arqueanas, que corroboraba la organización tripartita.
+Por citar un dato, las membranas celulares de todas las arqueas contenían lípidos de características únicas y muy diferentes - en sus propiedades físicas y en su constitución química- de los lípidos bacterianos.
+
+También, las proteínas de las arqueas responsables de diversos procesos celulares cruciales presentan una estructura diferente de las proteínas que ejecutan las mismas tareas en las bacterias; así ocurre en los procesos de transcripción y traducción.
+Para sintetizar una proteína, la célula copia, o transcribe, el gen correspondiente en una cadena de ARN mensajero.
+A continuación, los ribosomas traducen la información del ARN mensajero en una ristra específica de aminoácidos. 
+Los bioquímicos descubrieron que la ARN polimerasa de las arqueas, la enzima que lleva a cabo la transcripción, guarda un parecido mayor con la de los eucariotas que con la de las bacterias, y ello no sólo en lo concerniente a la estructura, sino también en la naturaleza de su interacción con el ADN .
+Las proteínas arqueanas que forman parte de los ribosomas que traducen el ARN mensajero también se asemejan más a las eucariotas que a las bacterianas. 
+
+Aceptada la tesis de la división de la vida en tres dominios, había que dilucidar de cuál de los dos grupos primitivos - bacterias y arqueas- se originó la primera célula eucariota.
+Los estudios sobre el parentesco entre la maquinaria de transcripción y traducción de los eucariotas y las arqueas revelaron que los primeros provenían de éstas.
+
+Semejante conclusión recibió un nuevo espaldarazo en 1989, cuando los grupos liderados por J., Peter Gogarten y Takashi Mikaya utilizaron las secuencias de otros genes en su afán de identificar la raíz del árbol universal. 
+La comparación de los ARNr microsubunitarios (« SSU rRNA ») puede decirnos qué organismos están estrechamente emparentados entre sí; mas la técnica en cuestión resulta incapaz de revelar qué grupos son más primitivos y, en consecuencia, más cercanos a la raíz.
+El análisis de las secuencias de ADN que cifran dos proteínas celulares esenciales confirmaba que el último ancestro común engendró a bacterias y arqueas; de éstas se ramificaron luego los eucariotas.
+
+Desde 1989, un rosario de descubrimientos han venido cementando la tesis del triple dominio.
+En los cinco últimos años se han hecho públicas las secuencias completas del genoma (conjunto de todos los genes) de media docena de arqueas y de más de 15 bacterias.
+La comparación de estos genomas ha confirmado la sospecha de que bastantes genes implicados en la transcripción y en la traducción de las arqueas y de los eucariotas son muy similares, así como que estos procesos se desarrollan de forma muy parecida en ambos dominios.
+Pese a que las arqueas carecen de núcleo diferenciado bajo ciertas condiciones experimentales sus cromosomas recuerdan a los de los eucariotas:
+el ADN forma complejos con unas proteínas muy parecidas a las histonas de éstos, y sus cromosomas pueden adoptar la estructura eucariota de collar de perlas.
+Además, en la replicación de tales cromosomas interviene una serie de proteínas muy parecidas a las que participan en los mismos procesos de los eucariotas, pero no en los bacterianos. 
+
+Figura 4
+
+ÁRBOL FILOGENÉTICO de varios grupos de especies, construido a partir del gen que determina la enzima HMGCoA reductasa
+
+En este árbol sumario se aprecia que el gen de la reductasa de Archaeoglobus fulgidus , una típica arquea, proviene de una bacteria, no de un antepasado arqueo.
+Se suma tal descubrimiento a los muchos aducidos para reafirmar la idea de que la transferencia génica lateral ha desempeñado un papel decisivo en la evolución de la vida unicelular.
+El árbol universal aceptado no tiene en cuenta este factor.
+
+Dudas persistentes
+
+Con esa muchedumbre de datos extraordinarios y congruentes se pergeñó la estructura del árbol genealógico universal, que hoy acepta la mayoría.
+A tenor de dicho cuadro, la vida se desdobló primero en bacterias y arqueas.
+A continuación, los eucariotas surgieron de un precursor arqueoideo.
+Seguidamente, los eucariotas incorporaron genes bacterianos en dos ocasiones, recabando mitocondrias de las proteobacterias alfa, y cloroplastos, de las cianobacterias. 
+
+Con todo, a medida que vamos disponiendo de un número creciente de secuencias completas de genomas, varios grupos (incluido el mío) han detectado algunos hechos que contradicen las ideas en vigor.
+Si el árbol aceptado fuese correcto, en las células eucariotas sólo descubriríamos genes de origen bacteriano en el ADN de las mitocondrias y de los cloroplastos, aparte de los que se transfirieron al núcleo desde los precursores alfaproteobacterianos y cianobacterianos de estos orgánulos.
+Los genes transferidos serían, por otra parte, los implicados en la respiración o en la fotosíntesis, no los responsables del resto de los procesos celulares, que se habrían heredado de la arquea ancestral.
+
+Pero esa hipótesis no se ha cumplido.
+Genes presentes en el núcleo de los eucariotas provienen, con frecuencia, no sólo de las arqueas sino también de las bacterias.
+Un buen número de tales genes de origen bacteriano participan en el control de funciones que no tienen nada que ver con la respiración y la fotosíntesis y que son, sin embargo, tan fundamentales para la supervivencia celular como la transcripción y la traducción. 
+
+En el árbol clásico se lee también que los genes de origen bacteriano fueron incorporados por los eucariotas y no por las arqueas.
+Pero existen numerosas pruebas de que muchas arqueas portan un cupo nutrido de genes bacterianos.
+Mencionemos, como botón de muestra, el caso de Archaeoglobus fulgidus , que reúne todas las características de una arquea (lípidos adecuados en su membrana celular y mecanismos de transcripción y traducción esperados) y, sin embargo, emplea una forma bacteriana de la enzima HMGCoA reductasa para sintetizar los lípidos de la membrana. 
+Presenta, además, numerosos genes bacterianos que le ayudan a conseguir energía y nutrientes en los pozos petrolíferos submarinos, uno de sus medios favoritos. 
+
+La explicación razonable de resultados tan contradictorios hay que buscarla en el proceso de la evolución, que ni es lineal ni tan parecida a la estructura dendriforme que Darwin imaginó.
+Aunque los genes se han transmitido de generación en generación, esta herencia vertical no es el único factor involucrado en la evolución de las células.
+Otro fenómeno- la transferencia lateral u horizontal de genes- ha afectado profundamente el curso evolutivo.
+En vez de pasar de una célula progenitora a su descendiente, en la transferencia horizontal se transmiten genes individuales, o serie de ellos, de una especie a otra. 
+
+Vía el mecanismo de transferencia lateral, los eucariotas evolucionados de una célula arquea obtuvieron genes bacterianos decisivos para el metabolismo:
+los eucariotas recabaron de las bacterias genes y retuvieron los que demostraron su utilidad. 
+Ese mecanismo explicaría por qué hay arqueas que terminaron por poseer genes habituales en bacterias.
+
+Algunos teóricos de la filogenia molecular- entre ellos Mitchell L., Sogin y Russell F., Doolittle- atribuyen a la transferencia lateral un misterio que se resiste.
+Muchos genes eucariotas difieren de los de bacterias y arqueas conocidas. 
+Se ignora de dónde pudieron haber venido.
+Nos referimos, en particular, a los genes responsables de la síntesis de los componentes del citoesqueleto y del sistema interno de membranas, un par de rasgos distintivos de las células eucariotas.
+Sogin y Doolittle apuntan la existencia de un cuarto dominio de organismos, extinguido en la actualidad, que transfirió horizontalmente al núcleo de las células eucariotas los genes responsables de estos caracteres. 
+
+Desde hace tiempo sabe la microbiología de la capacidad de las bacterias para el intercambio horizontal de genes.
+Se lo confirma la cesión de genes de resistencia a los antibióticos entre bacterias infecciosas.
+Pero muy pocos sospechaban que los genes esenciales para la supervivencia celular cambiaran frecuentemente de célula o que la transferencia lateral ejerciera un peso tan determinante en los albores de la historia de la vida microbiana.
+Por lo que se ve, los expertos andaban errados.
+
+Figura 5
+
+VERSIÓN REVISADA DEL ÁRBOL DE LA VIDA
+
+Mantiene una estructura ramificada en la parte superior del dominio Eukarya y acepta que los eucariotas adquirieron de las bacterias las mitocondrias y los cloroplastos.
+Incluye también una extensa trama de enlaces transversales entre ramas, enlaces que se han distribuido al azar para simbolizar el alto grado de transferencia lateral de un gen o un grupo, un fenómeno persistente entre seres unicelulares.
+El «árbol» reformado se caracteriza también por carecer de una célula única en su raíz; los tres dominios de la vida ( Bacteria , Archaea y Eukarya ) se originaron probablemente a partir de una población de células primitivas cuyos genes fueron divergiendo.
+
+¿Sobrevivirá el árbol? 
+
+¿Qué nos dicen los nuevos descubrimientos acerca de la estructura del árbol universal de la vida? 
+Una primera enseñanza a extraer es que el progreso armonioso de arqueas a eucariotas, plasmado en el árbol actual, peca de un exceso de simplificación, si no es erróneo.
+Al parecer los eucariotas no emergieron de una arquea, sino de alguna célula precursora resultante de una serie de transferencias horizontales de genes, que terminaron por modelarla en parte bacteriana, en parte arquea y en parte otras cosas.
+
+Múltiples testimonios siguen respaldando todavía la hipótesis endosimbionte, según la cual las mitocondrias eucariotas derivan de las proteobacterias alfa, y los cloroplastos, de la ingestión de cianobacterias.
+Con todo, sería arriesgado ceñir a ésas las transferencias génicas laterales que ocurrieron tras la aparición del primer eucariota.
+Más tarde, para evitar la transferencia génica lateral los eucariotas multicelulares se blindaron con la adquisición de células germinales independientes (y protegidas).
+
+La representación estándar de las relaciones de parentesco entre procariotas parece ser demasiado lineal para resultar cierta.
+Un conjunto de genes y propiedades bioquímicas agrupa a las arqueas y los distinguen de las bacterias, siendo así que entre bacterias y arqueas (al igual que entre las diferentes especies englobadas dentro de cada uno de estos dos grupos) ha existido un amplio intercambio de genes.
+
+Para definir parentescos evolutivos entre los procariotas, podríamos escoger los genes que parecen menos propensos a la transferencia.
+En ese contexto, muchos filogenéticos consideran que los genes de los ARNr microsubunitarios y las proteínas implicadas en la transcripción y la traducción son renuentes a la transferencia horizontal, por cuya razón el árbol filogenético basado en ellos mantiene su validez.
+Ahora bien, tal renuencia a la transferencia es un mero supuesto no demostrado; en cualquier caso, debemos aceptar que los árboles sólo compendian la historia evolutiva de una parte del genoma de un organismo. 
+Lo que entendemos por árbol aceptado constituye una representación gráfica harto esquemática. 
+
+¿Cuál sería el modelo más acorde con la realidad?
+Aquel que en la copa presentara la estructura dendriforme ramificada de animales, plantas y hongos multicelulares. 
+Las transferencias génicas implicadas en la formación de las mitocondrias y cloroplastos de los eucariotas a partir de las bacterias se representarían mediante la fusión de ramas principales.
+Por debajo de estos puntos de transferencia (y dentro de los actuales dominios Bacteria y Archaea ) observaríamos numerosas fusiones adicionales de ramas.
+En la profundidad del dominio procariota, en la base quizá del dominio eucariota, sería impropio imaginarse un tronco principal.
+
+Aunque más compleja, esta imagen revisada seguiría pecando de una simplificación engañosa.
+Casi una caricatura, pues las fusiones entre ramas no representarían la unión de genomas completos, sino la transferencia de genes o grupos de genes.
+
+Para que pintáramos entero el cuadro, tendrían que plasmarse simultáneamente las pautas genealógicas superimpuestas de miles de familias génicas (una de ellas, la constituida por los genes del ARNr ).
+
+Si no se hubiera producido nunca transferencia lateral, los árboles génicos presentarían la misma topología (igual orden de ramificación); los genes ancestrales de la raíz de cada árbol se hallarían en el genoma del último antepasado universal, la célula primitiva.
+Pero si apelamos a una transferencia fluida, la historia tuvo que ser muy otra.
+Diferirán los árboles de los genes, aunque algunos perfilen regiones de topología similar; además , no habrá en ningún caso una célula que pudiera reputarse el último antepasado común.
+
+Como Woese adelantó, el antepasado ancestral no fue un organismo particular, un linaje exclusivo.
+Se trató, por contra, de un conglomerado diverso, de escasa consistencia interna, de células primitivas que evolucionaron al unísono hasta alcanzar un estadio en que los lazos terminaron por cortarse y se formaron comunidades distintas, que a su vez terminaron por conformar tres líneas de descendencia ( Bacteria , Archaea y Eukarya ).
+En otras palabras, las células primitivas, que contenían pocos genes, tomaron caminos muy dispares en su divergencia.
+Mediante el intercambio de genes transaccionaron con las facultades de unos y otros.
+Andando el tiempo, ese tropel de células eclécticas y cambiantes se fundieron en los tres dominios básicos que conocemos hoy.
+Dominios que distinguimos merced a la transferencia génica:
+la mayor parte de la misma, si no toda, se produce en su seno.
+
+Creen algunos biólogos que por este camino sólo podemos llegar a la confusión y al desánimo.
+Como si nos confesáramos incapaces de tomar el testigo de Darwin y recrear la estructura del árbol de la vida. 
+Pero la ciencia tiene sus reglas.
+Un modelo o hipótesis atractiva- la del árbol único- sugirió una serie de experimentos, en este caso la obtención de secuencias génicas y su análisis en el marco de la filogenia molecular.
+Los datos demuestran que este modelo es demasiado simple.
+Ahora se necesitan nuevas hipótesis cuyas implicaciones finales ni tan siquiera atisbamos.

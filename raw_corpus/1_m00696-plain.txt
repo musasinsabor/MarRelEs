@@ -1,0 +1,149 @@
+
+PRESENTE Y FUTURO DE LOS ANTICUERPOS MONOCLONALES
+
+Ideados para curar el cáncer y otras enfermedades, no lograron alcanzar el fin previsto.
+Las dificultades encontradas podrían subsanarse ahora con prototipos de nuevo cuño.
+
+El optimismo ilimitado que despertaron los anticuerpos monoclonales en los años ochenta resultó contagioso. 
+A propósito del cáncer, creíase que, a la manera de misiles teledirigidos, los anticuerpos monoclonales portadores de tóxicos o isótopos radiactivos podrían orientarse contra las células tumorales y depositar su carga letal, eliminando las células cancerosas y dejando intactas las normales.
+Si de enfermedades infecciosas se trataba, los anticuerpos monoclonales sitiarían a los virus y bacterias introducidos en el organismo, confinándolos en recintos donde las células del sistema inmunitario acabarían con ellos.
+
+Pero la realidad ha mostrado que las cosas son más difíciles.
+Los anticuerpos monoclonales son proteínas del sistema inmunitario muy puras que atacan dianas moleculares específicas.
+Para su infortunio, los individuos que recibieron la primera hornada de anticuerpos monoclonales con fines terapéuticos tendían a desarrollar sus propios anticuerpos contra los anticuerpos inyectados.
+Eso hizo que, por causas que no acabamos de conocer, progresaran aún más en su patología.
+El hígado secuestraba tales anticuerpos monoclonales y los eliminaba antes de que pudieran alcanzar sus objetivos.
+Fracasaron los ensayos clínicos.
+Las inversiones se hundieron, con pérdidas millonarias.
+Cundió el escepticismo entre científicos y laboratorios farmacéuticos. 
+
+Pero no todos abandonaron.
+Gracias a su esfuerzo se descubrieron vías para corregir las deficiencias de los primeros fármacos.
+Al mercado ha llegado ya una decena de anticuerpos monoclonales.
+Tres más esperan una pronta aprobación por la norteamericana Oficina de Alimentación y Farmacia (FDA).
+Dos estarán equipados para llevar una dosis de radiactividad.
+Hay un centenar largo en fase de ensayo en humanos, superadas con éxito las pruebas en animales.
+La cifra, en opinión del analista Franklin M. Berger, no dejará de crecer. 
+
+La FDA ha puesto sordina a la nueva euforia, sin embargo. 
+En julio el ente administrativo comunicaba a la empresa Genentech que deberá presentar una documentación más exhaustiva de los estudios clínicos con humanos que demuestren la seguridad a largo plazo de sus anticuerpos monoclonales contra el asma (Xolair).
+Estos eliminan los anticuerpos que desempeñan una función clave en el asma y las alergias.
+Algunos observadores ven en ese requerimiento una muestra del rigor que la FDA piensa aplicar en el examen de los efectos secundarios de los anticuerpos monoclonales, en particular cuando se trate de los indicados para enfermos crónicos.
+
+Las ventajas de los anticuerpos monoclonales son evidentes. Donald L. Drakeman, presidente de Medarex, reconoce que resulta más fácil la producción de anticuerpos que la de medicamentos tradicionales, elaborados a partir de pequeñas moléculas inorgánicas.
+Por ser macromoléculas los anticuerpos, quizá no puedan indicarse en todas las enfermedades.
+Ahora bien, el desarrollo de un anticuerpo monoclonal hasta la fase de ensayo clínico sólo requiere uno o dos años, en comparación con los cinco que se necesitan en el caso de una molécula pequeña.
+La rapidez significa ahorro.
+Drakeman estima en un par de millones de dólares la obtención de un anticuerpo monoclonal a punto para las pruebas clínicas, mientras que se necesitan 20 millones de dólares para un medicamento tradicional. A pesar de las reticencias de la FDA ante el fármaco de Genentech, los anticuerpos monoclonales son más eficaces para eliminar moléculas mediadoras implicadas en las enfermedades que cualquier otro medicamento basado en pequeñas moléculas.
+Los anticuerpos casi nunca son tóxicos.
+
+Por ironía de las cosas, los anticuerpos monoclonales podrían ser víctimas de su propio éxito. 
+Sostienen los analistas del mercado que las industrias carecen de instalaciones suficientes para fabricarlos todos. 
+Para adelantarse a ese problema, los laboratorios han comenzado a dirigir sus investigaciones hacia la producción de anticuerpos en la leche de animales de granja (corderos, vacas, etc.) o en plantas.
+
+Métodos para producir monoclonales 
+
+El fracaso de los anticuerpos monoclonales en el pasado se debió, en parte, al proceso de su elaboración inicial.
+La técnica de manufactura clásica fue ideada por Georges J. F. Köhler y César Milstein, inmunólogos del Laboratorio de Biología Molecular del Consejo de Investigaciones Médicas en Cambridge, por cuya innovación se les otorgó el premio Nobel de fisiología y medicina en 1984.
+A grandes rasgos, el procedimiento consistía en la inyección de un antígeno (sustancia que el sistema inmunitario reconoce como extraña o peligrosa) en un ratón.
+Se inducía así la proliferación, en el animal, de linfocitos B (células productoras de anticuerpos) que sintetizaban anticuerpos específicos contra el antígeno inyectado.
+Para obtener los anticuerpos específicos, los inmunólogos debían ceñirse a los linfocitos B que los fabricaban.
+Pero resulta ser una tarea harto difícil el determinar de qué linfocitos B se trata, para separarlos de los que no producen tales anticuerpos.
+
+En ese procedimiento complejo, los linfocitos B del ratón han de fusionarse con células de cultivo inmortalizadas (que se replican ilimitadamente) para crear hibridomas.
+Estas nuevas células resultantes de la fusión producen anticuerpos murinos, que el sistema inmunitario humano puede percibir como intrusos.
+Por eso, los pacientes que han recibido inyecciones de anticuerpos monoclonales murinos han experimentado una respuesta AHAM, denominada así por los anticuerpos humanos antimurinos que se generan.
+Las respuestas AHAM provocan una hinchazón de las articulaciones, eritemas e insuficiencia renal, que pueden poner en peligro la vida.
+Tales respuestas destruyen también los anticuerpos murinos.
+
+Con el fin de evitar la respuesta AHAM y la inactivación prematura de los anticuerpos de ratón por el sistema inmunitario, se han desarrollado distintas técnicas.
+Se busca con ellas hacer más humanos los anticuerpos.
+Estas macromoléculas, con forma de Y, se unen a los antígenos a través de los brazos, o regiones Fab, de dicha estructura. 
+El vástago de la Y, la región Fc, interacciona con las células del sistema inmunitario.
+La región Fc reviste particular interés en la eliminación de las bacterias: en cuanto los anticuerpos recubren una bacteria mediante la unión con las regiones Fab, las regiones Fc atraen a las células encargadas de engullir los microorganismos para su aniquilación.
+
+Para que los anticuerpos murinos se parezcan más a los humanos podemos reemplazar todo el anticuerpo monoclonal murino, salvo la parte de unión al antígeno, con los componentes de anticuerpos humanos.
+Cuatro de los anticuerpos comercializados en Estados Unidos están hechos de esta forma, parte de ratón y parte humana.
+Recordaremos ReoPro, elaborado por la empresa Centocor, que previene la formación de coágulos mediante su unión a un receptor específico de las plaquetas.
+
+Podemos seguir otro método, que consiste en la humanización de los anticuerpos.
+En esa técnica se fundan cinco fármacos que se expenden ya en farmacias.
+Uno de ellos es Herceptin, de Genentech, un anticuerpo monoclonal contra el cáncer de mama.
+La humanización se sirve de la ingeniería genética para sustituir, de forma selectiva y en todo lo posible, el anticuerpo murino con proteína humana, incluida la mayor parte de las regiones de unión al antígeno.
+Campath, fabricado por Millennium Pharmaceuticals, se receta a los pacientes con leucemia linfoide crónica cuando han fracasado otras medidas terapéuticas. 
+Se une a un receptor que está presente en distintos tipos celulares normales y cancerosos del sistema inmunitario; tras el tratamiento, los pacientes producen un mayor número de células normales.
+Los otros anticuerpos monoclonales del mercado son anticuerpos totalmente murinos.
+
+Tras más de 25 años de esfuerzo, se ha logrado por fin fusionar linfocitos B humanos con células inmortalizadas; 
+los hibridomas resultantes generan anticuerpos plenamente humanos.
+En febrero, Abraham Karpas y su grupo anunciaron la proeza, aunque todavía es demasiado pronto para saber si los anticuerpos monoclonales producidos utilizando células humanas serán más seguros, más eficaces o más baratos de fabricar que los obtenidos a través de otras técnicas.
+
+Medarex y Fremont han encontrado el método para inducir en el ratón la producción de anticuerpos plenamente humanos.
+Mediante ingeniería genética consiguen que el ratón aloje los genes de los anticuerpos humanos.
+Cuando se inyectan antígenos en los ratones, los animales fabrican anticuerpos plenamente humanos.
+Los laboratorios Abgenix han llevado a la fase de ensayo clínico un anticuerpo plenamente humano contra la interleucina-8 ( IL-8 ); en cuanto citocina, esta sustancia química natural activa las células del sistema inmunitario.
+Cuando el organismo produce IL-8 en demasía, pueden aparecer enfermedades inflamatorias autoinmunes, como la artritis reumatoide o la psoriasis.
+En fase de ensayo clínico Medarex tiene anticuerpos monoclonales plenamente humanos de potencial aplicación en pacientes con cáncer y enfermedades autoinmunes.
+Trabaja, asimismo, en anticuerpos de diseño, preparados para liberar directamente una toxina en una célula enferma o para reclutar células inmunitarias que ataquen los tumores.
+
+Otros laboratorios farmacéuticos se afanan en la obtención de anticuerpos monoclonales sin pasar por los ratones.
+La compañía inglesa Cambridge Antibody Technology y la alemana MorphoSys AG aplican la técnica de selección de fagos para lograrlo.
+Además de facilitar la producción en masa, el método ayuda a encontrar anticuerpos monoclonales específicos contra un antígeno determinado.
+
+La selección de fagos está basada en un virus fibroso que infecta las bacterias.
+Tras aislar el ADN a partir de los linfocitos B humanos (cada célula produce un solo tipo de anticuerpo contra un antígeno determinado), se inserta dicho ácido nucleico en Escherichia coli , para infectar la bacteria.
+Puesto que estos fagos filamentosos producen nuevas copias de ellos mismos, fabricarán automáticamente las proteínas codificadas por los genes de los anticuerpos de varios linfocitos B que se expresarán en la superficie de los nuevos fagos sintetizados.
+Llegado ese momento, puede utilizarse el antígeno contra el que se desea obtener anticuerpos (pensemos en un receptor de una célula cancerosa), y así extraer los fagos portadores del gen que cifra el anticuerpo con mayor especificidad para ese antígeno.
+Para producir grandes cantidades del anticuerpo, se induce la infección de muchas bacterias o se inserta el gen del anticuerpo en las bacterias en cultivo.
+
+Dar en la diana Tomados en su conjunto, los nuevos tipos de anticuerpos monoclonales -quiméricos, humanizados y humanos- ofrecen óptimas perspectivas ante una serie de enfermedades.
+Dos de estos medicamentos, una vez aprobados por la FDA, convertirán en realidad los soñados anticuerpos monoclonales conjugados.
+Se da tal apelativo a los portadores de sustancias radiactivas o productos tóxicos hasta el propio tumor.
+Constituirán una nueva terapia del cáncer.
+Zevalin (desarrollado por IDEC Pharmaceuticals y Schering AG) y Bexxar (fabricado por Corixa y Glaxo-SmithKline) van dirigidos contra CD20, un antígeno que se encuentra en la superficie de los linfocitos B, células éstas que crecen de una forma descontrolada en el linfoma no Hodgkin. 
+Zevalin transporta un isótopo de itrio (Y90) y Bexxar uno de yodo ( xxx ).
+
+En fase de ensayo clínico se hallan otros anticuerpos monoclonales contra moléculas de las células del sistema inmunitario que desempeñan una importante función en muchas enfermedades.
+Genentech tiene muy avanzada la prueba de Xanelim, un anticuerpo monoclonal contra CD11a.
+Esta proteína reside en la superficie de los linfocitos T, a los que ayuda a infiltrarse en la piel provocando la inflamación de la psoriasis, que afecta a unos siete millones de personas en los Estados Unidos.
+De acuerdo con un estudio reciente de unos 600 pacientes de psoriasis, el 57 por ciento de los enfermos a los que se había administrado la dosis más alta del medicamento experimentaron al menos un 50 por ciento de disminución de la gravedad de la enfermedad.
+Hay varios laboratorios farmacéuticos que preparan anticuerpos monoclonales contra el CD18, proteína de los linfocitos T que interviene en la inflamación y en la lesión hística subsecuente a cardiopatías.
+
+El receptor del factor de crecimiento de la epidermis (EGF) constituye una diana muy sugestiva para los que investigan anticuerpos monoclonales.
+Un tercio de los pacientes con tumores sólidos produce receptores EGF en demasía;
+Gleevec, elaborado por Novartis y basado en una molécula pequeña, se interpone en la capacidad de las células tumorales para recibir las señales de proliferación emitidas por estos receptores.
+Quizá la forma más eficaz de erradicar el tumor sería administrar los anticuerpos monoclonales anti-receptor EGF en combinación con quimioterapia tradicional.
+Se ha demostrado que el cetuximab, un anticuerpo anti-receptor EGF producido por ImClone Systems, recupera la eficacia perdida por la quimioterapia en la cuarta parte de los pacientes con cáncer colorectal avanzado.
+
+Otros laboratorios centran su interés en anticuerpos monoclonales contra moléculas de la superficie de las células que tapizan los vasos sanguíneos.
+Algunas de estas moléculas, como las xxx , intervienen en la angiogénesis, o formación de nuevos vasos sanguíneos, que es, además, un proceso clave en el crecimiento tumoral.
+
+Remicade, un medicamento basado en un anticuerpo monoclonal, ha demostrado su éxito en el combate contra el factor de necrosis tumoral (TNF).
+De esta molécula se vale el organismo para estimular el sistema inmunitario, aunque se halla también implicado en las enfermedades inflamatorias. 
+Por la venta de ese fármaco, indicado para la enfermedad de Crohn (una patología inflamatoria de la pared intestinal) y la artritis reumatoide, la empresa Centocor ganó el año pasado 370 millones de dólares. 
+Según Carol Werther, reputada financiera, los tratamientos que eliminen el TNF tienen un mercado anual de dos mil millones de dólares.
+Los laboratorios Immunex comercializan Embrel, que por su eficacia contra el TNF se indica para pacientes con artritis reumatoide moderada o grave.
+No se trata, en sentido estricto, de un anticuerpo monoclonal, pues sólo se utiliza la parte estructural del anticuerpo; esa región se une a otra molécula, el receptor celular normal del TNF.
+
+Cuestiones emergentes
+
+Ante ese rico muestrario de posibilidades, los laboratorios farmacéuticos podrían aumentar sus líneas de producción, anticipándose a un mercado prometedor. 
+Pero en todo el mundo hay sólo 10 plantas industriales debidamente equipadas.
+
+En la fabricación de anticuerpos monoclonales a partir de hibridomas se emplean unas cubas enormes llamadas biorreactores. 
+Si oímos a V. Bryan Lawlis, de Diosynth ATP, un gigantesco biorreactor de 60.000 litros sólo podría producir cuatro preparados.
+Si se calcula que habrá 100 anticuerpos monoclonales en el mercado hacia el año 2010, las industrias necesitarán al menos 25 nuevas plantas para satisfacer la demanda.
+Si se considera que eso supone una inversión superior a los 5000 millones de dólares y requiere un tiempo de tres y cinco años para su construcción y aprobación por la FDA, la perspectiva de realización se volatiliza.
+Así las cosas, algunas empresas vuelven la mirada hacia la explotación de animales y plantas transgénicos, manipulados para que porten los genes de determinados anticuerpos. 
+Los mamíferos transgénicos que secretan anticuerpos monoclonales en su leche pueden generar un gramo de anticuerpo por unos 100 dólares, un tercio del coste de los métodos de producción tradicionales. Centocor y Johnson & Jonson se disponen a obtener Remicade de cabras transgénicas e Infigen busca extraer anticuerpos monoclonales de la leche de las vacas.
+
+Aunque los animales transgénicos constituyen una opción atractiva, los laboratorios deberán seguir un procedimiento tedioso para aislar de otras proteínas de la leche los anticuerpos monoclonales.
+Si bien se ahorra el gasto de los 10.000 litros del biorreactor, quedan por solucionar los problemas de la purificación. Sin olvidar que la ingeniería genética y la mejora animal requieren años.
+
+También se ve en las plantas la llave para paliar la escasez de anticuerpos monoclonales.
+Los vegetales ofrecen la ventaja de su economía, amén de poder aumentar fácilmente su producción ante la presión de la demanda: pueden rendir toneladas de monoclonales.
+Sin embargo, los problemas de purificación persisten y sigue siendo poco claro de qué modo la FDA legislará los fármacos producidos por las plantas transgénicas. 
+
+Los laboratorios Epicyte, partidarios de esa línea, se han asociado con Dow para producir plantas de maíz que rindan anticuerpos monoclonales de aplicación en cremas o ungüentos para mucosas superficiales de labios y genitales y en medicamentos de administración oral para las infecciones gastrointestinales o respiratorias.
+Un proyecto avanzado espera la aprobación oficial de los anticuerpos monoclonales sintetizados en el maíz para prevenir la transmisión, de adultos a neonatos, del virus del herpes.
+Se trabaja en anticuerpos monoclonales que, unidos a los espermatocitos, sirvan de anticonceptivo, así como en otros que protejan contra el papilovirus causante de las verrugas genitales y el cáncer cervical.

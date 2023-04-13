@@ -1,0 +1,556 @@
+
+Los objetivos de la ingeniería genética
+
+Técnicas de manipulación de genes
+
+La ingeniería genética implica «cambiar genes».
+Estos cambios pueden tener lugar como resultado de la transferencia de un gen desde el lugar donde se encuentra habitualmente a una célula que normalmente no lo tiene, o al modificar de alguna forma la secuencia de un gen, de modo que se obtenga un gen distinto.
+Por supuesto, dicho gen modificado también se puede transferir a un nuevo tipo de células.
+Para evitar la confusión con las técnicas clásicas de mejora, o con el proceso de transferencia por plásmidos que ocurre de forma natural, se admite que la ingeniería genética o manipulación genética también incluye algunos procesos que se realizan in vitro .
+
+Mejora clásica
+
+¿Por qué se necesita la ingeniería genética?
+Es cierto que mediante los programas clásicos de mejora es mucho lo que se ha logrado y lo que se continuará logrando.
+En la Sección 9.,3.,1 se han descrito los métodos empleados para la «mejora» de cepas microbianas mediante la conjugación o, con menor frecuencia, mediante la transferencia parasexual de genes entre cepas, y por tanto no se van a repetir aquí. 
+En general, el científico que hace la mejora pretende introducir un gen deseable en un organismo que ya tiene muchos atributos atractivos, lo que se realiza cruzando el organismo con otro que tenga el gen deseado, pero que en muchos otros aspectos no es tan adecuado como el primero.
+Se espera que la descendencia de tal cruce conlleve la combinación de las características favorables del primer organismo con el gen deseado del segundo. 
+Por desgracia, la probabilidad de que se dé esa combinación perfecta de genes tiende a ser extremadamente baja.
+De hecho, existe la misma probabilidad de obtener una descendencia que presente sólo las características no deseadas de cada progenitor.
+Como consecuencia, se han de elegir aquellos descendientes que contengan el gen deseado y que también hayan conservado muchas de las características favorables del primer progenitor.
+Si a continuación se cruzan dichos descendientes con el primer progenitor, la descendencia resultante contendrá, por lo general, menos genes no deseados que los que tenía la primera generación, aunque también algunos habrán perdido el gen deseado y, por tanto, han de descartarse.
+Por repetición de este tipo de retrocruzamientos de descendientes seleccionados, se puede llegar a un nivel en el que, a efectos prácticos, sólo se han transferido al genoma del primer organismo el gen deseado.
+Incluso entonces, han de realizarse nuevos cruces entre la descendencia para generar organismos que sean homozigotos para el gen «transferido» y, por consiguiente que sea una «verdadera» mejora.
+
+Es obvio que la mejora clásica requiere mucho tiempo, incluso cuando se utilizan artilugios para aumentar las probabilidades a favor del científico que hace la mejora.
+Se puede progresar más rápidamente si los organismos que se van a cruzar son muy similares, ya que esto reduce el número de retrocruzamientos necesarios.
+
+Sin embargo, los genes de mayor utilidad suelen encontrarse en organismos muy diferentes del organismo de destino.
+Si se puede realizar el cruce, la obtención de una cepa «verdadera» resulta muy laboriosa, aunque posible. 
+Desgraciadamente, por lo general sólo hay fertilización entre organismos de la misma especie o de especies muy próximas, por lo que para cualquier organismo, el conjunto de genes disponibles a través de la mejora clásica es muy limitado. 
+De aquí, la importancia de mantener reservas de individuos selectos de una amplia gama de variedades «extraordinarias» de plantas y animales, ya que constituirán el conjunto de genes para futuros programas de mejora.
+
+La variedad en el conjunto de genes disponibles para una especie se puede aumentar creando mutantes, utilizando agentes químicos mutagénicos o radiación de alta energía, como se ha descrito para los microorganismos (véase Sección 9.,2).
+Sin embargo, ya que no hay control sobre qué genes van a matar, la inmensa mayoría de dichas mutaciones son letales, perjudiciales o sin consecuencias.
+Puede suceder que se genere una mutación beneficiosa, pero que no se detecte debido a la aparición simultánea de una mutación letal en otro gen de la misma célula.
+Obviamente, la mutagénesis sólo es útil si se dispone de métodos muy eficaces para detectar las mutaciones beneficiosas (véase Sección 9.,2).
+El método también se ve limitado a organismos unicelulares o a aquellos que puedan crecer a partir de cultivos celulares o embriones, ya que su modo de acción aleatoria excluye la posibilidad de provocar mutaciones idénticas en todas las células de un animal o de una planta mediante el tratamiento de todo el organismo. 
+Como se verá más adelante, esta limitación también es aplicable a la mayoría de los tipos de ingeniería genética.
+
+Protoplastos y clonación de células 
+
+Como se describe en la Sección 9.,3.,2, la «fusión de protoplastos» puede aumentar enormemente la eficacia de la recombinación entre los genomas de cepas microbianas diferentes.
+Esta técnica también se puede aplicar a células animales y vegetales.
+Cuando las paredes de las células vegetales se digieren con pectinasas y celulosas en un medio iso-osmótico con el contenido de las células, se obtienen protoplastos esféricos, que son células desnudas rodeadas tan sólo por sus membranas plasmáticas.
+Mediante una manipulación adecuada, estos protoplastos regenerarán las paredes celulares, crecerán y se multiplicarán, y cada protoplasto dará lugar a una cepa de células clonadas que puede cultivarse indefinidamente como tejido indiferenciado de callo. 
+En muchos casos se pueden lograr plantas completas a partir del callo, modificando en el medio los niveles de las hormonas del crecimiento de las plantas, de forma que se puede obtener un número ilimitado de plantas clonadas a partir de un único protoplasto.
+
+Más importante aún es el hecho de que, utilizando un reactivo tal como el polietilenglicol o un campo eléctrico pulsante, se puede inducir la fusión de unos protoplastos con otros antes de que se regenere la pared celular (Shepard y col., 1983).
+Estas fusiones pueden tener lugar entre células de especies sexualmente incompatibles, formándose células híbridas.
+Por desgracia, estos híbridos son inestables y, con el tiempo, se pierde un juego completo de cromosomas, pero no antes de que haya cierta transferencia de genes entre ambos.
+
+Dado que el intercambio de DNA es al azar, sólo hay una pequeña posibilidad de que alguno de los productos de la fusión contenga un determinado gen «extraño», por lo que se debe utilizar algún tipo de selección para entresacar las células deseadas.
+Con frecuencia esto sólo se puede hacer después de que se hayan regenerado las plantas a partir de cada línea celular, a menos que el gen deseado codifique un producto que pueda detectarse bioquímicamente en la etapa de callo.
+A pesar de lo poco previsible que resulta y de la dificultad técnica, la fusión de protoplastos representa una valiosa contribución a las técnicas clásicas de la mejora vegetal.
+Se ha utilizado, por ejemplo, para transferir resistencia a enfermedades desde especies primitivas de Solanum a modernas variedades comerciales de patata, que no pueden cruzarse sexualmente. 
+
+También se puede inducir la fusión de células animales, formándose normalmente células híbridas inestables.
+Sin embargo, como no se pueden regenerar animales completos a partir de células únicas, este método no se ha utilizado como una técnica adicional en programas clásicos de mejora animal.
+No obstante, la fusión de células animales ha adquirido una importancia enorme desde que Milstein y Kohler descubrieron que las células normales productoras de anticuerpos se podían fusionar con células malignas (mieloma) para dar lugar a células de «hibridoma», produciendo cada una de éstas produciría un solo tipo de anticuerpo.
+Las células del hibridoma pueden separarse unas de otras y cultivarse indefinidamente, produciendo cada clon un único anticuerpo, conocido como anticuerpo «monoclonal».
+Estos anticuerpos están demostrando ser de un inmenso valor en medicina y en biología molecular, ya que son mucho más eficaces que las mezclas de anticuerpos diferentes para distinguir entre antígenos similares.
+
+Otro método para obtener nuevas características en una planta se basa en el fenómeno de «variación de clones somáticos», por el cual se observa que las plantas clonadas a partir de diferentes células de la misma planta original pueden poseer características hereditarias diferentes.
+No es posible predecir qué características nuevas pueden aparecer, y de las que aparezcan, muchas no serán deseables.
+No obstante el método ha demostrado ser de utilidad para conseguir nuevas variedades mejoradas de patatas y de trigo.
+
+Posibles productos de la ingeniería genética
+
+Existe un importante campo de la ingeniería genética en el que la mejora clásica resulta totalmente inútil; se trata de la transferencia de un gen desde un organismo superior a una bacteria o a una levadura con el propósito de lograr sintetizar el producto del gen cultivando las células transformadas.
+Pero, dado que los animales o las plantas de los que deriva el gen elaboran tales productos,
+¿por qué hemos de preocuparnos de persuadir a organismos inferiores para que hagan el mismo trabajo?
+La respuesta se basa generalmente en el coste de aislamiento de cantidades adecuadas de producto a partir de la fuente natural, o en la absoluta imposibilidad de obtener la materia prima suficiente.
+
+Fármacos
+
+Para apreciar el enorme potencial de la ingeniería genética en la producción de fármacos, baste considerar algunos de los polipéptidos que tienen valor farmacológico.
+Por ejemplo, muchos hemofílicos pueden morir al no poder detener las hemorragias debido a la imposibilidad de sintetizar un polipéptido llamado factor VIII de la coagulación de la sangre humana, el cual se encuentra presente normalmente en la sangre humana, aunque en concentraciones muy pequeñas.
+Afortunadamente, se puede evitar que dichas personas mueran por una hemorragia si se les inyecta el factor VIII, purificado a partir de enormes cantidades de sangre humana.
+La preparación del factor VIII no es sólo un proceso muy caro, dada su baja concentración inicial en un fluido cuya disponibilidad es limitada y que ya es de por sí valioso, sino que, como cada preparación se obtiene a partir de la sangre de muchos miles de donantes, hay un riesgo importante de que con las inyecciones del factor de coagulación se puedan transmitir a los hemofílicos virus peligrosos, como el de la hepatitis o el del SIDA .
+
+La obtención de otros polipéptidos, que también han de extraerse del suero humano o de tejidos, presenta problemas similares: el activador plasminógeno tisular podría utilizarse para disolver coágulos de sangre no deseados que bloquean vasos sanguíneos, aliviándose así las trombosis.
+La calcitonina, posiblemente junto con la hormona para-tiroidea, podría ser de gran valor para estimular el fortalecimiento de huesos quebradizos que con tanta frecuencia se dan en personas mayores.
+Se ha identificado un factor de crecimiento neuronal que podría inducir la reparación y regeneración de nervios lesionados. 
+La hormona del crecimiento humano es un polipéptido que ya se utiliza para tratar niños que padecen insuficiencia hipofisaria, y que en caso contrario daría lugar a un marcado retraso del crecimiento o enanismo.
+Por fortuna, la incidencia relativamente baja del enanismo hace que se pueda controlar utilizando la hormona extraída de hipófisis de cadáveres humanos, pero existen indicios de que la hormona del crecimiento humano también podría ser de utilidad en el tratamiento de quemaduras, para inducir la cicatrización de heridas y huesos fracturados y para tratar huesos debilitados por una descalcificación.
+
+Dado que la hormona que se obtiene de hipófisis humanas se utiliza casi exclusivamente para tratar el enanismo, cualquier expansión en las aplicaciones de esta hormona está supeditada a su obtención mediante microorganismos sometidos a una manipulación genética.
+
+Posiblemente es la insulina el ejemplo más conocido de un polipéptido obtenido por manipulación genética. 
+Esta hormona es esencial para la regulación correcta de los niveles de glucosa en sangre.
+Si no se produce en el páncreas, se presentará la diabetes, que debe mantenerse bajo control mediante inyecciones de insulina. 
+Dado que se estima que hay unos 60 millones de diabéticos en el mundo, de los cuales unos 25 millones están en países desarrollados (es decir, que pueden pagar sus medicamentos), hay un enorme mercado para la insulina.
+Para la mayoría de los diabéticos la insulina obtenido de cerdo o de ganado vacuno parece ser tan eficaz como la variedad humana, lo que era de esperar en vista de que sólo difieren de la insulina humana en uno o tres aminoácidos respectivamente Sin embargo, algunos diabéticos pueden desarrollar una respuesta alérgica a las insulinas animales, y existe cierta polémica acerca de los efectos colaterales de la utilización de una hormona «extraña».
+Estas observaciones impulsaron los intentos de producir insulina «humana» mediante bacterias manipuladas genéticamente, y se pensaba que la primera compañía que tuviese éxito haría una fortuna.
+Por desgracia para estas compañías, la investigación de métodos de modificar la insulina químicamente fue progresando, hasta el extremo de que ahora es posible modificar la insulina de cerdo para conseguir exactamente la misma estructura de la insulina humana.
+La batalla entre los dos procesos de producción de insulina se librará en el ámbito económico y en vista de la abundancia de páncreas de cerdo, parece poco probable que la victoria sea para los biotecnólogos.
+
+Otro grupo de polipéptidos que han originado una gran especulación son los interferones.
+El cuerpo humano sintetiza estas moléculas de forma natural como respuesta a infecciones víricas; parece ser que tienen propiedades antivíricas y antitumorales.
+No obstante, al igual que para muchos de estos compuestos, las cantidades que pueden elaborarse en los tejidos humanos (glóbulos blancos y fibroblastos en el caso de los interferones) son tan pequeñas que no fue posible realizar las pruebas clínicas adecuadas para establecer sus propiedades.
+En vista de sus posibles efectos terapéuticos, se establecieron programas para producir interferones, a gran escala, en bacterias.
+De esta forma se han obtenido tres tipos de interferones.
+Aunque ciertamente no parecen ser los «fármacos maravillosos» que algunos hablan pronosticado, si parecen tener un efecto importante en el sistema inmunitario, originando un gran incremento de la resistencia a diversos virus.
+Igualmente son eficaces en el tratamiento de determinados tipos de cáncer.
+Irónicamente, los interferones pueden ser de máxima utilidad contra el cáncer revelando más información acerca de cómo el sistema inmunitario puede detectar y eliminar tumores.
+
+Los sucesores de los interferones como fármacos «contra el cáncer» de mayor interés pueden ser el factor de necrosis tumoral (TNF) y la linfotoxina (LT).
+
+Estos polipéptidos se elaboran en células humanas y son capaces tanto de reconocer células tumorales como de destruirlas selectivamente.
+Aunque se trata de moléculas diferentes, ambas presentan algunas secuencias bastante extensas en común y hay dos regiones que son muy constantes (es decir, que probablemente tienen la misma estructura tridimensional en ambas moléculas) que podrían ser las responsables del reconocimiento de las células tumorales y de la destrucción celular.
+Se han clonado los genes tanto del TNF como de la LT y las pruebas clínicas de las moléculas sintetizadas por las bacterias han de revelar su eficacia frente a tumores y, lo que es más importante, si producen efectos colaterales perjudiciales (Grey y col., 1984; Pennica y col., 1984).
+
+Vacunas
+
+Las aplicaciones médicas de los microorganismos manipulados genéticamente no se limitan a la síntesis de polipéptidos humanos.
+La utilización de tales sistemas en la elaboración de vacunas resulta muy atractiva.
+El objetivo que se persigue al fabricar una vacuna es que contenga moléculas que produzcan la misma respuesta antigénica que el virus para el que ofrece inmunidad, sin causar la proliferación nociva de virus en el organismo.
+Esto puede lograrse mediante el empleo de virus que de alguna forma se hayan convertido en apatógenos, pero que todavía presentan el mismo aspecto externo.
+Sin embargo, hay dos problemas.
+La inactivación incompleta de los virus puede permitir que sobrevivan algunos de ellos y, en consecuencia, serian en realidad una fuente de infección; a este tipo de preparaciones se han atribuido algunos casos de glosopeda.
+El otro problema es que el virus ha de cultivarse en animales y, en determinados casos, sólo pueden multiplicarse en el hombre.
+En tales ocasiones han de utilizarse cultivos de células humanas, que son caros de mantener y de crecimiento muy lento en comparación con las bacterias.
+Ya que el mercado de las vacunas puede ser inmenso (200 millones de personas en todo el mundo padecen hepatitis B; cada año se suministran al ganado 800 millones de dosis de vacunas contra la glosopeda), desde un punto de vista económico ha merecido la pena asumir estos problemas. 
+
+Sin embargo, son las proteínas de la envoltura (capa externa) vírica las que son antigénicas, por lo que las preparaciones de proteína purificada procedente de esa estructura pueden actuar como una vacuna eficaz.
+Esto abre inmediatamente la posibilidad de clonar y expresar en bacterias los genes de las proteínas de la envoltura vírica, utilizando el producto bacteriano como vacuna.
+Tales vacunas tendrán la garantía de estar exentas de virus vivos y, desde luego, serán más baratas que las elaboradas utilizando cultivos de células animales.
+
+Enzimas
+
+Las enzimas sólo pueden utilizarse a escala industrial si su coste de producción es bajo (véanse secciones 13.,2, 14.,3 y 14.,6.,2), lo que, de hecho, significa que han de derivar de cultivos microbianos.
+En vista de la inmensa variedad de reacciones que llevan a cabo los microorganismos, es probable que algún microorganismo ya produzca cualquier enzima que necesiten los ingenieros bioquímicos.
+No obstante, también es probable que con una cierta manipulación genética se mejore el rendimiento del enzima, quizás transfiriendo su gen a otro hospedador que crezca más rápido y que sea más seguro y más eficaz, o uniendo el gen a un promotor más potente, a fin de incrementar su nivel de expresión.
+Uniendo al gen las secuencias adecuadas, se podría lograr que la célula excretase el enzima, facilitándose así su aislamiento.
+
+Muchos enzimas son inestables cuando se separan de la célula, por lo que no son adecuados para su uso industrial.
+La ingeniería genética ofrece la posibilidad de modificar la estructura de un enzima para aumentar su estabilidad, modificar su pH o su temperatura óptima, cambiar su afinidad por el sustrato, etc., pero este «ajuste» de los enzimas depende de que mejore ampliamente nuestro conocimiento acerca de las forma exacta en que trabajan los enzimas.
+
+Líneas de células mejoradas 
+
+Las células se cultivan para obtener una molécula de valor, tal como un antibiótico, o a fin de generar una biomasa de alta calidad a partir de un sustrato barato, como en el caso de la producción de proteína unicelular. 
+En ambos casos existen fuertes razones comerciales para utilizar células que crezcan lo más eficazmente posible en cuanto a conversión de energía, y que se adecuen tanto como sea posible a su función especifica. 
+En la Sección 9.,3.,3 se presentan varios ejemplos en los que se emplea la ingeniería genética para potenciar la eficacia del crecimiento de microorganismos o para aumentar la producción de un compuesto útil.
+
+Animales
+
+Para el profano, el término «ingeniería genética» probablemente suscita imágenes de un moderno Dr.
+Frankensteincreando nuevas criaturas monstruosas en su laboratorio.
+
+Irónicamente, parece poco probable que la manipulación genética de genomas animales progrese en los próximos años tanto como la de otros organismos.
+Como se verá más adelante, la manipulación genética implica la selección de las células cuyos genomas se han modificado adecuadamente, entre las que no se han modificado o que no se han modificado adecuadamente, seguida de la multiplicación de las células seleccionadas («clonación»). 
+Este es el final del proceso cuando tratamos con organismos unicelulares, como bacterias o levaduras, o con cultivos celulares de animales o plantas; pero para obtener animales o plantas manipuladas genéticamente, han de regenerarse los organismos completos a partir de las células clonadas.
+Por el momento somos incapaces de regenerar animales a partir de células clonadas, excepto en la limitada extensión de subdividir grupos de células en las primeras etapas del desarrollo embrionario.
+
+Suponiendo que se pueda eliminar este obstáculo, existe todavía el problema de saber qué genes hemos de modificar.
+Los genomas de los animales son inmensamente más complejos que los de las bacterias, incluso su análisis genético se ve dificultado porque las poblaciones de que se dispone para la investigación son relativamente pequeñas y sus tiempos de generación son largos.
+A esto hay que añadir que características tales como la velocidad de crecimiento, la producción láctea, la resistencia a enfermedades y la morfología vienen determinadas por interacciones entre muchos genes diferentes, siendo evidente que todavía tenemos un largo camino que recorrer antes de que se pueda mejorar la calidad del ganado mediante ingeniería genética.
+Sin embargo, a pesar de estos obstáculos ya ha habido algunos intentos fructíferos de expresar genes extraños en animales (véase Sección 11.,3.,3).
+
+Plantas
+
+Por el contrario, se ha caracterizado muy bien la genética de las principales plantas que se cosechan.
+Se ha determinado la localización de una amplia gama de genes de función conocida y muchos de estos genes se han aislado, clonado e incluso se ha determinado su secuencia.
+Estos análisis tan detallados han sido posibles gracias a la facilidad para obtener enormes cantidades de plantas a partir de cruces experimentales. 
+Aún subsisten los problemas de la interacción de genes para determinar las características de la planta, pero con frecuencia se han podido identificar uno o dos genes que presentan una influencia especialmente fuerte en una determinada característica.
+En consecuencia, hay muchos genes vegetales que codifican atributos tales como resistencia a enfermedades, a estrés o a herbicidas, y proteínas de reserva de semillas o componentes del sistema fotosintético que se podrían desear transferir de una especie a otra.
+Es posible clonar células de la mayoría de las plantas por crecimiento como injerto o en cultivos en suspensión, y de muchos de éstos se pueden regenerar plantas completas. 
+En tales casos parece no haber ninguna razón para que no se utilice la ingeniería genética como una alternativa más rápida que la mejora clásica y para salvar cualquier barrera que impida cruces entre plantas de especies diferentes.
+Por desgracia, todavía no es posible regenerar plantas a partir de cultivos celulares de las monocotiledóneas más importantes que se cultivan (gramíneas), tales como el trigo o el maíz, y éste sigue siendo el obstáculo más importante para su manipulación genética (Ozias-Akins y Lorz, 1984).
+
+Las fantasías del ingeniero genético de plantas no se detienen en la transferencia de genes de una planta a otra; van mucho más allá, como introducir genes microbianos en plantas.
+Los genes más atractivos comprenden los que codifican los enzimas responsables de la degradación de ciertos herbicidas, y que por tanto podrían hacer que la planta fuese resistente a tales herbicidas.
+
+Dicha resistencia seria muy útil en los cultivos, permitiendo la utilización de herbicidas de forma selectiva contra las malas hierbas después de que haya brotado el cultivo.
+Otros genes potencialmente valiosos son los responsables de la elaboración de polipéptidos insecticidas en algunas bacterias, como Bacillus thuringiensis .
+
+Probablemente la proposición más ambiciosa consiste en introducir en plantas los genes de fijación de nitrógeno desde un organismo tal como Klebsiella pneumoniae .
+Esto implicaría la transferencia de un gran complejo de 17 genes, conocido como el grupo de genes nif y requeriría cierta manipulación de dichos genes para asegurar su expresión.
+Dado el origen procariota del grupo de genes nif , se ha sugerido que la estrategia más sensata consistiría en transferirlos al cloroplasto, cuya maquinaria transcriptora y traductora tiene muchas características procariotas. 
+Esta aproximación también tiene la ventaja de que los cloroplastos están acoplados a la producción de ATP y al potencial reductor que son necesarios para la fijación del nitrógeno (Merrick y Dixon, 1984).
+Hay desde luego problemas, no siendo el menor de ellos la sensibilidad de la nitrogenasa al oxígeno que producen los cloroplastos y el no disponer de un método para transformar los cloroplastos. 
+Sin embargo, en vista del masivo empleo anual de fertilizantes artificiales, existe toda clase de incentivos para resolver estos problemas.
+Una alternativa, a la que se está prestando una considerable atención, consiste en introducir en los cultivos genes responsables de la asociación con microorganismos fijadores de nitrógeno, utilizando ingeniería genética. 
+
+Es fácil dejarse llevar por las excitantes posibilidades de la manipulación genética y suponer que las ideas que se han expuesto darán su fruto en los próximos años.
+Hay enormes presiones comerciales para progresar rápidamente, pero también hay muchos problemas técnicos y algunas lagunas importantes en nuestro conocimiento de los procesos que queremos modificar.
+
+Resumen
+
+La ingeniería genética se define como el cambio de genes utilizando procesos in vitro, en contraste con los procedimientos de mejora clásica en los que los genes se transfieren por medios sexuales o por conjugación.
+Dado que tal transferencia de genes es un proceso relativamente aleatorio, hay que seleccionar las características deseables, y para generar «nuevos» genes hay que basarse en las mutaciones.
+Una seria limitación de este sistema es que no se pueden transferir genes entre organismos que no estén relacionados.
+
+Por el contrario, la ingeniería genética es particularmente útil cuando se desea introducir un gen de un organismo superior en una bacteria o en una levadura. 
+
+Como resultado de tales manipulaciones se puede conseguir la síntesis microbiana de polipéptidos de actividad farmacológica, vacunas o enzimas para uso industrial. 
+Dichas manipulaciones se pueden utilizar para mejorar las propiedades de los microorganismos de importancia industrial o para modificar la genética de los animales.
+Sin embargo, en este último caso el principal problema radica en modificar todas las células de un organismo, ya que no se pueden regenerar animales a partir de cultivos unicelulares. 
+Las plantas por el contrario, se pueden manipular más fácilmente, y hay perspectivas reales para dotarlas de resistencia a enfermedades y a herbicidas, dirigir la síntesis de polipéptidos insecticidas e introducir la fijación de nitrógeno en cultivos de plantas no leguminosas.
+
+Técnicas de la ingeniería genética
+
+Esquema de la clonación de genes 
+
+La clonación de genes fue inicialmente posible por avances técnicos tales como el aislamiento de enzimas que rompen el DNA por sitios precisos (endonucleasas de restricción), o que unen covalentemente fragmentos de DNA (ligases) y, con frecuencia, los avances dependen aún del desarrollo de nuevos enzimas u otros reactivos bioquímicos.
+Estamos viviendo una explosión de publicaciones de nuevas técnicas relacionadas con la clonación; esta proliferación de información técnica, junto con un exceso de «jerga», pueden hacer que el neófito no comprenda fácilmente los principios básicos de la clonación.
+Una vez que éstos se entienden es mucho más fácil ver dónde encajan las nuevas técnicas en el proceso de clonación.
+El objetivo de esta sección es esbozar las estrategias que se emplean en la clonación de genes y presentar las técnicas que se utilizan con mayor frecuencia.
+
+Hay varias posibles razones para desear clonar un determinado fragmento de DNA .
+Se podría desear introducir en una bacteria un gen que codifique un polipéptido valioso, de forma que las bacterias produjesen grandes cantidades del polipéptido.
+Esta es la aproximación que ha recibido mayor publicidad, y que tiene como resultado la producción bacteriana de polipéptidos tales como la insulina, el interferón y la hormona del crecimiento. 
+Como se verá más adelante, el DNA también se puede clonar en células eucariotas, con el propósito de utilizar las células como «fábricas» bioquímicas o para modificar las propiedades de las células y hacerlas más adecuadas a nuestras necesidades.
+No obstante, en la práctica, la clonación de genes se lleva a cabo con mayor frecuencia para producir suficiente DNA para posteriores análisis como, por ejemplo, para determinar su secuencia.
+
+La clonación de genes consiste esencialmente en la inserción en la célula de un determinado fragmento de DNA «extraño» de forma que el DNA insertado se replique y se transmita a las células hijas durante la división celular. 
+Este proceso tiene lugar de forma natural, como lo demuestra la rápida dispersión de la resistencia múltiple a antibióticos entre poblaciones bacterianas sometidas a una adecuada presión selectiva.
+Sin embargo, la transferencia de DNA sólo se da normalmente entre cepas de bacterias estrechamente relacionadas, y existe poco control sobre qué fragmentos de DNA se transfieren.
+Por tanto, la transferencia natural de DNA o transducción, es demasiado imprevisible y limitada para que sea de utilidad en la clonación de genes.
+
+Los principales pasos de la clonación de genes se resumen en la figura 11.1, incluyendo los procesos siguientes:
+
+1 Aislamiento del gen (u otro fragmento de DNA ) a clonar.
+
+2 Inserción del gen en otro fragmento de DNA , llamado vector, que hará posible que el DNA se incorpore a la bacteria y que se replique en su interior cuando las células crezcan y se multipliquen.
+Aunque la figura ll.l muestra el empleo de un plásmido como vector, ya que éste es un sistema ampliamente utilizado, también se pueden utilizar otros tipos de vectores, tales como el DNA vírico o los cósmidos.
+
+3 Transferencia de los vectores recombinantes a las bacterias, bien por transformación o por infección utilizando virus.
+
+4 Selección de las células que contengan los vectores recombinantes deseados.
+
+5 Cultivo de las bacterias, que puede prolongarse indefinidamente, para obtener tanto DNA clonado como sea necesario.
+
+6 En esta etapa, normalmente, se recupera de las células el vector que contiene el DNA insertado, y el fragmento insertado se corta y se separa de las moléculas de vector.
+No obstante, a veces el objetivo es conseguir la expresión del gen en las bacterias, especialmente si el gen codifica un polipéptido que es difícil o caro de preparar por otros medios.
+
+
+Figura 11.1
+
+Esquema de la clonación de genes
+
+Procedimientos de clonación de genes
+
+Endonucleasas de restricción 
+
+Las endonucleasas de restricción desempeñan un destacado papel en la clonación de genes.
+Estos enzimas, que se encuentran de forma natural en las bacterias como arma frente a virus invasores, cortan ambas cadenas de las moléculas de DNA siempre que se dé determinada secuencia de nucleótidos.
+La clase de enzimas que más se utiliza para la clonación de genes se conoce como tipo II; cada uno de estos enzimas reconoce una secuencia determinada de nucleótidos, generalmente de cuatro o seis nucleótidos, y normalmente corta las cadenas de DNA por esta secuencia.
+Los cortes pueden ser a distinta altura, originándose unas protuberancias unicatenarias cortas, o pueden encontrarse a la misma altura, en cuyo caso dan lugar a extremos «romos». 
+La figura 11.2 ilustra los tipos de secuencia que pueden reconocer los enzimas de restricción y dónde se verifican los cortes.
+Obsérvese que las secuencias que se cortan internamente (la mayoría) son simétricas; es decir, cuando se leen de 5' a 3', ambas cadenas tienen la misma secuencia.
+Los cortes a distinta altura originan extremos unicatenarios que son idénticos y complementarios entre sí.
+En consecuencia, a bajas temperaturas, las cadenas simples tienen cierta tendencia a asociarse por complementaridad de bases, originando una unión reversible entre fragmentos que se han cortado por el mismo enzima.
+Se dice que tales fragmentos tienen extremos «adherentes» o «cohesivos». 
+Hoy día se dispone a nivel comercial de una enorme variedad de endonucleasas de restricción, de forma que se pueden conseguir extremos romos o adherentes para la mayor parte de las secuencias de tetra - o de hexanucleótidos. 
+
+El aislamiento de genes para clonar, la inserción de DNA en los vectores, la recuperación de los fragmentos insertados a partir de los vectores clonados y la construcción de nuevos vectores dependen de nuestra capacidad para cortar el DNA por puntos bien definidos-de aquí la capital importancia dé las endonucleasas de restricción en la clonación de genes .
+
+Aislamiento del DNA a clonar
+
+Dependiendo de los objetivos del experimento, el DNA puede proceder de diversas fuentes.
+Se puede pretender aislar y clonar un gen determinado para posteriormente analizar su secuencia, o para investigar el control de su transcripción. 
+Inevitablemente, el gen sólo constituirá una pequeña parte de todo el genoma (el 0,03 aproximadamente del genoma de Escherichia coli y tan solo el xxx de genomas de mamíferos), por lo que ha de encontrarse una forma de identificar el gen y «separarlo» de las otras partes del genoma, bien antes o bien después de clonarlo.
+Esta tarea se simplifica si se dispone del RNA m correspondiente en una forma suficientemente purificada.
+Si la proteína que codifica es un producto mayoritario de las células, el RNA m ya estará enriquecido en el tipo deseado.
+Sin embargo, para enriquecer los RNA m menos abundantes (la mayoría) se necesitarán procesos tales como fraccionamiento por tamaño del RNA m, traducción in vitro de las fracciones, precipitación de los productos de la traducción con anticuerpos específicos, etc. 
+En la Sección 11.,2.,6 se describen los métodos para obtener un RNA m específico, y no vale la pena que éste constituya el paso más difícil de la clonación, particularmente si el producto del gen no está bien caracterizado.
+
+Figura 11.2
+
+Secuencias de reconocimiento de algunas endonucleasas de restricción
+
+Las flechas indican los puntos de escisión. 
+Obsérvese que los extremos adherentes que se obtienen con xxx son complementarios de los que se obtienen con Bam HI, aunque el primero reconoce la secuencia de un tetranucleótido mientras que el último reconoce un hexanucleótido.
+
+El RNAm purificado puede utilizarse para dirigir la síntesis de una cadena de DNA complementario (DNAc), utilizando el enzima transcriptasa inversa (Fig., 11.,3); como resultado se obtiene un híbrido de DNA/RNA .
+Tras retirar la cadena de RNA utilizando un álcali, la cadena simple de DNA puede actuar como un molde para la síntesis de una cadena complementaria de DNA en presencia de la DNA polimerasa.
+Se podría esperar que la doble cadena de DNAc resultante fuese idéntica al gen que codifica su RNAm , y así es en el caso de los genes procariotas.
+Sin embargo, la mayoría de los genes eucariotas contienen secuencias intercaladas (intrones) que interrumpen sus secuencias de codificación. 
+Se transcribe el gen completo, incluyendo los intrones; éstos se eliminan del RNAm y las piezas restantes (axones) se empalman para dar el RNAm maduro, que es el que se traduce y a partir del cual se obtiene el DNAc .
+Como en el RNAm funcional no hay intrones, cuando el objetivo de la clonación sea la expresión del gen se puede utilizar el DNAc en lugar del gen verdadero.
+Obviamente, por el centrar o, esta aproximación no se puede utilizar si se desea analizar la secuencia del gen nativo, incluyendo sus intrones.
+En el último caso, el DNAc se puede marcar radiactivamente y utilizarse como una sonda de hibridación para identificar los fragmentos de DNA que contienen el gen.
+
+Figura 11.3
+
+Síntesis de DNAc
+
+Cuando se manipula un genoma poco caracterizado se utiliza con frecuencia un procedimiento que consiste en formar una «genoteca», por el cual el genoma completo se corta al azar en grandes trozos de un tamaño de unas 10 kilobases (kb) o más, utilizando una digestión parcial con varios enzimas de restricción, y todas estas piezas se clonan sin ningún propósito de seleccionar unas secuencias determinadas.
+Cuando las bacterias que contienen estos fragmentos se siembran en placas para que formen colonias individuales, cada colonia contendrá una porción del genoma, y existe una probabilidad determinada de que el gen deseado se encuentre en alguna de tales porciones.
+Si se obtienen las colonias suficientes se puede estar casi seguro de que al menos una contendrá el gen.
+
+Cuanto mayor sea el genoma y menor el tamaño medio de los fragmentos, mayor será el número de colonias que habrá que obtener para estar seguro de encontrar un gen determinado.
+Mediante los cálculos oportunos se demuestra que para fragmentos de 10 kb se necesitan xxx colonias para el genoma de E. coli , y casi xxx para el Homo sapiens .
+En el último caso, está claro que no se puede manejar el número de colonias que se requiere, y por lo tanto se han de clonar fragmentos mucho mayores, de un tamaño de unas 40 kb .
+Como se describirá en la Sección 11.,2.,7, para clonar fragmentos de tal tamaño se necesitan vectores especiales.
+
+Los métodos para identificar las colonias que contienen determinados genes se revisarán más adelante (véase Sección 11.,2.,6).
+
+La química de los ácidos nucleicos ha avanzado tan rápidamente que la síntesis de largas moléculas de DNA de cualquier secuencia de nucleótidos deseada es ya una técnica de rutina en muchos laboratorios. 
+De hecho, es posible comprar máquinas que realizan automáticamente cada paso de la síntesis; todo lo que tiene que hacer el operario es suministrar los reactivos y establecer la secuencia de nucleótidos a obtener.
+En consecuencia, si se conoce la secuencia de aminoácidos de un polipéptido, puede ser más fácil sintetizar un «gen» que codifique esa secuencia que tratar de aislar el gen natural; esta aproximación se utilizó para la síntesis bacteriana de la hormona polipeptídica somatostatina.
+
+Plásmidos como vectores de clonación 
+
+Para clonar un fragmento de DNA no basta con transferirlo a una bacteria con la esperanza de que se replique junto con el propio DNA de la célula. 
+El DNA extraño no se replicará a menos que contenga una secuencia de nucleótidos que la bacteria hospedadora reconozca como «origen de replicación». 
+Por lo tanto, generalmente, es necesario unir el DNA a otro fragmento que contenga un origen de replicación. 
+
+Estos orígenes de replicación existen de forma natural en los plásmidos, que son pequeñas moléculas circulares de DNA que se encuentran en muchas bacterias.
+Son independientes del DNA cromosómico principal, y sin embargo se replican y generalmente pasan a las células hijas durante la división celular. 
+Estos plásmidos pueden llevar genes muy importantes, incluyendo los de resistencia a antibióticos, los de producción de toxinas o de antibióticos, los de fijación de nitrógeno y los de enzimas necesarios para la degradación de un gran número de sustratos «poco frecuentes» tales como herbicidas o residuos industriales.
+Sólo unos pocos de estos genes están presentes en cualquier plásmido, pero debido al frecuente intercambio de material genético entre los plásmidos y el DNA cromosómico, continuamente surgen nuevas colecciones de genes, contribuyendo de esta forma a que las poblaciones bacterianas respondan rápidamente a nuevas condiciones ambientales. 
+Esto puede representar un problema serio en hospitales si se están utilizando distintos antibióticos, ya que la transferencia de genes a través de los plásmidos puede originar la aparición de bacterias con resistencia a varios antibióticos diferentes a la vez.
+
+Los plásmidos ofrecen una fuente apropiada de orígenes de replicación para la clonación de genes, pero la mayoría de sus genes son superfluos, y hacen que la molécula sea difícil de manejar.
+Por lo tanto, se han construido plásmidos a partir de otros que existen en la naturaleza, conservando sólo aquellas características que favorezcan la clonación.
+Uno de los plásmidos más ampliamente utilizados, el xxx , se construyó cortando partes de plásmidos que aparecen naturalmente, utilizando enzimas de restricción y volviendo a unirlas en las orientaciones correctas, en una serie de operaciones que hacen que parezca fácil resolver el cubo de Rubik.
+El plásmido resultante posee muchas de las características que son deseables en un vector de clonación (Fig., 11.,4). 
+La molécula contiene un origen de replicación, que deriva de un plásmido relacionado con el plásmido natural Col El.
+Este origen es particularmente útil por ser «relajado», es decir, su replicación no va unida a la del DNA cromosómico, y de aquí que la iniciación de la replicación del plásmido pueda ser más frecuente que la del DNA principal de la bacteria.
+Como consecuencia, en cada célula se acumulan múltiples copias del plásmido.
+
+Figura 11.4
+
+Mapa del plásmido xxx 
+
+Las regiones que codifican la resistencia a la ampicilina (ampR) y a la tetraciclina (tetR) , y el origen de replicación del DNA (ori) se indican con segmentos oscuros.
+Se indican los puntos de corte de diversas endonucleasas de restricción, algunas de las cuales cortan el plásmido por un gen de resistencia a un antibiótico.
+Cada una de los enzimas que se muestran cortan el plásmido por un solo punto, y por lo tanto origina una sola molécula lineal a partir del plásmido circular.
+
+Este proceso puede llevarse aún más lejos si al cultivo celular se añade cloranfenicol (un inhibidor de la síntesis proteica), ya que la síntesis proteica es necesaria para la replicación cromosómica, pero no para la del plásmido.
+De esta forma, se puede utilizar el cloranfenicol para «amplificar» el plásmido, obteniéndose hasta 3.000 copias por célula.
+
+Este plásmido también se ha construido meticulosamente, de forma que contiene un único punto de reconocimiento para 20 endonucleasas de restricción diferentes.
+Esto significa que cualquiera de los enzimas verificará un sólo corte en el plásmido circular, generando una sola molécula lineal a la que se puede unir un fragmento de DNA para su clonación.
+
+Seguidamente la molécula se puede volver a cerrar regenerando un plásmido circular ligeramente mayor.
+En los ejemplos de la figura ll.4 se ve que los puntos de restricción se distribuyen por todo el plásmido, y esto permite una gran flexibilidad en la estrategia para seleccionar las moléculas recombinantes, como a continuación se describe.
+
+En el xxx se han conservado dos conjuntos de genes; éstos codifican la resistencia a la ampicilina y a la tetraciclina, que son marcadores de gran utilidad.
+La presencia del plásmido en una bacteria confiere a ésta resistencia a dichos antibióticos, de forma que estas bacterias pueden seleccionarse cultivándolas en un medio que contenga ampicilina o tetraciclina.
+Ademas, como los puntos de restricción están situados en los genes de resistencia a los antibióticos, se puede preparar la inserción del DNA extraño para que se inactive uno de los dos genes.
+Por ejemplo, si se inserta el DNA en el punto Bam HI, se destruirá la resistencia a tetraciclina; por lo tanto los plásmidos recombinantes harán que las bacterias puedan crecer en presencia de ampicilina pero no ofrecerán protección frente a la tetraciclina. 
+
+Esto proporciona las bases de un método de discriminación entre las bacterias que simplemente contienen el plásmido de aquellas que contienen el plásmido con el DNA insertado (véase figura ll.l). 
+La bacterias se siembran a baja concentración en placas con un medio de cultivo, sólido por adición de agar, que contiene ampicilina.
+Tras la incubación, todas las células que contengan un plásmido habrán crecido formando colonias.
+En esta fase se podría saber qué bacterias contienen los plásmidos con DNA insertado inoculando células de cada colonia en una nueva placa del medio con tetraciclina en lugar de ampicilina.
+Las bacterias que no puedan crecer en esta placa contendrán probablemente plásmidos con DNA insertado y los clones de células se pueden recuperar a partir de la colonia correspondiente en la placa madre.
+En la práctica, la forma más sencilla de hacer esta selección es mediante la «replicación de placas», en la que se hace contactar una almohadilla de terciopelo estéril con la primera placa, cogiendo algunas células de cada colonia.
+A continuación se inocula la segunda placa haciéndola contactar con la almohadilla de terciopelo.
+Tras la incubación, las colonias se encontrarán en la segunda placa en idéntica posición a la de la primera, pero faltarán algunas. 
+Entonces es muy fácil saber qué colonias no han crecido en el medio con tetracilina pudiendo recuperarse a partir de la primera placa y cultivarse para una posterior caracterización de los fragmentos insertados en sus plásmidos. 
+
+El tamaño de los plásmidos que se utilizan como vectores para clonar se ha ido reduciendo al mínimo posible.
+Esto se ha hecho por dos razones: primero, porque es mucho más difícil que las moléculas pequeñas de DNA sufran daños por cortes durante el aislamiento; este aumento de la estabilidad permite que se utilicen métodos relativamente violentos para procesos tales como la desproteinización de las preparaciones de plásmidos, haciendo que sea más fácil obtener buenos rendimientos de DNA puro.
+En segundo lugar, las moléculas pequeñas se incorporan con mayor eficacia a la bacterias durante el proceso de «transformación», aspecto importante a considerar cuando se manejan cantidades muy pequeñas de un DNA valioso.
+El tamaño del plásmido debe, por lo tanto, mantenerse lo más pequeño posible, por lo que es obvio que la inserción de grandes fragmentos de DNA en un plásmido dará como resultado una molécula físicamente inestable y que puede tener una eficacia de transformación tan baja que la haga impracticable.
+Las limitaciones en el tamaño máximo del fragmento a insertar pueden originar problemas cuando, por ejemplo, se está preparando una genoteca de un organismo eucariota. 
+En tal caso, suponiendo un tamaño medio de los fragmentos de 10 kb , sería necesario obtener unas xxx colonias de bacterias para estar razonablemente seguro de que al menos una tendrá un plásmido que lleve insertado un gen determinado.
+Sin embargo, si se pudiesen clonar fragmentos de un tamaño de 40 kb , sólo se necesitarían xxx colonias.
+Aunque esto puede parecer todavía un número elevado, de hecho, no es demasiado difícil de manejar.
+
+Unión del DNA
+
+El proceso de clonación del DNA no sólo depende de la disponibilidad de enzimas de restricción y de vectores, sino también de nuestra capacidad para unir fragmentos de DNA covalentemente.
+Si los fragmentos de DNA que se van a unir se han cortado con el mismo enzima de restricción, dando extremos adherentes idénticos, al encontrarse tenderán a unirse por puentes de H entre pares de bases complementarias. 
+No obstante, esta asociación es tan solo temporal, debido a la labilidad de los enlaces y al reducido número de bases implicado.
+La unión puede hacerse permanente utilizando un enzima «ligase», que formará un enlace fosfodiéster entre los grupos 5'fosforil libre y el 3'hidroxil, uniendo así dos moléculas de DNA o circularizando una sola molécula lineal.
+La principal fuente de ligase es el fugo T4, y dicho enzima requiere ATP para llevar a cabo la unión.
+A fin de estabilizar el apareamiento de bases de los extremos adherentes, la unión se realiza a temperaturas de 4-10 °C con largos períodos de incubación para compensar la baja tasa de actividad enzimática a esas temperaturas.
+Una característica importante de la DNA -ligasa del T4 es su capacidad para unir extremos romos de DNA , siempre las concentraciones de enzima y de DNA sean suficientemente altas.
+
+Como puede observarse, el proceso de unión que se acaba de describir depende de los choques al azar de las moléculas de DNA para determinar qué fracciones se unen.
+Por lo tanto, los productos de una mezcla de fragmentos de DNA y un vector lineal incluirán no sólo el vector con una única fracción de DNA insertado, sino también al vector circularizado sin ninguna inserción, fragmentos de DNA compuestos por uno o más fragmentos, fragmentos circularizados, dos o más moléculas del vector unidas, etc. 
+Mediante una selección cuidadosa de las concentraciones del DNA del vector y del que se va «a insertar» se puede favorecer la formación de un plásmido que contenga una sola inserción, pero no se puede excluir totalmente la formación de productos no deseados.
+
+Este tipo de unión es adecuado para algunos fines, especialmente cuando el producto recombinante se selecciona en pasos posteriores.
+Sin embargo, hay formas de ejercer cierto control sobre los productos que pueden formarse.
+Por ejemplo, si el vector se trata con una fosfatase alcalina después de la restricción, se eliminan los grupos 5'fosforil (Fig., ll.,5).
+La ligase sólo unirá extremos 3' y 5' del DNA si el extremo S' está fosforilado, y, por lo tanto, al unir fragmentos de DNA sin tratar, sólo pueden formarse enlaces entre los fragmentos y el vector o entre fragmento y fragmento, impidiendo de esta forma la simple circularización de los vectores e incrementando la producción de moléculas recombinantes. 
+Por supuesto, la unión fragmento-vector sólo puede realizarse a través de una cadena de DNA , pero es suficiente para mantener la molécula unida y las bacterias hospedadoras repararán las «fisuras» después de la transformación.
+
+Figura 11.5
+
+Utilización de una fosfatase alcalina para incrementar el rendimiento de moléculas recombinantes
+
+En condiciones ideales tanto el vector como el DNA «a insertar» deben cortarse con el mismo enzima de restricción, o con dos enzimas que generen extremos idénticos (isoesquizómeros), pero esto no siempre es posible.
+En tales casos, cualquier extremo adherente puede convertirse a la forma roma, bien eliminando los nucleótidos protuberantes con una nucleasa S1 (que degrada DNA de una sola cadena), o llenando los extremos unicatenarios utilizando una DNA -polimerasa y los cuatro nucleósidos trifosfatos.
+En principio, las moléculas de extremos romos podrían unirse a continuación utilizando la DNA ligase del T4 .
+Sin embargo, no suele hacerse, ya que probablemente las moléculas recombinantes así obtenidas no contendrían puntos de restricción en los lugares por donde se han unido, y por tanto sería difícil recuperar el DNA insertado a partir del vector tras la clonación.
+En consecuencia, es mucho más útil unir los extremos romos de los fragmentos de DNA a los de los «engarces», que son oligonucleótidos obtenidos por síntesis química que contienen uno o más lugares de restricción (Fig., 11.,6).
+Por ejemplo, si el vector contiene un punto de escisión Hind III en uno de sus genes de resistencia a antibióticos, los fragmentos de DNA , tras la conversión a formas de extremos romos, se unirán a engarces que contengan un lugar Hind III.
+
+Posteriormente, al tratar los fragmentos unidos a los engarces con el enzima de restricción Hind III se obtendrán moléculas que puedan unirse al vector. 
+Se dispone a nivel comercial de tantos engarces (y moléculas afines que se conocen como adaptadores) que se pueden solucionar casi todos los problemas de incompatibilidad entre el vector y el fragmento de DNA a insertar.
+
+Para unir moléculas de extremos romos se puede utilizar una técnica que se conoce como «colas homopolímeras», que tiene la ventaja de que entre el vector y el DNA a insertar sólo puede haber enlaces intermoleculares. 
+
+El vector y el fragmento de DNA se tratan independientemente con una transferasa terminal y con d ATP o con TTP , de modo que en el extremo 3' de uno se forman colas poli-d A y en el del otro colas pali- T .
+Al mezclarlos, las colas complementarias forman moléculas híbridas estables que pueden utilizarse para la transformación. 
+La desventaja de este método es que no crea automáticamente puntos de restricción a ambos lados del fragmento de DNA , por lo que puede ser difícil recuperar el DNA insertado.
+Cuando se utilizan d GTP y d CTP de forma similar con moléculas que se han cortado con el enzima de restricción P st I , al unirse se regenera un punto de escisión PstI que puede utilizarse para recuperar el DNA insertado a partir del plásmido después de la clonación.
+
+Transformación y cultivo de las bacterias
+
+Antes de que el DNA recombinante pueda multiplicarse por clonación ha de incorporarse a una bacteria hospedadora adecuada, a la que entonces se llama «transformada» y que generalmente es una cepa de E. coli que no tiene sistema de restricción, el cual en condiciones normales degradaría el DNA extraño. 
+Las bacterias sin tratar no incorporarán DNA de forma significativa, y por tanto han de tratarse previamente para hacerlas «competentes».
+Este tratamiento previo generalmente incluye una incubación de las células en crecimiento exponencial con xxx a baja temperatura, tras lo cual se añade el DNA ; a continuación, con un moderado aumento de la temperatura se provoca la incorporación del DNA .
+La eficacia de la transformación nunca es alta, viéndose influida por la cepa bacteriana y por el tamaño y forma del DNA .
+Por cada microgramo (mg) de DNA superenrollado de xxx pueden obtenerse de xxx a xxx transformantes, pero esta tasa baja a menos de xxx de plásmido circularizado y disminuye progresivamente a medida que aumenta el tamaño de DNA insertado.
+El DNA lineal es casi totalmente ineficaz en la transformación.
+
+Incluso cuando su eficacia es máxima, la transformación tiene lugar tan solo con un 0,01 % de las moléculas de DNA .
+Dado que el proceso favorece las moléculas pequeñas, esto puede representar un problema cuando se intentan clonar grandes fragmentos de DNA insertados en plásmidos, y deben tomarse algunas precauciones para evitar que los plásmidos no recombinantes vuelvan a circularizarse, utilizando fosfatase alcalina (véase Sección 11.,2.,4).
+
+Figura 11.6
+
+Utilización de engarces para unir moléculas de extremos romos
+
+La selección de las bacterias transformadas depende generalmente de su resistencia a un antibiótico, y por tanto es importante incubar las células en un medio sin antibiótico durante una hora para permitir que se expresen los genes del plásmido de resistencia a antibiótico. 
+A continuación se pueden sembrar las bacterias en un medio sólido que contenga el antibiótico para seleccionar las colonias que contengan el DNA recombinante, según se describe en la Sección 11.,2.,3.
+Mis adelante se describirán los métodos para seleccionar colonias determinadas.
+A veces se pretende clonar un único tipo de plásmido (recombinante o no) que ya se ha purificado y en este caso no hay necesidad de sembrar en placa las bacterias transformadas antes de cultivarlas en un medio selectivo Para más información acerca de la transformación y el cultivo de las bacterias véanse los Capítulos 6 y 7.
+
+Avances y perspectivas de la ingeniería genética
+
+Avances
+
+¿Cuáles son los avances de la ingeniería genética en el área de la biotecnología? 
+Hasta ahora son muy pocos los productos obtenidos por ingeniería genética que han llegado a producirse comercialmente, aunque muchos han llegado a la fase de planta piloto o se están sometiendo a ensayos clínicos. 
+
+Las bacterias manipuladas genéticamente se han venido utilizando durante varios años para producir proteína unicelular.
+Se dispone de insulina «humana» sintetizada por bacterias, si bien sostiene una dura competencia con la insulina de cerdo modificada químicamente.
+Las únicas vacunas disponibles comercialmente por ahora son para animales, donde existe una gran demanda.
+Estas vacunas no pueden ofrecer la prolongada protección que proporcionan las bacterias vivas atenuadas, pero su empleo también presenta menos riesgo.
+Estos pocos productos, a pesar del éxito, posiblemente no pueden generar los beneficios suficientes como para cubrir las enormes cantidades de dinero que ya se han invertido en el desarrollo de la ingeniería genética, y ciertamente los inversores tendrán que esperar algunos años más antes de obtener un beneficio que merezca la pena.
+Ya ha habido empresas que se han encontrado con problemas financieros al no considerar el tiempo que se requiere para resolver los enormes problemas asociados al desarrollo, producción y control de un nuevo producto.
+Los Estados Unidos y Japón han mostrado con mucho el mayor compromiso con la ingeniería genética, y es de esperar que en los próximos años comiencen a obtener los muy considerables beneficios de su previsión. 
+De hecho se espera que para el año 2000 se atribuyan a la ingeniería genética ventas en todo el mundo por 40 billones de dólares (Gregory, 1984), por lo que ahora existe gran interés para invertir en investigación. 
+
+Los proyectos que probablemente van a proporcionar beneficios tanto comerciales como sociales en un futuro próximo incluyen la producción del factor VIII de coagulación de la sangre humana, interferones, factor de necrosis tumoral, linfotoxina y vacunas para el virus del herpes simple, el de la hepatitis B y otros virus humanos.
+Se dispondrá de bacterias que degraden contaminantes tales como el 2,4,5-T o el DDT , o para producir compuestos tensoactivos, emulsionantes y otras moléculas especializadas.
+Todos estos proyectos se han conseguido a nivel de laboratorio y ahora han de llevarse a cabo a gran escala.
+
+Problemas
+
+Expresión y estabilidad de los plásmidos
+
+La ingeniería genética ha alcanzado un nivel en el que es relativamente sencillo aislar y clonar el gen de cualquier proteína que se haya caracterizado adecuadamente. 
+Los problemas que requieren mas tiempo aparecen después de esta etapa.
+Para empezar, es necesario conseguir niveles elevados de expresión de un gen en un hospedador extraño, idealmente bajo alguna forma de control, de modo que pueda retrasarse la expresión hasta que las células hospedadoras hayan alcanzado una elevada densidad celular.
+La proteína resultante del gen podría no ser estable en la célula hospedadora, por lo que puede ser necesario utilizar un gen híbrido como una forma de «marcar» la proteína con un polipéptido protector; otra alternativa seria modificar el genoma de la célula hospedadora para evitar que degrade proteínas extrañas.
+Si el gen extraño está en un plásmido, debe asegurarse que el plásmido se mantiene en el cultivo celular.
+Cuando el gen extraño aumenta la eficacia de crecimiento de la célula hospedadora, como es el caso del gen de la glutamato deshidrogenasa transferido a M.methylothrophus , la estabilidad del plásmido queda asegurada automáticamente; pero en la mayoría de los casos, debe incluirse en el plásmido otro gen que ejerza una presión selectiva a favor de las células que contengan el plásmido.
+
+Recuperación del producto .
+Nuestras preocupaciones no terminan incluso cuando se ha conseguido la expresión de un gen en un plásmido estable.
+La facilidad para extraer un producto puede ser un factor primordial para determinar si determinado proceso puede ser rentable.
+Si el producto permanece en el interior de la bacteria, éstas han de recogerse, lisarse y separar el producto del resto.
+Por otra parte, si se puede hacer que las bacterias excreten el producto, su obtención es mucho más sencilla, con la ventaja de que las células no se destruyen durante el proceso.
+
+Las células eucariotas excretan las proteínas con una secuencia señal adecuada en su N-terminal, eliminando esta secuencia señal cuando la proteína sale de la célula, pero las procariotas generalmente tienen menor capacidad para excretar proteínas.
+Sin embargo, se sabe que Bacillus subtilis excreta más de 50 proteínas, y por lo tanto, cuando la excreción tiene importancia, a menudo se utiliza este microorganismo en lugar de E. coli .
+Los problemas de recuperación de enzimas de los cultivos celulares se discuten con detalle en el Capitulo 13.
+
+Seguridad
+
+Otro factor que debe considerarse detenidamente es la seguridad de cualquier sistema manipulado genéticamente.
+Cuando se empezó a clonar, a mediados de los 70, parecía existir una posibilidad real de que los genes patógenos (tales como los que codifican la formación de tumores o de una toxina) podrían transferirse inadvertidamente a bacterias que sobrevivirían fuera del laboratorio y que podrían difundirse entre la población.
+Los Institutos Nacionales de la Salud de los Estados Unidos y el Grupo Asesor sobre Manipulación Genética del Reino Unido elaboraron unas normas estrictas prohibiendo la clonación de DNA vírico o de DNA de tumores y especificando altos niveles de contención física para la mayoría de los demás experimentos de clonación.
+Afortunadamente, se desarrollaron células hospedadoras seguras, tales como la 1.776, que tenía unos requerimientos nutritivos tan específicos, la pared celular frágil, alta sensibilidad a las sales biliares, etc., que era poco probable que sobrevivieran fuera del laboratorio.
+Al mismo tiempo, se construyeron plásmidos que no poseían los genes tra necesarios para transferir el plásmido de una célula a otra por conjugación, reduciéndose así el riesgo de transferencia de un plásmido peligroso de un hospedador seguro a otro infectivo. 
+
+Para que un gen clonado llegue a ser perjudicial, debe suceder todo lo siguiente:
+El gen debe ser transferido a un hospedador infectivo, el nuevo hospedador debe evadirse del confinamiento y originar la infección, el gen clonado debe expresarse en el hospedador y el producto debe ser capaz de desplazarse de la bacteria a la persona infectada, donde podría llegar a ser patógeno si alcanza una localización determinada.
+Dado que la probabilidad global de tal incidente es el producto de las probabilidades de cada paso, el riesgo comienza a parecer claramente insignificante, dado que se utilizan hospedadores y plásmidos deficientes, con niveles razonablemente estrictos de contención física.
+En vista de todo esto, las normas se han ido relajando progresivamente y las únicas restricciones serias que se mantienen están en relación con la eliminación al medio ambiente de organismos manipulados genéticamente, lo cual seria necesario para la degradación microbiológica de contaminantes o para la extracción de petróleo potenciada por microorganismos.
+Por supuesto, el trabajo con patógenos debe realizarse todavía en condiciones de contención estrictamente reguladas. 
+
+Economía
+
+No existe ninguna garantía de que un producto vaya a ser rentable por el simple hecho de que esté elaborado por organismos manipulados genéticamente.
+Si el mercado es reducido no hay ninguna posibilidad de obtener beneficios, a no ser que todos los clientes sean jeques del petróleo. 
+Este tipo de argumento puede aplicarse a la hormona del crecimiento, ya que hay relativamente pocos casos de enanismo en el mundo y por lo tanto los posibles ingresos son insuficientes para sufragar los gastos de desarrollo y de producción. 
+Sin embargo, si se descubre que la hormona también es eficaz para el tratamiento de quemaduras y para favorecer la cicatrización, entonces el mercado será amplio y será muy rentable producir la hormona, en particular porque en tal caso la demanda superará con mucho las cantidades que pueden obtenerse a partir de cadáveres.
+Este simple ejemplo puede aclarar que gran parte de la inversión en ingeniería genética ha de ser especulativa, excepto cuando existe una clara demanda de un producto sin que haya ninguna fuente alternativa satisfactoria.
+Incluso en tales casos puede haber enormes riesgos, entre los que se encuentra el problema de una adecuada protección de patente para cualquier DNA recombinante nuevo.
+A pesar de poder patentarse un organismo o un plásmido, no está claro aún qué protección se ofrece frente a la obtención de células o plásmidos que realicen la misma función de forma ligeramente distinta, por ejemplo, se pueden modificar algunas de las bases de un gen sin que cambie la proteína que codifica.
+
+Necesidad de investigación básica 
+
+Uno de los principales obstáculos en el camino de la ingeniería genética no tiene nada que ver con la manipulación genética; consiste en el hecho de que desgraciadamente todavía desconocemos muchos de los principios básicos que subyacen bajo las características que nos gustaría modificar.
+Hasta que no tengamos un sólido conocimiento de la bioquímica que determina la resistencia a la enfermedad, la velocidad de crecimiento, la morfología, el rendimiento fotosintético, etc., será difícil manipular tales características por ingeniería genética.
+
+El futuro
+
+En este libro sólo se ha tratado la manipulación genética en relación con su aplicación directa a la biotecnología.
+Sin embargo, no debe olvidarse que una de las principales aplicaciones de estas técnicas es para investigar la estructura y la función de los genes. 
+Estos estudios básicos tendrán inevitablemente gran influencia en la biotecnología, tanto en lo que respecta a qué se clona, como a la forma en que se hace.
+Podemos esperar que se sepa mucho más acerca de los factores que intervienen en la regulación de la expresión genética, y deberíamos ser capaces de utilizar esta información para optimizar la expresión de genes extraños.
+El completo conocimiento de los mecanismos de excreción y de las modificaciones posteriores a la traducción contribuirán a la eficaz producción de polipéptidos totalmente activos y estables.
+
+¿Qué avances podemos esperar para los próximos 10 años?
+La vida seria muy aburrida sin sorpresas, y no hay razones para pensar que la ingeniería genética no vaya a proporcionarnos algunas.
+No obstante, en base al trabajo que se está realizando actualmente, se puede prever en qué áreas generales es posible obtener resultados.
+
+Farmacología
+
+Mediante la clonación se obtendrá material suficiente para que puedan llevarse a cabo ensayos clínicos completos de aquellos polipéptidos, tales como interferones, encefalinas, cininas, etc., que en el organismo se producen de forma natural a niveles bajos y que probablemente actúen como «modificadores de la respuesta biológica». 
+Si se pudiesen utilizar estos compuestos como fármacos «naturales», podría abrirse un área completamente nueva de la farmacología.
+
+Parece probable que aumente el número de vacunas elaboradas mediante ingeniería genética, entre las que se incluirían varias para uso humano; hay esperanzas de obtener vacunas contra la malaria y el SIDA .
+
+Enzimas industriales
+
+A medida que aumenta la importancia del empleo industrial de enzimas (véase Capítulo 14) es de esperar que éstas se obtengan mediante microorganismos manipulados genéticamente.
+Probablemente se modificará cada gen mediante mutagénesis in vitro para obtener un enzima en el que se haya mejorado la estabilidad, la cinética, y, quizás, que se pueda inmovilizar para un uso más eficaz a nivel industrial. 
+Es probable que esta «ingeniería de proteínas» sea de una importancia inmensa para el desarrollo de la tecnología de enzimas y depende únicamente de las técnicas de ingeniería genética.
+Un proyecto que ya está logrando progresos importantes es la producción de ligninasas, que puede poner a nuestra disposición una fuente de alimentos inmensa y nueva, basado en la degradación de residuos lignarios.
+Para una discusión más profunda de las posibles aplicaciones de enzimas elaboradas por ingeniería genética, véase el Capitulo 15. 
+
+Mejora
+
+A nivel de organismos completos, podemos esperar mejoras significativas en la calidad de los cultivos al necesitarse menos fertilizantes, plaguicidas y al aumentar la resistencia a enfermedades, el rendimiento y la calidad de las proteínas vegetales. 
+También es posible que haya avances similares en la calidad del ganado.
+Ya se ha descrito la síntesis bacteriana de nuevos compuestos, al crearse nuevas rutas metabólicas. 
+Por ejemplo, con Streptomyces se han sintetizado nuevos antibióticos híbridos llevando a un solo organismo los genes biosintéticos de cepas que producen antibióticos diferentes (Hopwood y col., 1985).
+
+Alternativas
+
+Se ha asegurado (Vana y Cuatrecasas, 1984) que la elaboración de péptidos por ingeniería genética sólo será de importancia temporal, ya que los avances en el conocimiento de las interacciones receptor-efector pueden permitirnos diseñar moléculas pequeñas que sean tan eficaces como polipéptidos grandes, que incluso pueden obtenerse por síntesis química.
+Es cierto que se han encontrado péptidos cortos, entre 8 y 20 restos de longitud, que son más eficaces que las proteínas víricas completas para estimular la producción de anticuerpos para el virus de la glosopeda o el de la polio, y muchos polipéptidos con efectos biológicos son muy cortos (por ejemplo, calcitonina 32 restos, endorfinas 31, encefalinas 5).
+
+La síntesis química ofrece la posibilidad de modificar algunos residuos, por ejemplo para utilizar D-aminoácidos, de forma que los polipéptidos no se degraden en el tracto digestivo, permitiendo así la administración oral de fármacos que de otra forma han de administrarse vía intravenosa.
+La elección entre síntesis biológica o química se verá influenciada por factores tales como los avances tecnológicos en la síntesis de péptidos a gran escala, el coste de la materia prima, el grado de pureza necesario, etc., y no es posible predecir cuánto tiempo ha de transcurrir para que los fármacos se puedan diseñar racionalmente para que se ajusten a los receptores con que se unen.
+
+Es probable que la ingeniería genética se utilice durante muchos años para elaborar péptidos y que en un futuro inmediato sea el único método viable para producir enzimas.
+La ingeniería genética ya se ha convertido en una herramienta para la mejora, y su importancia en este campo aumentará sin lugar a dudas.
+
+Resumen
+
+El estudio de los avances incluye la biosíntesis de insulina, vacunas, factores de coagulación de la sangre y factores antivíricos y cancerígenos.
+
+Los principales problemas que quedan por resolver son: 
+la expresión eficaz y controlada de los genes clonados, la estabilidad de los plásmidos y recuperación del producto.
+
+La nueva tecnología presenta algunos riesgos potenciales. 
+Como consecuencia, se han dictado ciertas normas y se han desarrollado vectores y células hospedadoras «seguras». 
+
+La rentabilidad determinará inevitablemente el futuro de la ingeniería genética, y debe haber suficiente demanda de un producto para justificar la gran inversión necesaria para llevarlo al mercado.
+Todavía no está claro con qué eficacia pueden proteger las patentes a los productos obtenidos por ingeniería genética. 
+
+Un breve estudio de los posibles productos de la ingeniería genética incluye los «modificadores de la respuesta biológica», las vacunas, los enzimas para uso industrial, las plantas y los animales mejorados y nuevos compuestos elaborados por bacterias.
+No obstante, se ha sugerido que la síntesis química de oligonucleótidos puede desafiar su elaboración mediante la ingeniería genética.

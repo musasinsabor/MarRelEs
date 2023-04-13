@@ -1,0 +1,229 @@
+
+Clonación con fines médicos 
+
+Una vez logradas las modificaciones genéticas de los mamíferos y su reproducción ulterior, la biomedicina busca sacarles partido esas posibilidades técnicas.
+
+El nacimiento en el verano de 1995 de dos corderos en el Instituto Roslin, cerca de Edimburgo, anunciaba lo que en opinión de muchos habría de ser un período de oportunidades revolucionarias en biología y medicina.
+Megan y Morag, gestados los dos por una madre subrogada ("de alquiler"), no resultaron de la unión de un espermatozoide y un óvulo.
+Su material genético procedía de cultivos de células extraídas de un embrión de nueve días, lo que Convirtió a Megan y a Morag en copias genéticas, en clónicos del embrión.
+
+Antes del caso de los corderos, los expertos sabían ya cómo obtener ovejas, vacas v otros animales mediante la copia genética de células extraídas de embriones precoces.
+Constituía, sin embargo, una tarea laboriosa.
+Nuestro trabajo auguraba una clonación más cómoda, gracias a las propias condiciones de la manipulación de células en cultivo.
+Además, según quedaba evidenciado con Megan y Morag, no importa que las células se hallen parcialmente especializadas o diferenciadas, para que pueda reprogramarse su genética y entonces funcionar como si se tratara de células de un embrión precoz.
+Una posibilidad en la que pocos biólogos hubieran creído.
+
+Dimos un paso más y nos aprestamos a clonar animales a partir de cultivos de células extraídas de fetos de 26 días y de una oveja madura.
+De las células de la oveja surgió Dolly, el primer mamífero clonado a partir de un adulto.
+El anuncio del nacimiento de Dolly en febrero de 1997 despertó el interés de todos los medios de comunicación.
+Sobre todo porque sugería la posibilidad teórica de clonación de humanos, día que no me gustaría ver amanecer.
+Eso aparte, la consecución de clónicos a partir de células en cultivo procedentes de tejido fácilmente obtenido habría de traer numerosos beneficios prácticos para la mejora animal y medicina además de resolver problemas biológicos fundamentales.
+
+La clonación se basa en la transferencia nuclear, la misma técnica empleada desde hace varios años para obtener animales idénticos a partir de células embrionarias.
+La transferencia nuclear requiere el concurso de dos células.
+La célula receptora suele ser un óvulo sin fecundar y reciente.
+Esos óvulos están listos para empezar a desarrollarse en cuanto reciben el estímulo apropiado.
+La célula donante es la célula a copiar.
+Bajo un microscopio potente, el experto sostiene, mediante succión, el óvulo receptor en el extremo de una pipeta fina:
+con una micropipeta sutilísima absorbe los cromosomas, esos corpúsculos rechonchos que portan el ADN de la célula. (En esa etapa, los cromosomas no están encerrados en un núcleo definido).
+Luego, lo normal es que la célula donante, con su núcleo desarrollado, se fusione con el óvulo receptor.
+
+Algunas células fusionadas empiezan a desarrollarse como un embrión normal y producen descendencia si se implantan en el útero de una madre de alquiler.
+
+En los experimentos que realizamos con cultivos, adoptamos medidas especiales para hacer compatibles las células donante y receptora.
+De forma especial nos esforzamos por coordinar los ciclos de replicación del ADN y los de producción de ARN mensajero, molécula que se transcribe del ADN y dirige la síntesis de proteínas.
+Optamos por utilizar células donantes cuyo ADN no se estaba replicando en el momento de la transferencia.
+Para ello, trabajamos con células que obligamos a permanecer inactivas mediante reducción de la concentración de nutrientes en el cultivo.
+Después de la transferencia nuclear, aplicamos al óvulo pulsos de corriente eléctrica para inducir la fusión de las células e imitar la estimulación que, en condiciones normales, proporciona el espermatozoide.
+
+Una vez demostrado, con el nacimiento de Megan y Morag, que podíamos producir una descendencia variable a partir de cultivos procedentes de embriones, registramos la patente.
+Avanzamos un poco más y abordamos experimentos para comprobar si podía lograrse descendencia a partir de cultivos cuyas células se hallaran en un nivel de diferenciación más acabado.
+En colaboración con PPL Therapeutics, ensayamos con fibroblastos (células comunes del tejido conjuntivo) procedentes de fetos y células extraídas de la ubre de una oveja en su tercer mes y medio de gestación.
+Seleccionamos una adulta preñada porque las células mamarias crecen con mucho vigor en esa fase de la gestación, indicio de que pueden prosperar en cultivo.
+Presentan, además, cromosomas estables lo que sugiere que conservan toda su información genética.
+La clonación satisfactoria de Doly a partir de un cultivo de células mamarias y la clonación de otros corderos a partir de fibroblastos cultivados revelaba que el protocolo de Roslin era sólido y repetible.
+
+Según cabía esperar, toda la descendencia clónica de nuestros experimentos se parecía a la progenie de la oveja que aportó el núcleo originante, no a las madres subrogadas ni a las donantes del óvulo.
+Las pruebas genéticas demuestran más allá de toda duda que Dolly es clónica de un adulto.
+Lo más probable es que procediera de una célula mamaria plenamente diferenciada, aunque es imposible afirmarlo con absoluta certeza, pues el cultivo contenía también células no tan diferenciadas que hay en la glándula mamaria, aunque su número es escaso.
+De entonces acá otros laboratorios han empleado una técnica similar para crear clónicos sanos de ganado y de ratón a partir de células de cultivo, entre ellas células procedentes de hembras sin preñar.
+
+Que la clonación mediante transferencia nuclear sea repetible no significa que carezca de contratiempos.
+Algunas vacas y ovejas clónicas son desmesuradamente grandes, efecto observado también cuando se cultivan embriones antes de avanzar la gestación.
+Y lo que importa más, la transferencia nuclear no alcanza todavía un nivel satisfactorio de eficacia.
+Hace una treintena de años, John B. Gurdon observó, cuando realizaba experimentos de transferencia nuclear con ranas, que el número de embriones que llegaban al estadio renacuajo era menor si las células donantes procedían de animales en un estadio de desarrollo avanzado.
+
+Nuestros primeros resultados con mamíferos reflejaron una pauta similar.
+Todos los estudios de clonación descritos hasta ahora muestran un patrón continuo de muertes durante el desarrollo embrionario y fetal.
+Sólo llegan a término entre un 1 y un 2 por ciento de los embriones.
+Por si fuera poco, algunos de los clones que sobreviven al parto mueren en breve plazo.
+
+Sigue sin conocerse la causa de esos fracasos, signo posible de la complejidad que rodea a la reprogramación genética necesaria para que nazca una descendencia sana.
+Basta con que un gen no se exprese bien o no consiga cifrar una proteína decisiva en un punto decisivo para provocar un desastre.
+En la reprogramación podría exigirse la regulación de millares de genes, en un proceso con cierto margen de aleatoriedad.
+Las mejoras técnicas, una de ellas el recurso a otras células donantes, podrían traer un recorte de la mortalidad.
+
+La capacidad alcanzada de obtener descendencia a partir de células de cultivo facilita el camino que conduce a la modificación genética de los organismos, a los animales transgénicos.
+Además de su interés objetivo en investigación, esos individuos manipulados pueden fabricar proteínas humanas de importancia clínica.
+
+La técnica habitual para obtener animales transgénicos peca de una lentitud exasperante.
+Requiere la microinyección de un constructo genético (una secuencia de ADN que incorpora el gen deseado) en un buen número de huevos fecundados.
+
+Algunos incorporan el ADN introducido y la descendencia resultante lo expresa.
+A continuación, estos animales se crían para que transmitan el ADN del constructo.
+
+Frente a ello, basta un simple tratamiento químico para convencer a las células en cultivo de que incorporen un constructo de ADN.
+Si esas células sirven luego de donantes en una transferencia nuclear, toda la descendencia clónica resultante portará dicho ADN.
+En el Instituto Roslin y en PPL Therapeutics se ha aplicado la técnica para obtener animales transgénicos con eficacia mayor que la lograda a través de microinyección.
+
+Hemos incorporado en ovejas el gen del factor IX humano, proteína de la coagulación sanguínea utilizada para el tratamiento de la hemofilia B. En nuestro experimento, junto con el gen del factor IX transferimos a las células donantes un gen de resistencia contra antibióticos; al añadir al cultivo una dosis tóxica del antibiótico neomicina, murieron todas las células que no habían incorporado el ADN añadido.
+Pese a esta alteración genética, la proporción de embriones que se desarrollaron a término después de la transferencia nuclear se mantenía acorde con nuestros resultados anteriores.
+
+La primera oveja transgénica así obtenida.
+Polly nació en el verano de 1997.
+
+Polly y otros clónicos transgénicos segregan la proteína humana en su leche.
+De ello se desprende que, una vez perfeccionadas las técnicas de recuperación de óvulos de especies dispares, la clonación permitirá la introducción de cambios genéticos precisos en cualquier mamífero y la creación de múltiples individuos portadores de la alteración.
+
+Los cultivos de células de glándula mamaria podrían ofrecer una ventaja añadida.
+
+Hasta hace poco, la única forma práctica de evaluar si un constructo de ADN produciría la secreción de una proteína en la leche consistía en transferirlo a ratones hembra:
+luego, analizar la leche.
+Pero se ha de poder realizar la comprobación directa en cultivos de células mamarias.
+Será cuando podremos acelerar el proceso de localización de buenos constructos de ADN y de las células que los hayan incorporado, rindiendo una secreción eficiente de la proteína.
+
+La clonación ofrece muchas más posibilidades.
+Así, la generación de órganos animales sometidos a manipulación genética para acomodarlos a su trasplante en humanos.
+Cada año mueren por millares los pacientes que necesitan un nuevo corazón, un hígado o un riñón de sustitución.
+Un órgano de un cerdo normal trasplantado quedaría de inmediato fuera de servicio por una reacción inmunitaria "hiperaguda".
+Esta reacción viene desencadenada por proteínas de las células del cerdo que han sido modificadas por la alfagalactosil transferasa, una enzima.
+Parece lógico, pues, que un órgano procedente de un cerdo al que se le ha sometido a manipulación genética para privarle de dicha enzima, podría ser bien tolerado, siempre que los médicos dieran al receptor fármacos supresores de otras reacciones inmunitarias menos extremas.
+
+Prometedora resulta también la producción rápida de animales portadores de defectos genéticos que imiten la fibrosis quística y otras enfermedades humanas.
+
+Cierta información se ha recabado de los ratones, pero éstos y los humanos discrepan en la constitución de los genes de la fibrosis quística.
+Se espera que las ovejas aporten mayor provecho, habida cuenta de que sus pulmones se parecen a los humanos.
+Además, la esperanza de vida de la oveja es de años, lo que posibilita una evaluación a largo plazo de su respuesta ante el tratamiento.
+
+La creación de animales con defectos genéticos plantea cuestiones éticas espinosas.
+Existe una aceptación social mayoritaria de la investigación en animales, siempre que las enfermedades que se vayan a estudiar sean graves y se evite el ensañamiento o sufrimiento innecesarios.
+
+La capacidad de la bioingeniería para producir animales con una constitución genética determinada podría aplicarse a terapias celulares de patologías hoy incurables.
+Pienso en la enfermedad de Parhinson, la diabetes y la distrofia muscular, en que aparecen lesionadas poblaciones celulares especificas, incapaces de repararse o sustituirse a sí mismas.
+Se están explorando varios enfoques originales que proporcionarían células nuevas (procedentes del propio paciente y cultivadas, donadas por otros humanos o extraídas de animales).
+
+Las células transferidas no deberán transmitir enfermedades nuevas y habrán de adaptarse a las necesidades fisiológicas del paciente.
+Cualquier respuesta inmunitaria que desencadenen deberá ser conjurable.
+Los animales clónicos, con las modificaciones genéticas precisas que reduzcan al mínimo la respuesta inmunitaria, podrían constituir un reservorio de las células a suplir y producir incluso células con propiedades especiales.
+Pero no olvidemos que cualquier modificación expondría al riesgo de aparición de una reacción inmunitaria más vigorosa.
+
+A través de la clonación podrían formarse rebaños de reses exentos del gen responsable de la síntesis de la proteína del prión.
+Por culpa de dicho gen el ganado vacuno queda expuesto a la infección por priones, agentes de la encefalitis espongiforme bovina (EEB) o enfermedad de las vacas locas.
+Puesto que muchos medicamentos contienen gelatina u otros productos procedentes del ganado, existe el lógico temor de que los priones pasen a los humanos.
+La clonación podría formar rebaños que, al carecer del gen de la proteína priónica, serían una fuente de componentes medicamentosos sin contaminar con priones.
+
+Además, la técnica podría cortar la transmisión de enfermedades genéticas.
+Se investigan vías para complementar o sustituir genes defectuosos.
+Ello no impedirá que los pacientes, incluidos los beneficiados con el tratamiento, sigan transmitiendo los genes defectuosos a su descendencia.
+Pero si se pudiera tratar el embrión precoz.
+Los núcleos de las células embrionarias modificadas podrían transferirse a óvulos de los que se desarrollarían niños exentos de una enfermedad determinada.
+
+Algunos de los proyectos más ambiciosos prevén la producción de células donantes humanas universales.
+A partir de embriones de ratón en estados muy precoces podemos aislar células madre pluripotenciales indiferenciadas, capacitadas para intervenir en todos los tejidos de un adulto.
+Pueden obtenerse células equivalentes en otras especies, sin que los humanos tengan que ser la excepción.
+
+Se empieza a dominar la diferenciación in vitro de células madre pluripotenciales, para su plausible aplicación en funciones reparadoras o reemplazadoras de un tejido deteriorado.
+
+En principio, podrían fabricarse células pluripotenciales adaptadas a tal o cual paciente, creando un embrión por transferencia nuclear para ese propósito, mediante el empleo de una de las células del paciente como donante v un óvulo humano como receptor.
+Se permitiría que el embrión se desarrollara sólo hasta la etapa necesaria para separar y cultivar las células pluripotenciales:
+en ese momento el embrión tiene unos pocos centenares de células, que no han empezado a diferenciarse.
+En particular, el sistema nervioso no ha empezado a desarrollarse, por lo que el embrión no sufre dolor ni es sensible a los estímulos del medio.
+Las células extraídas del mismo podrían utilizarse para tratar diversas enfermedades graves causadas por lesión celular, quizás el sida, la enfermedad de Parkinson, la distrofia muscular y la diabetes.
+
+Estos marcos hipotéticos en los que se precisa crecimiento de embriones humanos para conseguir las células resultan hondamente preocupantes para unos, pues los embriones poseen capacidad para devenir personas humanas.
+Deben respetarse los puntos de vista de quienes consideran inviolable la vida a partir de la concepción.
+Un punto de vista que no comparto.
+Para mi, el embrión es un grupo de células que no adquiere sensibilidad hasta una etapa ulterior del desarrollo; en mi opinión, no es todavía una persona.
+
+Crear un embrión para curar un paciente puede resultar caro.
+Más práctico seria establecer líneas de células pluripotenciales, estables y permanentes, a partir de embriones humanos clónicos.
+Luego las células podrían diferenciarse conforme fueran requeridas.
+Las células implantadas así obtenidas no serian idénticas desde el punto de vista genético, si bien podría controlarse la reacción inmunitaria.
+Quizá se logre algún día obtener, mediante "desdiferenciación" directa, células madre pluripotenciales genéticamente idénticas a las del paciente:
+es decir, que no deba mediar un embrión ad hoc .
+
+Hay quien defiende, para algunos casos, la clonación de personas hechas y derechas.
+Se habla de un sustituto de un pariente moribundo.
+Pero, se objeta, el clónico nunca sería recibido como un individuo completo, sujeto siempre a lo que la familia esperaría de él en función del conocimiento del "gemelo" genético.
+
+Una postura familiar errónea, porque la personalidad humana está determinada sólo en parte por los genes.
+El clónico de una persona extrovertida podría tener una conducta retraída.
+Los clónicos de deportistas, estrellas de cine, empresarios o científicos podrían elegir carreras diferentes.
+
+Hay quien aboga por la clonación en parejas estériles.
+No parece buena solución, por las consecuencias que acarrearía en el niño copia de uno pero no del otro componente de la pareja.
+Puesto que disponemos de otros métodos para el tratamiento de todos los tipos conocidos de esterilidad.
+Las vías terapéuticas al uso parecen más apropiadas.
+En mi opinión, ninguno de los usos sugeridos de la clonación para la fabricación de copias de personas es éticamente aceptable.
+
+Ni que decir tiene que me opongo enérgicamente a que se permita el desarrollo de embriones humanos clónicos para que puedan convertirse en donantes de tejidos.
+
+No obstante, la clonación a partir de células cultivados ofrecerá importantes oportunidades médicas.
+Las predicciones sobre nuevas técnicas suelen equivocarse.
+Las actitudes sociales cambian; se producen avances inesperados.
+El tiempo lo dirá.
+
+¿Es la inactividad la clave de la clonación? 
+
+En nuestros experimentos de transferencia nuclear, todas las células donantes estaban inactivas, esto es, no fabricaban ARN mensajero.
+La mayoría de las células dedica buena parte de su ciclo biológico a la transcripción de ADN en ARN mensajero, que dirige la síntesis de proteínas.
+Nosotros optamos por experimentar con células inactivas porque persisten durante días en un estado uniforme.
+Keith H. S. Campbell cayó en la cuenta que podrían ser muy adecuadas para clonación.
+
+Supuso que una transferencia nuclear cabal exigía, como condición previa, la inhibición de la producción natural de ARN en el núcleo donante.
+Por una razón:
+en fase embrionaria muy precoz, las células están controladas por proteínas y por ARN fabricado en el precursor del óvulo parental.
+El embrión sólo empieza a fabricar su propio ARN unos tres días después de la fecundación.
+
+Puesto que los cromosomas propios del óvulo no fabricarían normalmente ARN, los núcleos de las células inactivas gozarían quizá de una mayor oportunidad de desarrollo si se realizaba la transferencia.
+
+Cabe también que los cromosomas de los núcleos inactivos se encuentren en un estado físico favorable.
+En nuestra opinión, las moléculas reguladoras del óvulo receptor actúan sobre los núcleos transferidos para reprogramarlos.
+Aunque no sabemos lo que son esas moléculas, quizá los cromosomas de una célula inactiva sean más accesibles a ellas.
+
+Ahora, ratones clónicos 
+
+El equipo de Ryuzo Yanagimachi, de la Universidad de Hawai en Honolulú, acaba de clonar ratones mediante la transferencia, a óvulos, de núcleos donantes (no de células completas).
+Tomaron núcleos de células cumulares, que rodean el ovario y son inactivas en estado natural.
+Nadie ha demostrado todavía que pueda producirse descendencia a partir de células diferenciadas que no estén inactivas.
+
+La madre subrogada (centro) está flanqueada por la descendencia clónica del donante de núcleo.
+
+Figura 1
+
+MEGAN Y MORAG( arriba ) fueron los primeros mamíferos clónicos obtenidos a partir de células de cultivo
+
+La técnica ha permitido engendrar ovejas clónicas portadoras de genes humanos.
+
+Esos animales producen leche que puede procesarse ( izquierda ) para producir proteínas de interés terapéutico.
+
+Así se crearon Megan y Morag.
+Se combinaron células de cultivo con óvulos para producir embriones que se transformaron en descendientes clónicos.
+
+Figura 2
+
+DOLLY ( derecha ) saltó a la fama en 1997 por ser el primer mamífero clonado a partir de células de un adulto
+
+Llegada a la madurez, la oveja parió un cordero sano, Bonnie ( izquierda ), fruto de un apareamiento y una gestación normales.
+
+Así se preparan las células para obtener clónicos transgénicos.
+Se combinan secuencias de ADN de una oveja y un humano:
+luego se introducen en células de oveja que se utilizarán como donantes de núcleos.
+
+Figura 3
+
+POLLY ( izquierda ) es clónica transgénica de una oveja de lana Dorset
+
+Se añadió el gen del factor IX de la coagulación humana a la célula portadora de la herencia genética del cordero.
+Polly lleva, pues, el gen humano.
+La oveja que hizo de madre "de alquiler" de Polly ( derecha ) es una carinegra escocesa.

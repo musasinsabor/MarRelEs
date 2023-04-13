@@ -1,0 +1,1662 @@
+
+Introducción a TCP/IP
+
+En este capítulo se describe el funcionamiento TCP/IP y se enumeran los archivos y características que se utilizan para la implantación de Novell®.
+Se explican los siguientes apartados: 
+
+
+- "Conceptos sobre TCP/IP" en la página 1 
+
+Esta sección describe el historial y conceptos generales sobre TCP/IP.
+
+
+- "Contenido del subsistema TCP/IP" en la página 3 
+
+Esta sección enumera los archivos de base de datos y archivos del Módulo Cargable TM de NetWare® (NLM TM ).
+
+
+- "Características TCP/IP" en la página 5.
+
+Esta sección proporciona una lista de características de TCP/IP de Novell.
+
+
+Conceptos sobre TCP/IP
+
+TCP/IP (Protocolo de control de transmisión/Protocolo Internet) es un conocido conjunto de protocolos de conectividad estándar.
+Estos protocolos se utilizan para habilitar nodos diferentes en un entorno heterogéneo para que puedan comunicarse unos con otros.
+
+La idea general de conectar un red con computadores diferentes partió de las investigaciones llevadas a cabo en la Defense Advanced Research Projects Agency (DARPA).
+En el marco de esta investigación, DARPA desarrolló el conjunto de protocolos TCP/IP para establecer comunicaciones entre redes e implantó una interred que recibió el nombre de ARPAnet , que más adelante conformó la Internet .
+El conjunto de protocolos TCP/IP define los formatos y normas utilizados en la transmisión y recepción de información con independencia de cualquier tipo de hardware determinado u organización de red.
+A pesar de que los protocolos se desarrollaron para la Internet, TCP/IP es, ahora, el estándar de facto , ya que muchas organizaciones públicas y privadas la utilizan para su conectividad.
+
+Esta red, tal y como la concibió DARPA e implantada con el conjunto de protocolos TCP/IP, es una red de conmutación de paquetes .
+Las redes de conmutación de paquetes transmiten la información por la red en pequeños segmentos que reciben el nombre de paquetes .
+Por ejemplo, si un computador transmite un archivo de cierta longitud a otro computador, el archivo se dividirá en varios paquetes en el origen que volverán a unirse cuando lleguen al destino.
+Los protocolos TCP/IP definen el formato de estos paquetes.
+Esta definición incluye el origen, el destino, la longitud y el tipo de paquete, así como el modo en que los computadores de la red van a recibir y retransmitir los paquetes.
+
+TCP/IP es un subsistema de transporte que proporciona conectividad TCP/IP al sistema operativo NetWare.
+Este subsistema incluye un conjunto de archivos NLM para NetWare diseñado para dar soporte a aplicaciones que precisan conectividad TCP/IP como, por ejemplo, el producto NFS* (Sistema de archivo de la red) de NetWare.
+
+Las posibilidades de encaminamiento de TCP/IP permiten el reenvío de paquetes IP de una red a otra.
+TCP/IP usa el Protocolo de Información de Encaminamiento (RIP), el Protocolo gateway Externo (EGP) o el protocolo Abrir la vía más corta primero (OSPF) para comunicarse con otros routers .
+De este modo, todos los routers de la interred pueden conocer la configuración de la interred sin necesidad de la intervención humana.
+
+Además de los servicios de encaminamiento, TCP/IP proporciona unas interfaces de transporte mediante las cuales es posible utilizar servicios de red de alto nivel.
+Esta interfaz la utiliza el sistema NFS y aplicaciones de otros fabricantes para su uso con 4.3BSD* con la interfaz del zócalo UNIX® o la Interfaz de la capa de transporte (TLI) STREAMS TM .
+
+TCP/IP da soporte a redes Ethernet, Token Ring, FDDI y ARCNET* a través de la especificación de Open Data-Link Interface TM (ODI TM ) de Novell.
+Por lo tanto, funciona con cualquier adaptador de red de estos tipos soportados por el controlador LAN de NetWare certificado por la versión 3.12 o posterior.
+
+Para obtener más información sobre TCP/IP y el conjunto de protocolos TCP/IP, consulte el Capítulo 2, "Conceptos sobre TCP/IP".
+Para más información sobre el direccionamiento de TCP/IP y subredes TCP/IP, vaya al capítulo 3, "Conceptos de direccionamiento de IP".
+
+Contenido del subsistema TCP/IP
+
+El software del Subsistema TCP/IP de NetWare 4.1 incluye los archivos de base de datos y NLM siguientes:
+- Archivo NLM TCP/IP (TCPIP.NLM)
+- Archivo NLM de Protocolo simple de gestión de red (SNMP.NLM)
+- Archivo NLM de registro de eventos SNMP (SNMPLOG.NLM) 
+- Archivo NLM de consola TCP/IP (TCPCON.NLM) 
+- Archivo NLM de configuración de encaminamiento estático IP (IPCONFIG.NLM)
+- Ejemplos de archivos de base de datos Internet ( hosts , NETWORKS, PROTOCOL y SERVICES) 
+- Archivos NLM que hacen eco ICMP 
+- Archivo NLM de reenvío de paquetes BootP 
+- Soporte de filtro de IP 
+- Túnel IP (IPTUNNEL.LAN)
+
+Los archivos NLM TCP/IP se instalan en el directorio SYS:SYSTEM .
+Los archivos de base de datos Internet se instalan en el directorio xxx .
+
+La Figura 1-1 muestra una descripción general del subsistema TCP/IP.
+
+Figura
+
+Descripción general del subsistema TCP/IP
+
+La Figura 1-2 ilustra las relaciones de arquitectura del subsistema TCP/IP.
+
+Figura
+
+Relaciones de la arquitectura del subsistema TCP/IP
+
+Características TCP/IP
+
+El software TCP/IP incluye las características siguientes: 
+- "Soporte de aplicación TCP/IP" en la página 6 
+- "RIP" en la página 6 
+- "OSPF" en la página 7 
+- "EGP" en la página 7 
+- "Encaminamiento estático" en la página 7 
+
+- "Descubrimiento del Router " en la página 7 
+- "Soporte de subred variable" en la página 7 
+- "Subred cero" en la página 8 
+
+- "Difusión general dirigida" en la página 8 
+- "Reenvío de paquetes BOOTP" en la página 8 
+- "Gestión de la red TCP/IP" en la página 8 
+- "Utilidad de configuración de interconectividad" en la página 8 
+- "Conectividad de la LAN" en la página 9
+
+El resto del capítulo explica estas características con más detalle.
+
+Soporte de aplicación TCP/IP
+
+El soporte de aplicación TCP/IP proporciona una interfaz de transporte que permite la utilización de servicios de red de alto nivel.
+Esta interfaz la utiliza el sistema NFS y aplicaciones de otros fabricantes creadas para utilizarla con la interfaz de zócalo 4.3BSD UNIX o con la Interfaz de la capa de transporte (TLI) STREAMS.
+La interfaz de transporte proporciona acceso a los servicios de transporte del Protocolo de control de transmisión (TCP) o al Protocolo de datagrama de usuario (UDP).
+
+Encaminamiento IP
+
+Las posibilidades de encaminamiento de IP de TCP/IP permiten el reenvío de paquetes IP de una red a otra.
+Los routers de una interred TCP/IP intercambian información entre sí.
+TCP/IP da soporte al estado del enlace, vector de distancia y encaminamiento estático.
+
+RIP
+
+El Protocolo de Información de Encaminamiento (RIP) usa el algoritmo del vector de distancia como base para efectuar operaciones y tomar decisiones de encaminamiento.
+RIP es un protocolo estándar que se basa en el algoritmo del vector de distancia.
+La mayoría de las empresas que utilicen TCP/IP usan RIP.
+
+OSPF
+
+La opción Abrir la vía más corta primero (OSPF) usa el algoritmo de estado del enlace como base para efectuar operaciones y tomar decisiones.
+OSPF es un nuevo protocolo IGP que se basa en un algoritmo de estado del enlace.
+OSPF está siendo muy bien aceptado en empresas públicas y privadas que usan redes extensas y complejas.
+
+EGP
+
+El Protocolo gateway externo (EGP) se utiliza para intercambiar información de encaminamiento entre interredes IP que están bajo control administrativo diferente.
+
+Encaminamiento estático
+
+Las rutas estáticas están configuradas manualmente.
+Las rutas estáticas definen los routers a utilizar para alcanzar el destino remoto.
+Los routers pueden utilizar rutas estáticas en lugar, o además de, las rutas indicadas por los protocolos de encaminamiento dinámico.
+
+Descubrimiento del Router 
+
+Los routers utilizan el protocolo Descubrimiento del Router para indicar su presencia en la red.
+Los hosts pueden utilizar el protocolo descubrimiento del router para saber los routers que existen en la red.
+
+Soporte de Subred
+
+TCP/IP permite al usuario dividir las redes en subredes para facilitar la gestión y resolución de problemas.
+
+Soporte de subred variable
+
+TCP/IP permite al usuario dividir las redes en subredes de tamaño variable para facilitar la gestión y la resolución de problemas.
+Normalmente, estas subredes tienen un tamaño uniforme y pueden utilizar el mismo número de hosts .
+El software NetWare 4.1 proporciona soporte adicional para subredes de tamaño diferente.
+Esto es posible, porque se permite el uso de máscaras de subred de longitud variable.
+
+Subred cero
+
+TCP/IP proporciona soporte para la subred cero si se utilizan los protocolos de encaminamiento OSPF o RIP II.
+Estos protocolos de encaminamiento incluyen la máscara de subred y eliminan la ambigüedad entre la subred cero y la red natural.
+
+Difusión general dirigida
+
+La difusión general dirigida se envía a todos los hosts de una red o subred IP determinada.
+Algunas aplicaciones utilizan difusión general dirigida para buscar o anunciar servicios.
+
+Reenvío de paquetes BOOTP
+
+BOOTP es un protocolo utilizado por algunos hosts para obtener las direcciones IP.
+El host emite una difusión general de una petición BOOTP en la red local.
+Si el servidor BOOTP está conectado a la misma red que el host, recibirá la petición y responderá con un paquete que contendrá la dirección del host.
+Si el servidor está en una red diferente, el remitente BOOTP debe dirigir la difusión general a un servidor BOOTP y reenviar la respuesta al host.
+El software TCP/IP proporciona el archivo BOOTPFWD.NLM, que permite a la máquina reenviar los paquetes de petición/respuesta de BOOTP entre el servidor BOOTP y los clientes BOOTP.
+El reenvío de paquetes BOOTP puede configurarse para utilizarlo con cuatro servidores BOOTP diferentes.
+
+Gestión de la red TCP/IP
+
+Se puede monitorizar y resolver problemas en la interred con SNMP.
+Este es un protocolo de gestión de red más conocido del conjunto de protocolos TCP/IP.
+Permite que las estaciones de gestión de red basadas en TCP/IP acumulen información sobre la configuración y el estado de nodos de una interred basada en TCP/IP.
+
+Utilidad de configuración de interconectividad
+
+La utilidad de configuración de interconectividad (INETCFG) es una utilidad dirigida por un menú que simplifica la tarea de configuración del LAN para operar con protocolos de red múltiples.
+INETCFG sustituye el método manual que se utiliza con la mayoría de los comandos LOAD y BIND.
+
+INETCFG utiliza una serie de ventanas, menús y recuadros de diálogo desde los que se configuran los conjuntos de opciones relacionados.
+Esta interfaz le permite introducir nombres de configuraciones nuevas, especificar opciones de asociación y protocolos y hacer prevalecer ajustes por defecto sin utilizar la línea de comandos.
+
+Conectividad de la LAN
+
+El software de TCP/IP proporciona conectividad para estaciones de trabajo y servidores conectados a medios de LAN, como por ejemplo Ethernet, FDDI, Token Ring y ARCNET.
+
+Conexiones permanentes
+
+Durante la inicialización del sistema pueden establecerse conexiones permanentes.
+Estas conexiones se mantienen continuamente.
+Si un error de enlace rompe la conexión, vuelve a intentarse automáticamente.
+
+Conceptos sobre TCP/IP
+
+Este capítulo contiene una descripción general sobre el conjunto de protocolos TCP/IP.
+Además, aporta información acerca de cómo utilizar TCP/IP con computadores diferentes.
+Resalta las características principales de TCP/IP para usuarios que ya estén familiarizados con protocolos o conectividad.
+Se explican los siguientes apartados:
+
+
+- "Descripción general del uso de TCP/IP" en la página 15
+
+En esta sección se describe cómo utilizar los niveles de protocolos OSI y TCP/IP para transferir datos.
+
+
+- "Protocolo Internet" en la página 18 
+
+En esta sección se describen los datagramas IP y cómo se transmiten.
+
+
+- "Encaminamiento" en la página 19 
+
+En esta sección se describen encaminamientos, rutas, direcciones IP y nodos emisores y receptores.
+
+
+- "Mensajes de error y control" en la página 21 
+
+En esta sección se describe el Protocolo de control de mensaje Internet (ICMP).
+
+
+- "Protocolos de nivel de transporte" en la página 21 
+
+En esta sección se describe el Protocolo de datagrama de usuario (UDP), que permite a las aplicaciones el intercambio de paquetes de información y el Protocolo de control de transmisión (TCP), que proporciona una transmisión de paquetes fiable.
+
+
+- "Direcciones Internet y físicas" en la página 24 
+
+En esta sección se describen los mensajes de control de acceso a medios (MAC) y físicos y cómo los protocolos convierten la dirección IP de destino en una dirección física.
+
+
+- "Conversión de direcciones Internet en direcciones físicas" en la página 25 
+
+En esta sección se describe la asignación de la dirección Internet a la dirección física y la memoria caché de resolución de direcciones.
+
+
+Conjunto de protocolos TCP/IP
+
+En líneas generales, el conjunto de protocolos TCP/IP se corresponde con el modelo de comunicaciones de red definido por la International Organization for Standardization (ISO).
+Este modelo se denomina modelo de referencia Interconexión de sistemas abiertos (OSI).
+El modelo OSI describe un sistema de redes ideal que permite establecer una comunicación entre procesos de capas distintas y fáciles de identificar.
+En el host, las capas prestan servicios a capas superiores y reciben servicios de capas inferiores.
+La Figura 2-1 muestra las siete capas del modelo de referencia OSI y su correspondencia general con las capas del conjunto de protocolos TCP/IP.
+
+Figura
+
+Modelo de referencia OSI y las capas de TCP/IP correspondientes 
+
+El sistema para determinar capas permite a los programadores concentrar sus esfuerzos en las funciones de una capa determinada.
+No es necesario que creen todo los mecanismos para enviar información a lo largo de la red.
+Sólo tienen que saber los servicios que el software debe proporcionar a la capa superior, los servicios que las capas inferiores pueden proporcionar al software y qué protocolos del conjunto proporcionan estos servicios.
+
+La Tabla 2-1 enumera los protocolos más comunes del conjunto de protocolos TCP/IP, los servicios que proporcionan.
+
+Protocolos TCP/IP
+
+- Protocolo Internet (IP) 
+
+Proporciona servicios para la entrega de paquetes (encaminamiento) entre nodos.
+
+
+- Protocolo de control de mensaje Internet (ICMP) 
+
+Regula la transmisión de mensajes de error y control entre los host y las gateways . 
+
+
+- Protocolo de resolución de direcciones (ARP) 
+
+Asigna direcciones Internet a direcciones físicas. 
+
+
+- Protocolo de resolución de direcciones invertidas (RARP) 
+
+Asigna direcciones físicas a direcciones Internet.
+
+
+- Protocolo de control de transmisión (TCP) 
+
+Proporciona servicios de envío de flujos fiables entre los clientes. 
+
+
+- Protocolo de datagrama de usuario (UDP) 
+
+Proporciona servicio de entrega de datagramas no fiable entre clientes. 
+
+
+- Protocolo de transferencia de archivos (FTP) 
+
+Proporciona servicios de nivel de aplicación para la transferencia de archivos. 
+
+
+- TELNET
+
+Proporciona un método de emulación de terminal. 
+
+
+- Protocolo de información de encaminamiento (RIP) 
+
+Permite el intercambio de información de encaminamiento de vectores de distancia entre routers . 
+
+
+- Protocolo Abrir la vía más corta primero (OPSF) 
+
+Permite el intercambio de información de encaminamiento de estado del enlace entre routers .
+
+
+- Protocolo gateway externo (EGP)
+
+Permite el intercambio de información de encaminamiento entre routers externos.
+
+
+Descripción general del uso de TCP/IP
+
+Las aplicaciones que se desarrollan con TCP/IP, normalmente, usan varios protocolos del conjunto.
+La suma de las capas del conjunto de protocolos se conoce también como el stack de protocolo .
+Las aplicaciones definidas por el usuario se comunican con la capa superior del conjunto de protocolos.
+La capa de nivel superior del protocolo del computador de origen traspasa la información a las capas inferiores del stack, que a su vez la pasan a la red física.
+La red física traspasa la información al computador de destino.
+Las capas inferiores del stack de protocolo del computador de destino pasan la información a las capas superiores, que a su vez la pasan a la aplicación de destino.
+
+Cada capa del conjunto de protocolos TCP/IP tiene varias funciones; estas funciones son independientes de las otras capas.
+No obstante, cada capa espera recibir determinados servicios de la capa inferior y cada capa proporciona ciertos servicios a la capa superior.
+
+La Figura 2-2 muestra las diferentes capas del conjunto TCP/IP.
+Cada capa del stack de protocolo del computador de origen se comunica con la misma capa del computador de destino.
+Las capas que se encuentran al mismo nivel en el computador de origen y de destino son pares .
+Asimismo, la aplicación del computador de origen y la del de destino también son pares.
+Desde el punto de vista del usuario o programador, la transferencia de paquetes se efectúa directamente de una capa par a otra.
+
+Figura
+
+Capas de los protocolos TCP/IP
+
+El proceso que utiliza una aplicación para transferir el contenido de un archivo es el siguiente:
+
+- La capa de la aplicación envía un flujo de bytes a la capa de transporte del computador de origen.
+
+
+- La capa de transporte divide el flujo en segmentos TCP, asigna un encabezado con un número de secuencia al segmento en cuestión y transmite este segmento a la capa de Internet (IP).
+Se calcula la suma de comprobación.
+
+
+- La capa de IP crea un paquete con parte de los datos que contiene el segmento TCP.
+La capa de IP añade al paquete un encabezados que indica las direcciones IP de origen y de destino.
+Esta capa también determina la dirección física del computador de destino o los computadores que actúan como intermediarios hasta el host de destino.
+Entonces, envía el paquete y la dirección física a la capa de enlace de datos.
+Se vuelve a calcular la suma de comprobación.
+
+
+- La capa de enlace de datos transmite el paquete IP en la sección de datos de una trama de enlace de datos al computador de destino.
+Si el computador de destino actúa como intermediario, el paso 3 volverá a repetirse hasta que se alcance el destino final.
+
+
+- Cuando se alcanza el computador de destino, la capa de enlace de datos descarta el encabezado del enlace y envía el paquete IP a la capa de IP.
+
+
+- La capa de IP verifica el encabezado del paquete.
+Si la suma de comprobación del encabezado no coincide con la calculada por dicha capa, el paquete se ignora.
+
+
+- Si las sumas coinciden, la capa IP descarta el encabezado y envía el segmento TCP a la capa TCP correspondiente.
+Esta capa comprueba el número de secuencia para determinar si el segmento, es el segmento correcto de la secuencia.
+
+
+- La capa TCP calcula una suma de comprobación para los datos y el encabezado TCP.
+Si la suma no coincide con la suma transmitida con el encabezado, la capa TCP descarta el segmento.
+Si la suma coincide y el segmento está en la secuencia correcta, la capa TCP envía un reconocimiento al computador de destino.
+
+
+- La capa TCP descarta el encabezado TCP y transfiere los bytes del segmento que acaba de recibir a la aplicación.
+
+
+- La aplicación que se encuentra en el computador de destino recibe un flujo de bytes como si estuviera conectado directamente a la aplicación del computador de origen.
+
+
+Las secciones siguientes describen estas operaciones interactivas con mayor detalle:
+- "Protocolo Internet" en la página 18
+- "Encaminamiento" en la página 19 
+- "Mensajes de error y control" en la página 21
+- "Protocolos de nivel de transporte" en la página 21
+- "Direcciones Internet y físicas" en la página 24 
+
+Protocolo Internet
+
+En el conjunto de protocolos TCP/IP, todos los paquetes se entregan mediante el servicio de entrega de datagramas IP.
+Este servicio no garantiza la entrega de paquetes.
+Los paquetes pueden dirigirse a lugares a los que no corresponde, duplicarse o perderse antes de llegar a su destino.
+Este servicio carece de conexión por lo cual tales paquetes se transmiten independientemente unos de otros.
+Esto puede contrastarse, por ejemplo, con una red telefónica en la que la conexión se mantiene una vez establecida.
+
+Las aplicaciones TCP/IP que utilizan este servicio de entrega de datagramas hacen un seguimiento del estado de la entrega esperando las respuestas desde el nodo de destino o utilizando uno de los protocolos de capa de transporte del conjunto TCP/IP.
+
+IP define el formato que los paquetes deben tener y el modo de utilizarlos durante el envío y la recepción.
+El formato que toma el paquete se denomina datagrama I P .
+Los datagramas IP son análogos a las tramas físicas que se transmiten en una red.
+Los datagramas tienen una sección de encabezado que incluye, entre otra información, las direcciones IP del receptor y del emisor y una sección de datos.
+La Figura 2-3 muestra el formato general de un datagrama IP.
+Cada tipo de red transmite paquetes IP en la sección de datos de la trama física.
+
+Figura
+
+Estructura de datagrama IP
+
+Cuando un datagrama IP se envía por una red, se encapsula en la porción de datos de la trama de la red física.
+Dado que la longitud de la trama de la red se define con independencia de IP, mediante requisitos técnicos de la red física, un datagrama IP puede no ajustarse a una trama de red.
+Además, durante el camino que recorre hasta su destino, un datagrama puede pasar a través de diferentes tipos de redes con diferentes longitudes de trama de red.
+Por lo tanto, puede suceder que un router reciba datagramas IP demasiado extensos para reenviarlos a la siguiente red.
+
+Para solucionar este aspecto de la transmisión de paquetes, IP especifica un método para romper los datagramas en fragmentos. Los fragmentos de un datagrama IP vuelven a unirse cuando llegan al destino final .
+Cuando los fragmentos vuelven a unirse, se reconstruye el datagrama por completo.
+
+Encaminamiento
+
+El término encaminamiento hace referencia a la transmisión de datagramas desde un nodo hacia otro en la misma u otra red diferente.
+La ruta hace referencia a las vías de acceso que se seleccionan para transmitir datagramas IP desde su origen a su destino, en base a direcciones IP que se contienen en datagramas.
+
+En una red, los nodos que envían datagramas IP pueden llevar a cabo las acciones siguientes directamente:
+
+- Consultar con los demás nodos de la red la dirección física que corresponde a una dirección IP
+
+
+- Encapsular el datagrama IP en una trama física que se encuentra en una dirección física.
+
+
+- Enviar el datagrama encapsulado directamente a la dirección física del nodo de destino de la red.
+
+
+Cuando se envía un datagrama a un nodo que se encuentra en otra red, las secciones de la red de la dirección IP de origen y la dirección IP de destino son diferentes.
+El nodo emisor reconoce esta diferencia y envía el paquete al router que conecta la red de origen con otras redes, tal y como aparece en la Figura 2-4.
+Sólo es posible conectar dos redes si un router está conectado a ambas redes y puede transferir datos en un formato compatible con ambas redes.
+
+Figura
+
+Router de red
+
+El nodo emisor contiene una tabla con direcciones IP de uno o varios computadores de la red que actúan como routers para otras redes.
+Busca la dirección IP de un router en la tabla y efectúa una difusión general de un petición ARP solicitando al router su dirección física.
+Una vez se conoce la dirección física, envía el paquete que contiene datagramas IP a la dirección física del router .
+Cuando el router recibe un datagrama IP, usa la dirección IP del datagrama para enviarlo al destino final de forma similar.
+Si resulta necesario, el router envía el paquete a la dirección de otro router que puede encaminar el paquete a su destino.
+
+Mensajes de error y control
+
+Otro protocolo del conjunto de protocolos TCP/IP es el Protocolo de control de mensaje Internet (ICMP).
+Los paquetes ICMP contienen información sobre los errores originados en la red: nodos y gateways fuera de servicio, congestión de paquetes en una gateway, etc .
+El software IP, y no la aplicación, interpreta los mensajes ICMP.
+El software IP lleva a cabo la acción apropiada con el mensaje ICMP independientemente de la aplicación.
+Dado que estos mensajes pueden tener que viajar a través de varias redes para alcanzar el destino, se encapsulan en la sección de datos de un datagrama IP.
+
+ICMP se utiliza también para verificar la conectividad entre dos nodos.
+El nodo de origen envía una petición de eco ICMP o PING y espera una respuesta de eco desde el destino.
+
+Protocolos de nivel de transporte
+
+El nivel de transporte del conjunto de protocolos TCP/IP consta de dos protocolos: el Protocolo de datagramas de usuario (UDP) y el Protocolo de control de transmisión (TCP).
+UDP proporciona un servicio de entrega sin conexión y poco fiable para enviar y recibir mensajes desde procesos específicos en los nodos origen y destino.
+TCP incorpora servicios de entrega de flujo de bytes fiable al servicio de entrega de datagramas de IP.
+
+UDP
+
+En el conjunto TCP/IP, UDP permite que las aplicaciones intercambien paquetes individuales de información por la red.
+
+UDP define un conjunto de destinos como los puertos del protocolo .
+Asimismo, el protocolo define dos tipos de puertos de protocolo: asignaciones de puertos bien conocidos y puertos asociados dinámicamente.
+En el caso de asignaciones de puertos bien conocidos, determinados números de puertos UDP se reservan para determinadas aplicaciones.
+Estos números están comprendidos entre 1 y 255, y se utilizan con aplicaciones específicas ampliamente utilizadas.
+Todas las aplicaciones de UDP hacen uso de dichos números de la misma manera.
+En el caso de los puertos dinámicamente asociados, las aplicaciones que solicitan servicios a un proceso concreto deben consultar el nodo para determinar el puerto utilizado por el proceso.
+A continuación, puede enviar los datagramas UDP a este puerto.
+
+UDP permite que varios clientes utilicen el mismo número de puerto y diferentes direcciones IP.
+Los datagramas UDP que van llegando se entregan al cliente que corresponde al mismo número de puerto y dirección de destino.
+Si no se encuentra ningún cliente que corresponda, el paquete se suelta.
+
+El datagrama UDP se encapsula en uno o varios datagramas IP, que a su vez se encapsulan en tramas físicas.
+La Figura 2-5 muestra un datagrama UDP encapsulado en un datagrama IP, que a su vez está encapsulado en una trama Ethernet.
+La Figura 2-5 también muestra cómo el concepto de capas , descrito al principio de este capítulo, influye sobre la estructuración de los paquetes enviados a través de la red.
+
+Figura
+
+Encapsulamiento de datagramas UDP
+
+En este ejemplo, la dirección IP envía el datagrama IP al nodo correcto.
+En el destino, el software IP extrae el datagrama UDP y lo transmite al software de capas UDP.
+Este envía los datos UDP y la información de control al puerto de protocolo de destino especificado.
+El proceso correspondiente a este puerto utiliza los datos del datagrama UDP.
+Este datagrama también contiene un puerto de protocolo de origen que el proceso de destino utiliza para responder de forma correcta.
+
+TCP
+
+Para las aplicaciones que deben enviar o recibir grandes volúmenes de datos, la entrega de datagramas no fiables puede convertirse en una carga.
+Los programadores de aplicaciones quizás deban desarrollar métodos para tratar los errores y módulos de información de estado a fin de hacer un seguimiento del progreso y estado de la transferencia de datos para cada aplicación.
+El conjunto de protocolos TCP/IP consigue evitar este problema al utilizar el TCP, es un protocolo de entrega de flujo de bytes fiable .
+TCP establece una conexión entre dos aplicaciones y envía un flujo de bytes al destino exactamente en el mismo orden en el que partieron.
+Antes de iniciarse la transmisión, las aplicaciones a ambos extremos de la transmisión obtienen un puerto TCP desde sus sistemas.
+
+Este capítulo describe las direcciones de la red asignadas y direcciones de subred.
+Se tratan los siguientes temas:
+
+- "Asignación de direcciones de la red IP" en la página 29 
+
+Esta sección describe cómo obtener y asignar las direcciones IP al igual que las diversas clases de dirección IP.
+
+
+- "Creación de subredes" en la página 33 
+
+Esta sección presenta las razones de la división de la red en redes más pequeñas y describe la comunicación entre éstas.
+
+
+Asignación de direcciones de la red IP
+
+Una dirección IP es necesaria para comunicar un nodo con otros nodos usando el conjunto de protocolos TCP/IP, incluidos los nodos de redes privadas o los de Internet.
+La dirección de la red se determina a partir de uno de los siguientes modos.
+
+- Centro de información de la red DDN
+- 14200 Park Meadow Dr., Suite 200
+- Chantilly, VA 22021
+- USA
+
+
+
+- Si la red no forma parte de la comunidad Internet, se puede elegir una dirección IP de red arbitraria.
+
+- La porción de la red de todas las direcciones debe concordar con la dirección de la red.
+Por ejemplo, todos los nodos de la red 129.47 deben usar la dirección 129.47.
+
+
+- La dirección IP de cada nodo de la red debe ser única en la red.
+
+
+
+
+En el resto de esta sección se describe cómo seleccionar una clase de dirección determinada.
+
+Clases de dirección IP
+
+Cada dirección IP de 4 bytes se divide en dos partes:
+
+- Una porción de la red, que identifica la red
+
+
+- Una porción del Host , que identifica el nodo
+
+
+Las direcciones IP se dividen en tres clases según los dos bits más importantes de los cuatro primeros bytes.
+Esto se hace para que los routers puedan extraer la porción de la red de la dirección de manera eficiente.
+
+Esta división puede caer en una o dos ubicaciones de la dirección de 32 bits.
+Estas divisiones corresponden a las tres clases de dirección IP: Clase A, Clase B, y Clase C.
+A pesar de la clase de dirección, todos los nodos de una red única comparten la misma porción de la red; cada nodo tiene una porción única.
+
+Direcciones de Clase A
+
+Una dirección IP de la clase A consiste en una porción de la red de un byte seguido por una porción del host de 3 bytes.
+El bit de mayor orden de la porción de la red se define siempre en 0.
+Por lo tanto, en una interred, puede haber un total de 126 redes Clase A (de 1 hasta 126), con más de 16 millones de nodos por red (las redes 0 y 127 están reservadas).
+
+Por ejemplo ('n' = dirección de la red y 'h' = dirección del Host):
+
+Clase A 0nnnnnnn.hhhhhhhh.hhhhhhhh.hhhhhhhh
+
+(7 bits de la dirección de la red, 24 bits de la dirección del Host)
+
+Direcciones de Clase B
+
+Una dirección IP de la Clase B consiste en una porción de la red de dos bytes seguidos por una porción del host de 2 bytes.
+Los dos bits de orden superior de la porción de la red están siempre definidos por 10.
+Por lo tanto, en una interred única pueden haber aproximadamente 16,000 redes de Clase B (de 128.x hasta 191.x), con más de 65,000 nodos por red.
+
+Por ejemplo ('n' = dirección de la red y 'h' = dirección del Host):
+
+Clase B 10nnnnnn.nnnnnnnn.hhhhhhhh.hhhhhhhh (14 bits de dirección de red y 16 bits de dirección del Host)
+
+Direcciones de Clase C
+
+Una Dirección IP de Clase C consiste en una porción de la red de tres bytes seguidos por una porción del host de 1 byte.
+Los tres bits de orden superior de la porción de la red están siempre definidos en 110.
+Por lo tanto, en una red única, pueden haber aproximadamente 2 millones de redes Clase C (de 192.x.x hasta 223.x.x), con más de 254 nodos por red.
+
+Por ejemplo ('n' = dirección de la red y 'h' = dirección del Host):
+
+Clase C 110nnnnn.nnnnnnnn.nnnnnnnn.hhhhhhhh (21 bits de dirección de red y 8 bits de dirección del Host)
+
+Identificación de las clases de red
+
+Cuando el primer byte de una dirección IP se adapta al rango listado en la parte inferior, identifica a cuál de las tres clases de redes pertenece:
+- 1-126 (1.h.h.h-126.h.h.h) Clase A
+- 128-191 (128.n.h.h-191.n.h.h) Clase B
+- 192-223 (192.n.n.h-223.n.n.h) Clase C
+
+Una dirección IP empezada con 154 es una dirección Clase B, con los primeros dos bytes de la dirección representando la porción de la red de la dirección y los dos últimos representando la porción host.
+Por ejemplo, en la dirección IP de 154.1.0.3 la porción de la red es 154.1.0.0, y la porción del host es &num;.&num;. 0.3.
+
+La porción de red de la dirección IP ha de ser la misma en todos los nodos conectados a la red.
+La interfaz de red del servidor conectado a la red 89.0.0.0 debe tener asignado una dirección del host IP única, como 89.0.0.254.
+
+La clave para seleccionar un número a la porción del host de una dirección IP es asegurar que el número seleccionado es único; es decir, que ningún otro host de la red tiene la misma dirección IP.
+
+Selección de una clase de dirección apropiada
+
+La selección de una clase determinada de dirección IP debe realizarse a partir de los números de red y porciones de dirección host.
+Ya que el primer bit, los dos primeros bits o los tres primeros bits determinan como se ha de interpretar la dirección entera y en dónde se produce la división de la porción de la dirección del host y de la red debería conocer las consecuencias de la elección.
+Si se decide por una clase de red, deberá considerar el número de nodos que se soportarán en la red TCP/IP y el número de redes que se van a configurar.
+
+Por ejemplo, si se utiliza una dirección IP Clase C (los tres primeros bits son de tipo 110 binario), sólo se podrán conectar 254 nodos a la red.
+
+Direcciones IP reservadas
+
+Las reglas de direccionamiento IP reservan los siguientes tipos de direcciones IP para propósitos especiales:
+
+- Direcciones de la red. Estas son las direcciones IP en las que la porción del host está definida con ceros.
+Por ejemplo, 129.47.0.0 es la dirección (o número de red) correspondiente a una red Clase B.
+Se trata de direcciones de redes y no de nodos de red.
+Por regla general, ningún nodo tiene asignado una sección del host formada sólo por ceros.
+
+
+- Direcciones de difusión general. Son direcciones en las que la porción del host está definida en todos.
+Un paquete con una dirección de difusión general se destina a todos los nodos de la red.
+Por norma general, ningún nodo tiene asignado una porción del host formada sólo por unos.
+
+
+- Direcciones de retorno de bucle. La dirección de la red 127.0.0.0, y todas las direcciones del host en la red, por ejemplo, 127.0.0.1, son reservadas.
+
+
+- Direcciones reservadas. Son direcciones en las que la porción de red está formada por ceros o todos.
+
+
+Creación de subredes
+
+Una red Internet (en una dirección de la red Internet única) puede dividirse en una o más redes más pequeñas.
+En la parte inferior están listadas algunas de las razones para dividir la red:
+
+- Usar varios medios. Puede ser imposible, inconveniente o demasiado caro conectar todos los nodos en un medio de la red única cuando estos nodos están demasiado lejos o conectados a un medio diferente.
+
+
+- Reducir la congestión. El tráfico entre nodos en una red única usa un ancho de banda de la red.
+Como resultado, se requieren más anchos de banda cuando el usuario tiene más nodos.
+La división de los nodos en varias redes reduce el número de nodos de la red.
+Si los nodos de una red de tamaño pequeño se comunican principalmente con otros nodos de la misma red, el nivel de congestión se reduce.
+
+
+- Reducir el uso del CPU. La reducción del uso del CPU los nodos conectados es similar a la reducción de la congestión.
+Más nodos en la red causan más difusiones generales en la red.
+Incluso si una difusión general no se envía a un nodo en particular, cada nodo de una red debe reaccionar ante la misma antes de decidir si debe aceptar o descartarse.
+
+
+- Aislar una red. La división de una red de mayor tamaño en redes más pequeñas, limita el impacto de uno de los problemas de la red sobre otra.
+Entre estos problemas se pueden incluir el error de hardware de la red, como una interconexión Ethernet abierta, o errores de software, como una operación de emisión confusa.
+
+
+- Mejorar el nivel de seguridad. En un medio de red de difusión general como es Ethernet, cada nodo de una red tiene acceso a todos los paquetes enviados a la misma.
+Si se permite sólo un tráfico de red sensitivo en una red, otros monitores de red pueden evitar el acceso a éste tipo de tráfico.
+
+
+- Hacer uso eficiente del espacio de la dirección IP. Si está asignando un número de red Clase A o B y tiene varias redes físicas pequeñas, puede dividir el espacio de dirección IP en varias subredes IP y asignarles redes físicas individuales.
+Con el uso de este método, no necesita conseguir más números de redes IP por cada red física.
+
+
+Máscaras y direcciones de subredes
+
+Cada subred funciona como si fuera una red independiente.
+Para redes remotas, sin embargo, las subredes aparecen colectivamente como redes discretas y únicas.
+Esto significa que la red local sólo necesita una dirección de red IP y estas redes remotas no necesitan poner atención en la ubicación de un nodo en una subred particular.
+
+La comunicación entre un nodo en una subred local y un nodo en una subred diferente es parecida a la comunicación entre nodos de dos redes diferentes.
+Para un usuario, el encaminamiento entre subredes es transparente.
+Internamente, el software IP reconoce cualquier dirección IP que esté destinada a una subred y envía estos paquetes al router de la misma.
+
+Al igual que en la comunicación entre redes, la información del encaminamiento para la comunicación de la subred entre subredes se mantiene en la tabla de encaminamiento (por IP) para cada nodo o router .
+Sin embargo, en el caso de las subredes, dicha información está formada por la dirección de la red y la dirección de la subred.
+
+Cuando una red se distribuye en varias subredes, la porción del host de la dirección IP se divide en dos partes, al igual que la dirección IP se divide en dos partes.
+La porción de la dirección del host especifica la subred de la red IP y el nodo de dicha subred.
+
+Por lo tanto, la dirección IP de 4 bytes consta de las siguientes porciones:
+
+Por ejemplo, si una red tiene la porción de la dirección de la red Clase B 129.47, el resto de dicha dirección se puede dividir en direcciones de subred y del Host.
+Esta división está controlada por la red local a fin de obtener una mayor flexibilidad en el funcionamiento de la red a nivel local.
+Por ejemplo, la dirección de subred puede contener cuatro bits de los dos bytes restantes.
+Esto permite 15 subredes, cada una con 4094 nodos.
+En otro ejemplo, la dirección de la subred puede contener ocho bits, lo que permite usar 254 subredes (una dirección de subred de todos los unos no es válida), cada una con 254 nodos.
+
+NetWare® 4.1 soporta el uso de todos los ceros en el campo de la subred (subred cero).
+Sin embargo, un campo de la subred con todos unos denota todas las subredes de una red en particular; por lo tanto, todos los unos de una subred no se pueden usar como dirección local IP.
+
+La Figura 3-1 muestra una red IP dividida en dos subredes.
+El router mostrado dispone de conexiones físicas y direcciones IP en ambas subredes (129.47.128.1 y 129.47.192.1).
+También podría disponer de dispositivos físicos y direcciones IP ( nn.nn.nn.nn ) conectados a otras redes.
+
+Figura
+
+División de una red en dos subredes
+
+Una máscara de subredes indica cómo se divide la porción del host de una dirección IP en direcciones de subredes y porciones de dirección del host local.
+La máscara de la red está representada por un número de 32 bits en el que las porciones de dirección de red y subred están formadas por una dirección IP completa y todas las del host por ceros.
+Por ejemplo, con una porción de la dirección de la red IP de Clase B de 129.47 y una dirección de la subred de 4 bits, la máscara de subred constará de 20 unos y 12 ceros.
+En resumen, una máscara de subred amplía la porción de la dirección de la red de una dirección IP local.
+Figura 3-2 muestra ejemplos de direcciones de redes IP, la relación con la máscara de subred y con la correspondiente subred.
+
+Figura
+
+Direcciones de Máscaras e IP de subred
+
+Subred cero
+
+Subred cero es una subred con todos los bits en el campo de la subred de la dirección IP definida en 0.
+Por ejemplo, la subred 130.57.0 con una máscara de 255.255.240.0 es una subred cero de la red 130.57.
+Consulte Figura 3-3 .
+
+Figura
+
+Subred cero
+
+La especificación oficial IP reserva las direcciones cero de la subred y no les permite que se usen como dirección de subred.
+Sin embargo, este sistema gasta una subred en el espacio de la dirección IP.
+Para neutralizar esta limitación, Novell TCP/IP permite el uso de subredes cero.
+
+Subred de tamaño variable
+
+Una subred de una red puede, además, dividirse en unidades más pequeñas, llamadas subredes de tamaño variable .
+Estas subredes se les llama variables porque el tamaño o longitud de la subred varía de subred a subred.
+Cuando la longitud de la máscara de subred se incrementa, el tamaño de las subred disminuye ya que la dirección IP tiene un tamaño fijado de 32 bits.
+
+Una máscara de subred define el número de bits que pueden usarse para definir la subred y el número de bits para definir el host.
+Al aumentar la máscara de subred, el número de hosts en una subred disminuye.
+Al disminuir la máscara de subred, el número de hosts que se pueden definir aumenta.
+
+Algunas configuraciones de la red tienen subredes individuales con un extenso número de hosts y otras subredes con un número inferior de hosts .
+El uso de las mismas máscaras de subredes pueden significar lo siguiente:
+
+- La máscara es demasiado pequeña y el usuario no tiene suficientes números de subred para todas las subredes
+
+
+- La máscara es demasiado grande y el usuario no tiene suficientes ID de hosts para todos los hosts de la subred.
+
+
+Si la máscara es demasiado pequeña o grande, use una subred de tamaño variable.
+Al variar la máscara de subred usada en una red, puede hacer coincidir el número y tamaño de subredes de la configuración.
+
+Por ejemplo, la subred 1 de la red 130.57 con máscara 255.255.240.0, 130.57.16.0, puede, además, dividirse en 16 sub-subredes con 256 hosts en cada uno.
+(En la actualidad, se crean 15 sub-subredes con 254 hosts cada uno porque no se usa la subred 16, host 0, y host 255).
+
+130.57.16.0 10000010.00111001.00010000.00000000 subred 1
+
+130.56.17.0 10000010.00111001.00010001.00000000 sub-subred 1
+
+OSPF AND RIPII entienden las máscaras de la red y soportan las subredes con tamaños variables.
+RIP no funciona cuando la red se parte en subredes de tamaños variables porque no entiende a las máscaras de subred.
+
+Asignación de direcciones de subred
+
+El método de asignación de direcciones de subred descritas en esta sección, resume el método sugerido por RFC 1219, "En la Asignación de Números de Subredes".
+Para una descripción completa de este método, remítase a RFC 1219.
+
+Debido a que los paquetes RIP no conllevan información de máscara de subred, el protocolo de encaminamiento RIP impone varias restricciones en el uso de las subredes.
+Si está usando RIP, use la misma máscara de subred para todas las subredes pertenecientes a la misma red.
+El uso de RIPII eleva esta restricción.
+
+Si está instalando el software de NetWare 4.1 en una red con subredes, use la máscara de subred establecida para la red.
+
+Las direcciones de subred y del host se asignan en orden numérico, donde las direcciones del host y la subred están asignadas desde la parte izquierda del campo.
+Con este método, el borde entre la dirección de la subred y la dirección del host se fija cuando se asigna la primera subred (dirección de la subred = 1).
+Si el número de hosts en una subred o el número de subredes requeridas sobrepasan los límites de una máscara de subred, este método hace más difícil el igualar la máscara de subred, porque cada host debe ser renombrado.
+
+Para preparar los cambios del tamaño de la máscara de subred, RFC 1219 sugiere que las subredes se asignen desde la izquierda del campo de dirección de la subred, y que los hosts se asignen, en orden numérico, desde la derecha del campo de dirección del Host.
+De esta manera, los bits de la subred se convierten en una imagen duplicada de los bits del Host.
+(Todavía debe seleccionar una máscara de subred inicial y usarla para subredes de la red).
+Por ejemplo para aplicar este método a la red IP Clase B con una máscara de subred de 255.255.255.0, asigne las direcciones de subred como se explica a continuación:
+- 1000 0000(128 decimal)
+- 0100 0000(64 decimal)
+- 1100 0000(192 decimal)
+- 0010 0000(32 decimal)
+- ...
+
+Después, asigne las direcciones del host en cada subred como sigue a continuación:
+- 0000 0001(1 decimal)
+- 0000 0010(2 decimal)
+- 0000 0011(3 decimal)
+- 0000 0100(4 decimal)
+- ...
+
+El uso de este método deja una zona del buffer entre la subred y las direcciones del Host, que permitirá futuros crecimientos de la red.
+La siguiente tabla muestra la relación de la zona del buffer con la dirección de la subred y con la dirección de host:
+
+Tabla
+
+Dirección de subred .
+Zona buffer .
+Dirección Host .
+
+
+1 y 0 .
+0's .
+0 y 1 .
+
+
+Por otro lado, si cambia el número de subredes o el número de hosts en una red, puede seleccionar fácilmente una nueva máscara de subred para la misma.
+
+Direcciones de difusión general
+
+Hay tres tipos de direcciones de difusión general: difusiones generales de red, difusiones generales de subred y las direcciones de difusión general.
+Una difusión general de red tiene una dirección IP de destino en la porción de la red de la dirección IP definida en la red Clase A, B, o C, y el campo del host definido en todos los Conceptos del protocolo de encaminamiento TCP/IP.
+
+En este capítulo se describen las topologías de encaminamiento y los protocolos en general, además de los mecanismos de protocolo y los conceptos de los protocolos de encaminamiento de TCP/IP.
+Se comentan los siguientes temas:
+
+- "Ventajas del encaminamiento dinámico" en la página 44
+
+En esta sección se describen las ventajas del encaminamiento dinámico frente al estático.
+
+
+- "Topología y protocolos de encaminamiento" en la página 45 
+
+En esta sección se describen los sistemas autónomos (AS- Autonomous System) y la forma en que se comunica la información en y entre los sistemas AS.
+
+
+- "RIP (protocolo de información de encaminamiento)" en la página 46 
+
+En esta sección se describe el RIP y las ventajas y desventajas del uso de este protocolo.
+
+
+- "OSPF (Abrir la vía más corta primero)" en la página 51
+
+En esta sección se describe el OSPF y las ventajas y desventajas del uso de este protocolo.
+
+
+- "Interacciones entre OSPF y otros protocolos de encaminamiento" en la página 56 
+
+En esta sección se describen las interacciones de OSPF con otros protocolos de encaminamiento.
+
+
+- "EGP (Protocolo gateway externo)" en la página 65 
+
+En esta sección se describe el EGP y las ventajas y desventajas del uso de este protocolo.
+
+
+- "Protocolo de descubrimiento del router" 
+
+En esta sección describe el protocolo de descubrimiento del router y las ventajas y desventajas del mismo.
+
+
+- "Rutas estáticas" en la página 67 
+
+En esta sección se describen las rutas estáticas y las ocasiones en que se recomienda el uso de este método de encaminamiento.
+
+
+Ventajas del encaminamiento dinámico
+
+Para que TCP/IP desarrolle funciones de encaminamiento, éste debe tener acceso a la información actual sobre las rutas disponibles.
+Esta información se guarda normalmente en una tabla de rutas, donde las entradas individuales especifican lo siguiente: 
+
+- Dirección de destino final
+
+
+- Dirección del próximo router de la ruta hacia el destino
+
+
+- Información relativa al coste de acceso al destino (como la distancia o el número de saltos)
+
+
+Las entradas en la tabla de rutas pueden hacerse manualmente o de manera dinámica mediante el uso de protocolos de encaminamiento.
+Las entradas manuales llamadas rutas estáticas , tienen la desventaja de quedarse obsoletas.
+Cualquier cambio en la red (tal como un fallo o la adición de un nuevo nodo) necesita intervención manual para la reconfiguración de las rutas estáticas en todos los routers que tengan acceso al área afectada.
+Dada la naturaleza dinámica de la mayoría de las redes, el mantenimiento manual de las tablas de rutas estáticas se utiliza solamente en circunstancias especiales.
+
+En la mayoría de las redes, la única manera de responder a los cambios de la red lo suficientemente rápido como para mantener la conectividad es mediante el uso de un protocolo de encaminamiento.
+Un protocolo de este tipo detecta de manera dinámica un cambio en la red y actualiza todas las tablas de rutas afectadas.
+El protocolo efectúa esta operación mucho más rápido de lo podría una persona con el uso de un encaminamiento estático.
+
+Topología y protocolos de encaminamiento
+
+La unidad más grande de una topología de interred es un sistema autónomo (AS- Autonomous System).
+Este es un conjunto de redes y routers que intercambian información de encaminamiento mediante el uso de un protocolo de encaminamiento como por ejemplo RIP o OSPF.
+Los protocolos de encaminamiento que se utilizan en el sistema AS se llaman protocolos gateway internos (IGP).
+Normalmente , los routers que tienen un AS comparten información de encaminamiento entre ellos sin ningún problema.
+De todas maneras, por regla general, la información de encaminamiento que se comparte con otros sistemas AS es restringida.
+Los routers de diferentes AS usan un protocolo de encaminamiento externo, como el Protocolo gateway externo (EGP), para compartir información.
+Consulte la Figura 4-1 .
+
+gateway es el término antiguo equivalente a router .
+
+Figura
+
+Conexión de dos sistemas autónomos
+
+Protocolos gateway internos
+
+Novell soporta dos protocolos IGP: RIP y OSPF.
+RIP es un protocolo estándar basado en el algoritmo de vector de distancia.
+La mayoría de los emplazamientos del TCP/IP continúan utilizando RIP.
+OSPF es un nuevo protocolo IGP basado en un algoritmo de estado del enlace.
+OSPF está siendo rápidamente aceptado en los emplazamientos públicos y privados con redes más grandes y complejas.
+Al instalar emplazamientos de RIP ya existentes, el software de Novell permite que coexistan ambos protocolos y que compartan la información de encaminamiento.
+
+Protocolos gateway externos
+
+Los protocolos de encaminamiento externo, como el EGP, cambian información entre diferentes sistemas autónomos AS.
+Novell soporta EGP como único protocolo gateway externo.
+Un gateway de borde obtiene la información de encaminamiento según su propio sistema AS a través del protocolo IPG local.
+Por eso usa el EGP para compartir información con otros gateways de borde.
+
+RIP (protocolo de información de encaminamiento)
+
+RIP es un protocolo de vector de distancia.
+Un router RIP difunde periódicamente un mensaje de actualización del encaminamiento que contiene una entrada y el coste para cada red que pueda alcanzar.
+Los routers RIP escuchan todos los mensajes de difusión.
+Cada entrada de mensaje de actualización de encaminamiento recibido se añade a la tabla de rutas local.
+El router que envía el mensaje de actualización de encaminamiento queda como el próximo router o salto de la ruta a la red en la entrada.
+Si un router conoce dos rutas para acceder a la red, toma la que le suponga menor coste.
+El coste se define a menudo para RIP en términos de recuento de saltos, o de número de routers en la vía de acceso hacia el destino.
+RIP permite como máximo un coste o recuento de saltos de 15.
+
+Una vez que se conoce la ruta, debe consultarse a intervalos, verificando que ésta aún es válida.
+Normalmente, cada 30 segundos los routers RIP difunden un mensaje de actualización de encaminamiento que contiene rutas conocidas.
+Cuando se adquiere una ruta nueva a partir de un mensaje de actualización de encaminamiento, se activa un temporizador.
+Si durante los 180 segundos siguientes, los mensajes posteriores no renuevan la ruta, ésta es considerada inservible.
+Por eso se elimina de la tabla de rutas.
+
+RIPII es un RIP mejorado; en sus rutas, incluye la máscara de subred.
+La falta de información de máscara de subred limita al RIP a notificar rutas de red, o necesita routers RIP para suponer qué tipo de máscara se utiliza.
+Cuando se usa RIP en una red con subredes, es necesario que todas las subredes utilicen la misma máscara de subred.
+
+RIPII se puede usar en topologías de red que necesiten máscaras de subred de longitud variable y puede dar soporte a la subred cero.
+RIPII puede también autenticar cambios de mensaje de encaminamiento.
+RIPII usa direcciones de multidifusión en lugar de direcciones de difusión.
+No todos los routers RIP dan soporte al RIPII.
+
+Conceptos RIP
+
+Como RIP no puede detectar ni corregir bucles de encaminamiento, no son válidas las rutas que se han adquirido a través de RIP que excedan de los 15 saltos.
+Esto quiere decir que la distancia entre cualquier origen y destino de la red no pueden ser superior a 15 saltos.
+Este límite de recuento de saltos puede hacer que RIP no sea práctico en redes grandes.
+
+Los routers RIP también pueden experimentar inconsistencias en la tabla de rutas.
+Esto se debe al tiempo que tardan todas las tablas de encaminamiento de RIP en sincronizar entre ellas cuando tiene lugar un cambio o un tiempo de convergencia en la red.
+La razón más seria de la convergencia baja de RIP, conocida por el problema de cuenta al infinito, se muestra en el caso de la Figura 4-2 .
+
+Figura
+
+Convergencia baja con RIP
+
+En la Figura 4-2, las flechas muestran la ruta al destino D.
+El router R2 ha adquirido ruta al destino D del router R3.
+Si se desactiva el enlace de R3 al destino D, R3 pierde la ruta hacia D de la tabla de rutas.
+Como R2 tiene una ruta válida hacia D que aprendió de R3, enviará a éste una actualización de RIP en la que se comunicará que puede acceder al destino D al coste de dos saltos.
+R3 calcula que puede alcanzar el destino D en tres saltos, uno para llegar a R2 y dos más para el destino D.
+R3 introduce una nueva ruta hacia el destino D en su tabla de rutas.
+
+Este proceso crea un bucle de encaminamiento.
+En este caso, cualquier paquete de datos destinado a D, recibido por R3 o R2, se encaminará de un lado a otro hasta que expire su validez.
+
+Como R3 y R2 siguen actualizándose el uno al otro, el proceso de actualización tarda algún tiempo en resolverse.
+Dado que R2 ya no va adquirir de R3 la ruta hacia D con un coste de 1, al final, expira su ruta hacia D con un coste de 2.
+Por eso R2 sabe que la distancia de R3 al destino D es tres, y calcula el coste nuevo de su ruta al destino D con un coste de cuatro.
+En la próxima vuelta, R3 incrementa su coste a cinco.
+Ambos routers siguen incrementando su coste al destino D hasta que finalmente se alcance el número de 16.
+Esta sincronización de tablas de rutas puede tardar varios minutos.
+
+Novell utiliza varias técnicas para solucionar la convergencia baja causada por el problema de cuenta al infinito: El TCP/IP de NetWare® Horizonte dividido y Poison Reverse y Actualizaciones activadas.
+ 
+
+Horizonte dividido y Poison Reverse
+
+El horizonte dividido se activa de manera automática .
+Con esta característica, las rutas no se propagan en la interfaz de la que se adquirieron.
+Para solucionar el problema mostrado en la Figura 4-2, Horizonte dividido evita que R2 notifique una ruta al destino D para R3.
+Consulte la Figura 4-3.
+Dado que R3 no recibe información errónea sobre la ruta hacia D, no actualiza la tabla de rutas con una ruta hacia D a través de R2.
+R3 detiene la notificación de una ruta para D, por lo cual R2 elimina su ruta hacia D.
+
+Figura
+
+Horizonte dividido
+
+El horizonte dividido sin Poison Reverse no resuelve el problema de la convergencia baja si en el bucle de encaminamiento hay más de dos routers implicados.
+Por ejemplo, un escenario acurre cuando R3 está a un salto del destino D y los routers R1 y R2 están a dos pasos del destino D.
+Si se desactiva el enlace al destino D, R3 sabe que este destino no se puede alcanzar y deja de notificarlo a R1 y a R2.
+
+La regla del horizonte dividido no permite que R1 o R2 comuniquen a R3 la distancia al destino D.
+Por este motivo, R1 y R2 pueden llegar a la conclusión de que el destino D se puede alcanzar debido a la siguiente situación.
+
+R1 y R2 ya no conocen la ruta hacia D.
+Por lo tanto, expira la validez de esta ruta.
+Supongamos que la ruta hacia D expira en R1 antes que en R2.
+Mientras R2 tiene la ruta pero no R1, si el primero notifica la ruta a este último, R1 la toma y llega a la conclusión de que se encuentra a tres saltos del destino D (basándose en la información de que R2 está a dos saltos de D).
+A continuación, R1 informa a R3 que se encuentra a tres saltos de D.
+R3 asume que se encuentra a cuatro pasos de D, y que éste está en la dirección de R1.
+Finalmente, la ruta con un coste de dos expira en R2.
+Cuando R3 informa a R2 que se encuentra a cuatro saltos de D, R2 llega a la conclusión de que se encuentra a cinco saltos de D y añade una nueva ruta para llegar a D con un coste de 5.
+El bucle sigue ejecutándose.
+
+En este bucle de tres routers , aún existe el problema cuenta al infinito.
+Este se puede evitar al diseñar la red sin bucles de tres routers o al usar actualizaciones en movimiento.
+
+Con Poison Reverse, en lugar de no propagarse, las rutas adquiridas de una interfaz se notifican con un coste de 16 en la misma interfaz en la que se adquirieron.
+
+Actualizaciones activadas
+
+Las actualizaciones activadas provocan que el routers envíe una actualización RIP tan pronto como se adquiera una nueva ruta o que una existente se haya perdido o cambie.
+La actualización activada sólo contiene las rutas afectadas, por ejemplo, la ruta con un coste de 16 si se pierde, o con un coste nuevo si se cambia o una ruta nueva.
+De esta manera, el router minimiza la cantidad de tiempo que queda en retención para dejar sin validez las rutas.
+Para resolver el problema de la convergencia baja mostrado en la Figura 4-2, Actualizaciones activadas provoca que R3 notifique el destino D como inaccesible tan pronto se suprima la conexión con D.
+
+Creación de subredes con RIP
+
+RIP no puede soportar subredes de manera completa debido a que en sus notificaciones no contiene información de máscara de subred (aunque RIPII sí que puede soportarlas).
+De todas maneras, un router RIP puede obtener información de máscara de subred de sus interfaces.
+RIP asume que las máscaras de subred son fijas para todas las subredes de la misma red, por eso aplica la máscara de subred obtenida a todas las subredes de la misma red.
+
+Este método de soporte de subred requiere una máscara de subred fija para una determinada red.
+Como resultado, RIP no da soporte a las máscaras de subred de longitud variable.
+(Consulte "Subred de tamaño variable" en la página 38 ).
+Además, la información de máscara de subred derivada de la interfaz sólo se aplica en la red a la que pertenece la interfaz.
+La información de subred de redes remotas no está disponible para el router RIP.
+Por lo tanto, el RIP no da soporte a las subredes de redes remotas.
+
+Dado que los routers del RIP externos a la red no conocen las subredes utilizadas en una red, RIP requiere que todas las rutas de la subred se agrupen en una sola ruta de red cuando son notificadas desde el exterior.
+Para que esto se cumpla, todas las subredes deben estar incluidas en los límites de una sola red.
+
+OSPF (Abrir la vía más corta primero)
+
+OSPF es un protocolo de encaminamiento de estado del enlace.
+Los routers de estado del enlace intercambian información sobre el estado de las conexiones o los enlaces de sus redes.
+Con esta información, cada router puede construir la topología de la interconectividad y obtener información de encaminamiento.
+
+A diferencia de RIP, OSPF no tiene el problema de cuenta al infinito.
+Por lo tanto, su métrico no está limitado a 16.
+Un métrico OSPF puede ser tan largo como 65535.
+Con un métrico más grande, se puede construir una interred más grande.
+Además, esto permite asignar un rango más amplio de costes para los distintos tipos de redes basado en características como por ejemplo ancho de banda.
+
+OSPF también converge en la información de encaminamiento común más rápidamente que RIP.
+Esto se debe a que OSPF no tiene el problema de cuenta al infinito y la información de estado del enlace se desborda instantáneamente en lugar de procesarse en cada paso, como ocurre en RIP.
+Una convergencia rápida evita la pérdida de conectividad y de bucles de encaminamiento temporales.
+
+Finalmente, OSPF genera menos tráfico.
+A diferencia de RIP, que requiere actualizaciones periódicas, los routers OSPF actualizan la información de estado del enlace sólo cuando éste cambia o cada 30 minutos en lugar de los 30 segundos de las actualizaciones RIP.
+Como consecuencia, se dispone de más ancho de banda para el tráfico de datos.
+
+Para obtener más información sobre el protocolo OSPF, consulte RFC 1583.
+
+Topología OSPF
+
+Las áreas OSPF están conectadas de una manera jerárquica.
+El sistema AS de OSPF puede dividirse en diferentes regiones, llamadas áreas.
+Al estar dividido en áreas, debe haber una especial llamada área del segmento principal.
+Todas las áreas OSPF están conectadas al área del segmento principal .
+Este área se representa en el área 0 de la Figura 4-4.
+
+Los routers que conectan un área con el área del segmento principal se llaman routers de límite de área .
+Un router de límite de área tiene al menos una interfaz en un área que no es de segmento principal y una interfaz en un área de segmento principal.
+
+Los routers OSPF pueden intercambiar información con otros sistemas AS o dominios que ejecuten un protocolo de encaminamiento diferente, como EGP o RIP.
+El gateway efectúa los intercambios entre los protocolos de encaminamiento en el límite del dominio de OSPF.
+Este gateway se llama router de límite de sistema autónomo, o ASBR.
+Un ASBR debe ejecutar EGP o RIP, como OSPF, para adquirir información de encaminamiento de otros dominios u otros sistemas AS.
+Después la difunde a través del dominio OSPF para los routers OSPF.
+Consulte la Figura 4-4.
+
+Figura
+
+Áreas OSPF
+
+Partición de área
+
+A medida que crece el dominio OSPF, crece la probabilidad de cambio de estado del enlace, debido a que incluye más routers y redes.
+Por lo tanto, cada cambio del estado del enlace provoca el recuento de rutas en todos los routers , aumentando la carga en la CPU.
+Además, cada recuento de una ruta lleva más tiempo, dado que hay más redes de destino desde las que contar.
+Cuando el dominio OSPF se hace muy grande, es posible que desee dividirlo en varias áreas para reducir la carga de la CPU.
+Novell recomienda que se limite el tamaño de un área para que contenga menos de 200 routers .
+
+La partición del dominio OSPF en áreas proporciona varias ventajas.
+Permite la separación administrativa de diferentes grupos organizativos o geográficos, como ingeniería o márketing.
+La creación de áreas permite limitar el compartimiento de la información de encaminamiento las mismas, haciendo un área en particular más segura.
+Además, reduce el número de notificaciones de estado del enlace (LSA) en el área y permite aislar un área con cambios de topología frecuentes.
+
+routers de límite de área
+
+Los routers de borde de área (ABR) comparten Gestión del archivo de base de datos de la red.
+
+Este capítulo ofrece una descripción de los cuatro archivos de base de datos de la red que se utilizan para convertir los datos internos en nombres que son más sencillos de identificar y con los que es más fácil trabajar.
+Los temas que se tratan son:
+
+- "Configuración de los archivos de base de datos" en la página 71 
+
+En esta sección se describen los cuatro tipos de archivos de base de datos de la red y cómo se puede acceder a ellos y modificarlos.
+
+
+- "Archivo hosts " en la página 73 
+
+Esta sección describe el archivo hosts y cómo utilizarlo.
+
+
+- "Archivo NETWORKS" en la página 74
+
+Esta sección describe el archivo NETWORKS y cómo utilizarlo.
+
+
+- "Archivo PROTOCOL" en la página 75
+
+Esta sección describe el archivo PROTOCOL y cómo utilizarlo.
+
+
+- "Archivo SERVICES" en la página 76
+
+Esta sección describe el archivo SERVICES y cómo utilizarlo.
+
+
+Configuración de los archivos de base de datos
+
+TCP/IP utiliza cuatro archivos de base de datos para la conversión de datos internos, tales como direcciones IP, en nombres más sencillos de identificar y con los que es más fácil trabajar.
+Estos archivos se utilizan con la interfaz de usuario de TCPCON y con otros módulos NLM y en ellos se pueden incluir los nombres y direcciones de las redes y nodos locales a fin de mantener informado al TCP/IP.
+Los archivos ( hosts , NETWORKS, PROTOCOL y SERVICES) se almacenan en la memoria caché para impedir el acceso al disco durante la operación de búsqueda, de ahí que TCP/IP ocupe más memoria.
+Para evitar este uso de la memoria, es necesario reducir el tamaño de la base de datos, o simplemente suprimir los archivos.
+
+TCP/IP busca estos archivos en el directorio xxx 
+
+- "Archivo hosts " en la página 73 .
+Este archivo asigna nombres host a las direcciones IP.
+
+
+- "Archivo NETWORKS" en la página 74 .
+Este archivo asigna nombres de red a las direcciones de red.
+
+
+- "Archivo PROTOCOL" en la página 75.
+
+Este archivo asigna nombres de protocolo a números de protocolo IP.
+
+
+- "Archivo SERVICES" en la página 76 .
+Este archivo asigna nombres de protocolos a nombres de servicios.
+
+
+Si ésta es la primera vez que configura TCP/IP, conviene copiar los archivos de base de datos de ejemplo de xxx a xxx para usarlos como referencia en la introducción de entradas personales y proporcionar a TCP/IP los archivos PROTOCOL y SERVICES necesarios (estos archivos no requieren modificarse).
+
+Estos archivos se pueden modificar mediante un editor de texto estándar de un cliente de NetWare® o con el módulo EDIT NLM de la consola del sistema NetWare.
+En las siguientes secciones se describen los formatos de dichos archivos, compatibles con los archivos de los sistemas BSD UNIX® 4.3 estándar.
+Los archivos de ejemplo también pueden usarse para crear entradas personales.
+
+Los archivos tienen el mismo nombre y formato que los archivos de UnixWare TM y de otros sistemas UNIX.
+El archivo FTP permite transferir los archivos desde un host UNIX.
+
+En cada archivo de base de datos se incluye información sobre una tabla y en cada línea de dicho archivo se describe una entrada de la tabla.
+Las líneas en blanco y los comentarios no se tienen en cuenta (estos últimos están formados por un símbolo &num; inicial y los caracteres incluidos detrás de éste, todo ello contenido en una misma línea).
+
+Las direcciones de ejemplo proporcionadas con los archivos de base de datos no deben emplearse si se está conectado a una red Internet, ya que sólo sirven de referencia.
+
+Archivo hosts 
+
+El archivo xxx hosts contiene información sobre los anfitriones conectados a la interred IP.
+Normalmente, este archivo se administra y distribuye de forma centralizada a todos los anfitriones de carácter local.
+Como puede verse en la Figura 5-1 , su formato es idéntico a /etc/ hosts en los sistemas UNIX.
+Las entradas del archivo incluyen información sobre un host y su longitud no puede exceder una línea.
+
+Figura
+
+Archivo hosts 
+
+La entrada del archivo hosts presenta el siguiente formato: 
+
+dirección_IP nombre_host&lsqb;alias&lsqb;...&rsqb;&rsqb; 
+
+dirección_IP es una dirección de 4 bytes con notación decimal de puntos estándar.
+Cada byte está formado por un valor decimal, hexadecimal u octal, y se separa de los demás bytes mediante un punto.
+Los números hexadecimales han de comenzar por el par de caracteres 0x o 0X y los octales, por cero.
+
+nombre_hostes el nombre del sistema asociado con la dirección interred indicada.
+El nombre no puede contener espacios, tabuladores, números (&num;) ni caracteres de final de línea, y debe ser único.
+
+aliases un nombre alternativo para el mismo sistema, normalmente de longitud menor.
+Es posible asignar un máximo de diez alias a un mismo sistema.
+Por ejemplo, el sistema "ventas" podría tener asignados los siguientes alias y dirección:
+
+129.0.9.5 ventas ve sistlocal
+
+El archivo de ejemplo xxx hosts se suministra con el software TCP/IP.
+Cuando se configure TCP/IP por primera vez, deberá copiarse el archivo hosts de xxx a SYS:ETC .
+Con ello creará el archivo xxx hosts .
+La configuración se puede modificar introduciendo los cambios necesarios en el archivo xxx hosts existente.
+
+Archivo NETWORKS
+
+El archivo xxx contiene información sobre las redes de la interred.
+Cada entrada de dicho archivo incluye datos sobre una red concreta y su longitud no puede exceder una línea.
+La Figura 5-2 muestra un ejemplo del archivo NETWORKS.
+
+Figura
+
+Archivo NETWORKS
+
+La entrada del archivo NETWORKS presenta el siguiente formato: 
+
+nombre_red número_red&lsqb;/máscara_red&rsqb; &lsqb;alias&lsqb;...&rsqb;&rsqb;
+
+nombre_redes el nombre de la red asociada con el número indicado.
+El nombre no puede contener espacios, tabuladores, números (&num;) ni caracteres de final de línea, y debe ser único.
+
+número_redes el número de la red.
+Los valores hexadecimales han de comenzar con el par de caracteres 0x o 0X.
+Este número puede especificarse con o sin ceros finales.
+Por ejemplo, las direcciones 130.57 y 130.57.0.0 hacen referencia a la misma red IP.
+
+máscara_red es la máscara de subred de la red.
+Al igual que las direcciones IP, esta máscara puede especificarse en notación decimal, hexadecimal u octal.
+El uso de este campo es optativo, de forma que, si no se especifica, su valor se reduce para omitir los ceros finales.
+Por ejemplo, el valor 130.57.1.0 hace referencia a la máscara 255.255.255.0.
+
+aliases un nombre alternativo asignado a la red, pudiendo especificar hasta diez alias para una misma red.
+
+El archivo de ejemplo xxx se suministra con el software TCP/IP.
+Cuando TCP/IP se configure por primera vez, NETWORKS deberá copiarse de xxx a SYS:ETC .
+Con ello creará el archivo xxx .
+La configuración se puede modificar introduciendo los cambios necesarios en el archivo xxx existente.
+
+Archivo PROTOCOL
+
+El archivo xxx , mostrado en la Figura 5-3 , contiene información sobre los protocolos utilizados en la interred.
+Cada entrada de dicho archivo contiene información sobre un protocolo y su longitud no puede exceder una línea.
+
+Figura
+
+Archivo PROTOCOL
+
+La entrada del archivo PROTOCOL presenta el siguiente formato: 
+
+nombre_protocolo número_protocolo&lsqb;alias&lsqb; ...&rsqb;&rsqb;
+<p > nombre_protocolo es el nombre del protocolo Internet asociado a este número de protocolo.
+El nombre no puede contener espacios, tabuladores, números (&num;) ni caracteres de final de línea,
+
+número_protocolo es el número del protocolo Internet.
+
+aliases un nombre alternativo asignado al protocolo.
+
+El archivo de ejemplo xxx se suministra con el software TCP/IP.
+Cuando TCP/IP se configure por primera vez, PROTOCOL deberá copiarse de xxx a SYS:ETC .
+Con ello creará el archivo xxx .
+La configuración se puede modificar introduciendo los cambios necesarios en el archivo xxx existente.
+
+Archivo SERVICES
+
+El archivo xxx , mostrado en la Figura 5-4 , contiene información sobre los servicios utilizados en la interred IP.
+Cada entrada de dicho archivo incluye datos sobre un servicio concreto, y su longitud no puede exceder una línea.
+
+Figura
+
+Archivo SERVICES
+
+La entrada del archivo SERVICES presenta el siguiente formato: 
+
+nombre_servicio número_puerto/ nombre_protocolo&lsqb;alias&lsqb; ...&rsqb;&rsqb; 
+
+nombre_servicio es el nombre del servicio asociado al número del puerto y nombre de protocolo indicados.
+El nombre no puede contener espacios, tabuladores, números (&num;) ni caracteres de final de línea.
+Suele tratarse de servicios de aplicación, presentación o sesión, como TFTP, FTP, SMTP y TELNET.
+
+número_puerto es el número del puerto Internet utilizado por el servicio.
+
+nombre_protocolo es el protocolo al que está asociado el servicio.
+Suele tratarse de un protocolo de transporte o de red, como TCP o UDP.
+Es necesario incluir una barra inclinada entre el número de puerto y el nombre del protocolo (por ejemplo, SMTP 25/TCP MAIL).
+
+alias es el nombre alternativo asignado al servicio.
+
+El archivo de ejemplo xxx se suministra con el software TCP/IP.
+Cuando TCP/IP se configure por primera vez, SERVICES deberá copiarse de xxx a SYS:ETC .
+Con ello creará el archivo xxx .
+La configuración se puede modificar introduciendo los cambios necesarios en el archivo xxx existente.
+
+Conceptos SNMP
+
+En este capítulo se explica la gestión de la red TCP/IP usando los archivos NLM SNMP y NLM SNMPLOG TM .
+Se tratan los siguientes temas:
+
+
+- "Descripción general de SNMP", en la página 79 
+
+Esta sección introduce el Protocolo simple de gestión de red (SNMP).
+
+
+- "TCPCON", en la página 80 
+
+Esta sección describe brevemente TCPCON y le informa a dónde ir si necesita más información.
+
+
+- "SNMP", en la página 81 
+
+Esta sección describe los servicios de gestión de red proporcionados por SNMP.
+
+
+- "SNMPLOG", en la página 82 
+
+Esta sección describe como registrar los mensajes de alerta de SNMP.
+
+
+Descripción general de SNMP
+
+SNMP es el protocolo de administración de red más utilizado del conjunto de protocolos TCP/IP.
+Los clientes de gestión de red basados en TCP/IP hacen uso de dicho protocolo para intercambiar información acerca de la configuración y estado de los nodos sobre la base de una interred de tipo TCP/IP.
+La información disponibles está definida por un grupo de objetos gestionados que constituyen la denominada Base de información de gestión (MIB).
+Los nodos TCP/IP son los encargados de mantener el subconjunto de objetos gestionados que conforman la sección TCP/IP de la base MIB.
+SNMP también genera mensajes de alerta mediante los cuales se informa de manera asíncrona a los clientes interesados sobre eventos TCP/IP.
+
+TCP/IP soporta el acceso de SNMP a toda la sección TCP/IP de MIB, tal y como la mantiene el stack de protocolos.
+Los Servicios de gestión de la red TCP/IP se proporcionan mediante tres archivos NLM:
+
+- "TCPCON", en la página 80 
+
+
+- "SNMP", en la página 81 
+
+
+- "SNMPLOG", en la página 82 
+
+
+El NLM SNMP actúa como Agente SNMP para clientes.
+Muestra la porción TCP/IP estándar de MIB y genera el mensaje de alerta que requiere el stack de protocolo de TCP/IP.
+TCPCON es un cliente del agente NLM SNMP.
+Usa este protocolo par comunicarse con el stack de protocolo de TCP/IP.
+
+El archivo NLM SNMPLOG procesa los mensajes de alerta SNMP directamente del nodo local TCP/IP y los escribe en el archivo de registro:
+
+xxx 
+
+Incluye mensajes de alerta generados localmente por SNMP NLM para informar sobre eventos locales, y mensajes de alerta enviados al nodo desde nodos remotos para informar sobre eventos remotos.
+
+TCPCON
+
+TCPCON proporciona una interfaz controlable con un menú para comprobar el TCP/IP MIB y permite que el operador de la consola consulte el registro de mensajes de alerta locales que SNMPLOG mantiene.
+TCPCON puede monitorizar de forma efectiva el nodo local del stack o uno remoto de TCP/IP.
+
+TCP/IP usa SNMP para acceder a la información de TCP/IP MIB en el nodo local de forma directa.
+TCPPCON usa SNMP sobre UDP o IPX para acceder a la información en un nodo remoto.
+La Figura 6-1 muestra los métodos de acceso local y remoto.
+
+Para obtener más información sobre TCPCON, consulte "Suspensión de la red".
+
+Figura
+
+Acceso local y remoto de TCP/IP
+
+SNMP
+
+SNMP NLM realiza los servicios de Agente de SNMP que necesita el módulo TCP/IP.
+Proporciona gestores de SNMP, como por ejemplo TCPCON, acceso a los objetos gestionados por el stack de protocolo TCP/IP.
+También genera mensajes de alerta de SNMP usados para comunicar eventos significativos de TCP/IP.
+
+SNMP proporciona parámetros de carga para establecer el nombre de comunidad que se usa durante la autenticación de los mensajes de SNMP.
+El nombre de comunidad en un mensaje de solicitud desde un cliente gestor de SNMP debe coincidir con el nombre que el agente estableció.
+El agente descarta cualquier mensaje de solicitud que contenga un nombre de comunidad no válido, sin generar ninguna respuesta al cliente gestionado.
+Por defecto, SNMP MLN proporciona al monitor el nombre de comunidad "público", que se usa para solicitudes de SNMP de Sólo-lectura.
+Por defecto también inhabilita las solicitudes de escritura de SNMP.
+Además el SNMP NLM proporciona un nombre de comunidad por defecto durante la generación de mensajes de alerta de SNMP.
+
+Puede configurar tres opciones de nombre de comunidad SNMP en la utilidad de configuración de interconectividad, INETCFG.
+Las opciones de nombre de comunidad son:
+
+- Comunidad de monitor.
+
+
+- Comunidad de control.
+
+
+- Comunidad de alerta.
+
+
+Cada opción establece el nombre de comunidad para la comunidad indicada.
+Los nombres de comunidad se utilizan para autenticar los mensajes de SNMP recibidos en el agente.
+El nombre de comunidad en un mensaje de petición de un tipo de acceso determinado debe coincidir con al nombre definido para ese tipo de acceso por una de las opciones de comunidad de SNMP.
+
+SNMPLOG
+
+Para registrar los mensajes de alerta SNMP recibidos por el nodo local de TCP/IP, cargue NLM SNMPLOG después de cargar NLM TCPIP.
+Una vez en proceso de ejecución, NLM SNMPLOG escribe todos los mensajes de alerta de SNMP que llegan al disco.
+SNMPLOG es un proceso en segundo plano que no proporciona una interfaz de consola.
+Si no requiere la entrada de mensajes de alerta, o si los mensajes de alerta están dirigiéndose a otro nodo TCP/IP, no necesitará cargar SNMPLOG.
+
+La información de los mensajes de alerta se incluyen en formato binario en el archivo xxx .
+Ninguna restricción de tamaño se sustituye en el archivo de registro.
+Este archivo debe suprimirse de forma periódica a fin de evitar un uso excesivo del espacio en disco.
+Si el archivo no existe cuando un mensaje de alerta se recibe, se crea SNMPLOG.
+Los contenidos del archivo de registro no se pueden leer con un editor de textos; sin embargo, puede usar el TCPCON NLM puede usarse para visualizar los contenidos del archivo o suprimir el archivo.
+
+El TCPIP NLM envía mensajes de alerta al nodo local a menos que especifique un gestor SNMP remoto durante la configuración del protocolo de TCP/IP (usando INETCFG).
+Esto significa que, a no ser que se indique lo contrario, cada nodo carga sus propios mensajes de alerta.
+Si especifica un gestor SNMP se redirigen mensajes de alerta a otros nodos.
+Consulte "Tabla de gestor SNMP", en la página 96 , para más información sobre parámetros del gestor SNMP.
+
+La dirección del mensaje de alerta puede definir al mismo servidor en todos los nodos.
+De esta manera, todos los mensajes de alerta de todos los Agentes SNMP pueden registrarse en un único nodo.
+
+Parámetros de configuración TCP/IP
+
+En este capítulo se describe cómo utilizar la utilidad de configuración de interconectividad (INETCFG) para configurar los parámetros TCP/IP para NetWare®4.1.
+Se tratan los siguientes temas:
+
+
+- "Configuración de los parámetros de protocolo TCP/IP" en la página 85.
+
+En esta sección se describe cómo acceder a los parámetros TCP/IP y la función de los mismos.
+
+
+- "Asociación de TCP/IP a un parámetro de interfaz de la LAN" en la página 102.
+
+En esta sección se describe cómo enlazar TCP/IP a una interfaz de la LAN.
+También se proporciona una descripción de los parámetros de BIND aplicables a interfaces de la LAN.
+
+
+- "Configuración de parámetros de filtro TCP/IP" en la página 115.
+
+En esta sección se describe cómo configurar los parámetros de filtrado TCP/IP y la función de los mismos.
+
+
+Configuración de los parámetros de protocolo TCP/IP
+
+Después de configurar las tarjetas de la interfaz de la red para el router, seleccione la siguiente secuencia de menú, empezando por el menú principal Configuración de interconectividad .
+
+- Protocolos 
+
+
+- TCP/IP 
+
+
+Aparece la ventana Configuración TCP/IP , que visualiza los parámetros descritos en las secciones que aparecen a continuación.
+
+Estado de TCP/IP
+
+Determine si se activa el protocolo TCP/IP durante la inicialización del sistema.
+Si se inhabilita esta opción, se retiene la configuración pero no se activa.
+
+Por defecto: habilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP 
+
+Reenvío de paquetes IP
+
+Determina si se utiliza el servidor como un router de IP (Habilitado) o sólo como un nodo final (Inhabilitado).
+
+Por defecto: habilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP 
+
+RIP
+
+Habilita el router para que utilice el Protocolo de información de encaminamiento (RIP) para intercambiar información de encaminamiento con otros routers de la red y mantener una tabla de encaminamiento dinámica.
+Si se inhabilita, el router no ejecuta el RIP, y es necesario utilizar OSPF, EPG, una tabla de encaminamiento estático o una gateway por defecto.
+
+Por defecto: habilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP 
+
+OSPF
+
+Seleccione OSFP para habilitar el router para que utilice el protocolo OSPF para intercambiar información de encaminamiento con otros routers de la red y mantener una tabla de encaminamiento dinámica.
+Si se inhabilita, el router no ejecuta el OSPF, y es necesario utilizar RIP, EPG, una tabla de encaminamiento estático o una gateway por defecto.
+
+Por defecto: inhabilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP 
+
+Parámetros de configuración OSPF
+
+Si ha habilitado el OSPF, seleccione esta opción para visualizar una ventana con los parámetros de configuración OSPF que se describen en las secciones que aparecen a continuación.
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP 
+
+ID de router
+
+Identifica el router dentro del dominio del encaminamiento OSPF.
+de forma exclusiva.
+Se expresa en formato de dirección de IP con puntos (1.2.3.4).
+Si no se especifica este parámetro o éste tiene un valor de 0.0.0.0, el router utiliza la dirección del primer IP enlazado a una interfaz.
+
+Por defecto: dirección del primer IP
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF 
+
+router de límites de sistema autónomo
+
+Permite que el OSPF incluya rutas que adquiera desde otros orígenes, como por ejemplo RIP, rutas estáticas o EGP.
+Para excluir rutas específicas, habilite el parámetro Soporte a filtro y cargue FILTCFG para configurar los filtros de información de encaminamiento.
+
+Por defecto: inhabilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF 
+
+Parámetros de configuración de área
+
+Cuando se selecciona esta opción, se visualizan las áreas SPF configuradas actualmente.
+Para configurar un área nueva, pulse <Ins> y defina los parámetros como desee.
+Una ventana nueva visualiza los parámetros de configuración del área que se describen en las secciones que aparecen a continuación.
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF 
+
+ID de área
+
+Identifica el área de forma exclusiva.
+Debe especificarse este parámetro cuando se configura el área; no hay ajuste por defecto.
+Se expresa en formato de dirección IP con puntos (1.2.3.4).
+Con frecuencia se basa en los rangos que se hayan especificado para la dirección del área.
+La ID de área con un valor 0.0.0.0 hace referencia al área del segmento principal.
+El segmento principal se configura de forma automática cuando se configura OSPF por primera vez.
+
+Por defecto: Ninguno
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración del área > (aparece el menú Áreas OSPF) > Pulse <Ins> 
+
+Autenticación
+
+Define la autenticación que se aplica a los intercambios de encaminamiento dentro de un área.
+Si se define en Inhabilitado , no se lleva a cabo la autenticación.
+Si se define en Habilitado , se asocia una contraseña de 64 bits a cada una de las redes del área.
+La Clave de autenticación (definida en las opciones de Asociación ) define la contraseña que se utiliza en una red determinada.
+
+Si este parámetro está definido en Inhabilitado , el parámetro Clave de autenticación (definido en las Opciones de asociación OSPF ) no significa nada.
+
+Por defecto: Inhabilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración del área > (aparece el menú Areas OSPF) > Pulse <Ins> 
+
+Tipo de área
+
+Si se define Anuncios externos del sistema AS del host Seudoárea, estos no desbordan el área.
+Todos los routers que se conectan a un seudoáreas deberían coincidir con este tipo de área.
+Las seudoáreas no pueden utilizarse como áreas de tránsito al configurar un enlace virtual.
+
+Por defecto: Normal
+
+Si el tipo de área está definido en 0.0.0.0 (segmento principal), esta definición no se utiliza porque el área del segmento principal no puede utilizarse como seudoárea.
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración del área > (aparece el menú Areas OSPF) > Pulse <Ins> 
+
+Coste de seudoárea
+
+Se trata del coste de la ruta por defecto notificada en la seudoárea.
+Sólo se utiliza cuando el tipo de área está configurado como una seudoárea.
+El Coste de seudoárea se utiliza cuando el enlace de resumen por defecto está notificado en el seudoárea.
+Defina el valor por defecto en el coste de interfaz mínimo de todas las interfaces de OSPF habilitadas que no estén conectadas a este área.
+
+Rango: de 1 a FFFFFF
+
+Por defecto: 1
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración del área > (aparece el menú Areas OSPF) > Pulse <Ins> 
+
+Configuración de enlace virtual
+
+Cuando selecciona Configuración de enlace virtual , una ventana visualiza los enlaces virtuales OSPF configurados actualmente.
+Para configurar un enlaces virtual nuevo, pulse <Ins> y defina los parámetros como desee.
+Una ventana nueva visualiza los parámetros de configuración de enlace virtual que se describen en las secciones que aparecen a continuación.
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF 
+
+ID de router de vecino
+
+Define el extremo remoto del enlace virtual.
+Los nombres del host contenidos en el archivo xxx hosts se presentan como opciones para posibles vecinos.
+
+Este parámetro debe configurarse para un enlace virtual.
+ 
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración de enlace virtual > (aparece el menú Enlaces virtuales OSPF ) > Pulse <Ins> 
+
+Área de tránsito 
+
+Define el área por la cual debe pasar el enlace virtual para llegar al área de segmento principal.
+Una de las interfaces de OSPF habilitadas del router debe conectarse al área de tránsito , pero el área de tránsito no puede ser el segmento principal (0.0.0.0).
+
+Las áreas configuradas con anterioridad se listan como opciones.
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración de enlace virtual > (aparece el menú Enlaces virtuales OSPF ) > Pulse <Ins> 
+
+Clave de autenticación
+
+Una cadena de 16 bytes que se utiliza como contraseña cuando se habilita la autenticación para el área de tránsito.
+
+Por defecto: Ninguno
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración de enlace virtual > (aparece el menú Enlaces virtuales OSPF ) > Pulse <Ins> 
+
+Intervalo Hello
+
+El tiempo, en segundos, que transcurre entre la transmisión de los paquetes Hello en el enlace virtual.
+
+Rango: de 1 a FFFF (Estos valores deben ser iguales para los dos routers del enlace virtual.)
+
+Por defecto: 10 segundos
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración de enlace virtual > (aparece el menú Enlaces virtuales OSPF ) > Pulse <Ins> 
+
+Intervalo inerte del router
+
+El tiempo, en segundos, que puede pasar sin que el nodo local vea ningún paquete Hello del extremo remoto del enlace virtual antes de que pueda declarar que el extremo remoto está fuera de servicio.
+El valor de este parámetro debe ser el mismo para los dos routers del enlace virtual.
+
+Rango: de 1 a 7 FFFFFFF
+
+Por defecto: 40
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP > Seleccione Configuración OSPF > Seleccione Configuración de enlace virtual > (aparece el menú Enlaces virtuales OSPF) > Pulse <Ins> 
+
+Encaminamiento estático
+
+Determina si una base de datos de encaminamiento estático se carga de forma automática durante una inicialización del sistema.
+Si se inhabilita, se ignora la base de datos de encaminamiento estático.
+
+Por defecto: inhabilitado
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos , Seleccione TCP/IP 
+
+Tabla de encaminamiento estático
+
+Cuando selecciona la Tabla de encaminamiento estático , una ventana nueva visualiza la basa de datos de encaminamiento estático configurada actualmente.
+Para añadir rutas nuevas a una base de datos, pulse <Ins> y defina los parámetros como desee.
+Al añadir una ruta nueva, la entrada debe incluir la red de destino o dirección del host así como la dirección del siguiente salto.
+Una ventana nueva visualiza los parámetros de encaminamiento estático que se describen en las secciones que aparecen a continuación.
+
+Utilidad: Cargue INETCFG (aparece el menú Configuración de interconectividad )
+
+Vía de acceso del parámetro: Seleccione Protocolos > Seleccione TCP/IP 

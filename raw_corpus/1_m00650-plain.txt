@@ -1,0 +1,86 @@
+
+Deshilando el tejido de la vida
+
+Si el lector es varón que piense casarse, he aquí un consejo de amigo: optar por una mujer que sea más lista que uno.
+A esa regla de oro me atuve cuando me casé con Michelle Tetreault, biofísica brillante.
+Un auténtico volcán de sugerencias, jamás me permite seguir adelante si los pasos andados no está claros. 
+
+Ella es experta en fotosíntesis y en su labor recurre a las técnicas más modernas de la bioquímica. 
+Manipulando las unidades hereditarias mínimas, los pares de bases de una hebra de ADN, le es posible cambiar uno a uno los aminoácidos que integran una proteína fundamental, para estudiar a continuación hasta qué punto cumple su papel esa molécula alterada.
+
+Me inoculó el gusanillo de la biología molecular. 
+No me cabe duda de que las técnicas punta que ella emplea sobrepasan las posibilidades de cualquier fisgón como yo.
+Pero la puerta no está cerrada.
+Empezaremos a entreabrirla este mes remedando algo que para los biotecnólogos es hoy coser y cantar: extraer y purificar ADN.
+
+El ADN es la mayor de las moléculas conocidas.
+Una hebra entera de ADN consta de millones de átomos. 
+Al separarse de una célula, el ADN se rompe en múltiples fragmentos.
+En solución, esas hebras poseen una carga eléctrica levemente negativa, hecho que contribuye a crear una química fascinante.
+Por ejemplo, los iones salinos son atraídos hacia las cargas negativas del ADN, con el efecto de neutralizarlas, y ese fenómeno impide que los fragmentos separados de ADN se adhieran entre sí.
+Controlando las concentración de sales, los biólogos provocan que los fragmentos de ADN se dispersen o se aglomeren.
+Y en esto reside el secreto de la remoción del ADN celular.
+
+Se empieza por lisar las células, abriéndolas para verter sus entrañas moleculares en una solución tampón, donde se disuelve el ADN.
+En ese momento, el tampón contiene ADN y todo un surtido de restos celulares: ARN, proteínas, carbohidratos y otras sustancias en menor cuantía.
+Fijando las proteínas con detergente y reduciendo la concentración de sales, podemos sacar el ADN, obteniendo una muestra casi prístina de las moléculas portadoras de la herencia.
+
+Mi profundo agradecimiento a Jack Chirikjian y Karen Graf de Edvotek ( www.edvotek.com ), empresa de biotecnología educativa de West Bethesda (Maryland), por mostrarme la manera en que cualquiera puede purificar el ADN de las células de un vegetal sin salir de la cocina.
+Lo primero es preparar el tampón.
+Se vierte 120 mililitros de agua en un recipiente de vidrio limpio, junto con 1,5 gramos (1/4 de cucharita de té) de sal de mesa, cinco gramos (una cucharita de té) de bicarbonato de sosa y cinco mililitros (una cucharita de té) de champú o de un detergente de lavandería líquido.
+Estos productos portan menos aditivos que los jabones de tocador, aunque no hay que renunciar a probar con otros productos.
+
+El detergente cumple una doble misión: lisar las paredes celulares y promover el fraccionamiento de las proteínas largas para que no salgan con el ADN.
+En Edvotek recomiendan usar sal de mesa pura y agua destilada, pero yo he empleado con éxito sal yodada y agua embotellada, y hasta una vez en que olvidé añadir el bicarbonato obtuve buenos resultados.
+Evítese el agua del grifo.
+Para aminorar la velocidad de degradación del ADN, se enfría la solución tampón en un baño de hielo triturado y agua antes de proseguir.
+
+En la despensa está la fuente de ADN.
+Yo obtuve magníficos resultados con una cebolla;
+Edvotek recomienda también ajo, plátanos y tomates.
+Elegida la fruta o verdura, y tras cortarla a cuadraditos e introducirlos en la mezcladora, se añade un poco de agua. 
+Mézclese bien, accionando las hojas de corte de la mezcladora a impulsos de 10 segundos.
+O bien, más fácil, pásense los trozos por un prensa-ajos.
+Se romperán algunas células y otras muchas expondrán sus paredes al ataque del detergente.
+
+Introduciremos cinco mililitros de esas gachas de verdura picada en un recipiente limpio; los mezclaremos con 10 mililitros del tampón enfriado.
+Agítese vigorosamente durante dos minutos al menos.
+Se procede luego a separar la sustancia vegetal visible del caldo molecular concentrado. 
+Si es posible, empléese una centrífuga.
+(Para construirlas, léase la sección de marzo).
+Centrifúguese el contenido a baja velocidad durante cinco minutos y, después, viértanse cinco mililitros del líquido en exceso en un recipiente estrecho: una pipeta o un frasco de plástico transparente.
+A falta de centrífuga, cuélese el material por un filtro ordinario de café para eliminar la mayor parte del desecho vegetal. 
+Con suerte, todo desecho que pase el filtrado se hundirá o flotará, por lo que será fácil vaciar los sólidos en el fregadero y luego introducir el líquido aclarado en un recipiente limpio.
+
+La solución retendrá fragmentos de ADN, amén de un enjambre de moléculas indeseables.
+Para extraer el ADN, enfriaremos un poco de alcohol isopropílico en el congelador hasta los cero grados.
+En la mayoría de las farmacias se vende en concentraciones del 77 al 99 por ciento.
+Optaremos por el de mayor concentración (sin colorantes ni perfumes).
+Con una paja de sorber refrescos, depositaremos 10 mililitros del alcohol enfriado encima de la solución de ADN.
+Para que no nos entre alcohol en la boca, se coloca la paja en la botella del alcohol y se pellica la superficie con la punta de la paja.
+Dejaremos que el alcohol se escurra lentamente por la cara interna del recipiente inclinando éste ligeramente.
+El alcohol, al ser menos denso que el tampón, flotará.
+Se inserta una varilla estrecha atravesando la capa de alcohol. ( Edvotek recomienda un palillo de remover café o una varilla de cóctel de vidrio.).
+
+Con parsimonia removeremos la varilla, hacia adelante y hacia atrás, con su punta justo debajo de la separación entre el alcohol y la solución tampón.
+Entonces, los trozos mayores de ADN se arrollarán sobre la varilla, quedándose en la solución las moléculas menores.
+Al cabo de un minuto sacaremos la varilla a través del alcohol, y así el ADN se adherirá al extremo de varilla con el aspecto de un lodo viscoso y transparente agarrado a la punta.
+
+Aunque el resultado sea impresionante, es éste un procedimiento sencillo y barato que no rinde un producto puro. 
+Los profesionales añaden enzimas que fragmentan las moléculas de ARN para asegurarse de que éstas no se entremezclan con el codiciado ADN.
+
+Incluso tras las extracción más concienzuda, es normal que en el recipiente quede ADN residual que forma una telaraña invisible en el líquido.
+Pero con un pequeño esfuerzo adicional también es posible ver ese material.
+Algunos colorantes, como el azul de metileno, se adhieren a los fragmentos de ADN dotados de carga.
+Una minúscula cantidad añadida a la solución remanente revela zarcillos de ADN no recogido.
+Ignoro si los colorantes de cocina o los tintes de ropa o cabello funcionan también.
+Sería cuestión de averiguarlo. 
+Añádase sólo una gota;
+nuestro deseo es que todas las moléculas del tinte se adhieran al ADN, sin que quede ninguna para manchar el agua.
+
+La extracción del ADN de un organismo es sólo el primer paso en la mayoría de los experimentos biológicos. 
+A los aficionados quizá les interese conocer hasta dónde pueden llegar en la experimentación.
+De momento hasta clasificar los distintos fragmentos de ADN según sus longitudes.
+
+La Society for Amateur Scientists y Edvotek han aunado fuerzas para crear un kit que contiene muestras de células, útiles de laboratorio, enzimas, tampones y detergentes que facilitan la creación de preparados de más calidad.
+Para más información acerca de éste y otros proyectos científicos para aficionados, visite el foro de la sociedad en xxx .

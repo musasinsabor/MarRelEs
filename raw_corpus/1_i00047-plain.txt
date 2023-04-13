@@ -1,0 +1,177 @@
+
+A PRUEBA 
+
+Portátiles 
+
+Grande, brillante y bonito: es el ThinkPad 760CD
+
+El último portátil de IBM tiene una pantalla plana de calidad excepcional, ¿quien necesita un monitor externo?
+
+Russell Kay
+
+Lo que sorprende más del nuevo ordenador portátil de IBM ThinkPad 760CD es su pantalla de matriz activa de 12,1 pulgadas, que es simplemente preciosa.
+
+Brillante y clara, su panel de 800 X 600 píxels ofrece color a 16 bits (65.536 colores) y la misma área de visualización que un monitor estándar de 14 pulgadas.
+Debido a que sus prestaciones se acercan más a las de un monitor externo (considerando las que suelen ofrecer las pantallas de su clase), esta pantalla LCD de 12,1 pulgadas es, al menos, equivalente a una pantalla CTR de 15 pulgadas.
+
+Esto implica que el 760CD es, indiscutiblemente, el primer candidato para reemplazar a los equipos de sobremesa.
+Su elevado precio, 1.171.000 pesetas, también es chocante, pero hay que considerar que este ordenador es el producto estrella de IBM en el campo de los portátiles.
+
+Una vez que se han apartado los ojos de la pantalla, usted apreciará que este portátil multimedia posee otras cualidades para disfrutar.
+La CPU es un Pentium a 90 MHz, con 256 KB de memoria caché externa.
+Los modelos 760 sin CD pueden adquirirse con un procesador a 120 MHz.
+La configuración estándar de memoria es de 8 MB de DRAM; nuestra unidad de test estaba equipada con 16 MB, pudiendo ser expandida hasta los 40 MB con dos módulos de memoria en línea (DIMM).
+
+El sistema dispone de una unidad de CD-ROM interna de cuádruple velocidad (intercambiable con la unidad de disquete de 3,5 pulgadas); una batería de litio-ion; un disco duro EIDE de 1,2 GB; el sistema de IBM Mwave, de procesado digital de señal (DSP), dirigido a proporcionar un modem de 28,8 Kbps para fax y con características de telefonía; el reproductor de vídeo a pantalla completa MPEG-2 (con media resolución horizontal).
+El sistema posee también dos ranuras para conexión de tarjetas.
+
+Al presionar los dos cierres del frontal y levantar el teclado, recibimos una lección de «empaquetamiento» de ordenadores portátiles.
+
+Saque del ordenador la unidad de lectura del CD- ROM, la batería, el disco duro, y los subsistemas Mwave, y se encontrará con un paquete de aproximadamente 5 x 1,5 x 9 cm.
+Lo que queda es toda la CPU, el controlador gráfico, y la circuitería de entrada/salida.
+Con todos los anteriores dispositivos incluidos, el portátil ThinkPad pesa 3,35 Kg, que aún no siendo un peso ligero, tampoco es una gran carga.
+
+Buen diseño, mal diseño 
+
+El ThinkPad 760CD es una curiosa mezcla de diseño bien pensado con algunos detalles de torpe implementación.
+El equipo que nos envió el fabricante para nuestras pruebas tenía Windows 95 instalado (OS/2 Warp es otra opción), pero aún tuvimos una buena cantidad de trabajo para configurar el sistema.
+
+Por ejemplo, los puertos paralelo y serie llegaron desconectados, siendo imposible la conexión de un ratón externo, así que reiniciar Windows 95 se convirtió en una experiencia frecuente en nuestras pruebas.
+
+El modem fax a 28,8 Kbps basado en una DSP, ofrece funciones de telefonía y puede detectar un estímulo de entrada destinado a despertar el 760CD de su estado de desconexión, pero otra vez el modem (y el decodificador MPEG) tuvieron que ser específicamente establecidos por software. Ésta no es una máquina aconsejable para un novato.
+
+Físicamente, el ThinkPad está bien hecho.
+El teclado se eleva por la parte trasera para permitir diferentes ángulos de escritura, o se saca totalmente para acceder a la batería, disco duro, y lo que IBM llama ultrabay , una cavidad en la que normalmente está el CD- ROM, pero que puede contener una unidad de disquete, una batería extra o un segundo disco duro.
+
+Ésto representa mucha flexibilidad, pero la implementación de estas partes intercambiables es incómoda.
+Se pueden extraer los dispositivos o las baterías instaladas tirando hacia arriba de unas lengüetas de plástico azul situadas en la parte posterior de cada dispositivo.
+Estas lengüetas, aunque presumiblemente sean suficientemente resistentes, no inspiran confianza; y la operación se hace complicada si se tienen las manos resbaladizas.
+
+Peor es el «bezel» que se debe instalar cuando cambia la unidad de CD- ROM por la de discos floppy.
+Este bezel cubre la abertura en el frontal del ThinkPad, pero no se puede colocar en su sitio el floppy si antes no se extrae la batería (lo que no mencionan las instrucciones).
+Realmente hay dos bezel distintos incluidos en el ordenador, uno para la unidad de disquete y el otro para el disco duro o la batería.
+
+Francamente representan una molestia.
+Nosotros hemos acabado por omitir el bezel , lo que hace que la unidad de disquete no quede colocada con la debida firmeza.
+
+Francamente, los bezel parecen unos plásticos pequeños y engorrosos destinados a romperse o perderse.
+Los creativos compañeros de IBM que soñaron el teclado expandible Butterfly, seguramente están capacitados para salir de este problema con una solución mejor que tapar un agujero.
+En este aspecto, los ordenadores portátiles Toshiba realizan un trabajo muy superior tratando con dispositivos periféricos.
+
+El bloque de la fuente de alimentación ha sido mucho mejor pensado.
+Para reducir el peso y la masa, el cable de conexión a la red sólo mide 15,5 cm.
+Quien se encarga de proporcionar la longitud necesaria es el fino cable que transporta la corriente continua al ordenador.
+
+La fuente de alimentación tiene una rampa modelada por donde sale el cable, de forma que éste no se doble en exceso.
+Simplemente, se tiene que enrollar el cable alrededor del bloque que forma la fuente y conectar a continuación el extremo del mismo.
+Pero... ¿qué pasa si de repente el cable se afloja?
+Que inevitablemente se desenrolla.
+
+Pues no.
+IBM ha instalado con acierto una cinta de velcro que permite sujetar el cable de una forma adecuada.
+
+Destaca como sistema multimedia 
+
+Con el reproductor MPEG, la calidad de vídeo en pantalla completa es excelente.
+También hemos disfrutado de la unidad de CD-ROM de cuádruple velocidad.
+
+Se pueden reproducir CD de audio utilizando un botón del panel central y, mediante un potenciómetro, se puede regular el volumen del sonido en los auriculares (no incluidos) o los dos altavoces estéreo montados en el ordenador.
+
+El sonido de estos altavoces es débil, como se puede esperar de unos transductores de 2,5 cm.de diámetro.
+La unidad de CD-ROM también lee discos compactos de fotografía Kodak y reproduce juegos interactivos en el formato CD-I de Philips.
+
+La unidad de test incluye Windows 95, con Microsoft Internet Explorer y Microsoft Network.
+
+Otro software empaquetado es Asymetrix Compel PE; el software de presentación multimedia Mind Path; el paquete de emulación de fax FaxWorks; el software para la transferencia de archivos TranXit, que puede utilizar el puerto serie, el puerto paralelo o una conexión interna de dos puertos con conexión mediante infrarrojos; el capturador de vídeo Digital Video Producing; un software reproductor de CD-I; y un grupo de aplicaciones Lotus que incluyen ScreenCam, cc:Mail Mobile, y Lotus Organizer 2.0.
+
+De nuevo en marcha 
+
+El teclado de este ordenador portátil es bueno.
+La unidad interna de dispositivo apuntador ( poiting device ) TrackPoint III es, de lejos, la implementación más bonita de su tipo que nunca hayamos visto.
+Es razonablemente rápido y preciso.
+Los dos botones del ratón, localizados en la base del teclado, pueden ser físicamente fijados para facilitar operaciones de edición tales como arrastrar y soltar.
+
+En las pruebas realizadas con el Thumper 2 de BYTE, un dispositivo robotizado que simula un uso normal del ordenador, las baterías de ion-litio del ThinkPad duraron tres horas con la unidad de CD-ROM inactiva.
+Con algunos CD que impliquen un constante funcionamiento de la unidad lectora de CD-ROM, la autonomía de las baterías puede reducirse drásticamente, (en nuestro test, bajó a 2,30 horas).
+
+En los manuales de este equipo IBM presume de que la vida de las baterías se sitúa entre tres y nueve horas, presumiblemente con todas las opciones de control de consumo ajustadas para optimizar el gasto de energía.
+Instalando una batería secundaria se dobla el tiempo de funcionamiento.
+También es posible conectar baterías híbridas de metal-níquel.
+
+Esta máquina tan bien equipada, y se dirige a usuarios de alto nivel económico que quieran consolidar sus actividades mediante un ordenador.
+Para medir el rendimiento, hemos realizado las pruebas desarrolladas por NTSL, utilizando aplicaciones para Windows 95 (Microsoft Excel 7 y Word 7).
+
+Cuando hemos comparado los resultados con los obtenidos con los del portátil Dell Dimension XPS P90 (con Pentium a 90 MHz y similar configuración), este portátil ThinkPad únicamente alcanzó dos tercios de la velocidad del Dell.
+Esto se debe a sus más lentos subsistemas gráficos (un cuello de botella en muchos equipos portátiles).
+
+El ThinkPad 760CD es una unidad muy bonita.
+Casi puede decirse que lo peor del 760CD es que comparado con otros modelos, tiene un precio elevado.
+Pero la pantalla realmente cambia el concepto que clásicamente se tiene de un ordenador portátil.
+Quiero uno para mí...
+
+Russell Kay es un editor técnico de BYTE.
+russellk@bix.com.
+
+Reproducido de BYTE, una publicación de McGraw Hill, inc.
+
+Traducción de Jordi Mateu.
+
+Requadre 1: 
+
+Realizando tests en un entorno Windows 95, con textos desarrollados por NTSL mediante Microsoft Word 7 y Excel 7, se demuestra que el ThinkPad 760CD no iguala a los equipos de sobremesa.
+Esto es típico de los portátiles a consecuencia de la velocidad de sus tarjetas gráficas.
+El test gráfico Wintach mostró que un equipo portátil Dell tenía un 67% más de velocidad en la representación gráfica.
+Nosotros realizamos el test con una resolución de 600 x 800 píxels y 256 colores.
+Ambos equipos disponían de un procesador Pentium a 90 MHz y 16 MB de RAM.
+El XPS P90 disponía de una tarjeta gráfica STB Powergraph 64.
+
+Requadre 2 
+
+¿Cual es la resolución? 
+
+Los ordenadores portátiles como el ThinkPad 760CD permiten ya resoluciones de pantalla mayores que una VGA estándar (640 x 480 píxels), aunque hay un problema con las aplicaciones DOS que aún funcionan con resoluciones de 640 x 480 píxels en pantallas LCD.
+En una pantalla CTR ésto no es problema, ya que existe una fuerte y rápida conexión entre la resolución lógica y los tríodos de fósforo rojos, verdes y azules que conforman la imagen.
+
+La distancia entre píxels viene determinada por la modulación del haz de electrones que traza la imagen en la superficie de la pantalla (véase la figura).
+Lo anterior es un sistema analógico, pero las pantallas LCD son digitales.
+Cada píxel es un elemento físico: un conjunto de tres células LCD controladas por un transistor, cada una con su propio filtro de color (de nuevo rojo, verde y azul).
+Para conseguir una resolución de 640 x 480 píxels o una de 800 x 600 píxels, en ambos casos se empieza con una imagen menor que ocupa el centro de la pantalla y el procesador gráfico intenta escalar la imagen para llenar toda la pantalla.
+Este proceso funciona bien para imágenes de vídeo, pero hace que el texto parezca extraño, ya que el escalado no puede ser suave.
+Algunas líneas están dobladas y otras no.
+
+Peu de foto 1 
+
+ThinkPad 760CD tiene más que ofrecer que la pantalla en color de 12,1 pulgadas.
+Levantando el teclado aparece un CD-ROM de cuádruple velocidad, una batería de ion-litio, un disco duro de 1,2 GB EIDE y un subsistema de comunicaciones y telefonía DSP, que proporciona una velocidad de 28,8 Kbps.
+
+Peu de foto 2 (amb el requadre 2) 
+
+Con la pantalla CTR, el tamaño y localización de los píxels no está relacionado con la matriz de puntos de fósforo coloreados que producen la imagen.
+Con una pantalla LCD, cada píxel es una estructura física.
+
+IBM ThinkPad 760CD 
+
+IBM España
+Santa Hortensia 26-28. 
+28002 Madrid Tel: (91) 397 75 43
+Fax: (91) 519 39 90.
+(Precio (IVA no incluido) 
+pesetas 
+Este precio se refiere a la configuración dotada de Pentium a 90 MHz, 16 MB de RAM, 256 L2 caché, pantalla de matriz activa de 12,1 pulgadas Disco duro EIDE de 1,2 GB y unidad de CD- ROM interna.
+IDE y un subsistema de comunicaciones y telefonía DSP, que proporciona una velocidad de 28,8 Kbps.
+
+Peu de foto 2 (amb el requadre 2) 
+
+Con la pantalla CTR, el tamaño y localización de los píxels no está relacionado con la matriz de puntos de fósforo coloreados que producen la imagen.
+Con una pantalla LCD, cada píxel es una estructura física.
+
+IBM ThinkPad 760CD 
+
+IBM España
+Santa Hortensia 26-28. 
+28002 Madrid Tel: (91) 397 75 43
+Fax: (91) 519 39 90.
+(Precio (IVA no incluido) 
+pesetas 
+
+Este precio se refiere a la configuración dotada de Pentium a 90 MHz, 16 MB de RAM, 256 L2 caché, pantalla de matriz activa de 12,1 pulgadas Disco duro EIDE de 1,2 GB y unidad de CD- ROM interna.

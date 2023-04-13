@@ -1,0 +1,668 @@
+
+ESTRUCTURA Y FUNCIÓN DE LOS CROMOSOMAS Y LOS GENES
+
+En los años 80 se realizaron progresos sobresalientes en cuanto al conocimiento de la estructura y función de cromosomas y genes a nivel molecular.
+Esto se debió principalmente al descubrimiento y la amplia aplicación de la tecnología del DNA (ácido desoxirribonucleico) recombinante, que ha proporcionado las herramientas para un nuevo enfoque de la genética médica.
+Estas herramientas han demostrado su utilidad en muchas situaciones clínicas. 
+En este capítulo se presenta una revisión de los aspectos de la genética molecular que se requieren para la comprensión del enfoque genético de la medicina.
+Este capítulo no intenta proporcionar una descripción extensa de la oleada de información nueva con respecto a la estructura y regulación génicas. 
+Para ampliar la información que se presenta en este capítulo, el capítulo 5 describe muchos procedimientos experimentales de la moderna genética molecular que se están convirtiendo en cruciales para la práctica y entendimiento de la genética médica y humana. 
+
+ORGANIZACIÓN DEL GENOMA HUMANO 
+
+El genoma humano en su forma diploide se compone aproximadamente de 6 a 7.000 millones de pares de bases (6 a 7 millones de pares de kilobases [kb]) de DNA organizado de manera lineal en 23 pares de cromosomas.
+El genoma contiene, según cálculos actuales, de 50.000 a 100.000 genes (codificando, por lo tanto, un número igual de proteínas) que controlan todos los aspectos de la embriogénesis, el desarrollo, el crecimiento, la reproducción y el metabolismo -esencialmente, todo lo relacionado con aquello que hace al ser humano un organismo funcional-. 
+Así, la influencia de los genes y la genética en los estados de salud y enfermedad es amplia, y sus raíces son la información codificada en el DNA que se halla en el genoma humano.
+Se entiende el papel de sólo un pequeño porcentaje del número total de genes. 
+No obstante, el armazón molecular y estructural general del genoma, de sus cromosomas y de sus genes es cada vez más evidente.
+El análisis de la organización del genoma humano constituye un área de considerable interés en la genética médica y humana actual: se anticipa que mucha información genética, si no toda, del genoma se identificará en un próximo futuro y se examinará a nivel molecular como parte de lo que se ha llamado el Proyecto Genoma Humano, un esfuerzo internacional para mapear y secuenciar todo el genoma humano.
+
+La caracterización y entendimiento de los genes y su organización en el genoma tienen un enorme impacto en la comprensión de los procesos fisiológicos del organismo humano tanto de la salud como de la enfermedad y consecuentemente, en la práctica de la medicina en general. 
+Como señaló Paul Berg, ganador del Premio Nobel: Así como nuestro conocimiento y práctica actuales de la medicina recaen en un conocimiento refinado de la anatomía, fisiología y bioquímica humanas. de la misma forma tratar la enfermedad en el futuro exigirá una comprensión detallada de la anatomía, fisiología y bioquímica moleculares del genoma humano...
+Requeriremos un conocimiento más detallado de la manera en que los genes humanos se organizan y del modo en que funcionan y se regulan. 
+También se necesitarán médicos versados en la anatomía y fisiología molecular de cromosomas y genes, de la misma manera que un cirujano cardíaco está informado de la estructura y funcionamiento del corazón (Berg. 1981. pág. 302).
+
+Estructura del DNA: una breve revisión 
+
+El DNA es una macromolécula polimérica de ácido nucleico que se compone de tres tipos de unidades: un azúcar de cinco carbonos (la desoxirribosa), una base que contiene nitrógeno y un grupo fosfato (figura 3-1). 
+Las bases son de dos tipos: purinas y pirimidinas.
+En el DNA existen dos bases purínicas: adenina (A) y guanina (G), y dos pirimidínicas: timina (T) y citosina (C).
+Los nucleótidos, cada uno compuesto de una base, un grupo fosfato y un azúcar, se polimerizan en largas cadenas de polinucleótidos mediante uniones 5'-3' fosfodiéster que se forman entre las unidades adyacentes de desoxirribosa (figura 3-2).
+En el caso de cromosomas humanos intactos, estas cadenas de polinucleótidos (en su forma de doble hélice) pueden extenderse cientos de millones de nucleótidos.
+
+La estructura anatómica del DNA transporta la información química que permite la transmisión exacta de la información genética de una célula a sus células hijas y de una generación a la siguiente. 
+Al mismo tiempo, la estructura primaria del DNA especifica la secuencia de aminoácidos de las cadenas de polipéptidos de las proteínas como se describirá después en este mismo capítulo.
+El DNA posee características especiales que le brindan estas propiedades.
+El estado natural del DNA, como lo descubrieron James Watson y Francis Crick en 1953, es una doble hélice (figura 3-3).
+La estructura helicoidal semeja una escalera de caracol dextrógira, en la que las dos cadenas de polinucleótidos avanzan en direcciones opuestas, mantenidas juntas por puentes de hidrógeno entre pares de bases: A de una cadena emparejada con T de la otra, y G con C (figura 3-3).
+Por lo tanto, el conocimiento de la secuencia de las bases de nucleótidos de una cadena permite de manera automática determinar la secuencia de las bases de la otra.
+Así, una molécula de DNA de doble cadena puede replicarse de modo preciso por la separación de las dos cadenas y la síntesis de las dos nuevas cadenas complementarias, en concordancia con la secuencia de la cadena modelo original (figura 3-4).
+De modo similar, cuando es necesario el carácter complementario de las bases permite la reparación eficaz y correcta de las moléculas dañadas de DNA.
+
+Figura 3.1
+
+Cuatro bases del DNA y estructura general de un nucleótido en el DNA
+
+Cada una de las cuatro bases se enlaza con desoxirribosa y un grupo fosfato para formar los nucleótidos correspondientes. 
+
+Figura 3.2
+
+Porción de una cadena polinucleótida de DNA, que muestra los enlaces de fosfodiéster 3'-5' que unen nucleótidos adyacentes
+
+Figura 3.3
+
+Estructura del DNA 
+
+A la izquierda aparece una representación bidimensional de las dos cadenas complementarias de DNA, donde se aprecian los pares de bases AT y GC.
+Nótese que la orientación de las dos cadenas es antiparalela.
+A la derecha se halla el modelo de doble hélice de DNA, tal como lo propusieron Watson y Crick .
+Las "barras" horizontales representan las bases pareadas. 
+Se dice que la hélice es dextrógira, porque la cadena que va del extremo inferior izquierdo al extremo superior derecho cruza sobre la cadena opuesta.
+
+Estructura de los cromosomas humanos
+
+Se cree que cada cromosoma humano consta de una única doble hélice de DNA continua: esto es, cada cromosoma es una molécula de DNA larga, lineal y de doble cadena. (La única excepción a esto lo constituye el pequeño cromosoma circular mitocondrial, que se trata más adelante en esta sección).
+En el genoma humano, el tamaño de estas moléculas lineales va de aproximadamente 50 millones de pares de bases (para el cromosoma más pequeño, el número 21) a 250 millones de pares de bases (para el cromosoma mayor, el número 1).
+Sin embargo, los cromosomas no son únicamente dobles hélices de DNA.
+La molécula de DNA de un cromosoma coexiste con una serie de proteínas cromosómicas básicas llamadas histonas y con un grupo heterogéneo de proteínas ácidas no histónicas cuya caracterización no está bien definida.
+Este complejo de DNA y proteína se denomina cromatina .
+Existen cinco tipos principales de histonas, que se conocen como H1, H2A, H2B, H3 y H4.
+Éstas desempeñan un papel fundamental en el adecuado empaquetamiento de la fibra de cromatina, como lo evidencia la notable conservación de las secuencias de aminoácidos de H2A, H2B, H3 y H4 a través de la evolución, incluso entre especies tan distintas como pollos v seres humanos.
+
+Dos copias de cada una de estas cuatro histonas constituyen un octámero, alrededor del cual se enrolla un segmento de DNA de doble hélice como hilo en un carrete (figura 3-5). 
+Aproximadamente, 140 pares de bases de DNA se asocian con cada núcleo de histonas, lo cual hace que den casi dos vueltas alrededor del octámero.
+Después de un corto segmento «espaciador» de DNA (de 20 a 60 pares de bases), se toma el siguiente complejo nuclear de DNA y así sucesivamente, lo cual brinda a la cromatina la apariencia de cuentas en un collar.
+Cada complejo de DNA con histonas nucleares se denomina nucleosoma , la unidad básica estructural de la cromatina.
+La histona H1, cuya secuencia de aminoácidos varía más entre especies que las de las histonas nucleares, parece que se enlaza al DNA en el extremo de cada nucleosoma, en la región espaciadora internucleosómica.
+La cantidad de DNA que se asocia con cada unidad de cromatina, incluidos el núcleo del nucleosoma y la región espaciadora, es de alrededor de 200 pares de bases.
+
+Durante el ciclo celular, como se describió brevemente en el capítulo 2, los cromosomas atraviesan de manera ordenada las etapas de condensación y descondensación (figura 3-6).
+En el núcleo en interfase, los cromosomas y la cromatina se encuentran bastante descondesados en relación con el estado altamente condensado de la cromatina en la metafase. 
+Sin embargo, incluso en los cromosomas en interfase, el DNA en la cromatina se halla sustancialmente más condensado de lo que estaría como una doble hélice simple libre de proteínas.
+La mayor parte del DNA, si no todo, en el núcleo interactúa con las histonas para formar nucleosomas.
+En esta etapa, el DNA se condensa en cerca de una décima parte de su extensión natural. 
+Así, en términos más concretos, el DNA del cromosoma 1 humano, que mediría alrededor de 15 cM de longitud como doble hélice simple, mide sólo alrededor de 1.5 cM cuando se asocia con proteínas cromosómicas. 
+
+Las largas cadenas de nucleosomas se compactan más por sí solas en una estructura cromática secundaria helicoidal denominada solenoide (figura 3-5), que aparece en el microscopio electrónico como una gruesa fibra de 30 nm de diámetro (alrededor de tres veces más gruesa que la cadena nucleosómica).
+Esta fibra parece ser la unidad fundamental de organización de la cromatina.
+Cada giro del solenoide contiene cerca de seis nucleosomas.
+Así, en este nivel de compactación en un núcleo en interfase, la cromatina que conforma el cromosoma 1 mide cerca de 0.3 cM de longitud.
+Los solenoides se empaquetan por sí solos en asas o parcelas unidos en intervalos de 10 a 100 kb a un armazón o matriz de proteína no histónica. 
+Se ha especulado que, de hecho, las asas constituyen unidades funciónales de replicación de DNA o de transcripción génica, o de ambas, y los puntos de anclaje de cada asa son fijos a lo largo del DNA cromosómico.
+Por lo tanto, un nivel de control de la expresión génica quizá dependa de la manera en que el DNA y los genes se empaquetan en los cromosomas y de la forma en que se asocian con proteínas cromosómicas en dicho proceso de empaquetamiento.
+A diferencia de los cromosomas que se observan en preparaciones teñidas bajo el microscopio o en fotografías, los cromosomas de las células vivas aparecen como estructuras fluidas y dinámicas.
+Los diversos niveles jerárquicos de empaquetamiento que se observan en un cromosoma en interfase se ilustran de modo esquemático en la figura 3-5.
+
+Las asas pueden constituir el inicio de los engrosamientos semejantes a nudos (llamados cromómeros ) que se observan al microscopio en cromosomas de la profase temprana, cuando comienza la mitosis (figura 3-6).
+Cuando los cromosomas se condensan más, los cromómeros adyacentes se fusionan en otros mayores.
+Estos grupos de cromómeros finalmente se convierten en las bandas G oscuras teñidas de los cromosomas en profase o metafase. 
+En la profase, los cromosomas se aprecian fácilmente con el microscopio.
+Como se señaló en el capítulo 2, en esta etapa pueden reconocerse 1.000 o más bandas en preparaciones de cromosomas teñidos (bandeo de alta resolución), y cada banda contiene varios millones de pares de bases de DNA (y, como se describirá más adelante, quizá de 50 a 100 genes).
+En la profase, el cromosoma 1 se ha condensado hasta tener una longitud total de cerca de 50 xxx (condensado hasta alrededor de 1/3.000 de la longitud de una doble hélice simple).
+Cuando se ha condensado al máximo, en la metafase, el DNA en los cromosomas mide alrededor de 1/10.000 de su longitud natural. 
+Por lo tanto, cada banda que se reconoce citogenéticamente en preparaciones de metafase contiene, por término medio, cerca de 10 a 20 millones de pares de bases de DNA.
+Después de la metafase, en tanto que las células completan la mitosis o la meiosis, los cromosomas abandonan su estado de condensación y vuelven a su estado extendido como cromatina en el núcleo en interfase, listos para comenzar el ciclo de nuevo (figura 3-6). 
+
+El comportamiento preciso de los cromosomas individuales durante el ciclo celular está determinado por cierto número de elementos funciónales que resultan imprescindibles para la correcta expresión, duplicación y segregación de los cromosomas.
+Entre dichos elementos, los más caracterizados son los orígenes de replicación de DNA, telómeros y centrómeros .
+De estos dos últimos se habló en el capítulo 2.
+Antes se explicó brevemente la replicación de una doble hélice de DNA (figura 3-4).
+La considerable longitud de un cromosoma humano (como todos los cromosomas eucarióticos) requiere que la replicación comience en varios centenares de lugares para completar la síntesis de la molécula entera dentro de la fase S del ciclo celular.
+Los puntos de inicio de la síntesis de DNA, llamados orígenes , pueden ser secuencias específicas de DNA que se ubican en intervalos de varios centenares de kilobases a lo largo de la extensión del cromosoma.
+
+La enorme cantidad de DNA empaquetado en un cromosoma en metafase puede apreciarse cuando los cromosomas se tratan con objeto de desprender la mayor parte de las proteínas de la cromatina para observar el armazón proteico (figura 3-7).
+Cuando el DNA se libera de los cromosomas tratados de dicha manera, pueden observarse largas asas de DNA y que el armazón residual reproduce el contorno de un cromosoma típico en metafase.
+
+Figura 3.4
+
+Replicación de una doble hélice de DNA, que genera dos moléculas hijas idénticas, cada una compuesta de una cadena original (en negro) y otra recién sintetizada (en rojo)
+
+Figura 3.5
+
+Niveles jerárquicos de empaquetamiento de cromatina en un cromosoma humano
+
+Figura 3.6
+
+Ciclo de condensación y descondensación de un cromosoma durante el ciclo celular 
+
+Cromosoma mitocondrial
+
+Si bien la mayor parte de los genes se localizan en el núcleo, un grupo pequeño pero importante reside en el citoplasma, en la mitocondria.
+Los genes mitocondriales se transmiten exclusivamente a través de la madre (cap. 4).
+Todas las células humanas poseen centenares de mitocondrias, y cada una contiene cierto número de copias de una pequeña molécula circular, el cromosoma mitocondrial.
+La molécula de DNA mitocondrial tiene un tamaño de sólo 16 kb de longitud (menos del 0,03% de la extensión del más pequeño cromosoma nuclear) y codifica 13 genes estructurales clave, así como otros varios genes estructurales de ácido ribonucleico (RNA).
+Se han demostrado mutaciones en genes mitocondriales en varios trastornos neuromusculares, incluida la neuropatía óptica hereditaria de Leber, que se trasmite por vía materna (cap. 4).
+
+Tabla 3.1
+
+El DNA en el genoma humano
+
+Clases de DNA en el genoma humano
+
+La organización del DNA en el genoma humano es mucho más compleja de lo que se creyó aun en fecha tan reciente como 1980.
+De hecho, menos del 10% del DNA en el genoma codifica genes.
+Sólo alrededor de tres cuartas partes de la longitud lineal total del genoma está formado por el denominado DNA de copia simple o única , es decir, DNA cuya secuencia de nucleótidos está representada sólo una vez (o como mucho unas pocas veces) por genoma haploide.
+El resto del genoma consiste en varias clases de DNA repetitivo e incluye DNA cuya secuencia de nucleótidos se repite, idénticamente o con alguna variación, de centenares a millones de veces en el genoma.
+Mientras que la mayor parte (pero no todos) de los 50.000 a 100.000 genes del genoma están representados en DNA de copia simple, la fracción de DNA repetitivo se cree que participa en el mantenimiento de la estructura cromosómica o bien quizá no posea ningún papel esencial (tabla 3-1).
+
+LOS GENES EN LAS POBLACIONES
+
+La genética es una especialidad singular entre las diversas disciplinas de la medicina porque centra su atención en una familia, en lugar de hacerlo en un paciente individual. 
+La genética médica se ocupa no sólo de la realización de un diagnóstico correcto en un caso particular, sino de la determinación de genotipos de otros miembros de la familia y del cálculo de los riesgos de recurrencia para los padres de un sujeto afectado y para sus hermanos, así como para familiares más lejanos. 
+Además, ya que en dichos riesgos generalmente no sólo influyen los genotipos de los familiares directos, sino también los de las personas de la población general que entran en la familia por matrimonio, el consejo genético debe tener en cuenta la probabilidad de que se presenten genotipos específicos en poblaciones diferentes.
+Así, tanto para realizar un diagnóstico clínico genéticamente correcto como para determinar los riesgos de recurrencia como parte de un consejo genético eficaz, con frecuencia importa, por ejemplo, si una familia tiene sus orígenes en las islas Británicas o en el Mediterráneo, o bien en Finlandia, así como si existen antecedentes familiares de consanguinidad o si la familia es de raza blanca, negra o asiática.
+En genética, más que en cualquier otra especialidad médica, el paciente es un reflejo de la población a la que pertenece.
+
+La genética poblacional es el estudio de la distribución de los genes en las poblaciones y de la manera en que las frecuencias de genes y genotipos se mantienen o cambian.
+El tema de este capítulo es que el conocimiento de los genes de diferentes enfermedades que son frecuentes en poblaciones distintas y su efecto o falta de efecto sobre la ventaja selectiva reproductiva puede resultar muy valioso en el diagnóstico clínico y el consejo genético.
+La genética poblacional tiene mucho en común con la epidemiología, el estudio de las interrelaciones de varios factores genéticos y ambientales que determinan la frecuencia y distribución de trastornos en comunidades humanas.
+Las dos áreas se fusionan en el campo de la epidemiología genética, que se ocupa principalmente de enfermedades que poseen complejos patrones de herencia o son causados por una combinación de factores hereditarios y ambientales.
+Como se describe con más detalle en el capítulo 15, este enfoque ha mejorado de hecho la comprensión de la genética de muchas enfermedades, en especial de los trastornos habituales de la edad adulta.
+
+En este capítulo se describe el principio básico de la genética poblacional, el equilibrio de Hardy-Weinberg. 
+Consideramos las suposiciones de dicho principio y los factores que pueden provocar desviación real o aparente del equilibrio en poblaciones reales en comparación con poblaciones ideales.
+Asimismo, se considera la manera para determinar las frecuencias y las tasas de mutación de ciertos genes de importancia clínica, tanto autosómicos como ligados al X.
+
+POBLACIONES HUMANAS
+
+La especie humana, con cerca de 5.000 millones de miembros, se divide en muchas subpoblaciones distinguibles, las más grandes de las cuales se denominan comúnmente razas .
+Éstas se definen como grupos de poblaciones principales cuyos acervos genéticos difieren entre sí. 
+Existen tres divisiones raciales principales: caucásicos, negros y asiáticos, cada una de las cuales tiene numerosos subgrupos genéticamente diferentes.
+Aunque los cromosomas humanos y los loci que contienen son idénticos en todos los miembros de la especie, las frecuencias alélicas en muchos loci varían ampliamente entre grupos poblacionales. 
+Como se señaló en el capítulo anterior. 
+Algunas variantes están casi restringidas a miembros de un solo grupo, si bien no necesariamente se hallan en todos los miembros de dicho grupo.
+Más a menudo, sin embargo, la situación más frecuente es que distintos alelos tengan frecuencias diferentes en poblaciones distintas.
+Dentro de cada población existe mucha variación, siendo ésta de mayor magnitud, por término medio, que las diferencias medias entre grupos.
+
+La mutación es la base de las diferencias genéticas entre las razas y sus subpoblaciones.
+La selección de mutaciones favorables como respuesta a condiciones ambientales o la probabilidad de supervivencia de mutaciones neutrales específicas o incluso nocivas, junto con un grado de aislamiento reproductivo entre los grupos, permiten que se establezcan las diferencias genéticas entre grupos poblacionales.
+En el periodo glacial más reciente, hace 10.000 años aproximadamente, la masa terrestre euroasiática, en la que se habían desarrollado asentamientos humanos pequeños y esparcidos. se dividió en tres regiones distintas separadas por áreas glaciales montañosas que constituyeron barreras físicas para la comunicación y el apareamiento.
+Se cree que en estas regiones, geográfica, y por tanto, genéticamente aisladas unas de otras, se desarrollaron los tres grupos raciales principales.
+Después cada grupo se subdividió cada vez más en numerosas subpoblaciones distintas, a menudo denominadas grupos étnicos , con sus propios conjuntos característicos de frecuencias génicas.
+Muchas veces hay diferencias marcadas en las frecuencias alélicas entre grupos poblacionales, tanto para alelos que generan enfermedad genética como para marcadores genéticos neutrales presumiblemente selectivos, como grupos sanguíneos, polimorfismos proteicos y algunos de DNA (tablas 7-1 y 7-2).
+Aunque los primeros son muy importantes para determinar los riesgos de recurrencia de enfermedades genéticas en grupos poblacionales específicos, los últimos resultan importantes como marcadores de la evolución humana reciente.
+
+Tabla 7.1
+
+Ejemplos seleccionados de alelos de enfermedades con frecuencias diferentes en poblaciones distintas 
+
+Alelo xxx del gen de la xxx -globina (anemia drepanocítica).
+Alta en África, menos común en cualquier otra parte.
+
+
+Alelo xxx del gen de la xxx - globina.
+Alta en África occidental específicamente.
+
+
+Fibrosis quística.
+Alta en poblaciones de raza blanca europeas y de Estados Unidos; baja en poblaciones asiáticas y africanas; baja en Finlandia.
+
+
+Enfermedad de Tay- Sachs.
+Frecuencia alta de varios alelos entre los judíos ashkenazi y reducida en la mayor parte de las poblaciones no ashkenazi.
+
+
+Coroideremia .
+Común en Finlandia; muy rara en cualquier otra parte.
+
+
+Distrofia miotónica .
+Alrededor de 1 por 10.000 20.000 en la mayor parte de las poblaciones, pero ,1 por 1.000 en ciertas partes de Quebec .
+
+
+Tabla 7.2
+
+Ejemplos de loci polimórficos con diferentes frecuencias alélicas en poblaciones distintas
+
+Sistema del grupo sanguíneo ABO.
+Variación amplia; p. ej., alelo B común en asiáticos, pero ausente en las poblaciones aborígenes americanas.
+
+
+Sistemas de otros grupos sanguíneos.
+Amplia variación de la frecuencia de alelos frecuentes; algunos alelos raros muestran distribución restringida (el alelo R xxx del Rh se encontró sólo en África .
+
+
+xxx -antitripsina.
+Las frecuencias de los tres principales alelos M varían entre poblaciones (p. ej., M1 de 0,51 a 0,98; M2 de 0,00 a 0,20) .
+
+
+Alcohol-deshidrogenasa.
+Tres loci: ADH1 , ADH2, ADH3; la variante ADH2 es mucho más común en japoneses (90 %) que en europeos (15 %).
+
+
+Aldehído-deshidrogenasa.
+Deficiencia de ALDH1 en el 50 % de los asiáticos y en xxx 5% de los indios norteamericanos.
+
+
+Sistema HLA.
+Numerosos alelos en cada sublocus, variación amplia de la frecuencia.
+
+
+Actividad lactasa.
+Dos alelos principales para actividad alta y baja; Actividad baja después de la primera infancia común en africanos y asiáticos (frecuencia alélica. 0,8 a 0,95)y menos frecuente en individuos de raza blanca del norte de Europa y Estados Unidos (frecuencia alélica, 0.17 a 0,48).
+
+
+Niveles de apolipoproteína A-I.
+La concentración plasmática varía de xxx y se correlaciona con riesgo de enfermedad cardíaca coronaria; el alelo para un nivel bajo de apoA-I es común entre los chinos, pero menos frecuente en otras poblaciones.
+
+
+FENOTIPOS, GENOTIPOS Y FRECUENCIAS GÉNICAS
+
+Si bien se requiere conocer el genotipo de una persona para determinar con precisión los riesgos de recurrencia, en la mayoría de las ocasiones sólo el fenotipo puede observarse y medirse de manera directa.
+Así se requiere utilizar las cifras de frecuencia de una enfermedad hereditaria u otro rasgo genético para calcular las frecuencias alélicas individuales.
+Para realizar esto se requieren conocimientos sobre la presencia de los genes en las poblaciones y su transmisión de generación en generación. 
+
+Los fenotipos monogénicos, como los que se mencionaron en el capítulo 4, se segregan claramente en las familias y, por término medio, tienden a ocurrir en proporciones fijas y predecibles.
+Un solo ejemplo de un rasgo hereditario autosómico común gobernado por un solo par de alelos puede utilizarse para ilustrar los principios básicos que rigen la herencia de los genes en las poblaciones.
+Considérese el sistema de grupo sanguíneo MN (las glucoforinas), en el cual un par de alelos expresados en forma codominante M y N , generan tres genotipos, M/M, M/N y N/N y tres fenotipos correspondientes, M, MN y N (v. cap. 6).
+Como queda claro a partir de los principios de la herencia monogénica que se presentaron en el capítulo 4, una unión específica de una mujer MN y un varón MN produciría tres tipos distinguibles de descendencia (M, MN y N), en las proporciones esperadas xxx .
+
+Es posible extender estos mismos principios a las uniones de la población en general.
+Un muestreo de individuos de una población proporciona números absolutos de fenotipos MN (y, por tanto, genotipos) que pueden convertirse en frecuencias relativas al dividirlos entre el número total de observaciones.
+De este modo, para una población británica que estudiaron Race y Sanger( 1975): Se utilizan las frecuencias relativas observadas para calcular las frecuencias de los alelos M y N en esta población, porque éstas constituyen la estimación que se requiere para realizar predicciones acerca de uniones y sus probables resultados.
+Basándonos en las frecuencias genotípicas y fenotípicas observadas, pueden determinarse directamente las frecuencias génicas teniendo en cuenta que cada genotipo autosómico tiene dos alelos.
+En este ejemplo, entonces, la frecuencia observada del alelo M es: xxx .
+De modo similar, es posible calcular la frecuencia de N (0,47) sumando directamente el número de alelos N (1.347 de un total de 2.838 alelos) o simplemente restando la frecuencia de M de 1 (por lo tanto, la frecuencia de N = xxx , ya que las frecuencias relativas de los dos alelos deben sumar 1.
+
+Se ha empleado esta pequeña muestra de individuos en una población para obtener cálculos de la frecuencia relativa de los dos alelos en la población en conjunto. 
+En este contexto, cuando nos referimos a la frecuencia poblacional de un gen (alelo), estamos considerando un acervo génico , que contiene todos los alelos en un locus particular para toda la población.
+La probabilidad de que un individuo tenga un genotipo particular en el locus MN depende de la frecuencia de los alelos M y N en el acervo genético Si las frecuencias relativas de los dos alelos en el acervo génico son 0,53 (para M ) y 0,47 (para N ), entonces las proporciones relativas de las tres combinaciones de alelos (genotipos) en la población de la que se extrajo esta muestra de 1.419 sujetos son xxx (para obtener dos alelos M del acervo), xxx (para dos alelos N) y xxx (para un alelo M y otro N ).
+
+LEY DE Hardy-Weinberg
+
+Poniendo el ejemplo anterior en términos más generales, si p es la frecuencia de un alelo y q es la frecuencia del otro alelo, entonces las frecuencias de las tres combinaciones alélicas serán: xxx M/M M/N N/N .
+Una consecuencia importante de las relaciones entre fenotipo, genotipo y frecuencias alélicas es que las proporciones de los genotipos no cambian de generación en generación. 
+En la generación que sigue a uniones aleatorias en una población en la que los genotipos M/M, M/N y N/N están presentes en las proporciones xxx , los genotipos aparecen en las mismas proporciones relativas (tabla 7-3).
+
+El hecho de que los genotipos se distribuyan en proporción a las frecuencias de alelos individuales en una población y permanezcan constantes de generación en generación constituye el principio básico de la piedra angular de la genética poblacional, la ley de Hardy-Weinberg .
+Esta ley fue denominada así por George Hardy, un matemático inglés, y Wilhelm Weinberg, un médico alemán, que formularon de manera independiente esta tesis en 1908.
+Para algunos resultó sorprendente en ese tiempo que un alelo dominante no incrementase su frecuencia de manera automática hasta reemplazar el alelo recesivo complementario o que un alelo recesivo deletéreo, como el que genera la fibrosis quística en niños de raza blanca (cap.
+
+4), no disminuya automáticamente su frecuencia hasta que se elimina por completo de una población.
+La ley de Hardy Weinberg explicó la base de la invariabilidad de las frecuencias génicas como una aplicación del teorema binomial.
+
+Tabla 7.3
+
+Frecuencias de tipos de uniones y descendencia para una población en equilibrio de Hardy-Weinberg con genotipos de los padres en la proporción xxx 
+
+Distribución binomial . 
+La distribución binomial, descubierta originalmente por Sir Isaac Newton, fue probada de manera rigurosa por primera vez por Jakob Bernoulli, un matemático. 
+En términos generales, cuando existen dos eventos alternativos, uno con probabilidad p y otro con probabilidad 1 xxx , las frecuencias de las combinaciones posibles de p y q en una serie de n tentativas vienen dadas por el desarrollo de xxx .
+
+Examinaremos ahora un ejemplo simple que tiene cierta relevancia clínica: la distribución de niños y niñas en nacimientos sucesivos.
+
+Se supone que los nacimientos de varones y mujeres tienen una probabilidad de 1/2, aun cuando la probabilidad verdadera de nacimiento de varones humanos (p) es de hecho un poco más alta que 1/2.
+Entonces, la distribución de grupos de hermanos con dos niños, un niño y una niña, y dos niñas en familias con dos hijos viene dada por el desarrollo del binomio xxx ; en familias con tres hijos, por el desarrollo de xxx y así sucesivamente,donde xxx .
+
+Así, en grupos de hermanos con dos individuos, xxx xxx de grupos de hermanos con 2 niños; xxx con un niño y una niña; xxx con dos niñas.
+
+En grupos de hermanos con tres miembros, xxx xxx de grupos de hermanos con tres niños; xxx con dos niños y una niña; xxx con un niño y dos niñas: xxx con tres niñas. 
+
+Por supuesto, independientemente de la distribución de sexos de los niños precedentes en un grupo de hermanos, cada nuevo hermano posee probabilidades iguales de ser varón o mujer.
+
+Los matemáticos quizá prefieran utilizar el término general del desarrollo binomial, que es: xxx donde n xxx número en series, p = probabilidad de un evento específico, q xxx probabilidad del evento alternativo, m = número de veces que ocurre p (esto es, el exponente de p) y xxx (n factorial) es n ( xxx ) ( xxx ).
+
+En este ejemplo, los valores de p y q son cada uno de 1/2, pero la distribución binomial puede utilizarse también para otros valores.
+El mismo método se aplica. 
+por ejemplo, para proporcionar la distribución de un rasgo autosómico recesivo conocido entre la progenie de dos padres heterocigotos.
+Aquí, la probabilidad de un evento (que un niño resulte afectado) es de 1/4. y la probabilidad del otro evento (que un niño no padezca la afección) es de 3/4.
+De este modo, la probabilidad de engendrar un hijo afectado en un grupo de hermanos de cinco miembros es de: xxx .
+De modo similar puede calcularse que la probabilidad de tener tres niños afectados es de xxx o aproximadamente 9 %.
+
+Proporciones genéticas
+
+Una de las utilidades importantes de la distribución binomial en genética poblacional es concretar si un determinado trastorno, cuyo patrón de herencia no se ha establecido previamente, es autosómico recesivo, examinando si su distribución en grupos de hermanos se ajusta al 25% esperado para la herencia autosómica recesiva.
+Por ejemplo, suponiendo herencia recesiva, ¿qué proporción de familias con tres hijos tendrá 0, 1, 2 y 3 niños afectados?
+De acuerdo con el procedimiento empleado antes, p (posibilidad de un niño clínicamente normal) es igual a 3/4, q (posibilidad de un hijo afectado) es igual a 1/4, n xxx y ( xxx ) xxx .
+Así, la expectativa teórica. basada en herencia autosómica recesiva, es que: 27/64 de todas estas familias no tengan niños afectados; 27/64 tengan un hijo afectado; 9/64 tengan dos hijos afectados; 1/64 tengan tres hijos afectados.
+
+Sesgo de detección
+
+Se han determinado las proporciones esperadas de niños afectados en familias con tres hijos de padres que son portadores de un trastorno autosómico recesivo.
+
+Como se mostró, si se detecta una familia sólo cuando tiene al menos un niño enfermo, y si se identifican todas estas familias, entonces se perderán 27 de las 64 familias con riesgo (42 %).
+De las 37 familias detectadas, xxx tienen un hijo afectado: xxx tienen dos hijos afectados; xxx tienen tres hijos afectados.
+
+Entonces, en el grupo detectado, el número total de niños afectados entre 111 niños en 37 familias es de xxx , muy por encima del 25 % que en teoría se esperaba para la herencia autosómica recesiva.
+¿Dónde estuvo el error?
+
+Este es un ejemplo de sesgo de detección , un sesgo que debe evitarse en la investigación médica, en especial en la genética médica. 
+En pruebas para herencia autosómica recesiva, los grupos de hermanos sin miembros afectados inevitablemente se pierden, y dependiendo de la manera en que se realiza la detección, la posibilidad de que un grupo de hermanos se detecte puede ser mayor cuando en dicho grupo hay dos o más miembros afectados que cuando sólo hay uno.
+Se conocen varios métodos estadísticos para corregir el sesgo en diferentes condiciones de detección y se describen en muchos textos de estadística. 
+
+El sesgo de detección se menciona aquí brevemente. porque no reconocer su importancia puede conducir a errores graves.
+
+Frecuencia de genes y genotipos autosómicos
+
+Como hemos visto, las distribuciones de genotipos de Hardy-Weinberg en poblaciones constituyen distribuciones binomiales simples. 
+Los símbolos p y q representan las frecuencias de dos alelos alternativos en un locus (donde xxx ), y xxx pudiendo esto hacerse extensivo al par de alelos en cualquier locus autosómico o a cualquier locus ligado al X en mujeres.
+(Debido a que los varones son los únicos que tienes solamente un cromosoma X, en ellos las frecuencias de genes ligados al X se consideran de manera separada en una sección posterior).
+Si un locus posee tres alelos, p, q y r, la distribución genotípica puede determinarse a partir de xxx .
+En términos generales, mediante binomios es posible calcular las frecuencias genotípicas para cualquier número conocido de alelos.
+
+En genética clínica, el empleo principal de la ley de Hardy-Weinberg es para el cálculo de las frecuencias genéricas y de heterocigotos cuando se conoce la frecuencia de un rasgo genético, como se ilustró antes en el caso de un rasgo codominante expresado para el locus MN.
+Una aplicación relacionada para determinar la frecuencia de portadores de un trastorno autosómico recesivo se mostró en el capítulo 4 con referencia a la fibrosis quística; otros ejemplos de la aplicación de estos cálculos se proporcionan en la tabla 7-4, en donde se comparan las frecuencias génicas y de heterocigotos de algunos transtornos en poblaciones con incidencias altas y bajas.
+
+Las frecuencias de genes autosómicos dominantes también pueden calcularse a partir de datos de incidencia. 
+A menudo, los homocigotos para condiciones autosómicas dominantes son tan raros que pueden ser olvidados en el cálculo (tabla 7-5).
+Debido a que casi todo paciente resulta, por lo tanto, un heterocigoto con un alelo normal y otro anormal, la frecuencia del alelo mutante (q) es aproximadamente la mitad de la incidencia de la enfermedad ( xxx o alrededor de xxx , puesto que el valor de p está muy cercano a 1).
+La incidencia observada de hipercolesterolemia familiar (HF), por ejemplo, es aproximadamente de 1/500.
+Por tanto, puede calcularse que la frecuencia del gen mutante de HF es la mitad de dicha cifra, o alrededor de 0,0001 (tabla 7-5).
+
+Tabla 7.4
+
+Incidencia y frecuencia génica y de heterocigotos para trastornos seleccionados autosómicos recesivos en diferentes poblaciones
+
+EL MAPA GÉNICO HUMANO: MAPEO GÉNICO Y ANÁLISIS DE LIGAMIENTO
+
+Los genetistas, que trabajan sobre muchos organismos diferentes, dependen del mapeo génico para establecer la identidad de los genes que controlan distintos rasgos.
+El mapeo génico en genética humana y médica ha probado no ser una excepción a este patrón y además ha producido un rico dividendo al aportar información de enorme valor práctico para la biología y la medicina.
+Como se señaló en capítulos anteriores, el mapeo génico humano constituye una de las áreas de estudio de más rápida expansión en la genética médica actual.
+Esto se debe en gran medida a que dicha técnica puede proporcionar una vía directa para identificar genes que provocan enfermedades genéticas.
+A medida que las aplicaciones de la información del mapeo génico en el diagnóstico de enfermedad, el aislamiento de genes y el consejo genético han ido siendo más ampliamente apreciadas, ha ido ganando fuerza el ímpetu para lograr un mapa génico humano completo-una enciclopedia de todos nuestros genes y sus trastornos genéticos-.
+Hoy en día, las publicaciones médicas están llenas de comunicaciones que asignan las enfermedades genéticas a cromosomas particulares y los registros médicos contienen muchos informes de laboratorio en los que los marcadores genéticos se han utilizado para realizar consejo genético apropiado o diagnósticos precisos.
+
+Existen dos procedimientos fundamentalmente diferentes para lograr los mapas génicos de los cromosomas humanos: el mapeo físico y el genético.
+El mapeo físico emplea varios métodos para asignar los genes a determinadas localizaciones a lo largo del cromosoma. 
+Con estos métodos,las posiciones del mapa se describen en unidades que constituyen un reflejo de algunas mediciones físicas realizadas con células somáticas en el laboratorio.
+El mapeo genético , por otro lado, es la medición de la tendencia de dos genes a segregarse juntos en la meiosis en estudios familiares y, por lo tanto, constituye una descripción del comportamiento meiótico de un gen, más que su localización física.
+En este capítulo se exponen ambos tipos de mapeo y se examinan varias de sus aplicaciones para identificar y aislar genes humanos determinados, así como para proporcionar información diagnóstica en genética médica.
+
+El crecimiento de las células humanas en cultivo
+
+Exigió largo tiempo que las técnicas para el cultivo celular se desarrollaran y fuesen ampliamente utilizadas, en parte debido a los estrictos requerimientos nutricionales de las células cultivadas y en parte porque el eficaz mantenimiento de un cultivo durante períodos largos requiere precauciones extremas para evitar la contaminación por microorganismos, levaduras u otras líneas celulares cultivadas. 
+Los requerimientos nutricionales incluyen el uso de un medio semidefinido con el 5 al 15 % de suero de feto de ternera o ternera recién nacida (que contiene factores de crecimiento no identificados), así como glucosa, aminoácidos, vitaminas, minerales, sal y un sistema tampón.
+
+Entre las clases de cultivos que se emplean con mayor frecuencia en la genética médica humana, incluyendo los estudios de mapeo génico, se encuentran los siguientes: Linfocitos de sangre periférica en cultivos a corto plazo .
+
+Estas células no cumplen las premisas para la supervivencia a largo plazo y persisten en el cultivo sólo alrededor de 72 horas.
+Estos cultivos a corto plazo son ampliamente utilizados para análisis cromosómico, como se señaló en el capítulo 2.
+
+Fibroblastos .
+Los fibroblastos se encuentran entre los tipos celulares más útiles para estudios genéticos en células somáticas. incluyendo el mapeo génico físico.
+Se cultivan a partir de pequeños explantes de piel u otro tejido. 
+Las células, que tienen una forma de huso característica crecen en monocapas unidas a un sustrato de plástico o vidrio, y deben subcultivarse a intervalos frecuentes debido a que la sobrepoblación genera inhibición del crecimiento por contacto.
+Los cultivos de fibroblastos generalmente mantienen el cariotipo de las células originales (normal o anormal), aunque en raras ocasiones pueden aparecer clones de células con cariotipos alterados somáticamente en el cultivo.
+Los cultivos de fibroblastos envejecen después de 30 a 100 generaciones.
+La duración de la supervivencia en cultivo es mayor para las líneas celulares obtenidas de personas jóvenes que las de individuos de mayor edad. 
+Los fibroblastos que se cultivan a partir de pacientes con sospecha de trastorno genético constituyen una fuente común de cromosomas en metafase para el análisis citogenético, de extractos celulares para estudios bioquímicos y de DNA para estudios moleculares.
+Además, los fibroblastos humanos con frecuencia se emplean en experimentos de hibridación en células somáticas para mapeo génico.
+
+Líneas permanentes de células transformadas .
+En algunas líneas celulares se produce una transformación en el cultivo, y adquieren la habilidad de crecer ilimitadamente, ya sea de manera espontánea o experimental por infección viral.
+Otras líneas celulares permanentes se establecen directamente a partir de tumores.
+Estas líneas no muestran inhibición por contacto, no envejecen ni mantienen un cariotipo estable; sin embargo, con frecuencia presentan características del tipo de célula transformada de la que derivan.
+Como tales, resultan muy útiles para el análisis de las bases genéticas de la transformación y la malignidad.
+
+Líneas celulares de linfoblastos .
+Si bien los cultivos de linfocitos de sangre periférica casi nunca persisten en cultivo, puede lograrse que esto ocurra cuando se transforman con el virus de Epstein-Barr.
+Los cultivos linfoblásticos, que derivan de linajes de células B, crecen en suspensión, más que como monocapas de células adosadas, y no envejecen.
+Así resultan una fuente esencialmente permanente de material de pacientes con trastornos genéticos.
+
+Líneas celulares fetales .
+Las células fetales pueden obtenerse prenatalmente mediante extracción de líquido amniótico, mediante amniocentesis o por muestras de vellosidad coriónica de una mujer embarazada (v.cap. 19).
+Una proporción de las células fetales obtenidas de estas maneras conservan al menos algún potencial de crecimiento en cultivo, aunque estos cultivos no crecen tan bien (ni durante un período tan largo) como los fibroblastos de la piel.
+Las células del líquido amniótico o los cultivos de vellosidad coriónica se emplean para determinar el cariotipo fetal, y efectuar análisis de niveles enzimáticos y de DNA con objeto de proporcionar diagnóstico prenatal.
+
+MAPEO FÍSICO DE LOS GENES HUMANOS
+
+Inicialmente, la asignación de genes a cromosomas humanos determinados sólo se basaba en estudios familiares de grandes genealogías para descubrir el modo de herencia. 
+Los rasgos ligados al X podían asignarse al cromosoma X debido a su patrón único de transmisión. 
+Además, como se aborda más adelante en este capítulo, unos cuantos rasgos autosómicos pudieron asignarse a cromosomas individuales debido al descubrimiento fortuito de su cotransmisión a través de muchas meiosis con otros genes autosómicos bien conocidos.
+Sin embargo, ésta fue generalmente una tarea lenta y laboriosa hasta el descubrimiento, en los años 60, de que podía lograrse que los cromosomas de los mamíferos, y en particular los de los seres humanos, se «segregaran» en células somáticas en cultivo y no sólo en células germinales en los estudios familiares.
+Con ello se estableció la llamada alternativa «parasexual» del mapeo génico.
+Debido a su importancia central para el campo del mapeo génico, primero nos ocuparemos de la preparación y el crecimiento de células en cultivo y a continuación describiremos las aplicaciones específicas de este procedimiento al mapeo genético físico.
+
+Genética de las células somáticas
+
+En términos generales la genética de las células somáticas es el estudio de la organización, expresión y regulación de las células cultivadas de origen somático.
+Ha resultado sumamente eficaz desde los años 60 como acercamiento a muchos problemas en genética humana y médica.
+En su origen, la genética de las células somáticas se consideró como una vía de investigación de los trastornos cromosómicos y monogénicos en cultivos a largo plazo en el laboratorio más que en individuos vivos.
+El procedimiento tiene muchas ventajas obvias. 
+Si una línea celular de un paciente con un trastorno raro o un cariotipo inusual puede establecerse cuando el individuo está disponible, es posible congelar dicha línea celular de manera más o menos permanente en nitrógeno líquido, y diferentes grupos de investigadores en cualquier momento conveniente pueden estudiarla más tarde, incluso decenios después de la muerte del paciente.
+
+El campo del mapeo génico ha obtenido ventajas de la capacidad de varios tipos diferentes de células de crecer, algunas veces de manera indefinida, en cultivos celulares. (v. recuadro en pág. 160).
+En efecto, es dudoso que muchos de los avances en el mapeo génico ocurrieran de manera tan rápida sin la capacidad de cultivar células somáticas.
+
+El mapeo físico de genes abarca varios métodos diferentes diseñados para proporcionar información de mapeo de distintos tipos y diferentes niveles de resolución que incluyen desde un cromosoma entero a un solo par de bases (tabla 8-1).
+
+Tabla 8.1
+
+Procedimientos para el mapeo génico físico
+
+Híbridos de células somáticas y mapeo génico
+
+Una de las principales aplicaciones de la genética de células somáticas al mapeo génico incluye la transferencia de material genético de una célula humana a otro tipo de célula en cultivo, procedimiento conocido como transferencia génica .
+La cantidad de DNA transferido puede variar desde un segmento corto de DNA cromosómico a gran parte de un genoma entero.
+La transferencia génica es un mecanismo bien conocido en genética bacteriana, viral y de hongos, y los genetistas saben desde hace tiempo que la frecuencia con la que dos marcadores genéticos se transfieren juntos puede utilizarse como una medida de su proximidad física en el genoma del donante.
+Así, no mucho después de que se reconociese que las células humanas y de otros mamíferos podían mantenerse en cultivo, los genetistas humanos buscaron vías para transferir genes humanos de una a otra célula en el laboratorio como un medio parasexual de segregar genes diferentes y sus alelos.
+
+El procedimiento más ampliamente utilizado, que se desarrolló en los años 70, consiste en la fusión de células de diferentes especies para generar híbridos de células somáticas interespecíficos. 
+Las células somáticas cultivadas que crecen en monocapas o en suspensión, así como las células vivas obtenidas directamente de los pacientes, pueden fusionarse utilizando virus Sendai inactivados o polietilenglicol.
+Estos agentes provocan la fusión de membranas de dos tipos de célula, con lo que se forman homocariones (si se fusionan dos células del mismo tipo) o heterocariones (si se fusionan dos células de diferente tipo), en los que se mantienen dos núcleos separados en el mismo citoplasma (figura 8-1).
+Después de la mitosis y la fusión celular, los dos contenidos nucleares se mezclan en un solo núcleo "híbrido".
+En condiciones selectivas apropiadas de cultivo, los dos tipos celulares parentales, así como los híbridos derivados de homocariones, no pueden sobrevivir, produciéndose una selección de híbridos intercelulares para el crecimiento.
+Aunque se han desarrollado varios esquemas selectivos, uno de los primeros y más comúnmente empleados requiere la selección en medio que contenga hipoxantina, aminopterina y timidina (el llamado medio HAT).
+Las células pueden crecer en el medio HAT sólo si poseen la enzima hipoxantín-guanín-fosforribosiltransferasa (HPRT ), que utiliza hipoxantina y guanina en la síntesis de DNA (v. figura 10-2).
+Las células con deficiente actividad de HPRT (HPRT xxx ) requieren nueva síntesis de purinas para sobrevivir y no pueden hacerlo en el medio HAT, porque la aminopterina inhibe la biosíntesis de purina (y la de pirimidina).
+
+Cuando líneas celulares HPRT de roedores (a menudo ratón o hámster) se fusionan con células humanas HPRT xxx , sólo las células somáticas híbridas roedor/humano pueden prolongar su crecimiento en el medio HAT: la línea parental de ratón o hámster muere en medio HAT y las células humanas parentales (según su fuente) se van eliminando paulatinamente (se contraseleccionan) a causa de su falta de potencial de crecimiento a largo plazo (si se emplean leucocitos periféricos), su crecimiento generalmente lento (si se usan fibroblastos primarios de la piel) o su sensibilidad fortuita y característica (en comparación con las células de roedores) al compuesto ouabaína (figura 8-1).
+
+Los híbridos de células somáticas son originalmente poliploides y contienen el complemento cromosómico completo de las células parentales humana y de roedor. 
+En su momento, sin embargo, muchos de los cromosomas de una de las especies se pierden, porque no se requiere su presencia continua para la supervivencia del híbrido, sólo el cromosoma portador del gen para un marcador seleccionado (p.ej., el cromosoma X, que porta el gen HPRT) está necesariamente presente en todas las células, aunque en general al menos otros cuantos cromosomas donadores también persisten. 
+La base de la pérdida o retención cromosómica aún se desconoce; la característica importante de híbridos de células somáticas de roedor/humano es que los cromosomas de éste último, y no del roedor, son los que se pierden de manera preferente, lo cual provoca que las células híbridas conserven combinaciones y cifras diferentes de cromosomas humanos, como lo demuestran varias técnicas de cariotipificación que distinguen entre cromosomas de roedor y humanos (figuras 8-1 y 8-2).
+
+Este sistema parasexual de segregación cromosómica humana hace posible el mapeo de cualquier gen o segmento de DNA que pueda distinguirse entre las especies en un cromosoma humano determinado.
+Cuando los cromosomas humanos residuales presentes en un conjunto de híbridos de células somáticas independientes se comparan con la presencia o ausencia de un gen humano particular en la misma serie de híbridos, puede observarse que ese gen se correlaciona completamente con la presencia o ausencia de un cromosoma específico.
+De esta manera, por ejemplo, puede mostrase que la presencia o ausencia del gen para la hexosaminidasa A (HEXA), cuyas mutaciones generan la enfermedad de Tay-Sachs (v.caps. 4 y 12), se correlaciona con el cromosoma humano 15 (tabla X-2).
+Todos los híbridos que conservan un cromosoma 15 contienen un gen humano HEXA: todos aquéllos que ya no poseen dicho cromosoma no contienen el HEXA humano.
+Esta concordancia perfecta se observó sólo para el cromosoma y no para otros, lo cual permitió asignar el gen HEXA a tal cromosoma.
+En este tipo de análisis, la presencia de un gen humano puede detectarse mediante mediciones de actividad (si el gen se expresa en híbridos de célula somática), con electroforesis para distinguir la actividad celular humana de la del roedor o, más comúnmente hoy en día, con métodos de hibridación de DNA mediante técnica de manchas Southern y diferencias de enzima de restricción para distinguir el gen humano del que pertenece al roedor (figura 8-3).
+Utilizando este tipo de análisis de concordancia en conjuntos de híbridos interespecíficos de células somáticas, muchos centenares de genes se han asignado a cromosomas humanos determinados. 
+Los genes que se han mapeado en el mismo cromosoma se conocen como sinténicos (literalmente «en la misma fibra»), independientemente de lo cercanos o alejados entre sí que se hallen en este cromosoma.
+
+Los estudios como éste que utilizan híbridos de humano/roedor permiten asignar un gen a un cromosoma determinado. 
+Puede obtenerse resolución adicional mediante segregación de híbridos de cromosomas humanos estructuralmente anormales, de los que se describen muchos ejemplos en los capítulos 9 y 10.
+Si un determinado gen cosegrega en un conjunto de híbridos de células somáticas de roedor/humano con un cromosoma delecionado o translocado, el gen puede localizarse en la porción del cromosoma retenido en los híbridos. 
+Y al contrario, si se sabe que un gen mapea en un cromosoma determinado, pero está ausente de un hibrido que contiene una copia delecionada o translocada de dicho cromosoma, entonces el gen puede asignarse a la porción ausente del cromosoma. 
+La figura 8-4 representa dos cromosomas X anormales estructuralmente utilizados en mapeo génico para localizar genes ligados al X y secuencias de DNA de regiones determinadas del cromosoma X.
+Mediante el examen de híbridos que contienen porciones de estos cromosomas translocados, el cromosoma X puede dividirse en tres intervalos, y es posible asignar genes diferentes a cada uno.
+La extensión de esta estrategia y el examen de regiones cada vez más pequeñas del cromosoma de interés en los híbridos han hecho posible localizar genes en regiones incluso más pequeñas.
+Aunque este enfoque mejora de modo significativo el nivel de resolución del mapeo génico, las regiones cromosómicas definidas aún no son muy grandes en comparación con el tamaño medio de un gen.
+
+Figura 8.1
+
+Esquema de hibridación interespecífica de células somáticas
+
+Después de la fusión celular, los clones de híbridos celulares somáticos humanos/roedores se seleccionan en un sistema selectivo, como el medio HAT.
+
+Estos híbridos celulares pierden preferentemente cromosomas humanos, lo que hace posible aislar clones híbridos que contengan diferentes combinaciones de cromosomas humanos. 
+Estos clones pueden entonces analizarse en busca de la presencia o ausencia de un determinado gen humano, permitiendo la asignación del gen a un cromosoma humano específico. (PEG, polietilenglicol).
+
+Figura 8.2
+
+Placa de cromosomas en metafase de un híbrido de células somáticas de ratón/humano 
+
+Los cromosomas humanos pueden identificarse por medio de un método de detección que marca de modo específico el DNA humano, pero no el del ratón. 
+Este híbrido contiene seis cromosomas humanos, que se identifican como los cromosomas 13, 20 (dos copias) y X (tres copias).
+
+Tabla 8.2
+
+Mapeo de un gen humano mediante híbridos de células somáticas
+
+Figura 8.3
+
+Experimento con manchas Southern para mapear el gen humano HEXA en el cromosoma 15, en una serie de híbridos de células somáticas de ratón/humano
+
+Sólo los híbridos I, III, VI, VII y VIII contienen secuencias de HEXA humano, que pueden distinguirse de las secuencias génicas del ratón mediante lugares de restricción diferentes en el gen de las dos especies.
+
+Figura 8.4
+
+Mapeo regional de genes ligados al X mediante análisis de cromosomas con translocaciones X;autosoma en híbridos de células somáticas
+
+Los productos recíprocos de dos translocaciones X;autosoma diferentes se segregan en clones híbridos de células somáticas y pueden analizarse en cuanto a la presencia o ausencia de genes del cromosoma X humano.
+Los resultados combinados permiten la localización regional de los tres genes en porciones diferentes del X, como se indica a la derecha.
+
+Mapeo mediante dosis génica
+
+Un procedimiento conceptualmente relacionado también aprovecha los cromosomas con reordenamiento estructural para el mapeo génico, pero no requiere segregar primero los cromosomas anormales en híbridos de células somáticas. 
+Este procedimiento se basa en la detección de diferencias de dosis en productos o secuencias génicas entre líneas celulares de los pacientes que contengan cifras distintas de copias de un gen determinado.
+Si bien este método requiere análisis e interpretación muy cuidadosos, se ha utilizado para asignar o excluir genes de una región involucrada en una duplicación o una delación (v. cap. 9).
+
+Originalmente se empleó para asignar genes al cromosoma 21 mediante la detección de niveles de actividad enzimática en líneas celulares de individuos con síndrome de Down (tres dosis del cromosoma 21), que resultaron más elevados que los niveles hallados en líneas celulares de individuos cromosómicamente normales (dos dosis).
+A nivel de DNA, el procedimiento de dosis se ha utilizado de manera creciente para asignar marcadores de DNA al cromosoma X (comparando dosis de DNA en personas con un cromosoma X [esto es, un cariotipo de varón normal] a cinco [es decir, un cariotipo 49, XXXXXI (figura 8-5) o a regiones más pequeñas de un cromosoma determinado (examinando conjuntos de pacientes con trisomías parciales [tres copias o monosomías [una copia]: v. cap. 9).
+
+Una de las aplicaciones más directas del mapeo mediante dosis génicas es la asignación regional de genes de enfermedad ligada al X examinando varones con deleciones citogenéticamente detectables de parte del cromosoma X.
+En un caso bien estudiado, un niño (B.B.) sin antecedentes conocidos de ninguna enfermedad genética se presentó con cuatro trastornos ligados al X distintos: distrofia muscular de Duchenne (DMD), enfermedad granulomatosa crónica (EGC), retinitis pigmentaria (RP) y un raro fenotipo de eritrocitos.
+El análisis citogenético cuidadoso reveló una pequeña delación, pero detectable en la banda xxx (figura 8-6).
+La coexistencia de cuatro trastornos monogénicos con la pequeña delación cromosómica llevó a la conclusión de que los genes para estos cuatro rasgos ligados al X mapeaban en el intervalo delecionado. 
+La extensión de este tipo de análisis a otros individuos afectados de modo simultáneo con múltiples trastornos ligados al X ha permitido la asignación regional de varios genes a esta región del cromosoma X (figura 8-6). 
+El caso de B. B. resultó muy significativo para la genética médica porque (como se describe en forma más completa posteriormente en este capítulo) su cromosoma X delecionado se utilizó de manera directa para lograr la clonación de genes para la DMD y la EGC.
+Esto proporcionó aún otro ejemplo de la forma en que el reconocimiento de lo inusual en medicina (en este caso, la presencia de múltiples enfermedades genéticas en un solo individuo) puede proporcionar importante información nueva acerca de los genes normales, su organización y función.
+
+Figura 8.5
+
+Ejemplos de mapeo mediante análisis de dosis
+
+La sonda 1 de DNA utilizada a la izquierda puede mapearse en el cromosoma X, porque la intensidad de la hibridación parece ser una función del número de X presentes en cada muestra de DNA.
+La sonda 2 de DNA muestra la misma intensidad de hibridación en las columnas 1 a 3, pero está ausente en la columna 4.
+Este locas se mapea en el cromosoma Y.
+
+Figura 8.6
+
+Localización regional de genes ligados al X en pacientes con delaciones del cromosoma X
+
+La correlación de tamaño de la delación citogenética con los trastornos particulares presentes en cada caso permite el mapeo preciso de los genes individuales de enfermedad en regiones determinadas del cromosoma X DMD, distrofia muscular de Duchenne, OTC, deficiencia de ornitín-transcarbamilasa. 
+EGC, enfermedad granulomatosa crónica, RP, retinitis pigmentaria, G KD, deficiencia de glicerocinasa, HSC , hipoplasia suprarrenal congénita.
+
+Nota: Un grupo de híbridos de células somáticas de ratón humano cada uno con 2 a 13 cromosomas humanos. 
+Se utilizó para probar la presencia o ausencia del gen de la hexosaminidasa A humana (HEXA) mediante manchas Southern de DNA preparado a partir de los híbridos (v figura 8-3).
+Existe una correlación perfecta entre la presencia o ausencia de HEXA y la presencia o ausencia del cromosoma humano 15 Para todos los demás cromosomas humanos, hay híbridos que contienen HEXA pero carecen del cromosoma e híbridos que contienen el cromosoma pero les falta HEXA. 
+Así, estos resultados indican que el gen HEXA debe encontrarse en el cromosoma humano 15.
+
+Human Genome Project
+
+Los genetistas humanos y médicos han identificado y mapeado genes durante decenios.
+Sin embargo, en 1986 Dulbecco propuso una desviación radical del enfoque de «mapear lo que se pueda», pues sugirió que, si los científicos realmente querían comprender el papel de los genes en el cáncer-sin mencionar otros trastornos genéticos en general-, todo lo que debían hacer era ¡secuenciar los 3.000 millones de pares de bases y encontrar todos los genes!
+Después de mucha discusión y debate (algo de lo cual aún continúa) nació el Proyecto Genoma Humano, un esfuerzo internacional para primero mapear y finalmente secuenciar los 50.000 a 100.000 genes.
+El proyecto inicialmente se centró en la construcción de mapas de ligamiento genético y físico de los 22 autosomas y los cromosomas sexuales, así como en el ensamblaje de colecciones de clones superpuestos y contiguos (denominados contigs) para cubrir cada cromosoma de telómero a telómero con objeto de facilitar la identificación y el aislamiento de los genes (figure 8-9).
+En Estados Unidos, el proyecto es liderado por James D. Watson, quien junto con Francis Crick descubrió la estructura de la doble hélice en 1953.
+La Organización Genoma Humano (HUGO) supervisa el esfuerzo internacional y organiza una serie de reuniones de Mapeo del Genoma Humano para comparar y ensamblar mapas formalmente, así como establecer una lista de todos los genes humanos mapeados.
+Cada año se publica un catálogo actualizado (v.
+Bibliografía), que se incluye en una base de datos informatizada que se mantiene al día continuamente incorporando todos los datos de mapeo actuales y los hace accesibles con medios electrónicos, junto con información sobre trastornos genéticos humanos (On-line Mendelian Inheritance in Man, OMIM ; accesible a través de Genome Data Base en la Johns Hopkins University, Baltimore, Maryland; McKusick, 1990; Pearson, 1991).
+
+APLICACIONES DEL MAPEO GÉNICO HUMANO
+
+Existen tres aplicaciones principales del mapeo génico en la genética médica: proporcionar información diagnóstica para el consejo genético, guiar los esfuerzos para clonar genes que provocan enfermedad genética y generar y demostrar hipótesis acerca de las bases de enfermedades genéticas determinadas.
+
+En estos tres casos, la construcción de mapas genéticos y físicos resulta interdependiente.
+El conocimiento de la posición física en el mapa de los marcadores polimórficos que se utilizan en el análisis de ligamiento ayuda al mapeo genético.
+Los esfuerzos del mapeo físico para localizar con exactitud un gen pueden guiarse por la existencia de recombinaciones meióticas específicas que se detectan como parte del análisis de ligamiento.
+
+Detección de genes mutantes mediante análisis de ligamiento
+
+Un concepto genético clásico que se ha apreciado durante decenios es que un mapa de ligamiento genético puede utilizarse para diagnosticar enfermedades genéticas, incluso en ausencia de información concreta acerca de la naturaleza bioquímica o molecular del trastorno.
+Sin embargo, a pesar de la importancia de este concepto, el mapeo de ligamiento ha sido aceptado ampliamente como relevante desde el punto de vista médico sólo desde la formulación de la idea de que los RFLP pueden formar la base de un mapa genético humano.
+
+Como se señala en el capítulo 11, Kan y Dozy (1978) fueron los primeros en aplicar un polimorfismo de DNA al diagnóstico clínico; utilizaron un polimorfismo 3' del gen de la betaglobina para diagnosticar casos de enfermedad drepanocítica mediante análisis de ligamiento. 
+Aunque la frecuencia de recombinación entre el lugar polimórfico y el de la mutación de la drepanocitosis en el gen de la betaglobina era insignificante, es importante reconocer que el procedimiento de ligamiento para la detección de mutación (incluso cuando se utilizan polimorfismos informativos en el gen clonado que provoca un defecto genético) es indirecto y conlleva un riesgo de recombinación entre el marcador genético y la mutación real.
+En muchos casos, este riesgo probablemente es muy bajo.
+Genes muy grandes, como el gen de la DMD, constituyen excepciones a esta regla general, porque la recombinación dentro del gen ocurre con una frecuencia detectable.
+En la figura 8-19 se ilustra el empleo de genes clonados como marcadores polimórficos para el diagnóstico de enfermedades, utilizando como ejemplo otro defecto del locus de la xxx -globina, la xxx -talasemia.
+Un trastorno autosómico recesivo frecuente que se describe con detalle en el capítulo 11.
+Los ejemplos ilustran de nuevo los requerimientos según los cuales un marcador genético debe ser informativo y ha de ser posible determinar la fase para realizar análisis de ligamiento.
+
+El valor de un mapa genético para el diagnóstico de enfermedad resulta más evidente cuando un gen se ha localizado en un cromosoma, pero aún no se ha clonado. 
+En este caso, deben emplearse uno o más marcadores genéticos que muestren recombinación detectable con un locus de enfermedad.
+Ya se ha aludido a esta situación al describir la detección de ligamiento en un apartado previo de este capítulo.
+El diagnóstico en este caso se complica al tener que considerar la posibilidad de recombinación en meiosis.
+Así, para un marcador genético que muestra una recombinación del 5% con un locus de enfermedad, el diagnóstico tiene una probabilidad de error del 5%.
+Incluso aunque el marcador resulte completamente informativo y se conozca la fase (figura 8-30).
+La posibilidad de recombinación también puede complicar la determinación de la fase cuando ésta se infiere de un niño, en lugar de deducirse de una generación de abuelos.
+Por ejemplo, en la familia que se muestra en la figura 8-21, es posible un diagnóstico de distrofia miotónica (DM, una alteración autosómica dominante variable), con sólo una certeza de 82% en el individuo III-2 (v. figura 8-21), a pesar de que el marcador genético ligado que se utilizó muestra únicamente una recombinación del 10% con la mutación de DM.
+Esto se debe a que la información de la fase proviene sólo del genotipo del niño afectado (III-1) en esta familia.
+
+La exactitud del diagnóstico mediante el empleo de marcadores genéticamente ligados con una frecuencia de recombinación apreciable entre el marcador y el locus de la enfermedad puede incrementarse mucho utilizando dos marcadores genéticos informativos que flaqueen el gen de la enfermedad. 
+En este caso, la posibilidad de un diagnóstico erróneo se reduce en forma significativa, ya que éste ocurre sólo si suceden dos recombinaciones, una a cada lado del gen de la enfermedad.
+Por ejemplo, para marcadores de flanqueo que muestran cada uno un 10% de recombinación con un gen de enfermedad, el diagnóstico mediante ligamiento genético tiene una precisión del 99% (en vez del 90% con un solo marcador).
+El beneficio de emplear marcadores de flanqueo refuerza el valor de un mapa de ligamiento genético preciso, con marcadores de orden y distancia conocidos bien mapeados. 
+
+En los capítulos 18 y 19 se exponen ejemplos adicionales del empleo de análisis de ligamiento genético para el diagnóstico de enfermedades hereditarias.
+
+Figura 8.19
+
+Ejemplos de diagnóstico molecular en la xxx -talasemia, con polimorfismos en el locus de la xxx - globina
+
+Se supone que la probabilidad de recombinación entre el marcador polimórfico y la mutación es insignificante.
+En la familia A puede determinarse la fase del hermano afectado y también es posible diagnosticar al no afectado.
+En la familia B, la fase no puede determinarse por completo; no es posible realizar ningún diagnóstico porque el segundo hijo quizá resulte afectado (probabilidad del 50%) o no afectado (probabilidad del 50%).
+En la familia C, la fase no puede determinarse totalmente, pero es posible diagnosticar que el segundo hijo será un portador heterocigoto. 
+En la familia D ningún diagnóstico es posible: esta familia es no informativa.
+
+Figura 8.20
+
+Ejemplo de diagnóstico molecular mediante ligamiento genético con un marcador polimórfico que se sabe que mapea a una distancia de aproximadamente 5 cM de un locus de enfermedad ligada al X
+
+Se conoce la fase de la genealogía.
+El alelo mutante debe estar localizado en el cromosoma X con el alelo del locus marcador de 4,0 kb.
+
+Figura 8.21
+
+Ejemplo de diagnóstico molecular mediante ligamiento genético en una genealogía de fase conocida con un marcador polimórfico que se sabe que mapea a una distancia de aproximadamente 10 cM del locus de la distrofia miotónica (DM)
+
+La fase en el individuo II-2 no puede determinarse a partir de sus padres, porque es posible que su padre afecta do haya transmitido el alelo mutante de DM junto con cual quiera de los alelos A o a en el locus marcador.
+El genotipo del niño afectado III-1 sugiere que la fase de la madre es DM-a, pero sólo presenta una certeza del 90 %, ya que existe una probabilidad del 10 % de que su fase sea DM-A y de que haya habido recombinación en la meiosis cuando concibió a su hija.
+
+Por lo tanto, la probabilidad global de que III-2 resulte afectado es del 82 %, calculada como xxx .
+
+Mapeo de genes de enfermedad mediante análisis de ligamiento
+
+En la sección anterior se trató el uso de un mapa de ligamiento genético para obtener información diagnóstica cuando se conoce que un gen de enfermedad está genéticamente ligado con uno o más marcadores.
+Sin embargo, cómo se descubrieron estas relaciones de ligamiento?
+
+Los dos requerimientos esenciales para el mapeo de genes de enfermedad son, en primer lugar, un número suficiente de familias para establecer el ligamiento y, en segundo término. marcadores de DNA informativos adecuados.
+Como se mencionó antes, el segundo requerimiento puede lograrse de manera relativamente fácil en la actualidad.
+Encontrar familias adecuadas, sin embargo, puede constituir un reto, en particular para trastornos raros u otros en los que las personas afectadas mueren en edad temprana (y, por tanto, no se cuenta con ellas para el análisis). 
+Se han utilizado dos procedimientos generales (figura 8-22).
+En uno, se detecta un número pequeño de familias muy grandes y se obtiene DNA de miembros de la familia que son tipificados para polimorfismos de DNA.
+La ventaja de este procedimiento es que se sabe que todos los miembros afectados de la genealogía tienen la misma enfermedad genética, causada por una mutación en un solo locus.
+El procedimiento alternativo consiste en conseguir un gran número de familias más pequeñas.
+Esto resulta más sencillo para enfermedades relativamente frecuentes, como la fibrosis quística (figura 8-22), pero implica el riesgo de que no todas las familias tengan un trastorno genéticamente idéntico. 
+La heterogeneidad genética , que se ilustra mediante la situación en la que síntomas clínicos idénticos son causados por defectos en dos o más loci genéticos, puede confundir el análisis de ligamiento genético y dar la impresión de que un marcador no está ligado con un locus de enfermedad, cuando, de hecho, quizá si esté ligado, aunque sólo en un subgrupo de las familias analizadas.
+
+Esta situación se ilustra más adelante en el caso de ligamiento en la retinitis pigmentaria autosómica dominante.
+
+En la práctica de la genética humana cabe esperar el ligamiento sólo con una distancia de aproximadamente 20 cM o menos, ya que en distancias mayores casi nunca es posible encontrar suficiente material familiar para establecer evidencia significativa de ligamiento (una puntuación lod xxx ) frente a no ligamiento.
+Así, por lo general un marcador polimórfico debe hallarse aproximadamente a menos de 20 millones de pares de bases del gen de la enfermedad en cuestión para que el ligamiento pueda detectarse.
+Para un rasgo autosómico, esto es menos del 1% del genoma, y así es posible predecir que por término medio tendrán que ser punteados en el grupo familiar alrededor de 100 marcadores polimórficos autosómicos adecuadamente espaciados, antes de que se encuentre un resultado de ligamiento positivo.
+De hecho, en las varias docenas de veces que se ha utilizado este procedimiento con éxito.
+El intervalo abarca de 12 RFLP (para las búsquedas más afortunadas) a más de 200 (para las más difíciles). 
+Resulta claro que la situación es mucho más sencilla para enfermedades ligadas al X, porque ya se conoce la localización cromosómica del gen.
+Por lo tanto, sólo se utilizarán los marcadores polimórficos del cromosoma X para analizar su ligamiento con la enfermedad.
+
+Cuando se comienza una búsqueda de ligamiento, lo esperado para cualquier marcador polimórfico es que, al azar, no se halle ligado con el gen de la enfermedad (de hecho, al azar, ni siquiera es probable que se encuentre en el mismo cromosoma del gen de la enfermedad).
+Así, sólo se requerirán unas cuantas meiosis informativas para establecer que el polimorfismo no está cerca del gen en cuestión.
+Cuando un marcador muestra una prueba sugestiva de ligamiento (p. ej., una puntuación lod máxima combinada entre 2 y 3), puede ayudar en la búsqueda saber dónde se mapea físicamente el locus marcador potencial.
+Si, por ejemplo, el marcador se mapea en una posición en el brazo largo del cromosoma 7, entonces es posible centrar la atención en otros marcadores polimórficos en dicha región para confirmar de manera eficaz o rechazar el resultado de ligamiento sugerido. 
+En este punto los extensos mapas físicos y genéticos de cada cromosoma humano resultan extremadamente valiosos.
+Una vez que un supuesto ligamiento se ha confirmado, pueden probarse otros marcadores que se sabe mapean cerca del que se encontró en un intento para moverse cada vez más cerca del gen en cuestión.
+Una vez que uno o más marcadores se encuentran aproximadamente a 5 cM del gen de la enfermedad, pueden utilizarse para el diagnóstico como se señaló en secciones previas.
+También pueden servir como puntos de partida para estudios de mapeo preciso, con objeto de intentar aislar el gen de la enfermedad.
+
+Mapeo génico humano y «clonación posicional»
+
+La aplicación del mapeo génico en genética médica ha tenido un éxito espectacular en algunos casos.
+La estrategia completa-el mapeo de la localización de un gen de enfermedad mediante el análisis de ligamiento para definir los marcadores que se utilizarán en el diagnóstico de la enfermedad y el consejo genético, así como los intentos posteriores para clonar el gen sobre la base de su posición en el mapa-puede ilustrarse mediante ejemplos específicos.
+Los ejemplos que vamos a exponer ilustran varios procedimientos; aquel que en último término tendrá éxito para determinada enfermedad depende de las características y las circunstancias de esa enfermedad. 
+
+El procedimiento de clonar un gen sobre la base de su posición en el mapa puede denominarse clonación posicional para distinguirlo de la estrategia más típica de la clonación génica en la que se comienza con una proteína conocida, se determina su secuencia de aminoácidos y se utiliza dicha información para aislar el gen (v. cap. 5).
+La clonación posicional se basa sólo en la localización cromosómica del gen.
+Esta estrategia se denominó en el pasado "genética inversa".
+Sin embargo, de hecho, este procedimiento se enraiza firmemente en la tradición de la genética clásica.
+
+Figura 8.22
+
+Dos procedimientos para la obtención de familias para análisis de ligamiento 
+
+El ligamiento con éxito de la enfermedad de Huntington con un marcador polimórfico en el cromosoma 4 se basó en gran parte en una sola genealogía venezolana de gran tamaño, una pequeña parte de la cual se muestra en A.
+Sin embargo, el ligamiento con éxito de la fibrosis quística con un marcador polimórfico en el cromosoma 7 se basó en un conjunto de muchas familias pequeñas, algunas de las cuales aparecen en B.

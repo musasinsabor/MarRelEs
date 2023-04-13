@@ -1,0 +1,975 @@
+
+Comunicación al Consejo y al Parlamento sobre una estrategia comunitaria contra la acidificación 
+
+Propuesta de DIRECTIVA DEL CONSEJO relativa a la reducción del contenido de azufre de determinados combustibles líquidos y por la que se modifica la Directiva 93/12/CEE 
+
+Propuesta de DECISIÓN DEL CONSEJO relativa a la celebración por la Comunidad Europea del Protocolo del Convenio de 1979 sobre la contaminación atmosférica transfronteriza a larga distancia, relativo a una nueva reducción de las emisiones de azufre 
+
+Comunicación al Consejo y al Parlamento sobre una estrategia comunitaria contra la acidificación 
+
+INTRODUCCIÓN 
+
+En diciembre de 1995, el Consejo de medio ambiente solicitó a la Comisión que elaborara una estrategia coherente sobre acidificación, que debía presentarse al Consejo a principios de 1997.
+Esa decisión siguió a la publicación en noviembre de 1995 de un documento de trabajo de los servicios de la Comisión sobre ese mismo asunto.
+El documento indicaba que, a pesar de los grandes avances realizados, ni la legislación vigente ni la prevista bastaban para conseguir la meta a largo plazo de "no superar nunca las cargas ni los niveles críticos", establecida en el V Programa de Medio Ambiente.
+
+La presente comunicación constituye la respuesta a esa solicitud del Consejo.
+En ella se hace un breve repaso al problema de la acidificación y a la metodología que ha seguido la Comisión para elaborar una estrategia para combatirla con una buena relación coste/eficacia y, a continuación, se describen los principales elementos de esa estrategia.
+
+ANTECEDENTES 
+
+El problema de la acidificación 
+
+En la presente estrategia se entiende por acidificación el efecto de la introducción de sustancias acidificantes en el medio ambiente por medio de la deposición atmosférica.
+- El dióxido de azufre ( SO2 ) producido, principalmente, por la combustión de carbón y petróleo.
+- Los óxidos de nitrógeno ( NOx ) emitidos, sobre todo, por los vehículos de motor y otros procesos de combustión.
+- El amoniaco, procedente principalmente de actividades agropecuarias.
+
+
+El cuadro 1 presenta las emisiones por sectores en CE15, y el cuadro 2 ofrece las emisiones por países en 1990.
+
+Tabla 1
+
+Emisiones de contaminantes acidificantes por sectores
+
+Grandes instalaciones de combustión.
+
+
+Otras instalaciones de combustión.
+
+
+Procesos industriales.
+
+
+Transporte rodado.
+
+
+Otros tipos de transporte.
+
+
+Residuos.
+
+
+Agricultura.
+
+
+Naturaleza.
+
+
+Estas sustancias acidificantes pueden ser transportadas por el viento durante cientos e incluso miles de kilómetros antes de depositarse en el medio ambiente.
+En la atmósfera, el dióxido de azufre puede transformarse en ácido sulfúrico, y los óxidos de nitrógeno, en ácido nítrico.
+Al depositarse en la vegetación, el suelo y el agua, provocan acidificación, que tiene efectos biológicos generalizados sobre los ecosistemas acuáticos y terrestres modificándolos substancialmente y empobreciéndolos al reducir la diversidad de especies vegetales y animales.
+
+La acidificación del suelo provoca la extracción por lixiviación de nutrientes vegetales tales como el potasio, el calcio y el magnesio, lo cual, a largo plazo, puede dar pie a deficiencias de nutrientes y poner en peligro la productividad del suelo forestal.
+El proceso de acidificación da origen también a un aumento de las concentraciones de aluminio y otros metales tóxicos en el suelo y las aguas subterráneas y superficiales.
+La biodiversidad de lagos y ríos resulta gravemente mermada en las zonas afectadas por la acidificación de las aguas de superficie.
+La acidificación del agua subterránea ocasiona problemas tales como la corrosión de tuberías, además de plantear riesgos para la salud al aumentar la movilidad de metales nocivos como el aluminio, el mercurio, el cobre, el zinc, el cadmio y el plomo.
+La deposición ácida acelera el deterioro de los materiales de construcción, así como de las obras de arte y, en general, del patrimonio cultural, especialmente en las zonas urbanas.
+
+Tabla 2
+
+Emisiones en 1990 de SO2 , NOx y NH3 (en miles de toneladas)
+
+Los efectos de la deposición ácida varían geográficamente en función, sobre todo, de la sensibilidad del receptor (por ejemplo, un ecosistema), y el volumen de deposición ácida.
+La carga crítica indica la sensibilidad de un medio y determina el grado de contaminación que dicho medio puede soportar sin sufrir daños duraderos ni significativos.
+Las cargas críticas se refieren a ecosistemas naturales y seminaturales, por ejemplo, suelos forestales, brezales o aguas de superficie, lo cual quiere decir que quedan excluidas, por ejemplo, las explotaciones agrarias y las zonas edificadas.
+El concepto de cargas críticas es científico.
+Por consiguiente, los datos utilizados reflejan los mejores conocimientos actuales e incluyen cierto grado de incertidumbre.
+Las cargas críticas revisten gran importancia desde el punto de vista del desarrollo sostenible porque un grado de deposición que supere las cargas críticas es insostenible a largo plazo.
+
+La sensibilidad a la deposición ácida varía mucho entre zonas y ecosistemas.
+Con respecto a la acidificación, las cargas críticas más bajas se dan en las zonas septentrionales de la Comunidad Europea, donde se encuentran los ecosistemas más vulnerables, es decir, Suecia, Finlandia, Reino Unido, los Países Bajos y Alemania.
+
+La acidificación se determina mediante la relación entre la deposición total de contaminantes acidificantes y la carga crítica correspondiente a un medio determinado.
+Si disminuye la deposición ácida, se reducirá la acidificación, pero no se detendrá ni se producirá una recuperación sostenible hasta que los niveles dejen de superar las cargas críticas.
+De hecho, como consecuencia de los efectos de la acidificación acumulada a lo largo del tiempo, el suelo puede tardar décadas e incluso siglos en recuperarse en algunas zonas.
+La velocidad de recuperación depende sobre todo de las características del ecosistema y de la rapidez a que se reducen las deposiciones porque, cuanto antes se sitúen por debajo de las cargas críticas, más rápida será la recuperación.
+
+En 1990 se superaron las cargas críticas de acidificación en una superficie de más de 32 millones de hectáreas en los Estados miembros.
+En cuanto a superficie absoluta, los países más afectados fueron Suecia (10 millones de hectáreas), Alemania (7 millones de hectáreas) y Finlandia (5 millones de hectáreas) (véase el cuadro 5).
+Como ya se ha dicho antes, uno de los daños causados por la acidificación es la merma de la biodiversidad en ecosistemas terrestres y de agua dulce lo que, a su vez, desvaloriza la zona afectada al disminuir sus atractivos como zona de esparcimiento.
+El empobrecimiento del estado de los nutrientes del suelo puede a largo plazo reducir la productividad forestal.
+Aunque es posible detectar y cuantificar con un grado de certidumbre relativamente alto las zonas afectadas o de riesgo, la incertidumbre sigue siendo grande a la hora de realizar una cuantificación económica de los daños y riesgos a largo plazo originados por la acidificación.
+
+Otros efectos de los contaminantes acidificantes 
+
+Aunque el tema central de esta estrategia es la acidificación (en forma de deposición ácida), hay que señalar que las emisiones a través del aire de los mencionados contaminantes acidificantes tienen otros efectos negativos sobre el medio ambiente.
+En concreto, se ha podido demostrar que las concentraciones en el aire de dióxido de azufre y dióxido de nitrógeno tienen efectos nocivos sobre la salud humana, especialmente entre las personas con problemas respiratorios tales como asma, bronquitis o enfisema.
+Además, contribuyen a la corrosión de edificios y materiales.
+Hay cada vez más pruebas que demuestran que las partículas ácidas pequeñas, que son subproductos de las emisiones de los óxidos de nitrógeno y azufre, afectan a la función pulmonar.
+Los óxidos de nitrógeno son, además, importantes precursores del ozono en el suelo (O3), un agresivo contaminante muy perjudicial para la salud de las personas, la vegetación y los materiales orgánicos, que, además, reduce la visibilidad.
+La deposición de compuestos de nitrógeno producidos por las emisiones de óxidos de nitrógeno y amoniaco puede actuar de fertilizante y contribuir, así, a la eutrofización de ecosistemas terrestres y acuáticos (marinos y continentales) afectando, entre otras cosas, a su diversidad biológica.
+
+Por consiguiente, los beneficios de la reducción de las emisiones de contaminantes atmosféricos acidificantes no se limitan únicamente a la disminución de los daños que causa la acidificación, sino que son substancialmente más amplios e incluyen la mejora de la salud, la disminución de la mortalidad y morbilidad, la reducción de la corrosión de edificios y materiales, una mejor protección del patrimonio cultural, la reducción de la eutrofización, mayor visibilidad, etc. Algunos de esos efectos positivos (por ejemplo los relacionados con la salud y la corrosión) pueden cuantificarse con algún grado de certidumbre en términos monetarios (véase la sección 6) pero otros no (por ejemplo, los efectos ecológicos).
+Para conocer los beneficios medioambientales de la reducción de emisiones, puede calcularse el cambio en la zona de ecosistemas vulnerables donde han dejado de superarse las cargas críticas.
+
+Legislación comunitaria vigente sobre contaminantes atmosféricos acidificantes 
+
+Hay un amplio abanico de instrumentos para controlar las emisiones de dióxido de azufre y óxidos de nitrógeno a nivel comunitario, pero por ahora no hay ninguno que regule las emisiones de amoniaco.
+Algunos de los instrumentos vigentes fueron pensados para luchar contra la contaminación, mientras que otros se crearon principalmente por otras razones.
+En la figura 1 se presentan los instrumentos -vigentes o propuestos- más importantes.
+
+Además de las medidas adoptadas en la Comunidad, muchos Estados miembros han promulgado medidas nacionales para conseguir reducir aún más las emisiones acidificantes.
+
+Convenio de la Comisión de las Naciones Unidas para Europa sobre la contaminación atmosférica transfronteriza a larga distancia (CLRTAP) 
+
+El Convenio sobre la contaminación atmosférica transfronteriza a larga distancia se firmó en 1979.
+La Comisión Económica de las Naciones Unidas para Europa (CEPE) asume la secretaría y alberga la sede de este Convenio (Ginebra).
+De los 55 Estados miembros actuales de la CEPE, 40 son partes en el Convenio, incluidos todos los Estados miembros, así como la Comunidad Europea.
+Desde su entrada en vigor en 1983, el Convenio ha sido ampliado con cinco protocolos específicos, cuatro de los cuales establecen objetivos y medidas para combatir y reducir las emisiones de contaminantes atmosféricos transfronterizos.
+Tres de esos protocolos se refieren a contaminantes atmosféricos acidificantes: los dos sobre el azufre, de 1985 y 1994, y el referente a los NOx , de 1988.
+El cuarto tiene por objeto reducir las emisiones de compuestos orgánicos volátiles (COV) para reducir las concentraciones de ozono en el suelo.
+
+En 1993, la Comunidad se adhirió al protocolo sobre los NOx de 1988.
+Doce Estados miembros lo han ratificado, dos lo han firmado pero no lo han ratificado, y uno todavía no lo ha firmado.
+El protocolo sobre el azufre, de 1994, está firmado por catorce Estados miembros y la Comunidad.
+Por ahora sólo lo han ratificado cuatro Estados miembros (véase la sección 4.2).
+
+A finales de la década de los ochenta, el Convenio empezó a desarrollar el planteamiento denominado de cargas críticas como instrumento para elaborar estrategias de reducción de la contaminación que se centrasen en los efectos y tuviesen una buena relación coste/eficacia.
+Este planteamiento se siguió en las negociaciones del protocolo sobre el azufre, de 1994, y se está aplicando en las negociaciones en curso con respecto a un nuevo protocolo sobre óxidos de nitrógeno, compuestos orgánicos volátiles y amoniaco, que trata de los efectos del ozono en el suelo, la acidificación y la eutrofización.
+Se espera que ese nuevo protocolo esté ultimado en el transcurso de 1998; en cuanto entre en vigor, substituirá a los protocolos vigentes sobre COV y NOx .
+En la práctica, sin embargo, se han mantenido las obligaciones básicas de los protocolos existentes.
+El procedimiento del Convenio de la CEPE, por otra parte, desempeña un importante papel en la generación de información, el intercambio de datos y el aumento de los conocimientos y la sensibilización.
+
+Figura 1
+
+Legislación comunitaria en relación con la reducción de emisiones acidificantes
+
+Directiva del Consejo 88/609/CEE sobre limitación de emisiones a la atmósfera de determinados agentes contaminantes procedentes de grandes instalaciones de combustión:
+El Consejo adoptó esta directiva en noviembre de 1988.
+Se refiere a las instalaciones de combustión con una potencia térmica nominal superior o igual a 50 megavatios (MW).
+Establece valores límite de emisión con respecto a las instalaciones nuevas (posteriores a 1987), y límites máximos por países correspondientes a las emisiones nacionales procedentes de instalaciones existentes (anteriores a 1987).
+Esos límites máximos de emisión se reducen gradualmente a lo largo de varias fases.
+En la actualidad, la Comisión está preparando una modificación de la directiva, como establece la directiva original.
+Se espera que la Comisión habrá ultimado la propuesta de modificación a principios de 1997.
+Directiva 93/12/CEE del Consejo, de 23 de marzo de 1993, relativa al contenido de azufre de determinados combustibles líquidos:
+Limita el contenido máximo en azufre: hasta un 0,2% si se trata de carburantes diesel utilizados en fuentes de combustión fijas y hasta un 0,05% en el caso de carburantes diesel utilizados en fuentes móviles.
+La directiva original establece su modificación posterior para reducir el límite en relación con la combustión estacionaria.
+
+Legislación sobre control de emisiones de fuentes móviles:
+Hay un amplio corpus de legislación comunitaria sobre control de emisiones atmosféricas procedentes de vehículos de pasajeros y de vehículos industriales ligeros (Directiva 70/220/CEE en su versión modificada), así como de vehículos industriales pesados (Directiva 88/77/CEE en su versión modificada).
+En junio de 1996, la Comisión adoptó una estrategia futura para el control de las emisiones atmosféricas causadas por el transporte por carretera.
+Esa estrategia tiene previsto reducir un 65% las emisiones de NOx procedentes del transporte rodado en el año 2010 en comparación con 1995.
+Con respecto a otras fuentes móviles de emisiones acidificantes, la Comisión presentó en 1995 una propuesta contra las emisiones procedentes de máquinas móviles no de carretera.
+
+Directiva marco 96/61/CE sobre prevención y control integrados de la contaminación (IPPC):
+El Consejo adoptó esta directiva en septiembre de 1996.
+Según la directiva, deben aplicarse las mejores técnicas disponibles, definidas en esta Directiva, adaptándolas a las circunstancias locales y teniendo en cuenta la contribución de la contaminación atmosférica transfronteriza, en todas las instalaciones reguladas por la directiva (para el año 2007, si se trata de instalaciones existentes, y a partir de 1999, si se trata de instalaciones nuevas).
+
+Directivas sobre calidad del aire (entre otras, las relativas al SO2 , el NO2 , las partículas y el ozono).
+Con arreglo a la Directiva 96/62/CE sobre evaluación y gestión de la calidad del aire ambiente, la Comisión está preparando nuevos valores límite de calidad del aire en relación con el SO2 , el NO2 y las partículas, y se espera que en el primer semestre de 1997 proponga una nueva directiva al respecto.
+A principios de 1998 se propondrá una modificación de la Directiva 92/72/CEE sobre la contaminación atmosférica por ozono, así como una estrategia comunitaria contra los precursores del ozono.
+
+DESARROLLO DE LA ESTRATEGIA 
+
+Fundamento científico de la estrategia 
+
+En respuesta al mandato del Consejo, la Comisión, junto con un contratista (el International Institute for Applied Systems Analysis - IIASA), ha realizado un profundo análisis científico para sentar unas bases técnicas sólidas sobre las que levantar una estrategia contra la acidificación en la Comunidad Europea.
+Los datos empleados para la realización del análisis y los modelos de evaluación integrada son los utilizados en la elaboración de los protocolos del Convenio de la CEPE.
+De esta forma, la estrategia de la Comisión es coherente con la labor que está llevando a cabo ese organismo.
+1 La evolución prevista de las emisiones de sustancias acidificantes, habida cuenta de la legislación comunitaria vigente y en preparación, así como las medidas legislativas y planes anunciados por los Estados miembros.
+2 El carácter transfronterizo del problema de la acidificación, y se han utilizado datos internacionalmente acordados sobre emisiones, flujos transfronterizos y deposiciones de contaminantes atmosféricos acidificantes.
+3 La identificación de estrategias rentables de lucha contra la acidificación, habida cuenta de la evolución de las tendencias de las emisiones, las diferencias entre las cargas críticas en la Comunidad y el coste de las distintas medidas de reducción de la contaminación.
+4 El impacto potencial de las medidas de reducción de la contaminación adoptadas fuera del territorio de la CE.
+5 El impacto de fenómenos medioambientales asociados a la acidificación, por ejemplo la eutrofización y la formación de ozono troposférico.
+
+
+En el Anexo de la presente comunicación se describe el análisis científico realizado como apoyo a la elaboración de la estrategia contra la acidificación.
+
+No obstante, antes de proceder a la descripción de los elementos de la estrategia propuesta por la Comisión, es preciso hacer una serie de consideraciones importantes.
+
+El objetivo final de no superar las cargas críticas y la necesidad de fijar metas intermedias 
+
+En las conclusiones del Consejo de diciembre de 1995 se reconocía la dificultad de conseguir el objetivo fundamental consistente en no superar las cargas críticas en un futuro inmediato.
+En consecuencia, el Consejo instó a la Comisión a que estableciera metas intermedias de cara a ese objetivo.
+El análisis confirmó la necesidad de fijar metas intermedias.
+Un condicionamiento político de la estrategia es que las medidas de reducción de emisiones deben en primer lugar adoptarse a nivel de la CE porque ésta no puede imponer obligaciones ni medidas vinculantes fuera de su territorio.
+El análisis puso de manifiesto que, aun cuando se aplicaran las mejores técnicas disponibles a todas las fuentes de emisión en todo el territorio de la CE, sería imposible alcanzar el objetivo a largo plazo de calidad del medio ambiente en toda la CE en el año 2010.
+
+Utilizando una metodología de reducción de distancias (gap-closure), se estudiaron varias metas intermedias.
+En las negociaciones sobre el protocolo del azufre de 1994 del Convenio sobre contaminación atmosférica transfronteriza a larga distancia se aplicó una metodología similar.
+Dada la mayor complejidad de las cargas críticas que se utilizan en la actualidad -pues se consideran los compuestos de azufre y nitrógeno, mientras que en el caso del protocolo sobre el azufre se tenía en cuenta únicamente esta sustancia- la metodología de reducción de distancias se basa ahora en datos de protección de ecosistemas.
+
+Por consiguiente, el concepto aplicado pretende reducir por etapas la distancia, es decir, disminuir en un determinado porcentaje la diferencia entre el nivel de protección de ecosistemas en 1990 y el objetivo fundamental de una protección de ecosistemas al 100%.
+
+Tras estudiar detenidamente varias posibilidades, se consideró adecuado tender a una reducción de distancias en un 50%, con lo cual, según los conocimientos actuales, se podría reducir en un 50%, como mínimo, en las distintas regiones de los Estados miembros y de la manera más económica para el conjunto de la CE, la superficie de ecosistemas vulnerables donde se superaron las cargas críticas en 1990.
+La razón principal que justifica la elección de esta meta intermedia de calidad del medio ambiente reside en que constituye un equilibrio adecuado entre la protección de ecosistemas y los costes: cuando la reducción de distancias supera el 50%, los costes adicionales de la reducción de emisiones aumentan con gran rapidez.
+La Comisión considera que la meta intermedia de reducción de distancias en un 50% debe alcanzarse para el año 2010.
+La meta intermedia se revisará en el año 2004 dentro del proceso de modificación (véase el punto 4.12).
+
+En el Anexo se ofrece una explicación más detallada del concepto de reducción de distancias y de las razones que han justificado la elección de una reducción del 50%.
+
+Evaluación preliminar de las reducciones de emisiones necesarias para alcanzar la meta de reducción de distancias en un 50% 
+
+La Comisión, en colaboración con IIASA, ha realizado un análisis del planteamiento con mejor relación coste-eficacia para alcanzar la meta intermedida de reducir distancias un 50% para el año 2010.
+En el análisis se han tenido en cuenta los flujos transfronterizos de contaminantes atmosféricos a través de la Comunidad y los costes asociados con la reducción de emisiones de los tres contaminantes SO2 , NOx y NH3 en cada país.
+El resultado del análisis ha sido la solución global menos costosa para el conjunto de la Comunidad de cara a la consecución de la meta de reducción de distancias en un 50%.
+En el cuadro 3 se ofrece un resumen de los resultados preliminares del análisis, que se describen con mayor detalle en el Anexo.
+
+Tabla 3
+
+Resumen de los niveles de emisión que deben registrarse en la Comunidad para alcanzar la meta de una reducción de distancias en un 50% con respecto a 1990, y situación prevista en el año 2010 sobre la base de los planes vigentes (millones de toneladas)
+
+Previsiones sobre el consumo de energía y las emisiones de CO2 
+
+El análisis científico en el que se basa la estrategia se realizó a partir de unas previsiones sobre el consumo de energía.
+Puesto que la producción de energía y la consiguiente combustión de productos de carbón y petróleo son una de las fuentes más importantes de emisiones acidificantes, esas previsiones han tenido una repercusión significativa sobre la estrategia contra la acidificación, sobre todo a la hora de determinar las soluciones de menor coste.
+Por otra parte, en las previsiones sobre consumo de energía fue preciso tener en cuenta, además, la necesidad de reducir las emisiones de CO2 a causa de la inquietud suscitada con respecto al calentamiento del planeta.
+
+El análisis a partir del cual se ha formulado la estrategia contra la acidificación se basa en la hipótesis de una evolución normal, según la cual entre 1990 y el año 2010 el consumo de energía va a aumentar un 20% y las emisiones de CO2 , un 10%.
+No obstante, se ha realizado otro análisis basado en la hipótesis de que las emisiones de CO2 en el año 2010 van a reducirse un 10% con respecto a 1990.
+Según estas previsiones, podrán reducirse notablemente los gastos en medidas de reducción para alcanzar la meta intermedia de reducir distancias en un 50% (véase el Anexo).
+
+Colaboración con el Convenio de la CEPE de las Naciones Unidas sobre contaminación atmosférica transfronteriza a larga distancia 
+
+El Consejo ha reconocido que para alcanzar el objetivo de no superar las cargas críticas era necesario instaurar una cooperación y coordinación a nivel internacional, y considera fundamental que las futuras estrategias comunitarias se elaboren teniendo plenamente en cuenta la labor del mencionado Convenio de la CEPE.
+Además, el Consejo ha declarado que, cuando prepare la estrategia contra la acidificación, la Comisión deberá mantener contactos regulares, entre otros, con ese Convenio.
+
+Después de celebradas conversaciones bilaterales entre la Comisión y el Convenio de la CEPE en abril de 1996, se constituyó un grupo rector de altos funcionarios de ambas instituciones con la misión de facilitar la coordinación.
+El grupo se reunió con carácter oficial en julio y noviembre, y de forma continuada con carácter extraoficial.
+
+LA ESTRATEGIA 
+
+A partir de los resultados del análisis científico a que antes se ha hecho alusión, habida cuenta de las observaciones manifestadas por los Estados miembros y tomando nota de las formuladas por la industria y las ONG en el transcurso de tres reuniones, celebradas los días 29 de mayo de 1996, 30 de octubre de 1996 y 16 de enero de 1997, la Comisión ha preparado una estrategia contra la acidificación en la Comunidad Europea.
+
+Si se ponen en práctica las medidas propuestas en la estrategia, en el año 2010 podrá alcanzarse la meta de reducir distancias en un 50% como se describe en el punto 3.2.
+Con las medidas propuestas se conseguirán más reducciones que las que cabe esperar de la aplicación de la legislación y los compromisos vigentes, que se calcula reducirán las emisiones comunitarias de SO2 , NOx y NH3 en un 66%, 48% y 15%, respectivamente, entre 1990 y el año 2010.
+No obstante, el objetivo medioambiental a largo plazo consiste en no superar nunca las cargas críticas.
+A la vista de ese objetivo, la estrategia propuesta por la Comisión establece, además, un proceso continuo de revisión para supervisar el impacto de las medidas que vayan a introducirse y evaluar la necesidad de medidas adicionales de reducción de emisiones acidificantes, así como su naturaleza.
+Los elementos clave de la estrategia son.
+
+Propuesta de límites máximos nacionales de emisión 
+
+La Comisión considera que la futura política comunitaria en relación con la acidificación y fenómenos transfronterizos asociados tales como el ozono troposférico debe basarse en límites máximos nacionales de emisión con respecto a una serie de contaminantes principales.
+Esos límites máximos nacionales de emisión han de ser compatibles con los objetivos medioambientales acordados.
+La elaboración de límites máximos nacionales de emisión es coherente con el planteamiento seguido en el Convenio de la CEPE de las Naciones Unidas sobre la contaminación atmosférica transfronteriza a larga distancia.
+Una de las ventajas que presenta una política basada en límites máximos de emisión es el margen de maniobra que se deja a los Estados miembros para determinar la mejor manera de hacer cumplir los límites máximos de modo tal que se dé una buena relación coste/eficacia.
+Evidentemente, las medidas que adopten los Estados miembros para cumplir los límites máximos nacionales de emisión tendrán que ser compatibles con las normas comunitarias que regulan el funcionamiento del mercado interior y la competencia.
+Los Estados miembros podrán, por ejemplo, aplicar instrumentos económicos u otras medidas no técnicas como herramienta adicional de la estrategia nacional destinada a hacer cumplir los límites máximos nacionales de emisión.
+
+Como ya se ha dicho antes, la cuantificación de los límites máximos nacionales de emisión depende del objetivo medioambiental que se haya determinado previamente.
+Por lo que se refiere a la acidificación, la Comisión considera que un objetivo adecuado a medio plazo es la meta intermedia de reducir distancias en un 50% para el año 2010 (véase el punto 3.2).
+
+El análisis científico realizado por la Comisión ha brindado información preliminar sobre el nivel de reducción necesario para cumplir la meta intermedia de reducción de distancias en un 50% (véanse el punto 3.3 y el Anexo).
+La Comisión insiste en el carácter preliminar de esas cifras, que van a revisarse a la luz de la estrategia sobre el ozono (véase más abajo) y del perfeccionamiento posterior del análisis científico.
+No obstante, es evidente que la realización de la meta de reducción de distancias en un 50% va a suponer un gran desafío, que se suma a la labor en curso en los Estados miembros para reducir las emisiones acidificantes.
+
+El ozono troposférico es otro tipo de contaminación transfronteriza que requiere una respuesta integrada a nivel de la Comunidad.
+A principios de 1998, la Comisión va a presentar una propuesta sobre una estrategia comunitaria contra este tipo de contaminación.
+La Comisión, junto con un contratista (IIASA), está realizando los análisis científicos necesarios para elaborar una propuesta al respecto.
+Esos análisis se basarán en la misma metodología utilizada en la elaboración de la presente estrategia contra la acidificación.
+El análisis científico posibilitará el establecimiento de límites máximos nacionales de emisión con respecto a los NOx y los compuestos orgánicos volátiles, que son los principales responsables de la formación del ozono troposférico.
+
+1 el perfeccionamiento del análisis relativo a la acidificación
+2 la finalización del análisis relativo al ozono troposférico
+3 las conversaciones con expertos de los Estados miembros, la industria y ONG
+4 los debates sobre la finalización de un nuevo protocolo del Convenio de la CEPE de las Naciones Unidas sobre la contaminación atmosférica transfronteriza a larga distancia, así como la modificación prevista del Convenio de la Organización Marítima Internacional (OMI) sobre contaminación marítima (MARPOL)
+la Comisión presentará una propuesta de directiva sobre el establecimiento de límites máximos de emisión con respecto al SO2 , los NOx , el NH3 y los COV, coherente con la realización de la meta de reducción de distancias en un 50% en relación con la acidificación y de los objetivos acordados de calidad del aire con respecto al ozono troposférico.
+En el establecimiento de esos límites máximos de emisión, la Comisión sopesará las consecuencias de los límites máximos propuestos sobre el desarrollo económico y social de algunas regiones de la Comunidad.
+
+Pese a ser una iniciativa nueva importante, la introducción de límites nacionales vinculantes no deja de ser un elemento más dentro de la estrategia más amplia contra la acidificación.
+Se propone completar los límites máximos de emisión con otras medidas (véase más abajo) para que los límites se cumplan efectivamente en la práctica y para que se adopten medidas técnicas de reducción de emisiones dentro y fuera de la Comunidad Europea.
+
+Ratificación del Protocolo de 1994 sobre el azufre 
+
+Todos los Estados miembros y la Comunidad Europea, salvo Portugal, han firmado el Protocolo sobre el azufre, de 1994, del Convenio sobre la contaminación atmosférica transfronteriza a larga distancia.
+También lo han firmado los siguientes países no miembros de la CE: Bulgaria, Canadá, Croacia, Eslovaquia, Eslovenia, Hungría, Liechtenstein, Noruega, Polonia, la República Checa, Rusia, Suiza y Ucrania.
+En diciembre de 1996, sin embargo, sólo lo habían ratificado cuatro Estados miembros (Suecia, los Países Bajos, Luxemburgo y el Reino Unido) y un país no miembro de la CE (Noruega).
+Para que pueda entrar en vigor, el Protocolo debe estar ratificado por 16 signatarios.
+
+Si la Comunidad quiere elaborar una política ambiciosa contra la acidificación, una de las primeras cosas que debe hacerse es ratificar el protocolo de 1994 sobre el azufre.
+Antes de decidir a propósito de medidas adicionales para reducir las emisiones acidificantes, la Comunidad debe demostrar su compromiso para con las iniciativas internacionales existentes.
+Además, el protocolo incluye disposiciones sobre futuras modificaciones, que abren la posibilidad de contraer compromisos más importantes que pueden contribuir a la consecución de las metas comunitarias de calidad del medio ambiente.
+
+Además de la importancia política que reviste la ratificación del protocolo por parte de la Comunidad, ésta puede resultar claramente beneficiada como contrapartida, porque el Convenio sobre la contaminación atmosférica transfronteriza a larga distancia es actualmente el mecanismo para la reducción de emisiones en los países no comunitarios que contribuyen significativamente a la deposición ácida en el territorio de la CE.
+
+En consecuencia, se propone que el Consejo decida que la Comunidad Europea ratifique el protocolo del Convenio de 1979 sobre la contaminación atmosférica transfronteriza a larga distancia, relativo a una nueva reducción de las emisiones de azufre.
+Se adjunta una propuesta de Decisión del Consejo sobre la celebración por parte de la Comunidad Europea del Protocolo de 1994 sobre el azufre.
+
+Propuesta de modificación de la Directiva relativa al contenido de azufre de determinados combustibles líquidos 
+
+En marzo de 1993, el Consejo adoptó la Directiva 93/12/CEE relativa al contenido de azufre de determinados combustibles líquidos, en la que se establece un valor límite del 0,2 % en peso para el contenido de azufre de los carburantes diesel, límite que a partir del 1 de octubre de 1990 debe quedar reducido a un máximo del 0,05%.
+El contenido máximo de azufre de los gasóleos distintos de los carburantes diesel quedó fijado en el 0,2% en peso a partir del 1 de octubre de 1994.
+El artículo 2 de la Directiva obliga a la Comisión a informar al Consejo de los avances realizados en la lucha contra las emisiones de dióxido de azufre, así como a presentar una propuesta con valores límite más bajos para el contenido de azufre de los gasóleos distintos de los carburantes diesel.
+Dicha propuesta está en suspenso a la espera de los resultados de la estrategia contra la acidificación.
+
+En el análisis efectuado para la elaboración de la estrategia contra la acidificación se llegó a la conclusión de que una nueva reducción del contenido de azufre del gasóleo utilizado en fuentes fijas de combustión era una medida con una buena relación coste/eficacia -que, de hecho, ya se estaba aplicando en algunos casos- para ocho Estados miembros: Alemania, Austria, Bélgica, Dinamarca, Finlandia, los Países Bajos, Suecia y el Reino Unido. (En Austria y Finlandia, el contenido máximo de azufre autorizado es el 0,1%.
+Ambos países disfrutan, en virtud de su correspondiente Tratado de adhesión a la CE, de una excepción que les permite aplicar ese porcentaje durante un período de transición de cuatro años, que acaba el 31 de diciembre de 1998).
+En todos los demás Estados miembros, una nueva reducción del contenido de azufre del gasóleo por debajo del actual valor límite del 0,2% no resulta económica si se trata únicamente de cumplir metas intermedias de acidificación.
+
+La combustión de fuelóleo es la fuente dominante de emisiones de SO2 derivadas del uso de combustibles líquidos, con un porcentaje del 20% del total de emisiones de la CE en 1990.
+A falta de medidas específicas, se calcula que en el año 2010 ese porcentaje habrá aumentado para situarse en torno al 40%.
+Las emisiones de SO2 derivadas del fuelóleo proceden de distintas fuentes (véase el cuadro 4).
+
+Tabla 4
+
+Emisiones de SO2 derivadas de fuelóleo (HFO) en el año 2010 según la hipótesis de referencia y después de limitar el contenido de azufre en un 1% (kilotoneladas)
+
+Refinerías y otros procesos de transformación.
+
+
+Industria.
+
+
+Sector doméstico.
+
+
+Transportes.
+
+
+Centrales eléctricas.
+
+
+TOTAL.
+
+
+Hipótesis de referencia.
+
+
+Diferencia.
+
+
+El análisis en el que se basa la estrategia contra la acidificación ha puesto de manifiesto que en 12 Estados miembros (es decir, todos salvo España, Portugal y Grecia) el uso de fuelóleo con bajo contenido de azufre en algunos sectores (por ejemplo, en los sectores doméstico y del transporte) es una solución económica para alcanzar la meta intermedia.
+En sectores, sin embargo, como las centrales eléctricas y la industria, la desulfuración de los gases de combustión es, en general, más económica y más eficaz para eliminar las emisiones.
+
+Dado que la combustión de fuelóleo contribuye de forma significativa a las emisiones de SO2 , la Comisión considera conveniente, como parte de su estrategia contra la acidificación, reducir las emisiones de SO2 de esta fuente limitando el contenido de azufre permitido en el fuelóleo.
+Para materializar las conclusiones de la evaluación integrada y evitar gastos inútiles, la Comisión reconoce que en algunos países o regiones donde las condiciones medioambientales lo permitan, así como en algunas industrias que ya aplican tecnologías de reducción de emisiones, como la desulfuración de los gases de combustión, con resultados equivalentes o superiores desde el punto de vista de la reducción de emisiones de SO2 , va a ser necesario establecer excepciones a cualquier limitación general del contenido de azufre.
+En concreto, cualquier norma que se refiera a los fuelóleos debe tener en cuenta las disposiciones de la Directiva 88/609/CEE sobre limitación de emisiones a la atmósfera de determinados agentes contaminantes procedentes de grandes instalaciones de combustión, así como la propuesta de modificación de esa Directiva, y deberá guardar coherencia con la misma (véase el punto 4.4).
+Con respecto a la modificación de la Directiva 88/609/CEE, en la actualidad se tiene previsto incluir disposiciones tales como límites máximos (similares al concepto contenido en la presente Directiva), que dan a las grandes instalaciones de combustión un grado de flexibilidad respecto del contenido de azufre de los fuelóleos que utilicen.
+
+Adjunta a la presente comunicación figura una propuesta de Directiva del Consejo sobre la cantidad de azufre contenida en gasóleos y fuelóleos, que recoge los principios descritos en los párrafos anteriores.
+
+En la sección 4.5 se aborda el control del contenido de azufre de los combustibles de buques.
+
+Medidas relacionadas con las directivas LCP e IPPC: control de las emisiones desde fuentes fijas 
+
+Como parte de la modificación de la Directiva 88/609/CEE sobre limitación de emisiones a la atmósfera de determinados agentes contaminantes procedentes de grandes instalaciones de combustión (Directiva LCP), la Comisión está preparando nuevos valores límite de emisión correspondientes al SO2 y los NOx en relación con todas las grandes instalaciones de combustión nuevas.
+Los nuevos valores límite de emisión se basarán en las mejores técnicas disponibles (MTD) de control de la contaminación atmosférica.
+Dentro de los trabajos preparatorios de la modificación de la Directiva 88/609/CEE, los servicios de la Comisión están estudiando, entre otras cosas, el valor potencial del establecimiento de límites máximos nacionales de emisión con respecto tanto a las instalaciones nuevas como a las existentes.
+Esos límites máximos se justifican por la necesidad de conseguir una buena relación coste/eficacia y de alcanzar metas de calidad medioambiental.
+Un estudio realizado con vistas a la modificación de la Directiva LCP, así como la experiencia práctica en varios Estados miembros, ha demostrado que las emisiones de grandes instalaciones de combustión pueden tratarse de manera más económica con límites máximos de emisión (que pueden combinarse con valores límite) que con normas de emisión únicamente.
+
+El análisis en el que se basa la estrategia contra la acidificación llegó a las conclusiones siguientes:
+
+En relación con las emisiones de SO2 , será necesario aplicar la desulfuración de los gases de combustión, o valores límite de emisión con el mismo efecto, o límites máximos de emisión que produzcan las mismas reducciones globales a las grandes instalaciones de combustión existentes en todos los Estados miembros, salvo en Grecia, Portugal y España (en parte).
+Por lo que se refiere a las emisiones de NOx , será necesario aplicar la desnitrificación de los gases de combustión, o valores límite de emisión con el mismo efecto, o límites máximos de emisión que produzcan las mismas reducciones globales a las grandes instalaciones de combustión existentes en todos los Estados miembros, salvo en Grecia, Portugal, España, Italia, Finlandia y Luxemburgo.
+
+La propuesta de la Comisión sobre la modificación de la Directiva LPC será coherente con la meta de reducción de distancias en un 50% para el año 2010 con respecto a la acidificación.
+
+- la localización geográfica
+- las circunstancias medioambientales locales
+- las disposiciones sobre reducción de la contaminación atmosférica transfronteriza a larga distancia
+- el objetivo principal de la Directiva IPPC, a saber, prevenir y, cuando no sea practicable, reducir las emisiones para alcanzar un grado elevado de protección del medio ambiente en su conjunto.
+
+
+La Directiva IPPC es, además, la herramienta principal para conseguir reducir las emisiones de procesos industriales.
+Según los resultados del análisis realizado como apoyo a la estrategia contra la acidificación, para los fines del cumplimiento de la meta de reducción de distancias en un 50%, un medio económico puede ser aplicar controles estrictos sobre las emisiones de SO2 debidas a procesos industriales en todos los Estados miembros de la Comisión, salvo Grecia y Portugal.
+Igualmente, diez Estados miembros van a tener que controlar, además, las emisiones de NOx procedentes de esas fuentes, siendo las excepciones Grecia, Portugal, España, Italia y Finlandia.
+En este caso también será posible optar por límites máximos de emisión o instrumentos económicos que produzcan las mismas reducciones globales de manera más económica.
+
+Del análisis para la estrategia contra la acidificación se desprende, por consiguiente, que si se quiere alcanzar la meta intermedia es preciso adoptar medidas complementarias de carácter comunitario o regional para reducir las emisiones procedentes de las instalaciones de combustión y los procesos industriales.
+Los instrumentos jurídicos aplicables son la modificación de la Directiva 88/609/CEE sobre emisiones procedentes de grandes instalaciones de combustión, y la Directiva IPPC.
+
+Medidas relacionadas con las emisiones procedentes de buques 
+
+Al incluir las emisiones del sector del transporte marítimo en la optimización para la meta intermedia de una reducción de distancias del 50%, se demostró que era conveniente desde el punto de vista de la relación coste/eficacia reducir las emisiones de SO2 desde buques en el mar Báltico y el mar del Norte, así como reducir las emisiones de óxidos de nitrógeno en el mar Báltico, el mar del Norte y algunas zonas del océano Atlántico.
+Por falta de datos, no se incluyeron en el análisis las emisiones desde buques en el mar Mediterráneo.
+La reducción de emisiones de SO2 pueden conseguirse bajando el contenido de azufre de los combustibles para buques y con medidas de reducción de emisiones de los óxidos de nitrógeno, incluido el uso de catalizadores.
+
+El contenido de azufre de los combustibles para buques no está regulado por ningún Convenio internacional.
+Hay, sin embargo, algunas propuestas al respecto en el marco del Convenio MARPOL sobre contaminación marítima de la Organización Marítima Internacional (OMI).
+En la actualidad, el Convenio está siendo objeto de revisión, y las negociaciones deberán estar concluidas a finales de 1997.
+En la conversaciones preliminares, los países ribereños del mar Báltico propusieron declarar ese mar zona vulnerable a las emisiones de SO2 .
+Los países ribereños del mar del Norte también están trabajando para conseguir tal declaración en la totalidad o en partes del mar del Norte/Canal de la Mancha.
+En las zonas vulnerables, se propone que los buques sólo puedan utilizar combustible con un contenido máximo de azufre del 1,5%.
+
+La declaración del mar Báltico o de la totalidad o de zonas del mar del Norte/Canal de la Mancha como zona vulnerable a las emisiones de SO2 , y las consiguientes restricciones del contenido de azufre de los combustibles para buques empleados en esas zonas pueden resultar, según los análisis de la Comisión, una medida con una excelente relación coste/eficacia dentro de una estrategia combinada contra la acidificación en la CE.
+En consecuencia, la Comisión considera que, en el actual proceso de revisión del Convenio MARPOL, los Estados miembros deberían apoyar la declaración de zona vulnerable a las emisiones de SO2 del mar Báltico y de la totalidad o partes del mar del Norte/Canal de la Mancha.
+Tras la modificación del Convenio MARPOL, los Estados miembros deberán aplicar las disposiciones relativas a las zonas vulnerables lo antes posible.
+La Comisión, si resulta conveniente, formulará propuestas para que los Estados miembros apliquen rápidamente esas disposiciones.
+
+Medidas relacionadas con los países de Europa Central y Oriental 
+
+A través de sus relaciones exteriores, la CE y sus Estados miembros pueden desempeñar un papel activo en la promoción de medidas con una buena relación coste/eficacia fuera de su jurisdicción.
+Por ejemplo, a fin de reducir la acidificación dentro de la CE, resulta económico aplicar en algunos países no miembros de la CE otras medidas sobre emisiones de azufre, además de las acordadas con arreglo al Protocolo del azufre de 1994.
+Además, una mayor limitación de las emisiones de NOx y NH3 , como va a establecer el nuevo protocolo del Convenio CLRTAP sobre varios agentes contaminantes distintos, contribuirá también a una menor desviación con respecto a las cargas críticas de acidificación.
+Las reducciones adicionales de las emisiones no sólo en los Estados miembros de la CE sino también en los países de Europa Central y Oriental (PECO), especialmente los vecinos de países de la CE, constituyen una medida económica y totalmente necesaria para alcanzar los objetivos sobre cargas críticas de acidificación.
+
+Las reducciones que se indican en el punto 3.3 se basan en la hipótesis de que las emisiones en los países no miembros de la CE van a reducirse de acuerdo con su legislación vigente y con las disposiciones de los distintos protocolos del Convenio CLRTAP de la CEPE de las Naciones Unidas.
+Esta evolución de las emisiones en países no miembros de la CE se basa en una hipótesis prudente puesto que la influencia de la Unión en la política contra la acidificación que va a aplicarse en esos países es limitada.
+No obstante, algunos análisis de sensibilidad realizados por la Comisión indican con toda evidencia que la reducción de emisiones acidificantes en algunos países, particularmente algunos PECO, puede permitir a la Unión fijarse unos objetivos más ambiciosos en relación con la deposición ácida.
+
+El análisis realizado como apoyo a la estrategia de la Comisión contra la acidificación ha demostrado que las emisiones de algunos PECO, tales como Polonia, la República Checa, Hungría y Eslovenia, contribuyen significativamente a la superación de las cargas críticas de acidificación en la CE (véase el Anexo).
+La CE tiende, sin embargo, a exportar hacia esos países más emisiones acidificantes que las que recibe.
+No obstante, las inversiones en reducción de emisiones por unidad son, por regla general, superiores en los PECO.
+Por ello, y siempre que las decisiones se adopten sobre una base casuística, será posible averiguar en qué situaciones la promoción de la reducción de emisiones en Europa Central y Orienta es positiva y económica para todas las partes implicadas.
+La Comunidad tiene que hacer lo posible para detectar y explotar estas situaciones en que todos salen ganando.
+Para alcanzar este objetivo, son varias las vías que pueden explorarse.
+
+La CE ha estado manteniendo contactos con diez países de Europa Central y Oriental (Bulgaria, Eslovaquia, Eslovenia, Estonia, Hungría, Letonia, Lituania, Polonia, la República Checa y Rumanía) para fomentar la aproximación de su legislación a la legislación comunitaria y facilitar las adaptaciones necesarias ante la eventualidad de su adhesión.
+Las consideraciones medioambientales y, en concreto, la adopción del acervo comunitario en materia de medio ambiente, son una de las áreas prioritarias en tal estrategia de preadhesión.
+En el diálogo que mantiene en la actualidad con esos países, la Comisión tiene la intención de incluir la acidificación entre las áreas prioritarias en el campo de la protección del medio ambiente.
+A tal fin, la Comisión recurrirá al programa PHARE y a fondos tales como TAIEX (Oficina de Intercambio e Información sobre la Asistencia Técnica) y DISAE (Estrategias de actuación para la aproximación en el sector del medio ambiente) con vistas a detectar las posibilidades de cooperación intensiva en relación con iniciativas dirigidas a reducir las emisiones acidificantes.
+
+Uno de los mecanismos más eficaces para conseguir que se reduzcan las emisiones en los PECO consiste en influir en el modelo de inversión, tanto pública como privada, especialmente en el sector del suministro de energía.
+La Comisión, en consecuencia, va a mantener conversaciones con gobiernos, principales empresas industriales e instituciones financieras para establecer estrategias de inversión óptimas destinadas a rebajar las emisiones que contribuyen a la acidificación.
+
+Medidas relacionadas con el Convenio sobre contaminación atmosférica transfronteriza a larga distancia 
+
+El Convenio CLRTAP de la CEPE de las Naciones Unidas es el foro más importante desde el que la Comunidad Europea y los Estados miembros pueden influir y suscitar la reducción de emisiones en países no miembros de la CE.
+Se ha visto que la aplicación de más medidas en algunos de esos países tendría una buena relación coste/eficacia para la consecución de la meta intermedia de calidad del medio ambiente en la CE, consistente en la reducción de distancias en un 50%.
+Además, si se quiere alcanzar el objetivo final, es preciso no superar las cargas críticas.
+La Comisión y los Estados miembros deben, pues, desempeñar un papel activo e impulsor en las negociaciones de un nuevo protocolo multicontaminantes dentro del CLRTAP y en la modificación y ratificación urgente del Protocolo del azufre, de 1994 (véase el punto 4.2), con objeto de que estos instrumentos contribuyan a alcanzar las metas comunitarias de calidad ambiental sobre la acidificación y otros problemas asociados.
+
+Medidas posibles de reducción de las emisiones de amoniaco 
+
+Se prevé que la legislación de medio ambiente de la CE, vigente o en preparación, dé lugar a la reducción de las emisiones de amoniaco.
+En primer lugar, se espera que, gracias a la creación y aplicación de códigos de prácticas agrarias correctas por medio de la aplicación de la Directiva sobre nitratos, podrá reducirse no sólo la escorrentía de nitratos hacia las aguas superficiales y subterráneas sino, además, las emisiones de amoniaco.
+En segundo lugar, la Directiva IPPC se aplica tanto a las grandes instalaciones de cría de aves de corral o cerdos como a las instalaciones industriales que emiten amoniaco.
+Por último, la regulación del almacenamiento de estiércol es un tema incluido en la comunicación sobre las estrategias para reducir las emisiones de metano y puede hacer reducir las emisiones de amoniaco.
+
+El análisis realizado para la presente estrategia contra la acidificación pone de manifiesto que la reducción de las emisiones de amoniaco es una medida económica.
+En particular, indica que pueden ser económicas las siguientes medidas:
+
+- Técnicas de reducción de las emisiones de amoniaco durante la aplicación de estiércol (vacas lecheras, ganado bovino, porcino y ovino, gallinas ponedoras, aves de corral), excepto en algunos países (Finlandia, Grecia, Portugal y España).
+- Adaptaciones de los gallineros para reducir las emisiones de las aves de corral, excepto en Finlandia, Grecia, Portugal y España.
+- Reducción de las emisiones industriales de amoniaco, excepto en Finlandia, Grecia, Luxemburgo, Portugal y España.
+
+El grado de incertidumbre existente en cuanto a la eficacia, los niveles de emisión en la actualidad y en el futuro, y el coste de las técnicas de reducción de la contaminación en el sector ganadero es mayor que con respecto a otros contaminantes.
+Dado que las técnicas de reducción de emisiones están menos desarrolladas con respecto al amoniaco que en el caso de otros contaminantes, parece conveniente que los Estados miembros dispongan de un margen de discreción mayor a la hora de elegir las medidas para cumplir los límites nacionales máximos de emisión indicativos que se proponen.
+A la hora de establecer los límites máximos nacionales de emisión se tendrán en cuenta los resultados de las nuevas investigaciones.
+
+Instrumentos económicos 
+
+Ampliar la gama de instrumentos y, cuando convenga, completar la legislación con instrumentos de mercado es una de las cinco prioridades del V Programa de Medio Ambiente.
+La utilización de límites máximos nacionales de emisión permitirá que, en las estrategias nacionales, los Estados miembros apliquen instrumentos económicos como herramientas adicionales.
+Por otra parte, las propuestas de medidas basadas en las fuentes de emisión, mencionadas en secciones anteriores, se idearon de manera que facultaran en la medida de lo posible la utilización de instrumentos económicos.
+La utilización de los límites máximos nacionales, sin embargo, es el objetivo operativo más importante y constituye el punto de anclaje para que los Estados miembros creen instrumentos económicos nacionales (o reglamentos) que superen los requisitos comunes mínimos en materia de medio ambiente.
+Cabe distinguir cuatro tipos principales de instrumentos:
+- 1) impuestos y gravámenes;
+- 2) subvenciones;
+- 3) autorizaciones de emisión negociables y
+- 4) acuerdos medioambientales.
+Por lo que se refiere a la aplicación de impuestos ecológicos, la Comisión ha adoptado recientemente una comunicación que establece en qué condiciones podrán los Estados miembros utilizar tales impuestos.
+La comunicación explica el marco jurídico en relación con el mercado único que deben respetar los Estados miembros que quieran introducir impuestos y gravámenes medioambientales.
+La Comisión ha adoptado también una comunicación sobre acuerdos en materia de medio ambiente, que aclara los criterios para el uso de ese instrumento.
+Los límites máximos nacionales y las comunicaciones constituirán el incentivo y el marco más importante para que los Estados miembros vayan ampliando las experiencias más logradas en la aplicación de instrumentos económicos, cuando convenga.
+
+Además de la aplicación de instrumentos económicos a nivel nacional, existen varios campos en los que la actuación comunitaria en forma de instrumentos económicos pueden aportar un valor añadido para la consecución de los límites máximos nacionales o para suscitar nuevas reducciones de las emisiones por medio de cambios estructurales en el consumo de energía y en la agricultura, de manera que no se superen las cargas críticas.
+Esos sectores son: los impuestos sobre la energía, los derechos sobre el transporte marítimo, la agricultura y la aplicación conjunta de límites máximos nacionales.
+
+Energía 
+
+En el sector de la energía, la aplicación de instrumentos económicos puede provocar la sustitución de combustibles y el aumento de la eficiencia energética.
+De este modo se pueden reducir los costes que lleva aparejado el cumplimiento de los límites máximos nacionales correspondientes a los NOx y el SO2 , a la vez que se reducen las emisiones de CO2 .
+Para ello pueden aplicarse medidas fiscales diferenciadas para los distintos productos energéticos.
+La Comisión no considera conveniente diferenciar las medidas fiscales en directivas distintas para cada tipo de producto o de problema medioambiental.
+Por el contrario, piensa que los problemas ecológicos deben integrarse en un sistema comunitario más coherente de imposición sobre los productos energéticos, como han solicitado el Consejo y el Parlamento.
+
+Por esta razón, la Comisión va a tener en cuenta en su propuesta de Directiva relativa a los impuestos sobre los productos energéticos la necesidad de orientar los mercados hacia una utilización de los combustibles más eficaz y menos contaminante, como solicitó el Consejo ECOFIN de 11 de marzo de 1996.
+La propuesta hará compatible dentro del mercado interior la aplicación de políticas más flexibles a nivel nacional.
+Las opciones estudiadas consisten en la diferenciación de los niveles mínimos de imposición aplicables a los fuelóleos en relación con el contenido de azufre, y en la posibilidad explícita de que los Estados miembros diferencien los tipos de impuestos nacionales aplicables a los productos energéticos sobre la base de sus cualidades ecológicas Además, pueden tener cabida en el campo de aplicación de la legislación comunitaria nuevos productos energéticos, y en las modificaciones futuras de los niveles comunitarios de imposición pueden tenerse en cuenta objetivos medioambientales.
+Se espera que la propuesta provoque reducciones pequeñas, aunque no desdeñables, de las emisiones de NOx , SO2 y CO2 .
+
+Transporte marítimo 
+
+En el punto 4.5 ya se ha hablado de las conversaciones que están teniendo lugar en la Organización Marítima Internacional (OMI) a propósito del establecimiento de límites con respecto al contenido de azufre de los combustibles para buques.
+No obstante, los métodos debatidos en el contexto de MARPOL no son exhaustivos y existen otros mecanismos para reducir más las emisiones de SO2 desde buques.
+Por otra parte, las actuales conversaciones en el marco de MARPOL no abordan convenientemente el problema de las emisiones de NOx desde buques.
+
+Otra posible línea de actuación consiste en aplicar derechos sobre el transporte marítimo diferenciados según los daños ambientales causados.
+En este sentido, la administración sueca tiene la intención de implantar un sistema general de derechos compatibles con los aplicados en la actualidad.
+Por lo que se refiere a los NOx , la propuesta sueca considera la posibilidad de rebajar los costes de explotación y las inversiones en catalizadores.
+Los buques en los que no se hayan instalado catalizadores pagarían derechos medioambientales más altos.
+Con respecto al azufre, Suecia está considerando la posibilidad de aumentar el nivel medio de los actuales derechos de faro y autorizar descuentos para los buques que utilicen combustible con bajo contenido de azufre (menos del 0,5%).
+A este respecto, la Comisión puede estudiar la posibilidad de diferenciar los derechos sobre el transporte marítimo entre algunos Estados miembros para promover reducciones económicas de las emisiones acidificantes.
+
+Agricultura 
+
+En el sector agrario no es necesario aplicar muchas de las medidas técnicas de reducción de la contaminación existentes para alcanzar de forma económica la meta intermedia de reducir distancias en un 50%.
+Además de la contribución potencial de las nuevas medidas técnicas para la reducción de las emisiones de amoniaco, la evolución de la política agrícola común (PAC), en consonancia con el planteamiento de 1992, podrá tener efectos secundarios positivos sobre el nivel de emisiones de amoniaco.
+Así, esta evolución podrá tener en cuenta la necesidad de reducir las emisiones de amoniaco, sin olvidar que se trata sólo de uno de los problemas ambientales a que se enfrenta el sector agrario.
+Otros problemas, como, por ejemplo, la infiltración o la escorrentía de nitratos hacia las aguas superficiales y subterráneas y las emisiones de metano, son también muy graves y deberían abordarse preferentemente en un marco coherente, junto con la acidificación.
+La modificación de 1996 del V Programa de Medio Ambiente incluye entre las prioridades fundamentales la integración del medio ambiente en otras políticas.
+Son especialmente pertinentes por lo que se refiere a la acidificación las siguientes prioridades recogidas en la modificación de 1996:
+
+Estrechar los vínculos entre los instrumentos del mercado agrario y los requisitos medioambientales, de conformidad con el proceso de reforma de la política agrícola común, con una dependencia menor con respecto a los mecanismos de sostenimiento de los precios de mercado y con una mayor integración de las políticas de mercado, desarrollo rural y medio ambiente.
+
+Promover la producción extensiva, técnicas agrarias sostenibles, y productos de agricultura biológica en estrecha cooperación con los agentes implicados.
+El Reglamento 2078/92 constituye un excelente ejemplo de ese tipo de cooperación y puede contribuir a la reducción de las emisiones de amoniaco.
+
+Por último, se puede recurrir a instrumentos económicos (por ejemplo, impuestos sobre los abonos, ya aplicados en algunos países) para conseguir nuevas reducciones de emisiones y alcanzar los objetivos sobre cargas críticas.
+
+Aplicación conjunta de límites nacionales 
+
+Por aplicación conjunta se entiende la cooperación entre dos o más agentes para cumplir obligaciones o compromisos específicos.
+En la estrategia contra la acidificación, ello se traduce en la aplicación conjunta de límites de emisión nacionales acordados.
+Se ha considerado la posibilidad de establecer esta aplicación conjunta porque ofrece una mayor flexibilidad para alcanzar los límites máximos acordados a menor coste.
+El Protocolo sobre el azufre de 1994 permite a las partes aplicar de forma conjunta, con arreglo a unas normas y condiciones específicas por elaborar, las obligaciones establecidas (los límites máximos nacionales).
+Algunos estudios ponen de manifiesto la importancia del ahorro económico potencial de una aplicación conjunta.
+Menos evidente es saber cómo realizar ese ahorro sin dejar por ello de cumplir las metas de calidad medioambiental.
+La Comisión va a estudiar la contribución potencial de una aplicación conjunta en el marco de su futura propuesta de Directiva sobre límites máximos nacionales de emisión.
+
+Otras medidas posibles en relación con las emisiones provocadas por los transportes 
+
+El control de las emisiones del transporte por carretera está regulado por un amplio corpus de legislación comunitaria.
+La Comisión ha adoptado recientemente propuestas sobre normas más estrictas con respecto a emisiones y combustibles, que deberán aplicarse para el año 2000.
+A finales de 1998, la Comisión presentará propuestas con otras normas sobre vehículos y calidad de los combustibles, que entrarán en vigor a partir del año 2005.
+
+La propuesta de la Comisión sobre la elaboración de legislación comunitaria para reducir las emisiones desde máquinas móviles no de carretera está bastante avanzada, y se espera que el Consejo y el Parlamento la adopten en un futuro próximo.
+La Comisión va a estudiar la posibilidad de reforzar esas normas de emisión, así como de ampliarlas de manera que regulen una gama más amplia de vehículos.
+
+Acciones de promoción de la eficiencia energética y de ahorro de energía 
+
+A lo largo del presente documento (punto 3.4 y Anexo), se describe hasta qué punto los cambios en el consumo y las pautas de producción de energía pueden repercutir sobre el volumen de emisiones acidificantes a la atmósfera.
+Por consiguiente, las iniciativas en favor del desarrollo de otras fuentes de energía y de fuentes renovables, así como de la conservación de energía, pueden contribuir a reducir las emisiones acidificantes.
+
+En la Comunidad, el Programa JOULE está brindando la posibilidad de conocer formas de conservar energía y de un uso más racional.
+El Programa FAIR está, entre otras cosas, estudiando el uso de materias primas renovables y la producción de energía "limpia".
+Programas de demostración tales como ALTENER o SAVE servirán para facilitar el desarrollo de otras fuentes de energía y de tecnologías de ahorro energético.
+Los resultados de esos programas de investigación y de demostración influirán sobre el consumo de energía y el balance de producción energética a partir de distintas fuentes y, en consecuencia, contribuirán a reducir las emisiones acidificantes.
+
+Por último, en la comunicación sobre política de cohesión y medio ambiente se pone de manifiesto el hecho de que los fondos estructurales están incentivando la promoción de una producción ecológica para, entre otras cosas, impulsar las energías renovables y la aplicación de tecnologías de ahorro de energía.
+
+Proceso de revisión 
+
+Como ya se ha dicho antes, en el año 2010 no va a poder alcanzarse el objetivo final, aun aplicando medidas de reducción técnicamente viables.
+Por consiguiente, la Comisión va a tener que volver a abordar este asunto en una fase posterior, revisando la estrategia contra la acidificación y evaluando los resultados obtenidos hasta el momento, así como las perspectivas de cumplimiento en los Estados miembros de los límites de emisión necesarios para cumplir la meta intermedia en el año 2010.
+A partir de esa evaluación y de los nuevos datos científicos que hayan podido surgir en relación, por ejemplo, con las cargas críticas de acidificación, y habida cuenta de las medidas ya adoptadas para reducir las emisiones, la Comisión deberá establecer y proponer las necesarias medidas complementarias de la estrategia contra la acidificación con objeto de alcanzar el objetivo de no superar las cargas críticas.
+
+Se propone que la Comisión presente al Consejo antes de finales del año 2004 un informe sobre los avances realizados en la reducción de emisiones de contaminantes atmosféricos acidificantes, que incluya también una evaluación de las perspectivas de cumplimiento en los Estados miembros de los límites máximos nacionales.
+
+A partir de ese informe y de los datos científicos que hayan podido surgir sobre la acidificación, la Comisión presentará al Consejo antes del año 2004 una modificación de la estrategia contra la acidificación.
+
+VALORACIÓN PRELIMINAR DE LAS VENTAJAS MEDIOAMBIENTALES Y LOS COSTES DE LA PROPUESTA DE LA COMISIÓN 
+
+La estrategia de la Comisión dará como resultado el cumplimiento de la meta intermedia de reducción de distancias en un 50% en el territorio de la Comunidad Europea.
+
+Desde el punto de vista de la superficie de ecosistemas en cada país donde se van a superar las cargas críticas, la estrategia de la Comisión supondrá una mejora importante en comparación con la situación reinante en 1990 (véase el cuadro 5).
+
+Tabla 5
+
+Ecosistemas donde se superan las cargas críticas de acidificación; situación en 1990 y en el año 2010 en la hipótesis de referencia (REF) y después de aplicar la estrategia contra la acidificación (STRAT) (miles de hectáreas)
+
+A este respecto, hay que señalar que es preciso conseguir reducciones superiores a las previstas para la meta intermedia de reducción de distancias en un 50%, si se quiere alcanzar el objetivo final de no superar las cargas críticas.
+Además, la acidificación es sólo uno de los aspectos ecológicos que justifican la necesidad de reducir las emisiones de dióxido de azufre, óxidos de nitrógeno y amoniaco.
+En consecuencia, al considerar la necesidad y las posibles medidas de reducción de emisiones deberán tenerse en cuenta también esos otros aspectos (véase el punto 2.2).
+
+Para el conjunto de la CE, el coste de las reducciones adicionales, es decir, el coste anual de las medidas adicionales con respecto a la hipótesis de referencia, que son necesarias para alcanzar la meta intermedia se ha estimado en 7.000 millones de ecus para el año 2010.
+En esta estimación se ha partido de la base de que las reducciones se conseguirán únicamente con medidas técnicas.
+Hay que señalar que las posibilidades de reducción estudiadas no tienen en cuenta medidas no técnicas tales como cambios estructurales (incluida la sustitución de combustibles) en los distintos sectores.
+Además, los compromisos internacionales contraídos por la Comunidad en relación con el cambio climático y las reducciones asociadas de las emisiones de gases de efecto invernadero, en particular dióxido de carbono, suscitarán también reducciones importantes de las emisiones de contaminantes acidificantes y, por tanto, en los costes estimados de la estrategia contra la acidificación (véase el punto 3.4).
+En conclusión, es probable, pues, que los costes de esas reducciones se hayan sobreestimado.
+En el Anexo se describen con más detalle los costes asociados con la realización de la meta de reducir distancias en un 50%.
+
+Tabla 6
+
+Costes de las medidas adicionales de reducción de emisiones necesarias para cumplir la meta intermedia (millones de ecus/año en 2010)
+
+EFECTOS POSITIVOS SECUNDARIOS / BENEFICIOS POR PARTIDA DOBLE 
+
+Aunque la acidificación (deposición ácida) es el centro de esta estrategia, hay que señalar que las emisiones aerotransportadas de contaminantes acidificantes tienen otros efectos negativos sobre el medio ambiente.
+Si se reducen, pues, las emisiones de contaminantes atmosféricos acidificantes se obtendrán beneficios "secundarios", porque de ese modo se contribuye a paliar otros problemas ecológicos causados por esos mismos contaminantes, por ejemplo, la eutrofización, el ozono del suelo, la corrosión de edificios y materiales o los daños a la salud de las personas.
+Es más, la reducción de las emisiones en la CE hará que se reduzca la deposición en países fuera de su territorio.
+Algunos de esos efectos secundarios se han estudiado con más profundidad: los impactos sobre la eutrofización y el ozono, y las ventajas para países no miembros de la CE.
+Los efectos secundarios sobre la calidad del aire no se han estudiado en profundidad pero es posible, no obstante, sacar algunas conclusiones al respecto.
+A continuación se resumen los resultados.
+
+Eutrofización 
+
+El análisis correspondiente ha demostrado que en 1990 se superaron las cargas críticas correspondientes a la eutrofización en el 34% de la superficie de ecosistemas de la CE, lo cual equivale a una superficie de 38 millones de hectáreas.
+Como consecuencia de las reducciones de las emisiones previstas para el año 2010 en la hipótesis de referencia, este porcentaje quedará reducido al 19%, es decir, 21 millones de hectáreas.
+Las reducciones necesarias para alcanzar la meta intermedia de reducción de distancias en un 50% tendrían como resultado una superación de las cargas críticas en el 13%, es decir 15 millones de hectáreas, de la superficie de ecosistemas.
+Todo ello puede traducirse, en un avance que representa más la mitad de la diferencia entre la situación en la hipótesis de referencia y lo que se estima el máximo técnicamente realizable aplicando medidas dentro de la CE.
+
+Como análisis de sensibilidad, se evaluaron los resultados del establecimiento de metas de calidad medioambiental combinadas basadas en las cargas críticas de acidificación y eutrofización, que se materializaron en objetivos específicos de deposición para la optimización.
+Los resultados de ese análisis indican un desplazamiento de las reducciones, desde las emisiones de dióxido de azufre hasta las de los óxidos de nitrógeno y amoniaco, especialmente en el caso de los países del sur y centro de la CE, como España, Italia, Francia y Alemania.
+Asimismo, se puso de manifiesto un aumento del grado de protección de los ecosistemas con respecto a la eutrofización (las cargas críticas se superaron en menos de 10 millones de hectáreas) y a la acidificación, así como de los costes: los costes adicionales totales en esta hipótesis ascienden a 9.400 millones de ecus, frente a los 7.000 millones de ecus en la hipótesis principal.
+
+Ozono 
+
+La incidencia en la formación de ozono a nivel del suelo se analizó utilizando el modelo EMEP basado en las emisiones de NOx indicadas en el análisis sobre acidificación.
+Las previsiones para el año 2010 con respecto a las emisiones de compuestos orgánicos volátiles (COV) proceden de los planes de reducción vigentes (CRP) del Convenio CLRTAP, basados principalmente en los datos nacionales comunicados.
+Por razones de coherencia y realismo, se han incluido, en relación con los Estados miembros, las reducciones adicionales que se espera suscite el Programa Auto-Oil.
+
+El análisis puso de manifiesto una mejora significativa en la mayoría de los Estados miembros.
+En la hipótesis de referencia, para el año 2010, la superación de las cargas críticas en bosques, cultivos y vegetación natural, que es de 40 ppb ( parts per billion ), así como el umbral crítico indicativo para la salud (60 ppb), se reducirán en prácticamente todo el territorio de la CE, en comparación con 1990.
+Las mejoras más marcadas se registran en la superación de las 60 ppb, nivel utilizado por el CLRTAP para indicar los posibles efectos sobre la salud humana.
+Las reducciones adicionales de las emisiones previstas en la hipótesis principal acentuarán la disminución de los niveles de ozono en la mayoría de las zonas afectadas.
+En algunas zonas de menor extensión, sin embargo, los niveles de ozono pueden aumentar ligeramente.
+Se espera que los nuevos requisitos de reducción de las emisiones de COV sirvan para eliminar o minimizar significativamente este efecto secundario negativo.
+
+Calidad del aire 
+
+Como resultado de la reducción de las emisiones de SO2 y NOx disminuirán las concentraciones de estos contaminantes en el ambiente, así como de sus productos secundarios (por ejemplo, partículas y ozono).
+Esta disminución será beneficiosa para la salud humana, así como para edificios y materiales, y el patrimonio histórico y cultural.
+Algunos de esos beneficios figuran en un estudio de valoración económica (véase el punto 6.5).
+
+Mejoras fuera del territorio de la CE 
+
+La reducción de las emisiones en la CE provocará, debido al carácter transfronterizo de los contaminantes, la reducción de la deposición y, por consiguiente, un menor nivel de superación de las cargas críticas de acidificación en países fuera del territorio de la CE.
+Por ejemplo, las estimaciones indican que el grado de protección de los ecosistemas en esos países pasará, en el año 2010, del 97% al 98% como resultado de las reducciones previstas en la hipótesis principal, en comparación con el escenario de referencia.
+En otras palabras, la superficie de ecosistemas donde se superan las cargas críticas en países fuera del territorio de la CE se reducirá pasando de 11 a 9 millones de hectáreas.
+Las mejoras más significativas desde el punto de vista de la disminución de la superficie donde se superan las cargas críticas se dan en Noruega, la República Checa, Polonia, Rusia y Suiza.
+En el año 2010 se reducirá el nivel de superación de los umbrales críticos del ozono (véase el punto 6.2) en todos los países no comunitarios.
+
+Por lo que se refiere a la eutrofización, en el año 1990 se superaron las cargas críticas en el 10% de la superficie de ecosistemas en los países no comunitarios, lo que equivale a 39 millones de hectáreas.
+Según la hipótesis de referencia, esta superficie se reduciría a 27 millones de hectáreas en el año 2010.
+La reducción de las emisiones en la CE como se prevé en la hipótesis principal llevaría a reducir aún más esa superficie, hasta prácticamente el 6%, es decir, 25 millones de hectáreas.
+Estas mejoras se producirían en muchos países no comunitarios, pero desde el punto de vista de superficie absoluta protegida, serían más notables en la República Checa, Noruega (donde el nivel de superaciones bajaría a cero), Suiza, Polonia y Hungría.
+
+Valoración económica de algunos beneficios 
+
+Si se siguen reduciendo las emisiones acidificantes, se obtendrán una serie de ventajas para la salud humana, los materiales y edificios, los cultivos, los bosques y los ecosistemas terrestres y acuáticos.
+La DG XII ha realizado dentro del proyecto ExternE una valoración económica de esas ventajas y beneficios.
+El método desarrollado en el proyecto se utilizó para calcular los beneficios de la reducción de emisiones necesaria para cumplir la meta intermedia de la estrategia contra la acidificación.
+En concreto, se calcularon los beneficios monetarios adicionales que se obtienen por el hecho de que se eviten algunos impactos ambientales.
+El asesor evaluó los impactos sobre la salud de las personas expresados en mortalidad y morbilidad, sobre los cultivos y los daños a materiales de construcción.
+
+Algunos beneficios importantes no fueron estudiados, por ejemplo, la disminución (del riesgo) de daños forestales, la mejora del funcionamiento de los bosques (estabilización del suelo, retención del carbono, biodiversidad, etc.), las mejoras registradas en otros ecosistemas terrestres o acuáticos o los impactos sobre el patrimonio histórico y cultural.
+
+Los principales beneficios económicos se dan, según el estudio, en la disminución de los daños a la salud humana, sobre todo debido al descenso de los niveles de contaminantes secundarios (aerosoles de sulfatos y nitratos) y ozono.
+Se llega a la conclusión de que, por lo que se refiere a la CE en su conjunto, los beneficios superan a los costes.
+Los beneficios más importantes se obtendrían en Alemania, Francia, el Reino Unido, Italia, España, los Países Bajos, Bélgica y Dinamarca.
+Únicamente en un país, Irlanda, los costes adicionales de la lucha contra la contaminación superan los beneficios monetarios incrementales.
+No obstante, si se consideran también los efectos sobre la mortalidad de la exposición a largo plazo (crónica) a la contaminación atmosférica, los beneficios compensan ampliamente a los costes en todos los Estados miembros.
+Si se añaden los beneficios para los recursos ecológicos y culturales, que hoy por hoy son difíciles de cuantificar en términos monetarios, las ventajas de la reducción de las emisiones serían aún mayores.
+
+En resumen, se calcula que los beneficios anuales incrementales de las reducciones adicionales de las emisiones (que son las necesarias, además de las de la hipótesis de referencia, para cumplir la meta intermedia) ascienden a prácticamente 20.000 millones de ecus en el año 2010 para los Estados miembros de la CE.
+Además, los beneficios que se obtendrían en países no comunitarios se evaluaron en unos 4.000 millones de ecus.
+De estas cifras se han excluido los denominados efectos crónicos sobre la mortalidad.
+
+Anexo de la Comunicación al Consejo y el Parlamento sobre una estrategia comunitaria contra la acidificación 
+
+OBJETIVO DE CALIDAD MEDIOAMBIENTAL: CARGAS CRÍTICAS 
+
+La carga crítica indica la sensibilidad de un medio y determina el grado de contaminación que dicho medio puede soportar sin sufrir daños duraderos ni significativos.
+El concepto de cargas críticas es científico.
+Por consiguiente, los datos utilizados reflejan los mejores conocimientos actuales e incluyen cierto grado de incertidumbre.
+Las cargas críticas revisten gran importancia desde el punto de vista del desarrollo sostenible porque un grado de deposición que supere las cargas críticas es insostenible a largo plazo.
+
+Los datos sobre cargas críticas de acidificación que se han utilizado para elaborar la estrategia se obtuvieron en el marco del Convenio sobre contaminación atmosférica transfronteriza a larga distancia (CLRTAP), y se revisaron y actualizaron en 1996.
+Los datos proceden del CCE (Coordination Center of Effects), centro de cartografiado de cargas críticas del CLRTAP, con sede en los Países Bajos.
+Diez Estados miembros han elaborado y presentado al CCE datos nacionales; se trata de Austria, Dinamarca, Finlandia, Francia, Alemania, Italia, los Países Bajos, España, Suecia y el Reino Unido.
+Fuera de la CE, han hecho lo mismo seis países.
+El CCE ha calculado las cargas críticas de los cinco Estados miembros restantes y de otros países europeos que no han comunicado datos nacionales a partir de información contenida en su base de datos sobre la situación en Europa.
+Se han calculado las cargas críticas correspondientes a los ecosistemas forestales de todos los países, así como las relativas a los ecosistemas de agua dulce de varios de ellos.
+Algunos países han calculado, además, las cargas críticas de turberas, brezales y praderas.
+La superficie de ecosistema es el área con respecto a la cual se han calculado las cargas críticas.
+
+Al calcular las cargas críticas para la acidificación se ha tenido en cuenta el efecto acidificante tanto de los compuestos de azufre como de los de nitrógeno.
+Su respectiva contribución a la acidificación dependerá, por una parte, de las características de los ecosistemas considerados y, por otra, del volumen de deposición de compuestos de azufre y de nitrógeno.
+Para saber en qué medida deben reducirse las emisiones (en distintas combinaciones) si no se quieren superar las cargas críticas, hay que comparar las cargas críticas con los niveles de deposición actuales y previstos.
+
+Al no haber un valor único correspondiente a la carga crítica de cada uno de los tres contaminantes responsables de la acidificación (azufre, nitrógeno reducido y nitrógeno oxidado), la desviación con respecto a las cargas críticas no puede expresarse como la diferencia entre la carga crítica y la deposición de un solo contaminante sino como el porcentaje de ecosistemas dentro de una cuadrícula EMEP dada que no están protegidos contra la acidificación ante una combinación dada de deposición de azufre y nitrógeno en dicha cuadrícula (cada cuadrícula EMEP mide 150 veces 150 km, que es la resolución utilizada por el CLRTAP para cartografiar las cargas críticas a escala europea y para controlar las emisiones y deposiciones de contaminantes atmosféricos).
+El término protección de ecosistemas indica el porcentaje de ecosistemas dentro de una cuadrícula, país u otro tipo de superficie, donde no se superan las cargas críticas.
+
+En última instancia, el objetivo del V Programa de Medio Ambiente, confirmado en las conclusiones del Consejo de 18 de diciembre de 1995, es no superar nunca las cargas críticas.
+Así pues, la deposición ácida en cada ecosistema de la CE debe ser inferior a la carga crítica.
+Dado que tanto los datos sobre deposición como sobre cargas críticas se han cartografiado según la resolución de cuadrículas EMEP, se decidió utilizar como meta de protección de ecosistemas el 100% en cada una de tales cuadrículas dentro de la CE.
+Al aplicar la misma meta a todas las cuadrículas, se obtendrán mejoras en todas las zonas geográficas donde se superan las cargas críticas, es decir, los beneficios derivados de la reducción de emisiones están muy repartidos y no circunscritos únicamente a algunas zonas.
+En la práctica, la superación de las cargas críticas resultante puede expresarse como el porcentaje de protección de ecosistemas en cada país y como la superficie concreta que permanece desprotegida.
+
+METAS INTERMEDIAS: PLANTEAMIENTO DE REDUCCIÓN DE DISTANCIAS 
+
+Es probable que el objetivo final de no superar las cargas críticas de acidificación no pueda realizarse en el año 2010 por razones políticas o prácticas.
+La modelización de futuras emisiones realizada para la presente estrategia indica que, aun cuando se aplicaran las reducciones máximas técnicamente viables en todo el territorio europeo, no sería posible alcanzar ese objetivo final en toda la CE para el año 2010.
+
+En las conclusiones del Consejo de diciembre de 1995 se reconocía la dificultad de lograr el objetivo de no superar las cargas críticas en un futuro inmediato.
+Por consiguiente, el Consejo propuso a la Comisión que, además de preparar una estrategia más coherente contra la acidificación para alcanzar el objetivo de no superar las cargas críticas, estableciera metas intermedias en el avance hacia la consecución de ese objetivo final.
+
+En consecuencia, la Comisión analizó una serie de posibles metas intermedias utilizando el planteamiento denominado de reducción de distancias ( gap closure approach ).
+En las negociaciones relativas al Protocolo del CLRTAP sobre el azufre, de 1994, se siguió un planteamiento similar.
+No obstante, las cargas críticas en el caso que nos ocupa en la actualidad son más complejas porque tienen en cuenta tanto a los compuestos de azufre como de nitrógeno y, por esa razón, la reducción de distancias se basa en datos de protección de ecosistemas cuadrícula a cuadrícula.
+El concepto aplicado tiene por objeto reducir distancias entre el grado de protección de ecosistemas en 1990 y el objetivo final de una protección de ecosistemas al 100%, en un porcentaje mínimo en cada una de las cuadrículas EMEP en la CE para el año 2010.
+A partir de la protección de ecosistemas resultante una vez aplicadas todas las medidas posibles de reducción técnicamente viables, ha podido determinarse la máxima reducción de distancias realizable con vista al objetivo final, y las hipótesis de optimización de costes tuvieron que constreñirse a las metas de reducción de distancias inferiores a esa cifra.
+
+Tras estudiar detenidamente varias posibilidades, la más adecuada resultó ser la reducción de distancias en un 50%.
+Así pues, en cada cuadrícula EMEP correspondiente a la CE, la superficie de ecosistemas vulnerables donde en 1990 se superaron las cargas críticas debe quedar reducida, por lo menos, a la mitad, es decir, en un 50% como mínimo.
+La razón principal que justifica la elección de esta meta intermedia de calidad del medio ambiente reside en que proporciona el mayor grado de protección de ecosistemas al mínimo coste, dado que la aplicación de medidas adicionales está limitada al interior de la Comunidad.
+La meta de reducción de distancias se aplica a cada una de las cuadrículas EMEP porque deben registrarse mejoras en todos los casos en que se superan las cargas críticas, en otras palabras, todas las zonas afectadas deben resultar beneficiadas.
+
+Ejemplos:
+En una cuadrícula, el nivel de protección de ecosistemas en 1990 se situaba en el 40% (es decir, las cargas críticas se superaban en el 60% de los ecosistemas).
+La reducción de distancias en un 50% significa que el área donde se superan las cargas críticas (en este caso, el 60%) debe quedar reducida, por lo menos, a la mitad.
+Por consiguiente, el grado de protección de ecosistemas debe aumentar aquí, como mínimo, un 30% (la mitad de 60%).
+El resultado final será un nivel de protección de ecosistemas de, al menos, un 70% xxx .
+En otra cuadrícula, el grado de protección de ecosistemas en 1990 ascendía al 80%, es decir, las cargas críticas se superaban en un 20%.
+En la misma línea de razonamiento, la reducción de distancias en un 50% dará como resultado en esa cuadrícula un nivel mínimo de protección del 90% xxx .
+
+Se han estudiado otros planteamientos basados en los efectos, distintos al de reducción de distancias.
+Uno de ellos consiste en fijar en un mínimo el área de superación dentro de la CE -o establecer una meta intermedia con respecto al área máxima-, independientemente de la situación geográfica.
+La ventaja de ese planteamiento es que puede derivar en un grado más alto de protección de ecosistemas con un coste menor en comparación con el planteamiento de reducción de distancias.
+La mayor desventaja, sin embargo, es que los beneficios se concentrarían en muy pocas zonas geográficas, es decir, en un número limitado de países.
+Otra solución puede ser establecer una cifra absoluta de superación mínima (por ejemplo, del nivel de deposición de equivalentes ácidos) o fijar una meta intermedia al respecto.
+El principal problema que se plantea en este caso es que implica una relación lineal entre el nivel de superación y los impactos ambientales, es decir, a mayor superación, mayor daño.
+
+MODELOS DE EVALUACIÓN INTEGRADA: RELACIÓN COSTE/EFICACIA 
+
+La estrategia debe conseguir el objetivo y las eventuales metas intermedias de forma económica.
+Para determinar la gama de medidas técnicas disponibles y su relación coste/eficacia con vistas a la reducción de la acidificación, la Comisión ha decidido trabajar con modelos de evaluación integrada.
+Es un método que viene aplicándose con éxito desde hace varios años en el CLRTAP y, puesto que todos los Estados miembros y la Comunidad Europea son partes en ese Convenio, es sobradamente conocido y generalmente aceptado por todos ellos.
+Por otra parte, si se utiliza ese método, los resultados serán compatibles con la labor actual y futura dentro del mencionado Convenio de la CEPE de las Naciones Unidas para desarrollar nuevos acuerdos internacionales sobre reducción de la contaminación atmosférica.
+El asesor contratado por la Comisión en relación con las dos estrategias sobre la acidificación y el ozono es IIASA (International Institute for Applied Systems Analysis), que está elaborando el modelo principal de evaluación integrada, el modelo RAINS.
+
+El modelo RAINS puede funcionar según dos métodos: análisis de hipótesis y optimización.
+En el primer caso se puede utilizar para evaluar emisiones, costes, deposiciones e impacto ambiental en relación con estrategias concretas de reducción de emisiones, por ejemplo, en el supuesto de mantenimiento de la legislación actual o en el de aplicación de las mejores técnicas disponibles; en el segundo, para reducir al mínimo los costes de la reducción de emisiones en una región dada, con la condición de alcanzar metas ambientales especificadas, en este caso, las metas de deposición ácida correspondientes a una cuadrícula concreta.
+Tal optimización puede realizarse también en combinación con una serie de condiciones determinadas sobre reducciones de emisiones.
+
+En el análisis de base de la estrategia se utilizó principalmente, aunque no exclusivamente, el método de optimización para minimizar los costes totales de la reducción de emisiones de SO2 , NOx y NH3 en los Estados miembros de la CE, con las condiciones siguientes:
+
+La deposición ácida debe ser inferior o igual a la meta de reducción de distancias en un 50% en cada cuadrícula en la CE.
+
+Las emisiones procedentes de cada país deben ser siempre inferiores o iguales a las que resultarían de la aplicación de la legislación vigente o de los planes actuales de reducción (hipótesis de referencia).
+
+Las emisiones en países no miembros de la CE deben ser iguales a las que resultarían de la aplicación de la legislación vigente o de los planes actuales de reducción (hipótesis de referencia).
+
+En el modelo se combinan los costes estimados de distintas opciones de reducción de emisiones con las previsiones sobre consumo de energía y actividad agraria en el año 2010.
+A partir de esos niveles nacionales de emisión no reducidos, se elaboran curvas de costes nacionales en las que se clasifican todas las soluciones técnicas según sus costes marginales.
+No se tienen en cuenta las soluciones no técnicas, por ejemplo, cambios estructurales, substitución de combustibles o ahorro de energía, a no ser que se hayan incorporado a las previsiones energéticas de partida.
+El modelo, pues, hincha los costes de la reducción de emisiones.
+
+El procedimiento de optimización (estático) utiliza las funciones de costes nacionales con objeto de determinar la alternativa menos costosa para cumplir una serie de metas medioambientales en un momento dado.
+Para ello, se convierten las inversiones en costes anuales de capital (anualidades), utilizando una tasa de descuento y el período de vida útil de la técnica.
+A continuación se combinan los costes anuales con otros costes para determinar los costes totales anuales de cada tecnología.
+Acto seguido, se combinan los costes anuales de todas las técnicas en las funciones de costes nacionales.
+La optimización proporciona el nivel de costes de un año dado (2010 en el caso de la estrategia contra la acidificación).
+El modelo no ofrece información sobre el valor actual neto de los costes en un momento determinado.
+Los costes anuales pueden ser inferiores o superiores a los calculados con respecto a un momento dado, en función del consumo de energía y la actividad agraria.
+
+El resultado del procedimiento de optimización es una serie de límites máximos nacionales de emisión de cada contaminante acidificante (véase el cuadro 1), establecidos sobre la base de la máxima relación coste/eficacia con respecto a la región analizada.
+Se obtiene, además, información de cada país sobre las medidas técnicas de menor coste para cumplir esos límites máximos de emisión.
+En el cuadro 2 se ofrece un análisis preliminar de los costes adicionales de control de emisiones vinculados a la realización de la meta de reducción de distancias en un 50%.
+
+Tabla 1
+
+Niveles de emisión en 2010 necesarios, según el análisis científico preliminar, para cumplir la meta de reducción de distancias en un 50%, y estimación de las emisiones que resultarían de la no aplicación de la estrategia contra la acidificación (REF)
+
+Tabla 2
+
+Costes adicionales del control de emisiones necesarios para cumplir la meta intermedia (millones de ecus/año en 2010)
+
+SUPUESTOS Y PUNTO DE PARTIDA DE LAS HIPÓTESIS 
+
+En el presente documento, se entiende por hipótesis una serie de supuestos sobre combinaciones de medidas de reducción, emisiones, costes y objetivos medioambientales.
+En el primero y segundo informes intermedios de IIASA sobre reducción económica de la acidificación y el ozono del suelo, que puede solicitarse a la Comisión, se ofrece una descripción detallada de la labor de modelización y sus resultados.
+Con respecto a cada hipótesis, se han elaborado datos sobre las emisiones, las medidas de reducción que se prevé van a aplicarse en cada país, así como sus costes y el grado en que se superan las cargas críticas de acidificación (expresado tanto en porcentajes como en hectáreas de ecosistemas no protegidos).
+
+Punto de partida 
+
+Se ha elegido el año 1990 como año de referencia por ser el más reciente para el cual se dispone de series amplias de datos verificados sobre emisiones, se trata del mismo año de referencia que va a utilizarse en el CLRTAP con motivo de las negociaciones de un nuevo protocolo multicontaminantes.
+Dado que la incertidumbre aumenta cuando se amplía la perspectiva temporal desde la que se elaboran las hipótesis y puesto cualquier obligación jurídica contraída por los Estados miembros debe introducirse o aplicarse en un período de tiempo razonable, las hipótesis de la estrategia de la acidificación no van más allá del año 2010.
+
+Previsiones sobre consumo de energía 
+
+El análisis en relación con los Estados miembros de la CE se ha basado en las previsiones energéticas suministradas por la DG XVII, que proceden de la hipótesis de evolución normal (denominada Conventional Wisdom Scenario) y fueron actualizadas con nuevos datos oficiales de un Estado miembro.
+En la hipótesis de evolución normal, las previsiones apuntan a un aumento del 20% del consumo de energía y del 10% de las emisiones de CO2 entre 1990 y el año 2010.
+Por lo que se refiere a los países no miembros de la CE, las previsiones energéticas se basan en datos nacionales comunicados con carácter oficial a la CEPE de las Naciones Unidas y publicados en su base de datos sobre energía.
+
+Para dar cuenta de la necesidad de reducir las emisiones de CO2 , así como para estudiar la repercusión de otra evolución energética sobre las emisiones de contaminantes acidificantes y sobre el coste de su reducción, se ha realizado un análisis de sensibilidad a partir de una previsión energética con bajas emisiones de CO2 , en este supuesto se daría una reducción del 10% en las emisiones de CO2 procedentes de la CE entre 1990 y el año 2010.
+
+Hipótesis de referencia (REF) 
+
+Se ha elaborado una hipótesis de referencia (REF) para estudiar la necesidad de medidas adicionales, así como su relación coste/eficacia.
+Para dar cabida a los distintos planteamientos adoptados por varios países, se han confeccionado dos hipótesis:
+
+Hipótesis de la legislación vigente (CLE):
+A partir de las previsiones sobre el consumo de energía futuro se han calculado los niveles de emisión resultantes de la aplicación de la legislación vigente a nivel nacional, de la CE e internacional.
+Para ello se utilizó un inventario pormenorizado de la legislación pertinente de cada país, las directivas de la CE y los requisitos técnicos obligatorios de los protocolos del CLRTAP.
+La hipótesis incluye las directivas de la CE sobre grandes instalaciones de combustión, sobre contenido de azufre de combustibles líquidos, la Directiva IPPC y las Directivas sobre emisiones desde vehículos de carretera y no de carretera, así como algunas propuestas aprobadas por la Comisión tales como el Programa Auto-Oil.
+
+Hipótesis de los planes de reducción vigentes (CRP):
+Esta hipótesis incluye las obligaciones contraídas en el caso de que un país haya adoptado o presentado a nivel internacional (en el CLRTAP de la CEPE de las Naciones Unidas) límites máximos de emisión de carácter oficial, o se haya adherido a acuerdos internacionales sobre reducción de emisiones (por ejemplo, al firmar protocolos del CLRTAP).
+
+A fin de incorporar adecuadamente ambos tipos de condicionamientos, se eligió entre las hipótesis CLE y CRP aquella que registrara las emisiones más bajas en el año 2010, para su uso en la hipótesis de referencia.
+Las medidas específicas de reducción que los Estados miembros deberían aplicar en esa hipótesis figuran detalladamente en los cuadros de costes de cada país que se encuentran en los informes intermedios del IIASA.
+
+La hipótesis de referencia (REF) indica que, si la legislación vigente y la que está en fase avanzada de planificación se aplica plenamente en todos los países europeos, las emisiones de SO2 , NOx y NH3 podrán reducirse, respectivamente, en un 58%, 36% y 16% entre el año de referencia (1990) y el 2010.
+
+La superficie de ecosistemas en la CE donde se superan las cargas críticas de acidificación pasaría de 33 millones de hectáreas en 1990 a 9 millones de hectáreas.
+Expresado en porcentajes, la protección de ecosistemas aumentaría del 76% al 93%.
+La reducción de distancias más pequeña se situaría por debajo del 10% (en el norte de Alemania, los Países Bajos y el norte de Finlandia).
+
+Hipótesis basadas en las reducciones máximas técnicamente viables (MFR) 
+
+En el modelo RAINS, la máxima reducción posible de contaminantes atmosféricos está limitada por las medidas técnicas disponibles.
+Algunas medidas se aplican de forma gradual a lo largo del tiempo como ocurre, por ejemplo, en el caso de la introducción de nuevas normas de emisión para vehículos de motor nuevos.
+El tiempo de renovación del parque móvil, distinto en cada país, determinará el plazo necesario para que todos los vehículos nuevos estén a la altura de las nuevas normas.
+Por esta razón, se han creado dos hipótesis MFR: la primera, denominada MFRreal, indica las reducciones máximas técnicamente viables que pueden realizarse para el año 2010 en el supuesto de un índice de renovación normal de instalaciones y vehículos de motor.
+La segunda, denominada MFRultimate, muestra la situación resultante de la plena aplicación de las mismas medidas e incluye, además de los datos de MFRreal, las normas de emisión de vehículos indicadas en el Programa Auto-Oil para el año 2005.
+Así pues, el punto de partida es un índice rápido de renovación no realista con un consumo de energía como el previsto para el año 2010.
+Hay que señalar que las hipótesis de reducción de emisiones presentadas no tienen en cuenta medidas no técnicas tales como cambios estructurales (incluida la substitución de combustibles) en los distintos sectores de la sociedad.
+En consecuencia, las hipótesis MFR tienden a subestimar el potencial de reducción de emisiones y a sobrestimar los costes necesarios para realizar las reducciones indicadas.
+
+Según la hipótesis MFRreal, las emisiones de la CE de SO2 , NOx y NH3 registrarán reducciones del 91%, 69% y 44%, respectivamente, entre 1990 y el año 2010.
+Los costes anuales adicionales en comparación con la hipótesis de referencia ascenderían a 30.000 millones de ecus en la CE.
+La protección de ecosistemas en la CE se situaría en el 99%, con 1,1 millón de hectáreas no protegidas.
+
+Según MFRultimate, las emisiones se reducirán un 92% en el caso del SO2 , un 84% en el caso del NOx y un 44% en el caso del NH3 .
+En esta situación, la protección de ecosistemas en la CE equivaldría al 99%, con 0,8 millones de hectáreas no protegidas.
+
+Se estudió una tercera hipótesis para averiguar los niveles máximos de protección de ecosistemas realizables en la CE para el año 2010 cuando se limitan las reducciones de emisiones a la CE: la denominada EUmax.
+En ésta, el nivel de emisiones coincide con la hipótesis MFRreal con respecto a la CE y con la de referencia para el resto de Europa.
+El nivel de protección de ecosistemas resultante en la CE para el año 2010 se sitúa, en este caso, en el 98%, con alrededor de 3 millones de hectáreas no protegidas.
+
+RESULTADOS DEL ANÁLISIS DE HIPÓTESIS 
+
+Entre los dos extremos, la hipótesis de referencia y la MFR, es decir, limitarse a los resultados previstos a partir de la legislación vigente o aplicar todas las medidas de reducción técnicamente viables, se han elaborado y analizado una serie de hipótesis de coste mínimo.
+
+Determinar la meta intermedia 
+
+En un primer momento se estudiaron tres posibles reducciones de distancias: 45%, 50% y 55%.
+Con respecto a ellas, las metas de deposición se restringieron únicamente a cuadrículas dentro de la CE.
+La optimización de la reducción de emisiones quedó confinada también a la CE exclusivamente, mientras que en el resto de Europa se consideró que se daban las emisiones de la hipótesis de referencia, excepto en el caso de una reducción de distancias del 55%, donde se incluyeron también en la optimización las emisiones desde buques en el mar Báltico.
+
+Un condicionamiento político de la estrategia es que las medidas de reducción de emisiones deben en primer lugar adoptarse a nivel de la CE porque ésta no puede imponer obligaciones ni medidas vinculantes fuera de su territorio.
+Por consiguiente, la reducción de distancias en un 50% resultó ser la meta más pertinente puesto que puede realizarse con medidas dentro de la CE y da lugar a niveles de deposición más próximos al objetivo final.
+
+Además, otras hipótesis con reducciones más importantes de deposición ácida dan un brusco aumento de los costes marginales en comparación con la protección de ecosistemas adicional obtenida (véase la Figura 1).
+
+Análisis de sensibilidad 
+
+Con objeto de estudiar otras posibilidades y verificar la coherencia de los datos y la solidez de los resultados de la modelización, se construyó una serie de hipótesis basadas en supuestos y condicionamientos distintos.
+Los resultados pueden compararse con los obtenidos en la hipótesis principal de una reducción de distancias del 50%, basada en la optimización de la reducción de emisiones en la CE.
+Todos esas hipótesis consiguen la meta intermedia de reducir al menos un 50% las distancias en cuanto a protección de ecosistemas en cada una de las cuadrículas EMEP dentro de la CE.
+
+Los contaminantes atmosféricos acidificantes son transportados a grandes distancias por el viento, y el potencial y los costes de la reducción de emisiones varían entre países.
+Así pues, con objeto de encontrar la solución de menor coste para alcanzar las metas medioambientales, se consideró conveniente averiguar si las reducciones fuera de la CE podían ser una solución más barata que el aumento de las reducciones dentro de la CE.
+Esta cuestión se ha analizado mediante cuatro hipótesis (los resultados figuran en el Cuadro A1).
+
+Hipótesis 1:
+Optimización con transporte marítimo.
+
+Al incluirse en la optimización las emisiones del transporte marítimo internacional, se puso de manifiesto la buena relación coste/eficacia de la reducción de las emisiones de SO2 en el Mar Báltico y el Mar del Norte, y las emisiones de NOx en el Mar del Norte y el Océano Atlántico.
+Tales reducciones eximirían a algunos Estados miembros de adoptar medidas más costosas para reducir las emisiones desde fuentes terrestres.
+Para la CE en su conjunto, el coste adicional de la meta intermedia podría reducirse en más de 2.000 millones de ecus por año.
+
+Los costes anuales adicionales de las medidas de reducción de emisiones desde buques se han calculado en torno a los 300 millones de ecus.
+
+Hipótesis 2:
+Optimización para toda Europa, sin transporte marítimo.
+
+En esta hipótesis se estudia la relación coste/eficacia de incluir a países no miembros de la CE con vistas a nuevas medidas de reducción de emisiones, limitando la meta de calidad medioambiental a los Estados miembros de la CE.
+En tales condiciones, demostró ser económico implantar nuevas medidas de reducción de emisiones de SO2 en Polonia, Hungría, la República Checa y Eslovenia.
+Reducir emisiones en esos países evitaría a algunos Estados miembros adoptar algunas medidas, con lo cual se reducirían los costes para esos Estados miembros.
+Con respecto a la CE en su conjunto, los costes anuales adicionales en comparación con la hipótesis principal podrían reducirse en prácticamente 1.000 millones de ecus, lo que equivale a un ahorro del 14%, mientras que los costes adicionales de las medidas adoptadas por esos cuatro países no miembros de la CE ascenderían a unos 400 millones de ecus.
+El ahorro potencial resultante asciende, pues, a prácticamente 600 millones de ecus.
+El nivel de protección de ecosistemas en la CE se situaría casi en un 97% y las cargas críticas se superarían en 4,5 millones de hectáreas.
+
+Hipótesis 3:
+Optimización para toda Europa.
+Meta intermedia de la CE para toda Europa.
+
+Esta hipótesis se aplica al conjunto de Europa, partiendo de una meta de reducción de la distancia en un 50% y con una optimización de costes para toda Europa, transporte marítimo incluido.
+Para alcanzar esa meta, las emisiones en la CE deben reducirse más que en la hipótesis principal, con lo que aumentan los costes para la CE.
+Las emisiones del transporte marítimo internacional se han reducido en las tres zonas marítimas.
+Además, las emisiones en países no miembros de la CE deben reducirse substancialmente.
+Los costes anuales adicionales en comparación con la hipótesis de referencia ascienden a 8.000 millones de ecus para la CE (prácticamente mil millones de ecus más que en la hipótesis principal), 500 millones para medidas de reducción de emisiones desde buques y 3.400 millones para medidas adoptadas en países no miembros de la CE, lo que supone un coste adicional total de prácticamente 12.000 millones de ecus.
+En la CE, el nivel de protección de ecosistemas obtenido es, en esta hipótesis, de un 99%, con 6,1 millones de hectáreas no protegidas.
+
+Hipótesis 4:
+Optimización para la CE y con un contenido máximo de azufre establecido en el 1,5% para los combustibles de buques.
+
+En la modificación del Convenio MARPOL (véase el punto 4.5 de la Comunicación) se sugirió declarar el mar del Norte y el mar Báltico zonas vulnerables y, en consecuencia, limitar el contenido de azufre de los combustibles de buques en un máximo del 1,5%.
+En esta hipótesis se parte del supuesto de que se aplica tal límite.
+El resultado ha sido que tal medida puede reducir en más de 1.100 millones de ecus los costes que debe asumir la CE para alcanzar la meta intermedia de reducción de distancias en un 50%.
+Los costes adicionales correspondientes a la reducción del contenido de azufre de los combustibles para buques se calcula en menos de 100 millones de ecus.
+El nivel de protección de ecosistemas resultante es ligeramente inferior al de la hipótesis principal: 96.4% frente a 96,7%, con 4,7 millones de hectáreas no protegidas frente a 4,5 millones en la hipótesis principal.
+
+Además de esas cuatro hipótesis, se han estudiado otros aspectos mediante un análisis de modelos hipotéticos.
+A continuación se describen los resultados principales; los relacionados con las hipótesis 5 y 6 figuran también en el Cuadro A2.
+
+Hipótesis 5:
+Optimización para la CE y utilizando otra previsión energética (bajo CO2 ).
+
+Por las razones expuestas en el anterior punto 4.2, se han analizado los efectos de otra previsión energética (bajo CO2 ), en la que se ha limitado el aumento de la demanda final de energía y se ha aumentado la eficiencia energética así como la participación de las fuentes renovables en la generación de energía.
+El resultado conseguido es una reducción del 10% de las emisiones de CO2 entre 1990 y el año 2010, además de una reducción de las emisiones de SO2 y NOx .
+En esas condiciones se necesitan menos medidas de reducción para llegar a la meta intermedia de acidificación.
+Así pues, el coste anual adicional en esta hipótesis se sitúa en 2.900 millones de ecus, lo que supone una reducción superior a 4.000 millones de ecus, prácticamente el 60%, con respecto a la hipótesis principal.
+Hay que señalar que no se han calculado los costes derivados de la substitución de sistemas energéticos que, en consecuencia, no han podido tenerse en cuenta.
+El nivel de protección de ecosistemas en esta hipótesis es el 96,5%, con 4,7 millones de hectáreas no protegidas.
+
+Hipótesis 6:
+Optimización para la CE y teniendo en cuenta la eutrofización.
+
+Se ha estudiado una hipótesis que combina metas de calidad medioambiental basadas en las cargas críticas de acidificación y eutrofización como objetivos explícitos de deposición para esta optimización.
+Evidentemente, los resultados de esa hipótesis combinada dependen de las metas de calidad medioambiental de partida.
+En este caso, la meta correspondiente a la acidificación ha sido la misma (reducción de distancias en un 50%), y se ha utilizado una meta similar con respecto a la eutrofización (no se consideró viable utilizar la misma meta para la eutrofización y, en consecuencia, se efectuaron algunos ajustes y no se tuvieron en cuenta algunas cuadrículas inviables -en la frontera entre Francia y Bélgica y entre los Países Bajos y Alemania a la hora de realizar la optimización).
+El resultado ha sido un desplazamiento de las reducciones de emisiones desde el SO2 hasta el NOx y el NH3 .
+La superficie no protegida contra la eutrofización se reduce de 21 millones de hectáreas en la hipótesis de referencia (14,6 millones de hectáreas en la hipótesis principal) a 9,4 millones de hectáreas.
+También se obtienen mejoras con respecto a la acidificación; en este caso, el área no protegida se reduce a 4,2 millones de hectáreas.
+Los costes adicionales totales aumentan un 40% hasta los 9.400 millones de ecus.
+
+Hipótesis 7:
+Optimización para la CE y utilizando cargas críticas distintas en relación con el Reino Unido.
+
+Durante la preparación de la estrategia contra la acidificación, se vio que los datos sobre cargas críticas correspondientes al Reino Unido eran demasiado bajos, y se comprobó que los datos correctos no iban a poder presentarse a tiempo para las actividades de modelización.
+A solicitud del Reino Unido, se convino en poner en marcha el modelo, como un análisis de sensibilidad, utilizando otros datos presentados por el Reino Unido en los casos en que las cargas críticas correspondientes a ese Estado miembro eran demasiado altas.
+Así se hizo y resultó que el cambio no tuvo ninguna repercusión sobre los requisitos de reducción de emisiones con respecto a ningún país.
+El único cambio en los resultados fue un aumento en el nivel de protección de ecosistemas en el Reino Unido.
+
+Hipótesis 8:
+Optimización para la CE y utilizando un valor límite en el percentil 95.
+
+Por razones tanto técnicas como prácticas, se utilizó en la modelización de la estrategia contra la acidificación un valor límite en el percentil 98, en otras palabras, se excluyeron los datos de las cargas críticas correspondientes al 2% más vulnerable de los ecosistemas.
+El Protocolo del Azufre, de 1994, se basa en las denominadas cargas críticas de percentil 5, es decir que, en este caso, se han excluido los datos de las cargas críticas correspondientes al 5% más vulnerable de los ecosistemas.
+Para estudiar el posible efecto de la elección del valor límite, se efectuó un análisis de sensibilidad con el percentil 95.
+Los resultados pusieron de manifiesto algunos cambios relativamente pequeños, con la consecuencia de que las emisiones de SO2 en España podían aumentar pasando de 618 ktoneladas en la hipótesis principal a 730 ktoneladas, mientras que en el Reino Unido, muy probablemente como consecuencia, esas mismas emisiones se reducirían de 279 ktoneladas a 272 ktoneladas.
+Los costes globales y el nivel de protección de ecosistemas en la CE en su conjunto permanecen invariables.
+
+Cuadrículas "condicionantes" 
+
+Cuando se aplican hipótesis de reducción de distancias con costes optimizados, algunas cuadrículas EMEP van, inevitablemente, a resultar "condicionantes", lo cual implica que en esas cuadrículas se cumple exactamente la meta de deposición, mientras que, en todas las demás, la deposición es inferior a la meta.
+Puede decirse que esas cuadrículas "condicionantes" van a obligar a realizar reducciones de emisiones en uno o varios de los países que contribuyen a la deposición en ellas.
+Como consecuencia de la extensión de la superficie geográfica considerada, en cada hipótesis aparecen algunas de esas cuadrículas (entre 3 y 6 en general) bien distribuidas en el norte, sur, este, oeste y regiones centrales de la CE.
+La razón reside principalmente en que algunas cuadrículas, debido a los ecosistemas que contienen, tienen cargas críticas inferiores a las de las cuadrículas que las rodean en la región.
+En las optimizaciones realizadas, las cuadrículas "condicionantes" solían ser las mismas en las distintas hipótesis (excepto en la hipótesis 3, que aplica la meta a toda Europa) y aparecían en el norte de Alemania y los Países Bajos, el sureste de Suecia (la isla de Gotland en el mar Báltico), el este de Alemania y el norte de Italia.
+Cierto es que el hecho de eliminar o suavizar la meta de deposición en estas cuadrículas "condicionantes" provocaría una disminución de los costes totales de reducción, pero no por ello los países que contribuyen a la deposición en ellas dejarían de tener que tomar medidas de reducción de emisiones porque otras cuadrículas, generalmente las circundantes, resultarían "condicionantes" en su lugar.
+
+En algunas circunstancias, la meta establecida en materia de deposición/reducción de distancias puede no ser realizable en algunas cuadrículas que, en consecuencia, se consideran "inviables".
+Por ejemplo, tres cuadrículas situadas entre el norte de Finlandia y Rusia resultaron ser inviables cuando la optimización de medidas se limita a la CE exclusivamente.
+En esta zona el problema principal es la deposición de azufre procedente, sobre todo, de fuentes de zonas próximas situadas en Rusia.
+En todas las hipótesis, salvo en la que incluye todo el territorio europeo en la optimización, se suprimieron esas tres cuadrículas de las metas de reducción de distancias a la hora de realizar la optimización.
+
+A los fines del análisis de sensibilidad se efectuaron otras dos optimizaciones: en la primera se excluyó la cuadrícula "condicionante" correspondiente a la isla de Gotland en el mar Báltico y en la segunda la cuadrícula "condicionante" del norte de Italia.
+
+En el primer caso se observó un aumento de las emisiones de SO2 en Suecia y, como efecto secundario, la necesidad de que el Reino Unido redujera algo más sus emisiones de SO2 .
+En este supuesto, las emisiones de NOx aumentan en Alemania y disminuyen en Bélgica.
+Los costes globales para la CE prácticamente no varían, pero se reduce el nivel de protección de ecosistemas, con 4,6 millones de hectáreas no protegidas.
+
+En el segundo caso, donde se eliminó la cuadrícula "condicionante" del norte de Italia, el resultado más importante fue que las emisiones de los tres contaminantes en Italia permanecían en el mismo nivel que en la hipótesis de referencia, con el consiguiente ahorro para ese país.
+Como efecto secundario, se daba una ligera reducción de las emisiones de SO2 en el Reino Unido y Dinamarca, con el consiguiente aumento de costes.
+El resultado neto arroja una reducción de costes de alrededor de 700 millones de ecus.
+En relación con la protección de ecosistemas en todo el territorio de la CE, la superficie no protegida asciende a 4,7 millones de hectáreas.
+Sólo en Italia, la superficie no protegida pasa de 103.000 hectáreas en la hipótesis principal a 246.000 hectáreas.
+Además, pudo observarse alguna repercusión en países vecinos como Austria, donde la superficie no protegida aumenta con respecto a la hipótesis principal.
+
+Tabla A1
+
+Resultados de REF, la hipótesis principal, y las hipótesis 2-4.
+
+Tabla A2
+
+Resultados de REF, la hipótesis principal, y las hipótesis 5 y 6
+
+Hipótesis.
+
+
+REF.
+
+
+Reducción de distancias un 50%.
+
+
+Reducción de emisiones en la UE(desde 1990).
+
+
+Costes adicionales para la CE respecto de REF (miles de millones ECU/año).
+
+
+Superficie de ecosistemas no protegida en la CE (millones de ha).
+
+
+Figura 1
+
+Relación coste/eficacia de las hipótesis

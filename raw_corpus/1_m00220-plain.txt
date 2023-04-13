@@ -1,0 +1,380 @@
+
+¿Sobreviviremos?
+
+Dado que huésped y microorganismo patógeno evolucionan a la par, ¿conservará el sistema inmunitario su predominio?
+
+La especie humana ha existido en una forma muy parecida a la actual durante unos 200.000 años.
+A lo largo de este tiempo cabe suponer que el sistema inmunitario ha desempeñado un papel decisivo en nuestra capacidad de resistir la exposición a parásitos, bacterias, virus, toxinas y otros factores de riesgo que se hacen fuertes por interacción con la bioquímica de nuestro organismo.
+
+Debe advertirse que esta relación ha sido mutua y permanente, en la que los dos bandos han ido adaptándose por medios muy diversos, desde la guerra declarada hasta la acomodación e incluso la simbiosis.
+A medida que la relación ha seguido su curso, ni nosotros ni nuestros cohabitantes nos hemos estancado, hablando en términos evolutivos.
+Tan larga carrera debería por sí sola darnos confianza en que nuestra especie seguirá sobreviviendo, al menos en lo que se refiere al mundo microbiano.
+Pero tal optimismo podría convertirse fácilmente en tonadilla silbada al atravesar un cementerio, como si no fuera con nosotros.
+
+La sombra de duda la han traído ciertos cambios operados en aspectos clave de las condiciones de vida de la humanidad. 
+Nuestro sistema inmunitario se enfrenta hoy a desafíos más terribles que nunca.
+Durante quizás un siglo-intervalo insignificante en una perspectiva evolutiva- alrededor del 20 por ciento de la humanidad ha vivido en la moderna sociedad industrial, un entorno artificial que hemos construido, notablemente libre de los parásitos y gérmenes patógenos que desencadenan la respuesta de nuestro sistema inmunitario.
+¡Pues muy bien! se dirá acaso. 
+Sin embargo, conviene preguntarse por el efecto de subempleo que semejante progreso haya tenido sobre nuestras defensas.
+
+Puede que el sistema inmunitario no disfrute ya del lujo de nuestra época.
+El transporte aéreo, el mayor crecimiento de la población y las megaciudades han aumentado muchísimo la facilidad con que las personas quedan expuestas a la acción de los patógenos. 
+Por su parte, los microbios no se han dormido sobre sus laureles: continuamente están apareciendo otros nuevos. 
+Existe hoy un virus que ataca a las defensas mismas de las que dependemos para sobrevivir: el virus de la inmunodeficiencia humana (VIH).
+
+La bacteria Legionella , la espiroqueta de la enfermedad de Lyme y el virus de la fiebre del valle del Rift son otros ejemplos de la capacidad de la naturaleza para poner radicalmente en jaque a nuestro sistema inmunitario. 
+Hasta los viejos gérmenes patógenos se inventan nuevas mañas: ciertas cepas, evolucionadas y drogorresistentes, del bacilo de la tuberculosis acaban de hacer estragos en centros urbanos industriales.
+¿Terminarán esas tendencias con el confortable punto muerto al que se había llegado? 
+¿Seguirán coexistiendo Homo sapiens y microbios, o se alzará un bando con la victoria?
+
+Una parte importante de la respuesta a esta pregunta la encontramos en la historia evolutiva del sistema inmunitario. 
+Hemos de volver la vista atrás algunos cientos de millones de años, hasta la época en que los primeros vertebrados evolucionaron a partir de sus antepasados invertebrados, pues fue entonces cuando apareció el sistema inmunitario.
+La investigación descubre un hecho significativo:
+se ha recurrido siempre al sistema inmunitario con el fin exclusivo de defender el organismo contra la infección. 
+
+Ningún otro factor externo lo configuró. 
+Esta observación vienen hoy a confirmarla esos experimentos de la naturaleza, rarísimos, en los que nacen niños con un sistema inmunitario disfuncional por culpa de la mutación de un gen decisivo.
+
+Si no reciben el tratamiento adecuado, morirán de alguna infección.
+Sólo pueden sobrevivir en el ambiente estéril de la burbuja, una cámara aislante.
+El mismo experimento natural demuestra que la protección contra el crecimiento aberrante dentro del huésped no afecta al desarrollo del sistema inmunitario. 
+
+En los bebés burbuja y en sus correlatos animales -ratones con un defecto congénito del timo, por ejemplo- no se da una alta incidencia de la mayoría de los tipos de cáncer.
+
+Estos experimentos naturales descartan otras dos funciones que se habían esgrimido.
+Algunos investigadores han propuesto que el sistema inmunitario estimula la formación de glóbulos rojos.
+Sin embargo, los partícipes del experimento natural siguen produciendo cantidades normales de eritrocitos.
+Otros estudiosos han sugerido que el sistema inmunitario puede evitar ciertas formas de esterilidad defendiéndose contra los efectos de los leucocitos paternos.
+Pero ocurre que los ratones con un defecto congénito del timo se reproducen perfectamente si se los mantiene en un ambiente semiestéril. 
+
+Estos hallazgos no significan necesariamente que resulte imposible conseguir que el sistema inmunitario ataque a las células cancerosas o facilite la reproducción.
+Pero hay que ser realistas:
+costará bastante inducirle a que lleve a cabo tareas a las que no se ha ido acostumbrando en el curso de la evolución.
+
+Además de la unicidad de su misión, la consideración de la historia del sistema inmunitario nos revela un segundo rasgo principal:
+al parecer, este sistema ha evolucionado siguiendo un proceso de elaboración.
+
+Se ha hecho con ese poder protector mediante la incorporación de diversas defensas que existían en los invertebrados. 
+No se limitó a desechar aquellos mecanismos y sustituirlos por algo mejor.
+
+Entre los sistemas perfectamente operativos que protegen a los invertebrados se cuentan los fagocitos deambulantes y las proteínas que flotan libres en los fluidos corporales; ambos pueden adherirse a las bacterias invasoras.
+Estas defensas están capacitadas para cumplir la mayoría de las facciones de un sistema inmunitario maduro, si exceptuamos la de establecer una respuesta reforzada contra invasores conocidos de antemano.
+Las defensas ancestrales carecen de memoria específica, nota distintiva de un sistema inmunitario propiamente dicho.
+
+Habiendo evolucionado en presencia de esas defensas no adaptativas, y remotas en su origen, el sistema inmunitario incorpora algunos elementos de éstas para sus propios fines.
+No es concesión a la fantasía el remontarse hasta aquellas formas ancestrales para descubrir el origen del sistema del complemento o de las células presentadoras de antígenos. 
+Se encuentran moléculas tan antiguas como los receptores del complemento en los linfocitos modernos.
+Nuestros macrófagos lucen moléculas del complejo principal de histocompatibilidad (MHC), estructuras que proceden de las células fagocíticas de los invertebrados. 
+
+El sistema inmunitario parece haber creado su capacidad de reconocer los antígenos y organizar ataques contra ellos evolucionando desde proteínas defensivas "mudas" (las del complemento) e incorporándolas.
+El sistema nervioso siguió un curso evolutivo muy similar.
+Se hizo más enrevesado, a buen seguro, para llevar a cabo funciones de mayor complejidad.
+Así, su porción más antigua, el tallo cerebral, interviene en las funciones automáticas, como el latido y la respiración;
+el cerebelo rige los movimientos motores complejos, mientras que el cerebro funciona como la sede de la consciencia, interviene en la percepción y coordina todo el conjunto.
+
+La semejanza entre los dos sistemas se extiende a la estructura y a la función.
+En la levadura, organismo antiquísimo, se reconoce ya un citoesqueleto constituido por una disposición característica de proteínas especializadas.
+El citoesqueleto no se limita a servir de sostén pasivo de la estructura celular;
+en el caso de nuestras neuronas, por ejemplo, es la maquinaria que mueve, desde el interior celular hasta la sinapsis, las vesículas portadoras de los transmisores; 
+en el caso del sistema inmunitario, las células presentadoras de antígenos acuden a un método similar para ingerir el material foráneo, fragmentarlo y presentar sus componentes esenciales al mundo exterior.
+
+Por desgracia, nos es imposible rastrear la mayoría de los pasos que fue dando en su evolución el sistema inmunitario.
+Casi todos los avances decisivos acontecieron, tal parece, en una fase muy primitiva de la evolución de los vertebrados, estadio que se halla escasamente representado en el registro fósil y del cual sobreviven pocas especies. 
+Hasta los vertebrados más primitivos de los hoy existentes parecen reordenar sus genes codificantes de los receptores de antígenos y poseer células T y B distintas, así como moléculas de MHC.
+Así pues, el sistema inmunitario surgió con todos sus pertrechos.
+
+Es una pena que haya persistido un número tan exiguo de experimentos evolutivos de la transición hacia el mundo vertebrado.
+
+Sólo en el caso de las inmunoglobulinas podemos discernir bastantes vestigios de una secuencia evolutiva.
+
+Según cabe presumir, el primer sistema constaría exclusivamente de un gen productor de inmunoglobulina.
+
+Este se reprodujo rápidamente, estableciendo una serie de duplicados, cada uno de los cuales formaría una molécula diferente de inmunoglobulina.
+Emergerían después los mecanismos de control que pudieron dirigir la producción de segmentos génicos separados que estarían capacitados para recombinarse.
+Hasta los humanos conservan en un rincón de su sistema inmunitario algo de la disposición primitiva: los genes que controlan la síntesis de la cadena ligera lambda de las inmunoglobulinas, una forma de la cual consta de sólo dos miembros.
+
+Las moléculas de inmunoglobulina, las proteínas más características del sistema inmunitario, se combinan con el antígeno para señalar su presencia a otros leucocitos o para iniciar las destructivas reacciones en cadena del complemento.
+Tales proteínas pueden estar agrupadas en superfamilias.
+Se ha observado que la mosca de la fruta, Drosophila , pone en juego moléculas similares a las de las superfamilias de la inmunoglobulina, si bien no poseen función inmunitaria; 
+se trata de moléculas de adhesión celular que dirigen el crecimiento de las neuronas en las larvas.
+
+Ciertas moléculas de interés inmunitario son aún más antiguas.
+
+Fijémonos en las bacterias. que poseen proteínas transportadoras homólogas a las que nuestras propias células emplean para acarrear péptidos hasta las moléculas de MHC.
+Una vez aquí, las proteínas cargan los péptidos en el surco de presentación del antígeno. 
+El rasgo más notorio del sistema inmunitario es que sus proteínas se han diversificado y especializado hasta un punto sin precedentes, excepto en el sistema nervioso. 
+Son contadas las moléculas del sistema inmunitario realmente nuevas.
+La selección natural -o, para decirlo con Francis Crick. el "hojalatero"-necesita sólo un número limitado de piezas para su labor componedora. 
+
+La investigación sobre el sistema inmunitario de los peces y los anfibios acaba de descubrir otro interesante superviviente.
+Estos vertebrados de sangre fría tienen sistemas inmunitarios que responden con pausada lentitud, equipados con receptores de antígenos poco diversificados; por botón de muestra, el renacuajo de la rana común sólo produce unas 100 moléculas de anticuerpo diferentes. 
+Por otro lado, las ranas tienen unos potentes péptidos defensivos, las magaininas, que perforan las paredes de las células bacterianas.
+Moléculas que funcionan igual que las magaininas, tales como las escualaminas de los tiburones y las cecropinas sintetizadas por los insectos (y quizá por otras muchas especies), se han encontrado en todo el reino animal... incluso en criaturas de sangre caliente.
+
+A medida que el sistema inmunitario fue ganando en importancia y complejidad, sufrió una serie de reorganizaciones internas con transacciones e intercambios de diverso tipo.
+El hecho de que los recursos metabólicos de un organismo sean limitados obliga a esas operaciones de economía.
+La inversión en sistemas efectores, filo cortante con el que células asesinas y anticuerpos guillotinan virus y bacterias, ha de equilibrarse con la inversión en sistemas reguladores necesarios para mantener bajo control la empresa entera.
+Así, en el sistema inmunitario humano abundan más las células T reguladoras, o CD4 , que las células de cualquier otra clase.
+
+Lo mismo que en un contexto etológico, resulta aquí inevitable apelar al lenguaje del mercado libre. 
+Los inmunólogos seguirán los pasos de quienes dedicaron buena parte de su tiempo a valorar la inversión de los ciervos en cornamentas o la ventaja neta que obtiene el colibrí de su búsqueda de flores jóvenes. 
+¡ Qué perfecta imagen en miniatura del mercado la que ofrecen los ganglios linfáticos y el bazo!
+En los centros germinales de esos órganos, las células B en transformación compiten furiosamente entre sí por la mengua da cantidad de antígeno que les es necesaria para sobrevivir.
+Las ganadoras tienen asegurada la recompensa de la replicación masiva.
+Las células que no encuentran antígeno sucumben. 
+
+Donde la naturaleza deja de suministrar pruebas que respalden las investigaciones sobre la evolución, los inmunólogos han tomado en préstamo un instrumento de los economistas: la creación de modelos por ordenador.
+Franco Celada, del Hospital metropolitano de Enfermedades Articulares de Nueva York, y Philip E. Seiden, del Centro de Investigaciones Thomas J. Watson de IBM, han ideado un autómata celular que remeda los episodios celulares que se suceden en el seno del sistema inmunitario.
+Conjuntos de células T , células B y células presentadoras de antígeno, simuladas y convenientemente dotadas de receptores y moléculas de MHC, se exponen (en sentido figurado) a la presencia de antígeno, y se les deja interactuar.
+El autómata responde bien a la estimulación antigénica, organizando respuestas primarias y secundarias fáciles de reconocer.
+
+Se obtienen resultados más interesantes cuando se le plantean cuestiones de mayor calado; por ejemplo:
+¿cuál es la cuantía óptima de tipos de MHC por individuo?
+El programa contesta haciendo un balance entre la ventaja que constituye el poder presentar cada vez más péptido y la desventaja que representa el suprimir un número creciente de células del repertorio de las T .
+Recuérdese que, además de presentar el antígeno, la molécula de MHC identifica el tejido como propio.
+Por tanto, un aumento de moléculas de MHC significa un crecimiento de la cantidad de autoantígenos;
+lo que exige, en consecuencia, que se suprima el número correspondiente de células T para evitar la autoinmunidad. 
+Además, la merma en tipos de MHC reduce en última instancia la flexibilidad de la respuesta ante microorganismos invasores.
+
+Tras algunas operaciones, el modelo nos da una cifra comprendida entre cuatro y ocho, en buena coherencia con la observación. 
+Aunque no sea el primer modelo matemático ideado sobre el sistema inmunitario, sí es, con mucho, el recurso más manejable y atractivo de cuantos se han desarrollado para explorar estos temas evolutivos.
+Su prueba de fuego vendrá cuando intente dar respuesta a cuestiones cuya solución aún se desconoce.
+
+Un problema afín tiene que ver con el surco de presentación del antígeno de las moléculas de MHC.
+¿Por qué admite esa hendidura una secuencia de exactamente nueve aminoácidos?
+Un bioquímico poco avisado diría que ese tamaño es un puro accidente de la geometría de la molécula de MHC.
+Un biólogo evolucionista algo más perspicaz no se contentaría con esa salida.
+Aduciría, en cambio, que la longitud del surco tal vez refleje un equilibrio de la presión de selección entre dos necesidades opuestas:
+la de conservar en lo posible el repertorio de células T y la de impedir a los parásitos que fabriquen proteínas invisibles para el sistema de las células T .
+Por ejemplo, si un surco alojase solamente seis aminoácidos, podrían estar presentes en las proteínas propias casi todos los hexapéptidos posibles, con la consiguiente eliminación de la mayoría de las células T ;
+pero si el surco diera acomodo a 14 aminoácidos, los parásitos podrían evolucionar en el sentido de evitar la incorporación en sus proteínas de péptidos capaces de enlazarse. 
+
+Podemos imaginarnos a los vertebrados primitivos ensayando varias longitudes hasta dar con la que mejor encajara.
+Se trata, sin embargo, de una posibilidad que queda todavía fuera del alcance de los actuales modelos informáticos, pero se conseguirá sin duda en el futuro.
+
+¿Cómo conciliar esta apremiante necesidad de economía, economía lograda de hecho ya en muchos aspectos, con otros caracteres manifiestamente despilfarradores del sistema inmunitario?
+Los leucocitos, pongamos por caso, se agrupan en varias clases repetidas, dotada cada una de un armamentario bastante completo de receptores antigénicos. 
+
+Podemos aventurar, sin disparatar, que la ventaja de esta repetición consiste en que posibilita la especialización. 
+
+Para habérselas debidamente con los diferentes parásitos se necesitan diferentes inmunoglobulinas; a modo de ejemplo, la IgA es la más eficaz contra las lombrices intestinales. 
+
+Cada inmunoglobulina demanda su propio clon de células B .
+
+De manera similar, las células T citotóxicas proporcionan una defensa apropiada contra virus (el de la gripe, por ejemplo) y contra bacterias intracelulares (así, Listeria ).
+Y la división tajante en células T y células B refleja, al menos en parte, la ventaja de dar a las primeras la responsabilidad de la autotolerancia y permitir con ello a las segundas prestarse a la hipermutación. 
+No resultaría nunca combinarlas unas con otras. 
+Imagínese a las células T de una población exoneradas de células autorreactivas en el timo (lo que de hecho ocurre) y generando entonces aquellas, por hipermutación, nuevos receptores (algo privativo de las células B ): ¡acabaría eso en una pérfida autoinmunidad!
+
+Podemos ya empezar a enhebrar algunas soluciones a la cuestión planteada.
+Me gustaría hacerlo despejando un posible malentendido.
+
+La explicación que de la evolución del sistema inmunitario he dado hasta aquí podría inducir a pensar que, en buena parte, el proceso se cerró hace mucho. 
+La verdad es muy otra.
+Puede asegurarse casi con toda certeza que el sistema inmunitario humano evoluciona actualmente de una generación a otra con una celeridad sin precedentes. 
+Gran parte de este cambio afecta a los genes polimórficos, genes que expresan muchas formas distintas de la misma molécula de MHC 0 anticuerpo.
+
+Nuestro sistema inmunitario es intensamente polimórfico, mucho más que cualquier otra parte de nuestro organismo. 
+Estas moléculas varían de un individuo a otro hasta tal punto que una determinada combinación difícilmente aparece duplicada.
+Este estado de cosas refleja la multiplicación de nuestros parásitos, que se reproducen mucho más rápidamente que nosotros y pueden, por ello, evolucionar más deprisa.
+
+En cuanto a otras formas de polimorfismo, por ejemplo el cromatismo alar de las mariposas, tal diversidad viene verosímilmente sostenida por la selección en favor de los heterocigotos; con este nombre se designan los individuos que poseen copias diferentes de cada gen, en nuestro caso los genes que fomentan la variabilidad de las moléculas que se enlazan con el antígeno.
+Un individuo disfruta de una clara ventaja si tiene, además de los cuatro a ocho loci génicos antes mencionados, dos genes diferentes en cada locas.
+Esa disposición eleva al máximo las posibilidades de engarzarse a un péptido, por lo menos, de cada proteína vírica o bacteriana.
+
+El polimorfismo del MHC reviste mayor complejidad y encierra mayor interés que la simple selección en favor de respuestas inmunitarias frente a los parásitos.
+Acontece también el fenómeno contrario:
+un proceso vigoroso crea con toda probabilidad una rica variedad de genes cuyos productos suprimen la respuesta inmunitaria.
+Esos genes se encargan de amortiguar una reacción inmunitaria que dañe directamente al cuerpo en el transcurso de la respuesta ante un microorganismo patógeno.
+
+Donde mejor puede verse el equilibrio entre los dos tipos de control es en la lepra, enfermedad que aflige a más de un millón de personas en las regiones tropicales.
+Desapareció de Europa hace escasos siglos y por causas desconocidas.
+Los sujetos infectados con la bacteria de la lepra responden de distintos modos.
+Tore Godal, de la Organización Mundial de la Salud, halló que la mayoría de los pacientes se liberan de la infección y sólo les quedan vestigios de reactividad en su sistema inmunitario.
+Otros adquieren una infección "tuberculoide", en la que el cuerpo incoa una respuesta de células T vigorosa, aunque sólo parcialmente eficaz.
+Los de un tercer grupo desarrollan una condición "lepromatosa", en la que se anula la respuesta de células T .
+La piel se llena de bacterias infecciosas, pero la vida puede proseguir con relativa normalidad.
+En los casos en que la respuesta no se ha suprimido del todo, la inmunopatología tiende a manifestarse.
+El equipo de René de Vries, del Hospital Universitario de Leiden, ha de mostrado con solidez que los genes del MHC, sobre todo, ejercen el control del espectro de respuestas.
+
+Sin duda, la mayoría de estos genes inmunosupresores sobreviven en las sociedades industriales como reliquias de infecciones crónicas del estilo de la lepra.
+Con ello nos proporcionan (bien que accidentalmente) una medida de protección contra las enfermedades de autoinmunidad y los trastornos alérgicos. 
+El equipo de Donald J. Capra, del Hospital Clínico de la Universidad de Texas en Dallas, dirigió un extenso estudio de diabéticos insulinodependientes que respondieron a una llamada de la radio local.
+Hallaron en su muestra muchos menos genes de MHC de cierto tipo ( HLA-DQw 1.2 ) que los que habría sido de esperar por su frecuencia en los individuos sanos de control:
+Presumiblemente, tales genes anulan la respuesta inmunitaria que destruye las células beta del páncreas humano.
+Se han comprobado observaciones parecidas con otros genes HLA en la artritis reumatoide y la vasculitis.
+
+No parece que el efecto protector baste para explicar la supervivencia de esos genes. 
+(Se trata de trastornos raros y que afligen principalmente a una población de edad avanzada.)
+Pero sí despiertan éstos el interés de los investigadores.
+En el Centro de Investigación sobre el Reuma de Berlín creemos que la protección viene garantizada por citocinas inhibidoras tales como el factor de crecimiento beta transformador.
+Indagamos tratamientos que remeden tales efectos genéticos.
+Hemos adoptado ese enfoque influidos por el trabajo innovador de Howard L. Weiner, de la Universidad de Harvard, sobre la esclerosis múltiple, publicado a comienzos de este año.
+
+La evolución de los mecanismos inmunosupresores no es más que un ejemplo del condicionamiento recíproco entre hospedadores y parásitos en su desarrollo a lo largo del tiempo; pero hay otros muchos casos.
+A decir verdad, cuanto más ahondamos en el conocimiento de las moléculas del sistema inmunitario, más nos sorprenden tales adaptaciones. 
+Ciertos virus utilizan moléculas del sistema inmunitario para lograr el acceso a las células hospedadoras.
+
+Esa misma habilidad explotadora que distingue a los gérmenes patógenos puede ser en ocasiones explotada por la especie humana.
+El grupo de John P. Tite, de los laboratorios Wellcome, ha definido una secuencia de la invasina bacteriana, una proteína que facilita la invasión del tejido hospedador.
+La secuencia se une a integrina, proteína de la superficie de la célula hospedante.
+El equipo de Tite espera utilizar esta información para construir moléculas que bloqueen la invasina.
+El descubrimiento de que ciertos virus sintetizan proteínas de unión a citocinas ha intrigado a los científicos de la Immunex Corporation de Seattle.
+Las proteínas en cuestión refuerzan la virulencia inhibiendo, presumiblemente, la respuesta inmunitaria.
+Los expertos de Immunex están construyendo proteínas similares con el fin de controlar la artritis reumatoide, una enfermedad autoinmunitaria.
+
+En el otro extremo del espectro, numerosas secuencias de ADN vírico han logrado integrarse en el genoma humano y nunca se expresan (la mayoría de las variedades del color del pelaje de los hámsters, tan apreciados por algunos, resultan del bloqueo génico operado por esas secuencias víricas).
+Las secuencias pueden también emplearse con fines que nada tienen que ver con la replicación vírica;
+en este sentido, ciertos genes víricos que determinan superantígenos endógenos se han conservado en el genoma del ratón.
+
+Desde allí, eliminan los productos de otros genes denominados genes V, que rigen la síntesis de proteínas constituidas en sitios de anclaje para los superantígenos bacterianos.
+
+Podemos empezar a verle un sentido a esta coevolución si introducimos el principio de la "agenda compartida", de Richard Dawkins.
+El ADN de un virus endógeno latente tiene las mismas necesidades que el ADN de su hospedador: ambos comparten el mismo plan de acción.
+No ocurre así con el virus que, tras breve período de latencia, mata a su huésped;
+se comparte en este caso muy poca agenda. 
+Habría que añadir que la latencia completa (la incorporación en el ADN del anfitrión) es fenómeno desacostumbrado, pues la mayoría de los virus no sintetizan retrotranscriptasa, la enzima necesaria para la incorporación. 
+
+La exigencia de transmisión que lleva el parásito tiende a reforzar los planes compartidos, y sin apenas excepciones ésa ha sido la dirección seguida por el curso evolutivo. 
+Sólo las formas de infección nuevas, así los virus de reciente transmisión desde otras especies, traen consigo su propio proyecto.
+
+Rara vez, si alguna, le compensa a un parásito matar a su anfitrión, realidad ésta a la que deberíamos estar profundamente agradecidos.
+
+¿Podemos confiar en que este vivir y dejar vivir, largamente mantenido, persista en el mundo moderno?
+Nunca hubo tantas facilidades para mezclar hospedadores y parásitos carentes de experiencia recíproca anterior.
+Cada decenio incrementan la población mundial unos mil millones de seres humanos.
+Muchos de ellos se apiñan en megaciudades de los países en vías de desarrollo. 
+
+El avión facilita el movimiento de millones de personas alrededor del globo.
+El pasado reciente nos ilustra sobre lo que puede suceder cuando las personas se topan con un germen patógeno del que ni la evolución humana ni su sistema inmunitario les protegen; lo recoge gráficamente una vieja canción referida al paludismo:
+
+"¡Golfo de Benín, golfo de Benín, cuán pocos salen de tantos llegados aquí!"
+
+Los cruces y promiscuidad de los siglos de comunicaciones marítimas constituyen una segunda razón por la que el sistema inmunitario debe estar cambiando con especial celeridad.
+Robert C. Gallo, del Instituto Nacional del Cáncer, ha defendido convincentemente que el VIH puede hundir sus raíces en un complicado paso, de simios a humanos, de dicho virus de la inmunodeficiencia.
+Poca duda cabe de que las epidemias de gripe, que azotan el mundo entero, tienen idéntico origen; podrían iniciarse cuando una nueva variedad del virus salta una barrera interespecífica para propagarse, con los viajeros, por doquier.
+
+Aunque nuestra destreza para manipular el sistema inmunitario se refina día a dio, la mejor defensa natural contra la mayoría de los gérmenes patógenos nuevos y viejos reside en el polimorfismo del sistema inmunitario, que contrarresta la ventaja de que disfrutan los gérmenes patógenos gracias a su capacidad para evolucionar rápidamente. 
+Debemos la supervivencia de nuestra especie a la enorme variabilidad del sistema.
+
+¿Cabría contar con una ulterior elaboración de la estructura del sistema u otras defensas radicales?
+ 
+¿Podrían los mecanismos de control alcanzar un nivel de complejidad mayor que los mejorase cualitativamente? 
+No; no hemos de confiar en una estrategia de defensa que siguiera semejante evolución.
+Todas las estructuras actuales estuvieron ya prefiguradas en formas de vida precedentes. 
+Y no hay señal de que vayan a emerger ab ovo estructuras nuevas.
+
+Los crecientes niveles de vida y la consiguiente reducción del impacto de las infecciones sobre la selección natural constituirán las principales fuerzas determinantes del cambio rápido.
+Ante el reto que nos plantean los organismos con su variabilidad permanente, es probable que asistamos, en respuesta, a la modificación de la frecuencia relativa de genes polimórficos como los del MHC.
+
+Con el tiempo, se producirá una amplia sustitución de genes.
+El aislamiento respecto a la gama entera de los microorganismos patógenos también nos permite conservar la reserva de variabilidad genética que es nuestra defensa principal.
+A la espera de su empleo, los polimorfismos siempre están disponibles.
+
+Se trata de adaptaciones para ajustar mejor el sistema a misiones cambiantes en el mundo moderno.
+Esas adaptaciones serán en conjunto beneficiosas, nadie lo duda, por más que ignoremos su naturaleza.
+Resulta presumible que la pérdida de genes deletéreos se deje sentir más que la adquisición de otros beneficiosos.
+
+Hasta es posible que los genes determinantes del MHC que confieren sensibilidad a la artritis reumatoide o a la esclerosis múltiple vayan desapareciendo gradualmente.
+
+Este proceso tendría poco que ver con cualquier efecto evolutivo que las enfermedades pudiesen producir -al fin y al cabo afligen a individuos de edad avanzada que contaron con la oportunidad de reproducirse.
+
+Es más probable que ocurra por haber sido eliminadas las infecciones que promovieron la selección en pro de la pervivencia de esos genes.
+
+Desde la perspectiva de la sociedad industrial, los genes parecen perjudiciales, aunque prestaron un innegable servicio a nuestros antepasados flagelados por las infecciones.
+
+Sabemos muy poco sobre qué genes determinantes del MHC son los necesarios en una u otra infección.
+En consecuencia, toda predicción en este asunto resulta aventurada.
+Al comienzo de la Ilíada , atribuye Homero la peste que azota a los aqueos a las flechas disparadas por el enojado Apolo.
+¡Ojalá que éste pudiera informarnos del efecto del MHC sobre los blancos elegidos por el protector de la medicina!
+
+Esta tendencia general hacia una menor selección de los genes que confieren resistencia a las infecciones encierra obvios peligros.
+A medida que debilitemos nuestras defensas genéticas contra las infecciones de antaño, aumentaremos casi con certeza nuestra sensibilidad a las nuevas.
+Sírvanos de consuelo saber que la evolución procede con lentitud, sacando el máximo provecho de los pros por encima de los centras a lo largo de muchas generaciones, sin olvidar, empero, que la evolución humana se mueve ahora más deprisa que nunca.
+
+Contrasta esta tendencia más notoria con lo que sucede a propósito de otras fuerzas evolutivas, que parecen ejercer un efecto bastante menor.
+La progresiva y mejor preparación para rastrear el curso de los genes nocivos que mencionábamos al comienzo de este artículo, que nos permite eliminarlos (en detecciones selectivas y con el cumplimiento del consejo genético por parte de las parejas), dejará sentir su efecto en las familias más que en el conjunto de la especie.
+Están ya en perspectiva las vacunas anticonceptivas, como las basadas en la hormona del embarazo, la gonadotropina coriónica.
+
+El grupo de G. Pran, del Instituto Nacional de Inmunología de Delhi, ha demostrado la eficacia de esta forma de anticoncepción, pero sólo en mujeres que den la debida respuesta inmunitaria. 
+
+La información genética empleada de modo apropiado puede convertirse en un medio mucho más potente. 
+
+Cuanto mejor dominemos el curso seguido por los factores genéticos destructivos, mejor situados estaremos para desbaratarlos.
+Tomemos como ejemplo la artritis reumatoide: 
+los estudios realizados entre hermanos gemelos sugieren que los factores genéticos aportan hasta un tercio de la sensibilidad a esa patología, amén de atribuir un papel predominante, dentro de esos factores, al complejo principal de histocompatibilidad.
+
+En la diabetes la situación es similar.
+Podemos empezar a descubrir el "tipo" sensible.
+Con los años, llegaremos a trazar con mayor exactitud el perfil de la sensibilidad, que incluirá por supuesto el MHC y otros genes, amén de parámetros inmunitarios como el patrón de síntesis de citocinas.
+Todo esto podría hacerse en favor de los individuos sanos, para que supieran en qué circunstancias sus respuestas podrían fallar o pasarse de raya, y tomaran así sus precauciones para evitar o prever el riesgo.
+
+¿Ha alcanzado, pues, el sistema inmunitario su cenit tras los escasos cientos de millones de años que ha tardado en desarrollarse?
+¿Podrá responder en el futuro a los nuevos desafíos de la evolución?
+Estos interrogantes, perfectamente legítimos, carecen de una respuesta segura, por la sencilla razón de que nos hallamos ante una situación inédita, sin parangones. 
+Aun cuando conociéramos la frecuencia con que las especies hospedadoras cayeron aniquiladas en el pasado por sus parásitos, de poco nos serviría semejante información para interpretar nuestra situación actual.
+
+Pero hay base para el optimismo.
+
+Jamás se había tenido tanto éxito en la erradicación de una enfermedad como el obtenido con el mero refuerzo de la actividad inmunitaria; estoy pensando en el caso de la viruela, hace menos de 20 años.
+
+Ni tampoco había progresado tanto la medicina ni se había empeñado con tanta firmeza contra las infecciones;
+estoy aludiendo a la Organización Mundial de la Salud (y, más en concreto, a sus programas de investigación especializada) y a los centros nacionales especializados como el de Atlanta en Estados Unidos o el de Majadahonda en España.
+
+Por encima de todo, sin embargo, mi confianza la deposito en las fuerzas de la microevolución, en la capacidad del polimorfismo para ir sacando de su vasto acervo defensas nuevas y, por último, en la habilidad de anfitrión y parásito para adoptar una agenda compartida.
+
+Figura 1
+
+UN RETO al sistema inmunitario lo representan el rápido aumento de la población humana, la aglomeración en megaciudades ( la foto recoge una instantánea de un andén en una estación de cercanías londinense )y la existencia de medios de transporte muy desarrollados y veloces.
+Estos factores están cambiando nuestra relación con los virus, las bacterias y los parásitos.
+
+Figura 2
+
+LA RÁPIDA DIFUSIÓN DE LA ENFERMEDAD mediante los viajes aéreos y otras modalidades de transporte es un hecho de la vida contemporánea.
+Graves y a veces mortíferas enfermedades infecciosas, como las causadas por diversas cepas del virus de la gripe, el sida y nuevos brotes farmacorresistentes de la tuberculosis se expenden con rapidez por todo el mundo, pasando con frecuencia de los países subdesarrollados a los industrializados.
+
+Figura 3
+
+NÚMERO ÓPTIMO de tipos de MHC.
+La cifra depende de que haya un equilibrio entre la necesidad de responder a grandes cantidades, quizá muchos millones, de microorganismos invasores y la necesidad de evitar la autoinmunidad.
+La observación, así como las simulaciones hechas con ordenador, al estilo de las realizadas por Philip E. Selden, de IBM, de quien proviene la gráfica superior, muestran que el número óptimo de tipos de MHC está entre 4 y 8. 
+La ilustración de abajo enseña cómo la molécula MHC presenta el antígeno a las células T coadyuvantes. 
+El proceso comienza cuando un macrófago se encuentra con un antígeno. 
+El macrófago atrae el antígeno y se lo traga.
+Una vez ingerido, la célula lo degrada y lo combina con una molécula de MHC.
+El macrófago expone el compuesto antígeno-molécula de MHC en su membrana externa ( abajo, a la derecha ), donde puede ser descubierto por una célula T ; ésta alerta entonces a las células B para que sinteticen anticuerpos que movilicen otros componentes del sistema inmunitario.
+
+Figura 4
+
+LA LEPRA, enfermedad que ya no es endémica en Europa, manifiesta un rango de patologías que es el resultado de la capacidad del sistema inmunitario de autosuspenderse cuando existe el riesgo de que una respuesta suya perjudique al propio individuo. 
+En el paciente de la izquierda se han expresado genes que han conducido a una falta de respuesta eficaz. 
+En consecuencia, el bacilo de la lepra se multiplica y congrega en las ampollas llenas de líquido que resaltan sobre la piel. 
+En el paciente del centro, una eficaz respuesta inmunitaria ha motivado que sólo aparezca una lesión bajo el cuero cabelludo.
+La mano de la derecha pertenece a un paciente en el que se organizó una vigorosa defensa inmunitaria, aunque no se eliminaron todas las bacterias.
+En estos cases intermedios, la respuesta inmunitaria daña los tejidos.
+
+Figura 5
+
+LA ESTRATEGIA TERAPÉUTICA para tratar la artritis reumatoide parte de una maniobra defensiva que el virus de la viruela efectúa contra la inflamación.
+Iníciase una respuesta inflamatoria cuando un mensajero molecular que circula entre células del sistema inmunitario, el llamado factor de la necrosis tumoral (FNT), se incrusta en su receptor. 
+Para bloquear la respuesta inflamatoria, los virus alojados en las células que serían destruidas por la reacción inducen la síntesis de receptores señuelos.
+Estos se acoplan con el FNT antes de que el mensajero pueda contactar con una célula del sistema inmunitario, respuesta que ha inspirado a los investigadores de la Immunex Corporation de Seattle una terapia para la artritis reumatoide, enfermedad causada por inflamación.
+Immunex está desarrollando un FNT señuelo constituido por dos receptores artificiales acoplados a un fragmento de anticuerpo.
+Razonan que ese compuesto en Y competirá eficazmente por las moléculas de FNT, abortando con ello la respuesta inflamatoria autoinmune .
+Los primeros resultados han sido satisfactorios ( derecha ).
+El receptor artificial FNTRs:Fc inhibe la respuesta en células cultivadas a concentraciones muy inferiores a aquellas en que lo hacen otros receptores de FNT, en cuya función se realizó el ensayo. 
+
+Figura 6
+
+NUEVA CEPA desencadenante de tuberculosis. 
+De extraordinaria virulencia, se muestra resistente también a la acción farmacológica.
+Estas formas alteradas de los microorganismos patógenos tradicionales, y de gérmenes nuevos (por ejemplo, el virus de la inmunodeficiencia humana, o VIH agente del sida, y la Legionella causante de la "enfermedad del legionario"), ponen en un aprieto al sistema inmunitario humano, si no lo arruinan. 
+
+Agendas compartidas y sin compartir
+
+De acuerdo con Richard Dawkins, de la Universidad de Oxford, la relación entre el microorganismo patógeno y su anfitrión va de la absoluta compatibilidad a la total divergencia, a tenor de la fracción de agenda para la supervivencia que compartan.
+Cuando el genoma de un patógeno viaja en los gametos de su hospedador, participan ambos del mismo proyecto y así "acuerdan" que el anfitrión se mantenga sano y apto para la reproducción.
+Los gametos de muchas especies de mamíferos, incluido el mapache, portan un importante complemento de tales genes víricos, benignos y útiles.
+La relación entre el virus de la rabia y su hospedador ilustra el efecto opuesto.
+El virus, que se propaga a través de la saliva, tiene poco interés por la supervivencia de su hospedador.
+La tendencia histórica de las relaciones entre los humanos y sus patógenos ha sido -cree el autor- hacia la agenda compartida.

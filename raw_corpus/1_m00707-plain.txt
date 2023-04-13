@@ -1,0 +1,229 @@
+
+Implantes celulares
+
+Un nuevo enfoque terapéutico combina células vivas con membranas plásticas que las protegen del ataque inmunitario.
+
+En 1994, cierto paciente que sufría un dolor intenso y persistente se convirtió en uno de los primeros voluntarios sometidos al ensayo de un método terapéutico radicalmente nuevo.
+Mientras yacía anestesiado, el cirujano adosó un tubito de plástico en la columna vertebral. 
+El tubo, sellado, medía cinco centímetros de longitud y era fino como alambre de clip; contenía células de ternera secretoras de una mezcla de analgésicos. 
+
+Si las cosas no se torcían, las secreciones celulares rezumarían a través de los poros del tubo, para difundirse luego por la médula espinal.
+Entre tanto, los nutrientes y el oxígeno pasarían del líquido cefalorraquídeo a la cápsula, para alimentar a las células.
+El tubito impediría también la entrada de macromoléculas.
+Se evitaría así que las células y los anticuerpos del sistema inmunitario (de un tamaño notable ambos) establecieran contacto con las células bovinas y las destruyeran al reconocer su carácter foráneo.
+
+A través de ese medio se buscaba aliviar el sufrimiento, lo que se conseguía al cortar el flujo de señales de dolor que transitaban de la médula a los centros cerebrales de detección.
+Pero el ensayo de 1994 fue de puro tanteo.
+Se diseñó para comprobar si las células implantadas sobrevivían y liberaban sus analgésicos durante meses.
+Lo lograron.
+Un éxito similar se repitió en otros pacientes y justificó la realización de una prueba más ambiciosa, ahora en marcha, para evaluar por vía directa el control del dolor.
+
+Aquellos resultados comportaron, sin embargo, consecuencias de mayor alcance.
+Alimentaron el creciente optimismo, basado en exhaustivos experimentos con animales, respecto del uso de combinaciones de células vivas y membranas sintéticas protectoras para corregir un amplio abanico de patologías. 
+
+Cinco años después, el revuelo que ha producido esta estrategia -conocida asimismo por tratamiento con células encapsuladas, terapia biohíbrida o inmunoaislamiento- parece justificado.
+Como en el caso del implante analgésico, un sistema de soporte hepático biohíbrido ha alcanzado la fase de ensayo controlado en humanos, en el que toman parte numerosos pacientes y diversos hospitales.
+Pruebas de carácter restringido en humanos y estudios en mamíferos de cierto porte han de dilucidar la eficacia de terapias de inmunoaislamiento en casos de hemofilia, anemia, retraso del crecimiento y trastornos neurodegenerativos (enfermedades de Parkinson y de Huntington).
+En roedores se han iniciado los ensayos de la terapia de la degeneración macular, una causa frecuente de ceguera, y otros tipos de enfermedades oculares.
+
+Las aplicaciones en boga implican la implantación de células encapsuladas en el sitio escogido del organismo. 
+Algunas -el tratamiento del hígado, por ejemplo- precisan el concurso de dispositivos externos que recuerdan los aparatos de diálisis.
+
+Porque supera limitaciones importantes de los implantes de células libres, la terapia de inmunoaislamiento despierta especial atracción.
+Lo mismo que las libres, las células encapsuladas en membranas se hacen cargo de funciones cruciales que correspondían a las lesionadas o perdidas, pueden suministrar analgésicos y otros elementos "extra" e incluso facilitar la terapia génica, segregando las proteínas codificadas por los genes que los expertos hayan introducido en las células.
+Por el contrario, las células libres están expuestas a la celada del sistema inmunitario, salvo que procedan de los mismos sujetos o de sus gemelos.
+De ahí que los pacientes suelan necesitar fármacos inmunosupresores.
+El bloqueo mecánico contra los ataques inmunitarios, que se consigue a través de la encapsulación de las células insertas dentro de membranas plásticas, haría superfluo este tipo de medicinas, que predisponen a las infecciones, cáncer (linfomas) y disfunción renal.
+
+La protección inmunitaria conseguida con las membranas plásticas debería también permitir el trasplante celular de animal a hombre.
+Las células animales sin encapsular no son una opción viable porque los fármacos inmunosupresores no evitan por completo el rechazo de los xenotrasplantes (implantes procedentes de otras especies).
+El recurso a células animales paliaría la escasez de donaciones de tejidos.
+Por último, las células implantadas dentro de un envase plástico pueden retirarse si fuera preciso, tarea harto difícil con las células libres. 
+
+El empeño puesto ahora para encapsular células para usos médicos no se entiende sin el trabajo pionero de William L. Chick a mediados de los años setenta.
+Chick había dirigido sus esfuerzos a la curación de la diabetes de tipo I (dependiente de insulina), peculiar de las personas jóvenes.
+Se presenta la disfunción cuando el páncreas deja de sintetizar insulina, una hormona que segrega en la cantidad adecuada para controlar la concentración de glucosa en sangre.
+Las inyecciones diarias de insulina salvan vidas, pero no repiten el patrón natural de secreción pancreática de la hormona.
+En consecuencia, ciertos tejidos pueden quedar expuestos a cantidades excesivas de glucosa. 
+Con el paso de los años, esa demasía genera complicaciones asociadas a la diabetes, como ceguera y disfunciones renales.
+
+Chick pensó que la implantación de cápsulas llenas de islotes pancreáticos -las agregaciones de células que segregan la insulina- podría restaurar el patrón de liberación de esta sustancia adecuado sin tener que administrar fármacos inmunosupresores. 
+El empleo de islotes procedentes de cerdos (por aquel entonces la fuente principal de insulina inyectada) garantizaría un suministro abundante de células.
+
+Diversos estudios realizados en roedores desde mediados de los setenta sugerían que andaba en lo cierto.
+Por desgracia, ciertos obstáculos técnicos han impedido que la terapia de inmunoaislamiento cuajara en la diabetes Chick murió en 1998 sin ver cumplidos sus deseos.
+Pero su feliz anticipación ha estimulado el progreso en otros frentes, como el diseño de dispositivos. 
+
+Los sistemas de encapsulación, aunque polimórficos en su presentación, todos incluyen los mismos ingredientes básicos: las células (capaces de segregar productos útiles), una matriz donde se prenden las células, contribuyendo a su supervivencia y funcionamiento, y una membrana semipermeable.
+Los bioingenieros han aprendido que las células de un implante funcionan mal o mueren si distan más de 500 micrometros de los vasos sanguíneos u otras fuentes de alimentación.
+
+Los diseños vasculares (o de paso de flujo) fueron los primeros en entrar en fase de pruebas, en concreto para tratar la diabetes en roedores.
+Estos dispositivos desvían la sangre del sistema circulatorio del paciente hacia un tubo de plástico y luego la devuelven al organismo.
+Las células secretoras se colocan en una cámara cerrada que rodea a un segmento ligeramente poroso del tubo, como la rosquilla y su agujero.
+Cuando la sangre fluye por esta parte del circuito, puede absorber las sustancias segregadas por las células terapéuticas y proporcionar oxígeno y nutrientes a las células.
+Si los islotes pancreáticos se colocan en el interior de la cámara, la concentración de insulina que liberan se acomodará al nivel de glucosa en sangre.
+En otras aplicaciones podría optarse por células emisoras de un determinado producto a una velocidad constante.
+
+Aunque se pueden preparar prototipos implantables de estos aparatos vasculares, es muy probable que encuentren su aplicación principal como dispositivos externos.
+Una implantación requiere cirugía vascular y la administración prolongada de anticoagulantes para impedir la formación de trombos sanguíneos en el interior del tubo.
+Si un tubo implantado se rompiera, se produciría una hemorragia interna. 
+
+A finales de los años setenta, durante su búsqueda de métodos menos agresivos, se introdujo la técnica de "microencapsulación".
+Las microcápsulas se fabrican colocando un islote pancreático o unos cuantos miles de células en una gota de solución acuosa donde hay polímeros ligeramente dotados de carga.
+A continuación, se sumerge la gota en una solución de polímeros con carga opuesta.
+Los polímeros entran en reacción y crean una película de unos 500 micrometros de diámetro a su alrededor.
+
+Las microcápsulas, cuya preparación no entraña mayor dificultad, resultan muy útiles para realizar experimentos rápidos, pero presentan graves limitaciones.
+Primera, su fragilidad.
+Una vez instalada, no será fácil dar con ella para retirarla, un problema delicado si arrastra efectos indeseables.
+Es más, el volumen necesario para corregir un trastorno puede ser demasiado grande para ubicarlo convenientemente en el sitio idóneo.
+
+El formato más práctico parece ser el de las macrocápsulas preformadas, unas unidades inicialmente vacías que se cargan con la matriz y todas las células necesarias para el tratamiento.
+Algunas macrocápsulas son discos del tamaño de una moneda de cinco pesetas, otras tienen una forma y tamaño similares a un ojal de camisa.
+Las macrocápsulas para uso en humanos acostumbran adoptar la forma de un tubo sellado, o capilar, de varios centímetros de longitud y diámetro comprendido entre los 500 y 1000 micrometros.
+
+Las macrocápsulas son bastante más fuertes y duraderas que las microcápsulas.
+Contienen refuerzos internos, se puede comprobar que estén bien cerradas antes de la implantación y se pueden diseñar para que permitan nuevos rellenos en el interior del organismo.
+Es más, pueden retirarse con facilidad.
+Su principal limitación es el número de células que pueden acomodar: hasta unos cinco millones en un tubo y entre 50 y 100 millones en un disco u hoja plana.
+Esas cifras son adecuadas para muchas aplicaciones, pero no para todas.
+Si se hacen más largas es más probable que se doblen, lo que facilita su rotura.
+Además, los bordes de las regiones dobladas estimulan la fibrosis, una retracción local de los tejidos que puede obstaculizar los intercambios de las células encapsuladas.
+
+Los fabricantes de diseños vasculares, microcápsulas y macrocápsulas intentan conseguir que las membranas tengan poros de un tamaño que permita la difusión de moléculas de hasta 50.000 dalton, unidad de masa atómica.
+Los poros de este tamaño son lo bastante pequeños para bloquear la entrada de células y moléculas inmunitarias, pero lo bastante grandes para permitir la entrada de nutrientes y oxígeno, así como la salida de las proteínas segregadas por las células del implante. 
+Sin embargo, los poros de las membranas reales acaban por tener una gama de tamaños amplia, por lo que algunas moléculas grandes del sistema inmunitario llegan al implante atravesando las membranas.
+Por fortuna, este fenómeno no debilita a la mayoría de los implantes.
+
+Hasta finales de los años ochenta, la mayoría de los instrumentos biohíbridos se apoyaban en células primarias, o sea, las obtenidas directamente del tejido donador. 
+Las células primarias son útiles para realizar estudios reducidos en animales pequeños, pero obtener las cantidades necesarias para un animal grande (incluido el hombre) o para un número elevado de receptores puede ser problemático.
+Además, al tener cada donador su propio historial, garantizar la seguridad de las células primarias puede llegar a ser una empresa colosal.
+Por eso, a comienzos de los noventa, algunos equipos se encaminaron hacia las líneas celulares.
+
+Estas líneas consisten en conjuntos de células inmortales, que se dividen indefinidamente, capaces de multiplicarse en cultivos celulares sin perder su capacidad para realizar funciones especializadas, como la secreción de sustancias útiles. 
+Debido a que muchas células primarias apenas se reproducen en cultivos celulares o adolecen de otras carencias, los expertos han alterado a menudo las versiones originales. 
+Sin embargo, una vez establecidas, las líneas celulares pueden proporcionar un suministro inagotable de células uniformes para trasplantes.
+
+La utilidad potencial de las líneas celulares para la terapia de encapsulación quedó bien clara en las pruebas animales que comenzamos a realizar en 1991.
+Se sabía que la conocida línea PC-12, derivada de un tumor suprarrenal de roedor (o feocromocitoma), segregaba grandes cantidades de dopamina, una molécula señal cuya síntesis se suspende en los cerebros afectados por la enfermedad de Parkinson.
+Para comprobar si valía la pena estudiar el uso de injertos de estas células en el tratamiento del Parkinson, introdujimos tubitos de las células en cerebros de animales cuyas células productoras de dopamina habíamos dañado por medios químicos para provocar los síntomas característicos del Parkinson. 
+En muchos individuos, entre ellos los primates no humanos, el procedimiento eliminó los síntomas.
+
+Fue significativo observar que las células no proliferaban de manera incontrolada ni perforaban la cápsula.
+Tan sólo reemplazaban las células muertas y no dejaban que su población excediese la capacidad del implante. 
+Los estudios también mitigaron los temores de que las células inmortales engendraran tumores en caso de fuga.
+La inmortalización es un paso hacia la conversión de una célula normal en cancerosa.
+Para ser realmente malignas, las células tienen que adquirir la capacidad de invadir el tejido vecino, desarrollar su propio suministro sanguíneo y propagarse hasta lugares distantes. 
+La formación de tumores es una preocupación potencial en los trasplantes de células inmortales de la misma especie, pero los trasplantes de especies distintas resultan ser menos preocupantes: la introducción de células PC-12 de rata sin encapsular en cerebros de primates no generó tumores.
+De hecho, ni siquiera sobrevivieron;
+el sistema inmunitario del receptor se encargó de destruirlas rápidamente.
+
+El trabajo con la línea PC-12 no prosiguió en los pacientes de Parkinson.
+Se adelantaron otros tratamientos prometedores.
+A pesar de todo, esos estudios demostraron la viabilidad del despliegue de linajes celulares en terapias de inmunoaislamiento.
+
+El éxito con los linajes celulares abrió también la puerta a la utilización de células genéticamente manipuladas, debido a que las células en proceso de división se hallan más proclives a incorporar genes introducidos y sintetizar las proteínas cifradas por ellos.
+En otras palabras, la técnica de inmunoaislamiento se convirtió de la noche a la mañana en una nueva vía de la terapia génica.
+Los biólogos moleculares insertarían genes para la producción de proteínas terapéuticas en líneas celulares capaces de fabricarlas y estas células se incorporarían en implantes encapsulados en plástico. 
+
+En terapia génica, suelen extraerse células del propio paciente para insertar en ellas los genes deseados; tras su multiplicación, las células alteradas tornan al organismo, con la esperanza de que las nuevas proteínas se sinteticen en las cantidades necesarias.
+En comparación, la producción de cápsulas llenas de células alteradas genéticamente puede medirse antes de introducir los implantes en el paciente.
+Si hubiera que proceder a ello no hay luego dificultad en quitar las cápsulas. 
+
+No se ha resuelto todavía si las líneas celulares candidatas a encapsulación deben provenir de animales o de humanos.
+Las células primarias, tomadas directamente de donantes, habrán de ser, casi con toda certeza, de animales, ante la escasez de donaciones de tejidos humanos.
+Algunos investigadores prefieren líneas derivadas de animales porque las células que se escapen de un implante, al ser extrañas al receptor, se encontrarán con una destrucción inmediata por parte del sistema inmunitario. 
+
+Para aportar proteínas terapéuticas humanas a un receptor, los citoingenieros podrían dotar a las células animales con los genes humanos que las cifran. 
+Otros expertos se inclinan por las líneas de células humanas; no en vano suelen comportarse mejor en el interior de las cápsulas.
+Y se evita el riesgo de que gérmenes patógenos propios de los animales se transmitan al hombre. 
+Para mayor seguridad, las células humanas podrían manipularse de suerte tal que saltaran las señales de alerta inmunitaria en cuanto se produjera una fuga.
+
+Las células encapsuladas, alteradas genéticamente o no, sirven a menudo para acarrear proteínas terapéuticas. 
+Pero las proteínas pueden introducirse por inyección. 
+¿Para qué, pues, implantar?
+
+La terapia mediante células encapsuladas adquiere relieve cuando las inyecciones no suministran la proteína suficiente, así en tumores o allende la barrera hematoencefálica, un filtro natural que evita que muchas sustancias transportadas en la sangre lleguen al cerebro o a la médula espinal. 
+Las células encapsuladas pueden prestar también óptimo servicio cuando la excesiva inestabilidad de la proteína terapéutica impida recetarla como fármaco o cuando se trate de reproducir el patrón natural de administración (en la diabetes, por ejemplo).
+
+Es probable que las líneas celulares sometidas a manipulación genética predominen en los dispositivos biohíbridos del futuro.
+Ello no obsta para que las aplicaciones donde intervienen células primarias, objeto de un estudio más dilatado, se encuentren en la fase última de los ensayos clínicos.
+Nosotros lo hemos comprobado en el tratamiento del dolor crónico, mencionado en el comienzo del artículo.
+Extraemos las células a implantar de glándulas suprarrenales de terneras, cuya cría se realiza en unas condiciones muy controladas.
+Las células cromoafines, componentes adrenales, liberan de forma natural analgésicos.
+Tras purificar cuidadosamente unos tres millones de estas células, las colocamos en una fibra hueca que sellamos en ambos extremos, atamos a un filamento (para su recuperación) e implantamos en la columna vertebral mediante un proceso mínimamente agresivo.
+
+A mediados de los noventa, cuando los cirujanos nos confirmaron que estos implantes funcionaban durante meses, hallaron también indicios de atenuación del dolor.
+Varios pacientes reconocieron que habían notado una caída sensible de su malestar y de la necesidad de morfina.
+Pero estos experimentos no incluían un grupo de control que recibiese un placebo (es decir, una cápsula vacía), lo que nos resolvería si la mejora debía atribuirse al tratamiento.
+Moses B. Goddarden dirige un amplio ensayo clínico con más de cien pacientes, diseñado específicamente para cuantificar el alivio del dolor. 
+
+Sea cual sea el resultado, los datos recogidos demuestran que las células de origen animal inmunoaisladas perviven largos meses en el sistema nervioso central de pacientes, sin necesidad de administrar fármacos inmunosupresores.
+En comparación, ningún órgano trasplantado de un animal al hombre ha sobrevivido sin encapsulación, por cuantiosos inmunosupresores que se le hayan administrado. 
+
+Otra aplicación bastante perfeccionada de la terapia de inmunoaislamiento nos la ofrece el aparato de asistencia hepática. 
+Fúndase en células extraídas directamente de animales.
+En un hígado sano, los hepatocitos absorben toxinas y las degradan en formas inocuas.
+Si el hígado deja de funcionar bien, las toxinas se acumulan y pueden alcanzar niveles letales.
+Los trasplantes de hígado salvan a los pacientes, pero muchos mueren esperando la donación que no llega.
+Los sistemas hepáticos biohíbridos en estudio se proponen mantener con vida al paciente mientras se espera el órgano de un donante.
+
+Esta terapia de transición al trasplante se apoya en un aparato vascular externo.
+En él, la sangre del paciente se bombea a una cámara cerrada, donde un segmento semipermeable del tubo que transporta la sangre se encuentra rodeado de una suspensión de hepatocitos de cerdo.
+Los hepatocitos absorben las toxinas del flujo sanguíneo y las degradan, de modo que la sangre vuelve al cuerpo más limpia para completar su circuito.
+En contraste con la implantación analgésica, donde se introducen unos cuantos miligramos de células y se espera que funcionen de manera continua durante meses o años, un aparato hepático puede abrigar entre 20 y 200 gramos de hepatocitos purificados, para sólo trabajar entre seis y 24 horas por tanda.
+
+En un estudio inicial con 40 afectados de una enfermedad hepática terminal, el aparato sujeto a prueba funcionó de acuerdo con lo esperado.
+Esta verificación, que se dio a conocer en 1998, preparó el camino para un ensayo a gran escala que ahora comienza en Estados Unidos y Europa. 
+Las expectativas de éxito son buenas.
+En circunstancias especiales, pensemos en una crisis hepática aguda provocada por ingestión abusiva de acetaminofén, el hígado podría regenerarse, sin necesidad de recurrir al trasplante.
+Pero el recuerdo de experiencias pasadas nos aconseja no echar las campanas al vuelo.
+El camino hacia los sistemas de apoyo hepático está empedrado de intervenciones que funcionaron muy bien en las pruebas iniciales pero fracasaron a la larga.
+
+Lo mismo en las aplicaciones analgésicas que en las relacionadas con el hígado, hay que tomar en consideración la posibilidad de la presencia escondida de genes de virus animales en los cultivos celulares, que podrían inducir infecciones peligrosas en los receptores de trasplantes. (Para asegurarse de que no se ha deslizado ningún germen patógeno se procede a rastreos exhaustivos).
+Las membranas de plástico deben constituir una formidable barrera contra la transmisión de virus animales.
+Hasta la fecha ningún paciente ha adquirido ni siquiera una infección benigna a partir de las células donantes.
+
+Aunque están menos avanzadas, han comenzado las pruebas en humanos de las aplicaciones de la terapia génica. 
+Dos investigaciones se circunscriben a enfermedades del sistema nervioso central.
+El primer ensayo con células encapsuladas alteradas genéticamente se centra en la esclerosis lateral amiotrófica (ELA), neurodegeneración caracterizada por el deterioro de los nervios espinales que controlan los músculos. 
+En 1996, seis pacientes recibieron implantes que contenían una línea celular -derivada de células renales de hámster recién nacidos- en la que se había incorporado el gen de la proteína CNTF (factor neurotrófico derivado de los cilios).
+Se eligió este gen porque otros estudios realizados en animales y humanos sugerían que el factor neurotrófico podría demorar el deterioro y la muerte de neuronas en los pacientes con ELA.
+El protocolo recordaba bastante el seguido con el dolor crónico: implantación en la columna vertebral de un tubito repleto de células. 
+
+El estudio examinó si las células sobrevivían y liberaban cantidades potencialmente terapéuticas de CNTF durante los tres meses que abarcó el experimento. 
+Las células dieron buen resultado.
+Sin embargo, el tratamiento no frenaba el progreso de la enfermedad; cierto es que la muestra era muy pequeña y la prueba demasiado corta para aportar información significativa.
+Con todo, se sugería que, de encontrarse el gen o mezcla de genes adecuado para el tratamiento de la ELA, las células encapsuladas serían el medio idóneo para introducirlos en el sistema nervioso central.
+
+Se hallan en fase de evaluación implantes de esta misma línea celular en pacientes con enfermedad de Huntington. 
+Se distingue ésta por matar ciertas células cerebrales de manera gradual.
+Las cápsulas se han colocado en los ventrículos cerebrales, unos espacios llenos de líquido.
+Este protocolo se está ejecutando en París.
+Acaba de comenzar.
+Se han iniciado asimismo experimentos con animales para evaluar la eficacia del inmunoaislamiento en la terapia génica. 
+
+Si las investigaciones sobre inmunoaislamiento progresan de manera satisfactoria en muchos frentes,
+¿por qué nadie, tras 20 años largos de ensayos, ha conseguido rematar un método de encapsulación que remedie la diabetes?
+
+Desde 1977, año en que el grupo de Chick logró la reversión de la diabetes en roedores, una docena de laboratorios ha venido reproduciendo la hazaña, con un amplio repertorio de diseños de implantes en distintos modelos múridos de diabetes.
+Pero la terapia de inmunoaislamiento basada en los islotes pancreáticos no ha funcionado en perros, monos o humanos.
+Aunque ha habido excepciones con resultados positivos, examinadas con atención se revela que, en su mayoría, sólo se lograron con la ayuda de agentes inmunosupresores o cierta cantidad de insulina inyectada.
+
+En buena medida, la dificultad surge del número de islotes pancreáticos que requieren los animales de cierto tamaño y humanos: en torno a los 700.000, que abrigan unos 2000 millones de células "beta", productoras de insulina. 
+Semejante cifra viene a multiplicar casi por mil el volumen celular que hoy podemos encapsular con éxito en los implantes clínicos.
+La diabetes en ratones puede curarse con tan sólo unos 500 islotes, que los técnicos suelen extraer a mano del páncreas donante.
+Pero recoger a mano 700.000 islotes queda fuera de nuestra capacidad, y las técnicas semiautomáticas no han avanzado lo suficiente para aislar las cantidades requeridas de islotes sanos.
+Además, en el páncreas originario cada islote posee su propio suministro sanguíneo.
+Los islotes se resienten en el entorno espartano de las cápsulas implantadas.
+Por estas y otras razones, coincidimos con los que se muestran reticentes ante implantes de páncreas semiartificiales basados en islotes encapsulados.
+
+Pero ese estancamiento podría romperse.
+Por lo menos tres grupos de investigación están desarrollando, desde distintos enfoques, unas líneas celulares que liberan insulina en respuesta a las complejas señales que disparan la secreción de la hormona en el páncreas sano. 
+Se pretende crear células que produzcan más insulina que las células beta naturales (de manera que se necesiten menos células) y sean capaces de sobrevivir en el ambiente del implante, pobre en nutrientes y desprovisto de oxígeno.
+
+De aquí a cinco años, si no antes, esperamos obtener líneas celulares secretoras de insulina que respondan a la concentración de glucosa, en animales grandes.
+Es de prever que esas líneas pasarán en seguida a los protocolos clínicos.
+Algunos expertos piensan que esta predicción es demasiado pacata.
+Otros retrasan el horizonte de su cumplimiento.
+Todos, sin embargo, están de acuerdo en que la obtención de un páncreas artificial o de una versión biohíbrida debe seguir siendo una de las prioridades para la medicina del siglo XXI. 

@@ -1,0 +1,154 @@
+
+Glucómica
+
+Los azúcares desempeñan funciones críticas en muchas actividades celulares.
+Pese a ello, su estudio había quedado rezagado respecto a la investigación sobre genes y proteínas.
+Un retraso que empieza a recuperarse.
+
+Descifrado el genoma humano, ha emergido en el horizonte con todo su atractivo el proteoma, conjunto de proteínas que nuestras células fabrican siguiendo las indicaciones de los genes.
+Cumple a las proteínas realizar la mayoría de las tareas de nuestro organismo.
+Parecería, pues, que la comprensión de su comportamiento debería traducirse en fuente de ideas para remediar los males que nos aquejan.
+Pero en las células hay algo más que genes y proteínas.
+Hidratos de carbono y lípidos desempeñan también funciones cruciales.
+Sin su conocimiento no se entiende la forma de operar del organismo ni cabe esperar paliar las enfermedades.
+
+Los hidratos de carbono, en particular, realizan una asombrosa gama de tareas.
+No hace todavía mucho, se les reservaba una función de meros generadores de energía (en el caso de la glucosa y el glucógeno) o de elementos estructurales. 
+Sabemos ya que se combinan con proteínas y lípidos en las superficies celulares; allí instalados, influyen en las comunicaciones intercelulares, el funcionamiento del sistema inmunitario, la capacidad patogénica de agentes infecciosos y la metástasis.
+Contribuyen a la identificación celular y al control del tráfico de las células móviles por todo el organismo.
+Tal es la ubicuidad de estas moléculas, que las células se presentan ante otras células y ante el sistema inmunitario revestidas de su manto.
+
+Tras reconocer la importancia de los glúcidos en la salud y en la enfermedad, la ciencia básica y la industria farmacéutica se empeñan ahora en descubrir su estructura y actividad, con la vista puesta en la obtención de nuevos agentes terapéuticos.
+Las autoridades políticas se han percatado también de su interés.
+Por citar un ejemplo significativo, en octubre de 2001 los norteamericanos Institutos Nacionales de la Salud (NIH) concedieron una ayuda de 34 millones de dólares por un período de cinco años al Consorcio para la Glucómica Funcional, un grupo de 54 investigadores repartidos por todo el mundo involucrados en el desarrollo de una biblioteca de cadenas sintéticas de hidratos de carbono y una base de datos estructural.
+James C. Paulson, del Instituto de Investigación Scripps de La Jolla, dirige los trabajos.
+
+Complejidad
+
+Los azúcares simples -como la glucosa y la sacarosa, que están formadas por unos cuantos átomos de carbono, oxígeno e hidrógeno- reciben los nombres técnicos de monosacáridos, disacáridos, etcétera, de acuerdo con el número de unidades de azúcar que contengan.
+Si la cadena se prolonga, hablamos de oligosacáridos; 
+los polisacáridos constituyen genuinas macromoléculas. 
+Son glucoconjugados las moléculas integradas por hidratos de carbono asociados a proteínas (glucoproteínas) o a lípidos (glucolípidos).
+
+El principal escollo con que se encontraban los bioquímicos del pasado residía en la penuria de herramientas para descifrar la estructura de las versiones complejas y para sintetizar sus moléculas de una manera reproducible.
+Los problemas arrancaban de la extraordinaria variabilidad estructural de los glúcidos.
+Los cuatro nucleótidos que intervienen en el ADN, y los veinte aminoácidos que forman las proteínas, se unen entre sí de manera lineal, a la manera de las cuentas de un rosario; se engarzan, además, mediante el mismo tipo de enlace químico siempre.
+Por el contrario, los azúcares simples, diez más o menos, que son los habitualmente presentes en los hidratos de carbono de los mamíferos, pueden unirse entre sí por diversos puntos y formar estructuras ramificadas complejas.
+Más aún, dos unidades enlazadas no siempre se orientan de la misma manera: a veces, una molécula cae perpendicular a uno de los planos de la otra unidad y, en otras ocasiones, perpendicular al plano opuesto.
+
+Los cuatro nucleótidos del "alfabeto" del ADN pueden combinarse para producir 256 estructuras de cuatro unidades, diferentes entre sí.
+Los 20 aminoácidos de las proteínas pueden producir hasta 16.000 configuraciones de cuatro unidades.
+Pero los hidratos de carbono más simples del organismo pueden unirse, en teoría, para dar más de 15 millones de organizaciones distintas de cuatro componentes.
+Aunque en la naturaleza no se presentan todas estas combinaciones, las posibilidades resultan en verdad asombrosas. 
+
+Constituye, pues, un reto formidable determinar las secuencias de los componentes de los glúcidos complejos, para proceder luego a su síntesis.
+El progreso en la glucómica, más aún que en la genómica, dependerá de los avances que se den en técnicas moleculares de secuenciación y en bioinformática.
+
+Posibilidades
+
+De entrada, un mejor dominio de los glúcidos comportaría un mayor refinamiento de los tratamientos existentes.
+Fijémonos en la heparina, un fármaco común desde los años treinta.
+Se indica este glúcido anticoagulante para evitar que se formen trombos durante una intervención quirúrgica.
+Sin embargo, la mayoría de las preparaciones comerciales, extraídas del revestimiento intestinal del cerdo, son una mezcla heterogénea y pobremente caracterizada de compuestos constituidos por una cadena que contiene entre 200 y 250 unidades de monosacáridos. 
+La potencia de la heparina y los efectos secundarios posibles varían no sólo de una compañía farmacéutica a otra, sino también de un lote al siguiente; ello exige comprobar sus propiedades conforme se va fabricando.
+
+Los laboratorios farmacéuticos venden hoy versiones más pequeñas de la heparina, de masas moleculares bajas.
+Han recortado partes que no son necesarias para la actividad del fármaco, con el ahorro consiguiente de efectos secundarios.
+Pero también en esas nuevas presentaciones cuesta lograr partidas homogéneas.
+
+Así las cosas, hace dos años, el equipo dirigido por Ram Sasisekharan, del Instituto de Tecnología de Massachusetts, decidió poner en práctica las herramientas que habían desarrollado para descifrar la secuencia completa del centro activo de la heparina.
+(Es decir, la región responsable de la actividad biológica del compuesto).
+Merced a la información obtenida, avanzan ahora los procedimientos de síntesis de heparinas más potentes y fiables, de masa molecular baja, al tiempo que se consigue encauzar sus propiedades farmacológicas para aplicaciones específicas. 
+
+El paulatino control de los hidratos de carbono debería igualmente repercutir en la eficacia de las proteínas producidas con técnicas de ADN recombinante.
+Para operar según es debido, ciertas proteínas han de llevar determinados glúcidos, agregados en lugares precisos. 
+Pero las posibilidades técnicas no son a menudo suficientes.
+Consideremos la eritropoyetina, un fármaco recombinante que se administra para estimular la producción de hematíes en pacientes anémicos o sometidos a diálisis renal.
+Durante años, los laboratorios Amgen se vieron obligados a desechar hasta el 80 por ciento del fármaco que fabricaban, debido a una glucosilación inadecuada en virtud de la cual la molécula desaparecía en seguida de la sangre.
+La compañía encontró entonces la manera de añadir dos glúcidos adicionales a los habituales en la eritropoyetina.
+La nueva versión, comercializada con el nombre de Aranesp, permanece en la sangre mucho más tiempo que el fármaco primitivo, por lo que requiere una dosificación menos frecuente.
+
+Además de mejorar fármacos ya existentes, importa ahondar en los hidratos de carbono que permitan introducir terapias innovadoras en múltiples patologías.
+En unos casos, tales fármacos podrían consistir en glúcidos o glucoconjugados; en otros, podrían ser moléculas que influyan sobre las interacciones entre hidratos de carbono y otras moléculas, incluidas las interacciones con enzimas (catalizadores biológicos) que controlan la síntesis o degradación de las moléculas que portan azúcares.
+
+Contra las infecciones
+
+Entre otros ámbitos de interés, la investigación centra su atención en las enfermedades infecciosas, dominio en el que los fármacos glucídicos han cosechado ya un éxito extraordinario.
+Sírvanos de botón de muestra la vacuna dirigida contra el Hemophilus influenzae del tipo b (Hib).
+Su administración ha librado a muchos de la meningitis, letal a menudo, causada por el Hib.
+Al presentar un glúcido de la bacteria ante el sistema inmunitario, la vacuna actúa como cebador de éste para que destruya de inmediato al microorganismo en cuanto penetre en el cuerpo.
+Una primera versión que tenía sólo una cadena de hidrato de carbono del Hib resultó ineficaz.
+Pero desde finales de los años ochenta contamos ya con preparaciones de glucoconjugados, sumamente eficaces, en las que el azúcar está unido a una proteína que activa la respuesta inmunitaria.
+Hay en estudio otras vacunas con glucoconjugados para enfermedades infecciosas, incluida la que debe proteger contra infecciones de Staphylococcus aureus en pacientes hospitalizados.
+
+Diversos organismos patógenos se sirven de hidratos de carbono para reconocer e interaccionar con sus células huésped.
+Algunos fármacos existentes y otros en elaboración contienen glúcidos o moléculas que remedan a aquéllos con el fin de bloquear dicho contacto. 
+El virus de la gripe, por ejemplo, penetra en las células que infecta, después de unirse con el ácido siálico que sobresale de las glucoproteínas en la superficie celular. 
+La unión a ese azúcar abre las "puertas" celulares, dejando que el virus penetre y se replique en el interior de la célula.
+Cuando los virus recién formados emergen entonces de la célula, pueden quedar atrapados por el mismo azúcar y han de desplegar la enzima neuraminidasa para que corte el enlace con el azúcar y queden liberados. 
+Dos fármacos, comercializados con los nombres de Tamiflu y Relenza, acortan la duración de la gripe al unirse fuertemente al centro activo de la enzima, evitando así su acción sobre el ácido siálico. 
+Neutralizada la neuraminidasa, no le será fácil al virus propagarse e infectar a otras células.
+
+En el caso del virus de la gripe, el fármaco inutiliza al glúcido genuino.
+Accede así a la enzima e inhibe su actividad, en un proceso de inhibición competitiva. 
+La aplicación de ese mecanismo empleando análogos sintéticos de los glúcidos problemáticos podría revestir interés en la lucha contra otras enfermedades infecciosas.
+Así, en el caso de Helicobacter pylori , bacteria que produce úlceras de estómago e inflamación; se instala ésta en el organismo al unirse a un glúcido de la superficie de las células que tapizan el estómago.
+O en el de Shigella disenteryae , bacteria responsable de epidemias de diarrea mortales, que sintetiza una toxina que se une a un glúcido de las células intestinales.
+Moléculas imitadoras de azúcares, que actúan de señuelos, al unirse a H. pylori o a la toxina de S. disenteryae , y evitan con ello su anclaje celular, constituyen ya una promesa en las pruebas de laboratorio.
+
+Suele seguirse una estrategia similar en la lucha contra el choque séptico (una afección de la circulación a menudo fatal), causado por una bacteria gram negativa. (Las bacterias se denominan "gram positivas" o "gram negativas" según su reacción ante un colorante determinado).
+Se produce el choque séptico cuando las bacterias mueren -a raíz de un tratamiento con antibióticos- y liberan un glucolípido, el lípido A, en el torrente sanguíneo desencadenando una respuesta inflamatoria catastrófica.
+La administración de un análogo del lípido A, que no inste una drástica respuesta inmunitaria, podría reducir o eliminar el choque al actuar de cebo y mantener las células del sistema inmunitario alejadas del lípido A genuino del organismo.
+Esos sucedáneos podrían limitar también la replicación bacteriana y la producción de lípido A. Casi todas las enfermedades infecciosas están producidas por virus, bacterias, hongos o parásitos.
+Sin embargo, algunas afecciones cerebrales, pensemos en la enfermedad de Creutzfeldt-Jakob, podrían deberse a priones, proteínas mal plegadas. 
+De acuerdo con las investigaciones de John Collinge, del Hospital St.
+Mary de Londres, la resistencia peligrosa que oponen los priones cabría atribuirla a una glucosilación inadecuada de las proteínas, que se tornan así protegidas contra la degradación enzimática fisiológica. 
+
+Restauración del equilibrio 
+
+Los fármacos basados en hidratos de carbono podrían tener también un papel en la lucha contra una serie de enfermedades no infecciosas.
+Nos referimos, en particular, a las afecciones marcadas por un exceso de inflamación. 
+Ante una herida o infección, las células endoteliales que tapizan los vasos sanguíneos comienzan a desplegar una batería de selectinas, proteínas que se unen a hidratos de carbono.
+Las selectinas de las células endoteliales se enlazan débilmente a sialil Lewisx (hidratos de carbono específicos) en la superficie de los leucocitos circulantes del sistema inmunitario.
+Como una pelota de tenis que rueda sobre una cinta de velcro, los leucocitos tropiezan en la pared del vaso y se frenan lo suficiente para emigrar fuera de la pared hacia el tejido lesionado, donde se instalan para contener la amenaza.
+Esa respuesta, importante para la defensa de la salud, puede convertirse en causa de enfermedad, si llega a hacerse crónica o peca de desproporcionada.
+Las sustancias que impiden el contacto entre sialil Lewis x y selectinas se hallan hoy en fase de desarrollo para su aplicación como fármacos antiinflamatorios potenciales.
+
+La investigación explora también estrategias glucídicas para combatir el cáncer.
+Sabido es que las células malignas despliegan a menudo hidratos de carbono incompletos o anormales en su superficie.
+Se pretende, en consecuencia, incorporar esos azúcares en vacunas que induzcan al sistema inmunitario a reconocer y destruir las células cancerosas que lleven tales glúcidos. 
+
+A este respecto, el grupo de Sasisekharan, del MIT, demostró recientemente en el ratón que los heparansulfatos, azúcares que se encuentran en las células normales y malignas, pueden potenciar o limitar el crecimiento canceroso; depende que ocurra lo uno o lo otro de la forma en que dichos glúcidos se degraden o eliminen por las enzimas celulares.
+Este descubrimiento ha llevado a sugerir un tratamiento del cáncer mediante la administración de fragmentos del azúcar frenadores del crecimiento o mediante la administración de alguna sustancia que hiciese que las propias células cancerosas produjeran una cantidad más saludable del fragmento deseable.
+
+De la letalidad del cáncer es culpable la formación de metástasis.
+Se da ese fenómeno cuando las células malignas se desprenden del tumor y horadan el tejido conjuntivo para adentrarse en el torrente sanguíneo. 
+A través de la sangre (o la linfa) viajan hasta tejidos alejados, donde abandonan la circulación y establecen nuevos tumores.
+Una de las moléculas que parecen estar vinculadas con ese curso es una proteína enlazada a un hidrato de carbono.
+La galectina-3, así se llama la proteína, fomenta además las metástasis con su participación en la angiogénesis (formación de nuevos vasos sanguíneos): ayuda a las células tumorales a resistir las señales de autodestrucción. 
+Para bloquear tales efectos dañinos, los laboratorios Glyco-Genesys están realizando pruebas clínicas con un hidrato de carbono derivado de la pectina del cidro que se une a la galectina-3.
+
+Para formar glucoconjugados las células siguen una serie de pasos, durante los cuales diversas enzimas añaden o eliminan grupos de glúcidos.
+Intervienen luego ciertas enzimas situadas en el interior de lisosomas, compartimentos rodeados por membranas, que degradan los glucolípidos y las glucoproteínas inservibles.
+En las enfermedades de Gaucher y Tay-Sachs acontece que la enzima lisosómica involucrada es defectuosa, con la consiguiente acumulación destructiva de glucolípidos en el organismo.
+La enfermedad de Gaucher puede frenarse en la actualidad por la administración de la enzima normal, una vez modificada de suerte tal que despliegue un hidrato de carbono que la encamine hacia el tipo celular específico.
+En concreto, la molécula de manosa dirige la enzima que degrada glucolípidos hacia los macrófagos, que son especialmente sensibles a la pérdida de la enzima.
+
+La terapia enzimática tiene que administrarse por vía intravenosa.
+Por tratarse de proteínas, las enzimas se degradarían en el tracto digestivo si se administrasen por vía oral.
+Más aún, las enzimas no atraviesan la barrera hematoencefálica y, por tanto, no pueden combatir las lesiones de las células nerviosas del cerebro.
+La investigación se centra, pues, en limitar la síntesis de glucolípidos mediante la reducción de la cantidad producida en primer lugar; en particular, a través de la administración de compuestos pequeños, así sucedáneos glucídicos, que estén capacitados para inhibir las enzimas implicadas en la síntesis de glucolípidos.
+Uno de estos fármacos, desarrollado por Oxford Glyco Sciences, se administraría por vía oral.
+Se ha comprobado la eficacia del mismo en las pruebas con humanos.
+
+De la investigación glucómica cabría incluso esperar que aporte las bases para posibles trasplantes de órganos de cerdo a los humanos.
+Entre los obstáculos que se interponen en el camino de los xenotrasplantes destaca uno:
+el tejido del cerdo presenta un hidrato de carbono que no se encuentra en los tejidos humanos.
+Su introducción despertaría una reacción rápida de destrucción del injerto por el sistema inmunitario del receptor.
+Este impedimento podría superarse tal vez mediante la administración de sucedáneos de azúcares que sirvieran de señuelo o mediante la manipulación genética de cerdos, para que sus enzimas no promuevan el glúcido indebido. 
+
+El desarrollo de fármacos glucídicos ha de hacer frente a graves dificultades, en especial cuando se trata de preparados que comprenden hidratos de carbono genuinos.
+El sistema digestivo considera alimentos a los azúcares, por lo que tendrían que empaquetarse para evitar su degradación, o inyectarse.
+En la sangre, las enzimas podrían degradarlos también.
+Además, puesto que los hidratos de carbono operan mediante su unión lábil a muchos sitios y no por enlaces vigorosos a unos pocos, habría que administrarlos en grandes cantidades.
+Con todo, ninguno de estos obstáculos parece insuperable.

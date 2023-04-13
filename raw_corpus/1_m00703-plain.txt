@@ -1,0 +1,184 @@
+
+El código de la vida, descifrado
+
+En el desentrañamiento del genoma de diversas especies hallaremos respuesta a algunas de las cuestiones más apasionantes sobre la vida.
+
+Cuando, en el futuro, los historiadores vuelvan su mirada hacia el cambio de milenio que estamos atravesando, reconocerán que el principal avance científico de esa etapa fue la caracterización minuciosa de las instrucciones genéticas que conforman nuestro ser.
+De los éxitos del Proyecto Genoma Humano -que se propone cartografiar y descifrar letra a letra el código encriptado de la vida, el ADN- sacarán partido todas las ramas de la biología.
+El descubrimiento de la secuencia completa del ADN de un número creciente de especies, hombre incluido, traerá las respuestas que se plantean sobre la evolución de los organismos, la síntesis in vitro de la vida, la terapia de múltiples patologías y otras cuestiones de parejo tenor.
+
+En el marco del Proyecto Genoma Humano se están recabando datos biológicos en cuantía hasta ahora desconocida.
+El mero listado de bases, o unidades de ADN que constituyen el genoma humano, llenaría más de 200 gruesos directorios telefónicos; y eso sin determinar qué es lo que opera cada una de dichas secuencias de ADN. 
+Dentro de unos meses deberíamos tener entre las manos un borrador de trabajo del 90 por ciento de la secuencia completa del ADN humano.
+La secuencia entera se coronará en el año 2003.
+Con ello dispondremos ya del esqueleto. 
+Necesitaremos muchas capas de anotaciones para revestirlo de su significado cabal.
+De la comprensión de las proteínas codificadas por los genes habrá de llegarnos el pleno sentido de tamaña investigación.
+
+Las proteínas no sólo constituyen el armazón estructural del organismo;
+entre ellas encontramos también las enzimas que catalizan las reacciones bioquímicas de la vida.
+Se componen de unidades, que son los aminoácidos, enlazados en largas cadenas.
+Cada cadena se pliega de manera precisa para determinar así la función de la proteína.
+El orden de los aminoácidos viene dictado por la secuencia de las bases del ADN, que determina una proteína, a través del ARN intermediario.
+De los genes que forman activamente ARN se dice que se "expresan". 
+
+El Proyecto Genoma Humano busca identificar todas las proteínas que se sintetizan en el hombre.
+Se propone, además, avanzar en varios frentes de comprensión: el mecanismo en cuya virtud se expresan los genes que cifran las proteínas, el empaquetamiento de las secuencias de tales genes en función de genes equiparables de otras especies, la variabilidad génica en el seno de nuestra especie y la traducción de las secuencias de ADN en caracteres observables.
+Las capas de información superpuestas sobre la secuencia de ADN revelarán el conocimiento encerrado en ésta.
+A lomos de esos datos cabalgará la investigación biológica de los próximos cien años.
+En una suerte de círculo "virtuoso", cuanto más aprendamos, tanto más podremos extrapolar, emitir nuevas hipótesis y profundizar.
+
+Pensamos que, para el año 2050, la genómica contará con los recursos precisos para contestar las siguientes cuestiones:
+
+¿Se podrá predecir la estructura tridimensional de las proteínas a partir de su secuencia de aminoácidos?
+
+Los 6000 millones de bases del genoma humano determinan unas 100.000 proteínas.
+Aunque podemos conocer la secuencia de aminoácidos de una proteína, a partir de la secuencia del ADN de un gen, no está todavía a nuestro alcance pergeñar la forma de la proteína valiéndonos de reglas teóricas.
+Y determinar experimentalmente las estructuras resulta bastante laborioso. 
+Ahora bien, la estructura de una proteína se conserva, esto es, persiste relativamente constante a través de la evolución, mucho más que la secuencia de sus aminoácidos.
+Secuencias que difieren en su serie de aminoácidos componentes pueden dar proteínas con morfología similar;
+por eso mismo, podemos inferir las estructuras de proteínas diversas al estudiar pormenorizadamente un subgrupo de proteínas.
+
+Hace poco, un grupo internacional de biólogos ha acometido la llamada "Iniciativa de Estructura de Proteínas" con el fin de coordinar sus trabajos estructuralistas.
+Estos expertos "resuelven" las formas de las proteínas por un doble camino: creando cristales muy puros de una proteína en cuestión y bombardeándolos luego con rayos X, o bien sometiendo la proteína de marras a un análisis de resonancia magnética nuclear (RMN).
+Ambas técnicas, tediosas, resultan muy caras.
+Busca ese consorcio internacional extraer la máxima información de cada nueva estructura aprovechando el conocimiento recabado de estructuras emparentadas, para agrupar así las proteínas en familias que verosímilmente compartan los mismos rasgos arquitectónicos. 
+En una etapa ulterior, habrán de examinar representantes de cada familia con técnicas físicas.
+
+Conforme va creciendo el catálogo de estructuras resueltas y se van perfilando esquemas más refinados que agrupen las estructuras en un compendio de formas básicas, los bioquímicos depuran progresivamente sus programas de ordenador para obtener el modelo de las estructuras de proteínas recién descubiertas o incluso inventadas.
+Los biólogos estructurales aventuran que habrá unos 1000 motivos básicos en el plegado de las proteínas.
+A tenor de los modelos actuales, bastará resolver de 3000 a 5000 estructuras seleccionadas, amén de las ya conocidas, para deducir en adelante de forma rutinaria las estructuras de nuevas proteínas. 
+Puesto que los biólogos moleculares resuelven más de 1000 estructuras de proteínas cada año y, habida cuenta de la aceleración del progreso, cabe presumir que se completará el inventario no mucho después de la secuenciación absoluta del genoma humano.
+
+¿Se producirán in vitro formas de vida?
+
+Acabamos de ver que los biólogos estructurales se afanan en agrupar las proteínas en distintas categorías para así resolver las estructuras de una manera eficiente. 
+Pues bien, esa proclividad de las proteínas a someterse a clasificación refleja un claro significado biológico.
+Testimonia el decurso evolutivo en la Tierra y nos lleva de la mano hacia las cuestiones centrales del fenómeno de la vida.
+¿Hay un grupo de proteínas compartido por todos los organismos?
+¿Cuáles son los procesos bioquímicos necesarios para que exista vida?
+
+Con unos cuantos genomas ya secuenciados -del mundo bacteriano sobre todo-, se han abordado los primeros inventarios de genes conservados en esos organismos, puesta la mente en la pregunta crucial de qué es lo que constituye la vida, al menos en el ámbito unicelular.
+
+Si dentro de unos años se lograra listar un elenco de productos génicos -ARN y proteínas- necesarios para la vida, tal vez pudiera construirse un ADN concatenando bases hasta obtener un genoma de nuevo cuño, que cifre productos inéditos.
+Y si ese genoma inventado sirve para asentar una célula nueva en torno a él, y si esa célula tiene virtualidad replicativa, el ejercicio demostraría que se habían descifrado los mecanismos fundamentales de la vida.
+Un experimento de ese tipo plantearía cuestiones éticas, teológicas y de seguridad que no pueden dejarse de lado.
+
+¿Lograremos construir un modelo informático de célula que contenga todos los componentes, identifique todas las interacciones bioquímicas y prevea con fundamento las consecuencias de cualquier estímulo ejercido sobre esa célula?
+
+En los últimos 50 años transcurridos, un gen o una proteína absorbía la carrera investigadora de un biólogo.
+En el medio siglo próximo, los investigadores pasarán a estudiar las funciones integradas de muchos genes, la red de interacciones entre vías génicas y la influencia de estímulos externos en el sistema.
+
+Cierto es que, desde hace bastante tiempo, los biólogos se han esforzado en describir los mecanismos de interacción mutua entre componentes celulares;
+por ejemplo, la unión de los factores de transcripción a zonas precisas del ADN para controlar la expresión de un gen o el engarce entre la insulina y su receptor en la superficie de una célula muscular, con el desencadenamiento consiguiente de una cascada de reacciones dentro de la célula que multiplica el número de transportadores de glucosa en su membrana.
+Pero el Proyecto Genoma extenderá análisis semejantes a millares de genes y componentes celulares.
+En los cincuenta años próximos, con todos los genes identificados y todas las interacciones y reacciones celulares cartografiadas, los farmacólogos al desarrollar una nueva medicina o los toxicólogos al predecir si una sustancia es venenosa podrán dirigir su atención a los modelos informáticos de las células para encontrar la respuesta que demanda su búsqueda.
+
+¿Se conocerán en todo su pormenor los mecanismos en cuya virtud los genes determinan el desarrollo de los mamíferos?
+
+La construcción de un modelo celular será un hito.
+Mas para comprender plenamente las formas vivas que nos son familiares tendremos que considerar niveles adicionales de complejidad.
+Habrá que examinar el comportamiento, en tiempo y lugar, de los genes y sus productos;
+es decir, aclarar su conducta en una u otra región del organismo y en un cuerpo que además cambia a lo largo de su vida. 
+Los biólogos del desarrollo comienzan a seguir la pista de conjuntos de productos génicos que varían durante el desarrollo de los tejidos, con el fin de acotar los productos que definen las etapas del desarrollo.
+Empiezan a pergeñar matrices de expresión, así se llaman, que inspeccionan miles de productos génicos a la vez, cartografiando cuáles se activan, cuáles se desactivan y cuáles presentan una expresión de intensidad fluctuante.
+Merced a ese tipo de técnicas salen a la luz muchos genes idóneos para dirigir el desarrollo y establecer el diseño del organismo animal.
+
+Lo mismo que antaño, la mosca Drosophila , el nemátodo Caenorhabditis elegans y el ratón seguirán siendo los prototipos animales en investigación de biología del desarrollo.
+Con la secuencia del C. elegans ya terminada, la de la Drosophila a punto de culminarse, la secuencia humana que estará completa para el año 2003 y la del ratón dentro de cuatro o cinco años, las comparaciones entre secuencias se multiplicarán y ofrecerán claves sobre dónde buscar las fuerzas motrices de la configuración del organismo. 
+Con el abaratamiento de los costes, se irán sucediendo las secuenciaciones de genomas representativos de las diversas ramas del árbol evolutivo.
+
+Hasta ahora el énfasis se ha puesto en la búsqueda de señales de interés universal en el diseño del plan corporal, la disposición de miembros y órganos. 
+Con el tiempo se estudiarán las variaciones -de secuencia génica y tal vez de regulación de genes- que dan cuenta de la diversidad de formas que reina entre especies diferentes.
+Mediante la comparación de especies descubriremos las modificaciones sufridas en los circuitos genéticos que les indujeron a ejecutar distintos programas, de suerte tal que, con redes de genes casi equivalentes, se moldeen las patas peludas del ratón y los brazos del hombre.
+
+¿Nos permitirá el conocimiento del genoma humano transformar la práctica médica en punto a prevención, diagnóstico y terapia?
+
+La biología molecular ha venido auspiciando la transformación de la medicina desde un empirismo aleatorio hasta un método inquisitivo racional, basado en la comprensión fundamental de los mecanismos de la vida.
+Su progreso repercute ya en la praxis médica.
+La genómica intensificará esa tendencia.
+De aquí a cincuenta años es de esperar que conozcamos las bases moleculares de las enfermedades, podamos prevenirlas en muchos casos y contemos con los medios para prescribir tratamientos precisos e individualizados.
+
+En el próximo decenio, las pruebas genéticas revelarán la tendencia o exposición a una enfermedad. 
+Entre otras misiones, compete al Proyecto Genoma Humano identificar variaciones genéticas comunes.
+Una vez confeccionada la lista, la epidemiología establecerá la correlación entre variaciones y riesgo de contraer una enfermedad.
+Cuando conozcamos el genoma en su integridad, se nos revelará el papel de los genes que, si bien por sí mismos contribuyen sólo débilmente a las enfermedades, al interaccionar con otros genes y ciertos factores ambientales (dieta, infecciones y exposición prenatal), afectan a la salud.
+Del año 2010 al 2020 la terapia génica deberá haberse implantado ya como un tratamiento habitual, al menos para un cuadro restringido de condiciones.
+
+De aquí a 20 años habrán aparecido fármacos nuevos, fruto del avance en el conocimiento molecular de enfermedades comunes, como la diabetes o la hipertensión.
+Los fármacos, de notable potencia, se dirigirán hacia determinadas moléculas y carecerán de efectos secundarios.
+Las medicinas anticancerosas, por señalar un ejemplo, se ajustarán a la respuesta que dé el paciente, prevista de acuerdo con el examen de sus "huellas digitales" de ADN.
+Se afinará en el diagnóstico de muchas afecciones;
+así, el paciente informado de una concentración excesiva de colesterol, sabrá también qué genes son los responsables, qué efectos acarrea esa demasía y qué dieta y medios farmacológicos le son recomendables.
+
+Hacia el año 2050 muchas enfermedades potenciales se curarán en el ámbito molecular antes de que se manifiesten.
+Mas, por culpa de las desigualdades mundiales en el acceso a esos avances, se seguirán levantando tensiones. 
+Ante un enfermo, la terapia génicas y la farmacológica se centrarán en el gen responsable, lo que habrá de permitir un tratamiento preciso, personalizado.
+La vida media llegará a los 90 o 95 años;
+y su ocaso se retrasará con el conocimiento profundo de los genes del envejecimiento.
+
+¿Reconstruiremos la historia de las poblaciones humanas?
+
+Pese a la diversidad manifestada en el seno de nuestra especie, a lo largo de los últimos diez años se ha demostrado que la especie humana es más homogénea que otras muchas.
+Presenta, sin ir más lejos, una variabilidad menor que los chimpancés.
+En los humanos suelen darse en todos los grupos de población las mismas variaciones genéticas.
+A las diferencias entre grupos sólo podemos atribuirles una pequeña fracción de la variación total: entre un 10 y un 15 por ciento. 
+De esa comprobación algunos biólogos de poblaciones extraen la conclusión según la cual la especie humana constaba, no hace mucho, de un grupo restringido, quizá no superior a los 10.000 individuos;
+la dispersión de las poblaciones por la Tierra sería un fenómeno reciente.
+La mayoría de las variaciones genéticas acontecerían antes de ese momento.
+
+Armados con las técnicas analíticas del ADN, los genéticos de estos últimos 20 años han abordado, con claridad inédita, cuestiones del máximo interés antropológico.
+Las migraciones, los cuellos de botella y las expansiones de población alteran las frecuencias de genes y dejan así un registro detallado y completo de los avatares de la historia del hombre. 
+De acuerdo con los datos genéticos, el hombre moderno apareció hará sólo unos 100.000 o 200.000 años, en Africa;
+desde allí se dispersó poco a poco por el resto del mundo.
+Los antropólogos se han servido del ADN para someter a prueba tradiciones culturales acerca del origen de los gitanos o los judíos, para seguir la pista de la migración del hombre hacia las islas del sur del Pacífico y América, y para esbozar una idea de conjunto sobre la difusión de las poblaciones en Europa, entre otros ejemplos.
+Conforme resulte más fácil la acumulación de secuencias de ADN, se descubrirán con mayor nitidez las relaciones entre grupos de poblaciones, los episodios de mezcla y los períodos de separación y migración.
+Se verá que los conceptos de raza y etnia son meros constructos sociales y culturales, carentes del menor respaldo biológico.
+
+En el ecuador del siglo XXI conoceremos mejor las poblaciones humanas.
+Pero, ¿cuánto más podremos saber?
+A lo largo de su historia, los hombres se han cruzado con el abandono suficiente para que ningún árbol familiar encierre la explicación cabal de su pasado.
+La historia de las poblaciones no emergerá de un árbol, sino de una suerte de enrejado con cruces frecuentes de líneas y mezcla tras intervalos de separación.
+Veremos también, dentro de 50 años, cuánta ambigüedad queda todavía en la reconstrucción de nuestro ayer. 
+
+¿Podremos reconstruir las etapas principales de la evolución de la vida sobre la Tierra?
+
+Desde los años sesenta la taxonomía ha contado, entre sus útiles indispensables, las secuencias moleculares. 
+En buena medida, las secuencias de ADN cifran 3500 millones de años de evolución:
+distribuyen los seres vivos en tres dominios -Archaea (unicelulares de origen remotísimo), Bacteria y Eukarya (organismos cuyas células poseen un núcleo)- y revelan los patrones de ramificación de múltiples reinos y divisiones.
+Por culpa de cierto aspecto de la herencia se aleja la esperanza de asignar todos los seres vivos a ramas de un mismo árbol.
+En numerosas ocasiones, según qué genes miremos trenzaremos una historia familiar u otra para los mismos organismos. 
+Ello se debe a que el ADN no se hereda siempre de una manera rectilínea, de padres a hijos, con una mayor o menor cadencia temporal de mutaciones.
+A veces los genes saltan a través de grandes hiatos evolutivos.
+Lo vemos en mitocondrias y cloroplastos, orgánulos de animales y plantas encargados del suministro de energía.
+Mitocondrias y cloroplastos albergan su propio material genético y descienden de bacterias engullidas enteras por células eucarióticas.
+
+Semejante estrategia de "transferencia lateral de genes" parece haber sido un fenómeno bastante común en la historia de la vida.
+Por tanto, cuando comparemos genes de distintas especies no obtendremos siempre un dendrograma único y universal.
+Igual que acontecía con los linajes humanos, para explicar la historia de la vida se ajusta mejor la imagen de un enrejado, en el que líneas separadas divergen y se unen de nuevo, que la representación de un árbol en el que las ramas nunca vuelven a trabarse.
+
+Así que pasen 50 años se habrán rellenado muchos huecos de la historia de la vida, aunque quizá sigamos ignorando cómo surgieron exactamente los primeros organismos que se autorreplicaban.
+Sí sabremos cuándo y cómo surgieron diversas líneas, se adoptaron o se adaptaron genes para adquirir grupos nuevos de reacciones bioquímicas o diferentes planes corporales. 
+La perspectiva genética habrá permeado de tal modo la biología, que la unidad básica habrá dejado de ser el organismo o la especie para cederle ese estatuto al gen.
+Se cartografiarán las rutas recorridas juntas por varios genes, su tiempo de coincidencia y en qué genomas.
+Y se planteará, una vez más, la cuestión que inquieta a la gente desde Charles Darwin: 
+¿Qué es lo que nos hace humanos?
+¿Qué es lo exclusivo de nuestra especie?
+
+Surgirán otras preguntas.
+Como en cualquier campo fecundo del saber, los resultados abrirán nuevos interrogantes.
+Paradójicamente, conforme adquiera mayor importancia, la genómica podría perder sus propios perfiles, al irradiar otras áreas y terminar absorbida en la infraestructura de todas las disciplinas biomédicas. 
+
+¿Cómo responderán los individuos, familias y sociedad a esta explosión de conocimientos sobre nuestro legado genético?
+
+A diferencia de las cuestiones precedentes, de carácter científico, técnico y médico, esta pregunta de corte social no parece admitir una respuesta tajante.
+La información y la técnica genética aportarán grandes posibilidades de mejora de la salud y remedio del dolor. 
+Pero no hay técnica eficaz sin riesgos;
+cuanto más drástica la técnica, mayores serán también los riesgos.
+Con perversa voluntad algunos se escudan hoy en supuestos argumentos genéticos para justificar su racismo abierto o solapado.
+De la información extraída de análisis del ADN cada vez más extendidos se han servido empresas de seguros y jefes de personal para negar el acceso a mutuas médicas o a un puesto de trabajo.
+
+¿Se aquietarán los movimientos contrarios al progreso técnico ante los descubrimientos de la genética? 
+Quizá sea negativa la respuesta que tengamos que dar.
+La tensión entre los avances científicos y el deseo profundo de un estilo de vida "natural" se intensificará a buen seguro, conforme la genómica vaya penetrando en nuestra vida diaria.
+Habrá que esforzarse por lograr un equilibrio saludable y asumir la responsabilidad de que el progreso que trae la genómica no se ponga al servicio de fines torvos.

@@ -1,0 +1,177 @@
+
+Combustibles alternativos para automóviles: 
+
+El potencial y las implicaciones del hidrógeno 
+
+Asunto: 
+
+Las cuestiones principales planteadas por los combustibles para automóviles incluyen los efectos de las emisiones sobre la salud y el medio ambiente, y, a la larga el aprovisionamiento seguro de energía.
+El hidrógeno, como combustible alternativo para automóviles, presenta unas características particulares que deben examinarse con cuidado a fin de evaluar su potencial y sus implicaciones.
+
+Avances recientes dentro de los programas de demostración de la tecnología del transporte han despertado un nuevo interés en el hidrógeno, seguido en Japón y EE. UU. de medidas políticas significativas.
+
+Relevancia: 
+
+Se prevé una evolución rápida del mercado de combustibles alternativos para automóviles a medida que vayan superando las etapas de investigación, prueba y demostración.
+Esto tiene implicaciones importantes para la industria automovilística y actividades afines, suponiendo que se superan los obstáculos principales, o sea, el precio, la infraestructura de abastecimiento, cuestiones relacionadas con la seguridad y el almacenamiento de a bordo, y la aceptación pública.
+Dado el nuevo interés y los prometedores desarrollos técnicos, se hace cada vez más importante la armonización de las políticas y normativas europeas.
+
+Introducción 
+
+Se afirma que el hidrógeno es uno de los combustibles de transporte más limpios.
+
+No hay actualmente ningún combustible alternativo en el mercado global que minimice los efectos negativos de, ni compita con, los combustibles fósiles convencionales, o sea, la gasolina y el diesel.
+No hay combustible que reúna todas las condiciones en cuanto al contenido energético, las emisiones locales/globales, el coste, la aceptación pública, la seguridad, la sostenibilidad del suministro, y la madurez de las tecnologías y la infraestructura para la producción, el transporte y la distribución del combustible.
+
+Se afirma que el hidrógeno (H2) es un combustible apto para las aplicaciones de transporte, y uno de los más limpios.
+El hidrógeno presenta ventajas desde el punto de vista del medio ambiente y de la seguridad energética, pero padece unos inconvenientes graves, especialmente en las aplicaciones automovilísticas, sometidas a requisitos m s estrictos en cuanto a la seguridad y el almacenamiento de a bordo.
+
+Aspectos del hidrógeno específicos de los automóviles 
+
+Se puede usar el hidrógeno para alimentar motores de combustión interna (MCI) ligeramente modificados o para alimentar pilas de combustible generadoras de electricidad para los vehículos eléctricos (VE).
+También puede mezclarse con el gas natural (15-30% H2) para propulsar los MCI (Pohl, 1995).
+Las cuestiones principales, específicas a los automóviles, tienen que ver con el almacenamiento de a bordo y con la seguridad, siendo ésta quizás el aspecto de mayor sensitividad.
+
+Hace muchos años que se emplea el hidrógeno, como materia prima en muchas aplicaciones industriales y en los programas espaciales como propulsante para cohetes, y tiene un buen historial de seguridad.
+Se ha probado su uso como combustible para automóviles durante las dos últimas décadas sin mayores problemas de seguridad, pero a escala muy reducida, por lo cual la seguridad en conjunto del hidrógeno para la propulsión de vehículos a escala más amplia queda por demostrar.
+
+La seguridad es una cuestión primordial.
+
+De hecho, el hidrógeno tiene unas características particulares que hacen necesario un examen detenido.
+Algunas de sus propiedades físicas lo hacen más peligroso que otros combustibles al liberarse en zonas cerradas o mal ventiladas.
+Por otro lado, el hidrógeno es atóxico y puede ser menos peligroso que otros combustibles cuando se dispone de ventilación apropiada (véase el Cuadro 1).
+Por lo tanto, el diseño de los sistemas de hidrógeno para automóviles debería resaltar la prevención, la detección y la mitigación de las fugas y la evitación de espacios restringidos.
+
+cuadro 1. Aspectos relacionados con la seguridad del hidrógeno como combustible para vehículos 
+
+El hidrógeno brinda la perspectiva de emisiones exentas de contaminantes.
+
+La ventaja principal del hidrógeno es, con mucha diferencia, su baja o incluso nula, emisión de contaminantes.
+De hecho, los MCI propulsados por hidrógeno sólo producen agua y algunos óxidos de nitrógeno, los cuales pueden eliminarse mediante una combustión más afinada (más algún hidrocarburo incombusto del aceite de lubrificación).
+Lo que es más significativo es que su empleo en las pilas de combustibles no produce ninguna emisión nociva.
+Sin embargo, en términos del problema de las emisiones globales relacionadas con los gases invernaderos (principalmente CO2), el impacto del hidrógeno depende en buena medida de la manera en que se produzca, y más generalmente del ciclo de energía completo.
+
+Nuevas posibilidades para el almacenamiento de a bordo con la investigación de materiales avanzados.
+
+En cuanto a sus características energéticas, el contenido energético por kilogramo del hidrógeno triplica prácticamente el de la gasolina, pero su contenido energético por litro sólo es la cuarta parte (aunque es importante incluir las características del recipiente, véase el Cuadro 1).
+En teoría el rendimiento del hidrógeno líquido es comparable con el de la gasolina, teniendo en cuenta la autonomía del vehículo, pero la densidad energética del combustible comprimido es notablemente inferior.
+Así, las características del sistema de almacenamiento energético de a bordo presentan un problema importante.
+Se están estudiando muchas opciones para tales sistemas, pero sigue siendo un gran reto técnico para la aplicación al automóvil (véase el Cuadro 2).
+De ahí la importancia de la investigación en esta área (p.ej. de los materiales avanzados, los nanomateriales, etc.).
+
+Cuadro 2. Tecnologías del almacenamiento de a bordo del hidrógeno 
+
+Los sistemas convencionales incluyen el almacenamiento comprimido, el almacenamiento líquido y los hidruros metálicos, todos los cuales, hasta cierto punto, padecen limitaciones impuestas por un exceso de peso o volumen, el tiempo de repostaje, el coste o la seguridad.
+Se están acometiendo estos problemas a través de la I+D, p.ej. mediante el uso de materiales ligeros avanzados.
+Sistemas, todavía en la etapa de investigación, que parecen prometedores son:
+
+La adsorción del carbono: El hidrógeno puede adsorberse en el carbono activado a temperaturas criogénicas (unos -115°C) y también dentro de la estructura carbonífera porosa bajo presión, formando así concentraciones similares a la del hidrógeno líquido.
+Este sistema podría combinar las ventajas del almacenamiento del hidrógeno comprimido y líquido.
+
+Otros sistemas de almacenamiento del hidrógeno: Investigación en curso sobre sistemas de almacenamiento del hidrógeno abarca los hidruros líquidos y un sistema hierro/agua.
+En ellos, el hidrógeno se asocia químicamente a otros compuestos y se libera en una reacción inversa.
+Aunque estos sistemas podrían presentar algunas ventajas, involucran unos procesos químicos complejos, todavía no muy bien comprendidos.
+
+La aquebradización. 
+
+Puede provocar la fragilización del metal e inducir una reducción de la resistencia a la rotura incluso cuando se almacena a bajas presiones.
+Por lo tanto es muy importante la selección de materiales aptos para el almacenamiento y el transporte.
+
+Ventilación. 
+
+Un aspecto crítico del almacenamiento y la manipulación del hidrógeno.
+Las medidas de seguridad deben prever líneas de suministro limpias, la evitación de fuentes de ignición próximas y la eliminación de posibles espacios cerrados, y todos los materiales empleados deben ser compatibles con el hidrógeno.
+
+Repostaje. 
+
+La hermeticidad del sistema debe impedir el ingreso de aire en las líneas de relleno y los recipientes, y prevenir cualquier pérdida importante de combustible.
+Deben implantarse unas medidas rigurosas de seguridad intrínsica y funciones interbloqueadas.
+
+Protección contra choques. 
+
+El depósito y las líneas de combustible deben situarse con cuidado y protegerse contra los choques.
+
+Además, en caso de fugas, debe evitarse una acumulación localizada de hidrógeno.
+
+El hidrógeno tiene ventajas sobre muchas tecnologías convencionales en términos de su eficiencia global.
+
+La comparación del hidrógeno con otros combustibles también debería abarcar la eficiencia de la conversión energética por todo el ciclo.
+
+En cuanto a su uso en los motores convencionales de encendido por chispa, los resultados publicados apuntan a que los motores de hidrógeno podrían ser un 15-25% más eficaces que los de gasolina.
+Además, las pilas de combustible, caracterizadas por una eficiencia muy superior al motor convencional, podrían elevar la conversión del hidrógeno a un 20-30% (SAE, 1994).
+
+Otra comparación interesante es con el gas natural (GN), competidor del hidrógeno, y, en la actualidad, principal materia prima para la producción de hidrógeno.
+En el uso del hidrógeno líquido, procedente del GN en las pilas de combustible, se ha constatado una ligera ventaja en eficiencia frente al uso directo del GN.
+
+Por contraste, en los MCI el uso del hidrógeno líquido es menos eficiente que el uso directo del GN.
+
+En comparación con los sistemas de almacenamiento de energía eléctrica, el hidrógeno presenta ventajas considerables frente a las baterías electroquímicas, las cuales, por ahora y hasta un futuro previsible, limitan fuertemente la autonomía de vehículos eléctricos puros.
+
+Cuadro 1. Características comparativas del hidrógeno y otros combustibles (IEA 1, 1993) 
+
+El hidrógeno en un contexto más amplio 
+
+Los obstáculos a la difusión de las tecnologías del hidrógeno incluyen los elevados costes de producción .....
+
+El hidrógeno puede producirse a partir de casi cualquier fuente de energía.
+Se están investigando muchos métodos nuevos, con énfasis especial sobre los basados en las energías renovables (Cuadro 2).
+El factor principal son los elevados costes de producción, particularmente de las energías renovables, las cuales, hasta donde se pueda ver, también están limitadas por la capacidad de suministro.
+Actualmente el método más barato y más eficaz de producir el hidrógeno es a través de la reformación del gas natural.
+No obstante, el GN es un combustible vehicular más barato que el hidrógeno.
+
+... y la infraestructura de distribución y repostaje.
+
+En cuanto a la distribución, la baja demanda actual de hidrógeno sólo puede abastecerse mediante el costoso transporte en camión o tren.
+Para hacer frente a una demanda más amplia, se precisará la distribución por gasoducto.
+
+En principio esto no supone obstáculos técnicos mayores puesto que existe ya una tecnología similar, p.ej. el transporte de gas natural.
+No obstante, también aquí tiene que demostrarse la seguridad.
+El coste de la infraestructura requerida, tanto para el transporte como para la distribución, es asimismo un factor limitativo grande relativo a la implantación del mercado de hidrógeno.
+En este respecto el éxito de proyectos de demostración en curso sobre barcos, camiones y autobuses propulsados por H2 podría preparar el terreno para las aplicaciones automovilísticas.
+
+Por último, la aceptación pública del hidrógeno es una consideración importante.
+No cabe duda de que se precisarán programas de demostración largos y de gran alcance para conseguir una penetración sustancial del mercado.
+
+Perspectivas de los programas nacionales de hidrógeno 
+
+Hay un interés considerable a nivel nacional en la investigación del hidrógeno .....
+
+El hidrógeno se considera una solución prometedora a largo plazo para las aplicaciones de transporte.
+La prueba de ello es la envergadura de los programas nacionales de investigación en los principales países industrializados (Cuadro 2).
+La inversión global incluye financiación aportada por la industria y otras entidades locales o regionales (no mencionadas en el Cuadro 2), la cual en muchos países es sustancial.
+
+Durante los últimos años, se ha constatado un cambio de política, siendo las nuevas prioridades aplicaciones más prácticas y de más pronta realización (IEA 2, 1994).
+Esto puede explicarse como consecuencia de ciertas deficiencias de las energías renovables, de las cuales no cabe esperar, al menos por el momento, una aportación sustancial.
+No obstante, se prevé la continuación por todo el mundo del apoyo de las tecnologías del hidrógeno, e incluso un aumento en países tales como Japón y EE. UU. donde se discute la implantación de programas de envergadura.
+
+..... pero poca actividad a nivel europeo.
+
+En Europa, aunque los datos globales indican un nivel sustancial de actividad, los programas de hidrógeno están concentrados en unos cuantos países y carecen claramente de coordinación y cooperación.
+En particular, el hidrógeno no es objeto de ninguna acción específica bajo los programas de RTD de la CE, y la financiación del proyecto Euro-Quebec, el proyecto de hidrógeno más grande actual, ha sido interrumpido.
+Además, la falta de una normativa armonizada y una infraestructura integrada obstaculiza las actividades en este campo, así retrasando la clarificación de la opción del H2 para Europa.
+
+Cuadro 2. Programas nacionales de hidrógeno de algunos países de la IEA 
+
+Conclusión 
+
+El reconocimiento del hidrógeno como un elemento estratégico de la política energética reclama una mayor coordinación y cooperación a través de Europa.
+
+Las implicaciones del hidrógeno como combustible para automóviles son múltiples.
+El hidrógeno brinda unos beneficios medioambientales potencialmente grandes, y desempeñará un papel esencial si se consigue un nivel significativo de producción a partir de recursos nucleares o renovables.
+No obstante, en la actualidad y a plazo medio, la mayor parte de la producción probablemente provendrá de los combustibles fósiles, en cuyo caso habrá poco o ningún beneficio en términos de las emisiones globales y el aprovisionamiento seguro de energía.
+
+Podría surgir algún beneficio de las similaridades técnicas entre el hidrógeno y el gas natural, lo cual podría ser un incentivo para el desarrollo de tecnologías paralelas.
+Además, el éxito de los proyectos permanentes de demostración en otros medios de transporte podrían rendir beneficios incidentales para las aplicaciones automovilísticas.
+En este respecto, habrá de acometer, junto con el perfeccionamiento de las tecnologías de utilización, las cuestiones globales de la producción, el transporte y la distribución del hidrógeno.
+Y, a fin de conseguir la aceptación pública, hay cuestiones primordiales de seguridad y coste que habrán de resolverse.
+
+Por otra parte, en cuanto a las emisiones locales, el hidrógeno podría desempeñar un papel importante, pero quedan por resolver retos técnicos importantes relacionados con la seguridad y el almacenamiento de a bordo.
+En este contexto, se están realizando desarrollos técnicos importantes que podrían cambiar sustancialmente las perspectivas del hidrógeno.
+Además podría ser un rival importante de las baterías para la propulsión de los vehículos de cero (o casi cero) emisiones.
+
+De todas formas, es probable que el hidrógeno siga siendo un elemento estratégico de la política energética, como han demostrado programas de investigación por todo el mundo.
+En Europa, donde la tecnología del hidrógeno está en primer plano, parece haber una necesidad de reforzar la coordinación y la cooperación, especialmente en términos de las políticas de la UE, y de armonizar los reglamentos y normas.
+
+Frases clave 
+
+Combustibles alternativos, emisiones vehiculares, tecnología del hidrógeno, seguridad energética, motor de combustión interna, pilas de combustible, seguridad del hidrógeno, coste de producción del hidrógeno.

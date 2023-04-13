@@ -1,0 +1,305 @@
+
+Búsqueda de genes para el diseño de nuevas medicinas
+
+La identificación de genes humanos implicados en enfermedades permite a los investigadores producir proteínas potencialmente terapéuticas y acelerar el desarrollo de fármacos eficaces
+
+La mayoría de los lectores están familiarizados con la idea de que un gen es algo que transmite caracteres hereditarios de una generación a la siguiente.
+Lo que quizá no sepan es que la causa de la mayoría de las enfermedades, no sólo las hereditarias, se debe a un mal funcionamiento de los genes.
+En el cáncer, aterosclerosis, osteoporosis, artritis y enfermedad de Alzheimer, por ejemplo, se producen cambios específicos en las actividades de ciertos genes. 
+Las enfermedades infecciosas suelen también provocar la activación de algunos genes del sistema inmunitario del paciente.
+Por último, la acumulación de daños en los genes, como resultado de toda una vida de exposición a radiaciones ionizantes y agentes químicos dañinos, guarda probable relación con cambios que se producen durante el envejecimiento.
+
+Si supiéramos cuándo y en que parte del cuerpo humano se activan los genes, razonamos unos colegas y yo hace algunos años, podríamos aplicar esos conocimientos para predecir, prevenir, tratar y curar enfermedades.
+Cuando un gen se activa, o se "expresa", como dicen los genéticos, la secuencia de unidades químicas, o bases, de su ADN dicta las órdenes necesarias para fabricar una proteína específica.
+Las proteínas dirigen todas las funciones celulares.
+Actúan como componentes estructurales, como catalizadores que llevan a cabo los múltiples procesos químicos de la vida y como elementos de control que regulan la reproducción y especialización celular, así como la actividad fisiológica en todos sus niveles.
+El desarrollo de un ser humano desde un huevo fecundado hasta el adulto maduro es, en última instancia, el resultado de una serie de cambios ordenados en el patrón de expresión génica en los diferentes tejidos. 
+
+Saber cuáles son los genes que se expresan en los tejidos sanos y enfermos nos permitiría, por un lado, identificar las proteínas necesarias para el normal funcionamiento de los tejidos y, por otro, conocer las alteraciones que se producen en las enfermedades.
+Podríamos, por tanto, desarrollar nuevas estrategias para el diagnóstico de algunas enfermedades y crear fármacos capaces de modificar la actividad de las proteínas o genes afectados.
+Algunas de las proteínas y genes que identificásemos podrían también utilizarse por otros investigadores.
+Lo que estábamos imaginando venía a ser una suerte de anatomía molecular.
+
+Teníamos claro desde el principio el enorme trabajo que supondría identificar todos los genes que se expresan en cada uno de los muchos tipos de tejidos del cuerpo.
+Una célula humana encierra unos 100.000 genes, de los cuales sólo una pequeña fracción (unos 15.000) se expresa en cada tipo de célula, si bien los genes que se expresan varían de un tipo celular a otro.
+Por esa razón, centrarse sólo en uno o dos tipos celulares no nos revelaría qué genes se están expresando en el resto del cuerpo.
+Teníamos que estudiar también tejidos en todos los estadios del desarrollo humano.
+Además, para identificar los cambios de expresión génica que contribuyen a las enfermedades, deberíamos analizar tejidos procedentes de individuos enfermos y de individuos sanos. 
+
+Para nuestra fortuna, los avances de la técnica habían facilitado este tipo de trabajo.
+Se puede conocer con cierta facilidad qué genes se expresan en determinado tejido.
+La estrategia diseñada por nosotros permite, además, identificar con gran rapidez genes de interés clínico.
+Fijémonos, por ejemplo, en la aterosclerosis.
+Esta enfermedad común se caracteriza por la acumulación de una sustancia grasa, denominada placa, en la luz de las arterias, principalmente en las que alimentan el corazón.
+Con nuestra estrategia podemos generar una lista de los genes que se expresan en las arterias normales y saber cuánto se expresa cada uno de ellos.
+Podemos comparar esa lista con otra similar obtenido de pacientes con aterosclerosis.
+Las diferencias entre las listas nos revelarán los genes (y por tanto las proteínas) implicados en la enfermedad.
+Nos indicarán también qué efecto ha ejercido la enfermedad sobre la expresión de los genes, si la ha reforzado o disminuido.
+Los investigadores pueden entonces producir, in vitro , las proteínas humanas determinadas por esos genes.
+
+Una vez sintetizada la proteína en su forma pura, se prepara un ensayo para detectar la presencia de la misma en un paciente.
+Por seguir con el ejemplo, un ensayo que detectara la sobreproducción de una proteína presente en las placas pondría de manifiesto uno de los signos tempranos de la aterosclerosis, cuando los tratamientos son más eficaces.
+Además, los farmacólogos pueden utilizar las proteínas purificadas para fabricar nuevos fármacos.
+Un compuesto químico que inhiba la producción de una proteína presente en una placa puede considerarse un fármaco contra la aterosclerosis. 
+
+Nuestra aproximación, que yo denomino genómico-médica, se sale un tanto de las principales corrientes de investigación en genética humana.
+
+Son muchos los expertos enrolados en el Proyecto Genoma Humano, un empeño internacional dirigido a descubrir la secuencia completa de bases químicas del ADN humano.
+Esta información, de gran valor para los estudios evolutivos y de expresión génica, resultará especialmente útil para las investigaciones sobre enfermedades hereditarias. 
+Sin embargo, el proyecto genoma no es el camino más rápido de descubrir genes, ya que la mayoría de las bases que integran el ADN no forman parte de los genes propiamente dichos.
+
+Tampoco pondrá de manifiesto el proyecto genoma qué genes están implicados en enfermedades.
+
+En 1992 creamos una compañía, Human Genome Sciences (HGS), para poner en obra nuestras ideas.
+De entrada se trataría de un proyecto conjunto entre HGS y el Instituto para la Investigación del Genoma. una organización sin ánimo de lucro financiada por HGS.
+Al director de ese instituto, J. Craig Venter, se deben algunas de las ideas claves en la investigación genómica.
+Seis meses después, SmithKline Beecham. uno de los principales laboratorios farmacéuticos del mundo, se unió al proyecto, para al cabo del primer año seguir trabajando por su cuenta.
+
+Posteriormente se nos asociaron Schering-Plough, Takeda Chemical Industries de Japón, Merck KGaA de Alemania y la francesa Synthelabo.
+
+Alguien podría preguntarse por qué nos preocupábamos por los genes, si lo importante a la hora de desarrollar nuevos fármacos son las proteínas que aquellos determinan, y no los propios genes.
+Bastaría con analizar directamente las proteínas producidas por cada célula.
+Sin embargo, el simple hecho de conocer la composición proteínica de una célula no nos permite desarrollar fármacos.
+
+Para ello, hay que poder fabricar cantidades substanciales de las proteínas que interesan, lo que exige, a su vez, aislar los genes correspondientes e introducirlos en células que sean capaces de expresar dichos genes en grandes cantidades. 
+
+Nuestra estrategia de búsqueda de genes tiene como punto de partida un producto intermediario crítico, que se forma en las células cuando se expresa un gen.
+Ese producto intermediario es el ARN mensajero (ARNm).
+Lo mismo que el ADN, consta de secuencias de cuatro bases.
+
+Cuando la célula fabrica el ARNm correspondiente a un gen, copia la secuencia de bases del ADN del gen en cuestión. 
+La molécula de ARNm sintetizada sirve luego de molde para construir la proteína específica que el gen cifra.
+La importancia del ARNm radica en que la célula lo fabrica sólo cuando el gen correspondiente se halla activo.
+Conociendo la secuencia de bases del ARNm podemos aislar el gen y fabricar la proteína que cifra.
+
+Pero no resulta fácil manipular el ARNm.
+De ahí que no trabajemos con éste, sino con copias estables de ADN obtenidas a partir de dichos ARNm.
+Estas copias se denominan ADN complementario (ADNc) de las moléculas de ARNm.
+Para fabricar los ADNc seguimos un proceso inverso al que cursan las células para fabricar ARNm a partir del ADN.
+
+Las copias de ADNc así fabricadas suelen ser réplicas de fragmentos de los ARNm, no de las moléculas completas, ya que éstas pueden llegar a tener varios miles de bases. 
+
+De hecho, podemos obtener ADNc procedentes de distintas partes de un mismo gen.
+No obstante, en la práctica, podemos estar seguros de que un ADNc que contenga poco más de mil bases es suficiente para identificar en exclusiva a un gen.
+Y es así porque resulta altamente improbable que dos genes diferentes compartan una secuencia idéntica de miles de bases.
+De la misma manera que un capítulo de un libro tomado al azar identifica inequívocamente a la obra, una molécula de ADNc identifica al gen de donde procede.
+
+Una vez que hemos conseguido un ADNc, podemos hacer las copias que queramos.
+De esa manera podemos conseguir suficiente material para poder determinar su secuencia de bases.
+
+Como conocemos las reglas que las células utilizan para traducir secuencias de ADN en las secuencias de aminoácidos que constituyen las proteínas, el orden de las bases nos dicta la secuencia de aminoácidos del correspondiente fragmento de proteína.
+
+Posteriormente, esa secuencia se compara con todas las secuencias de proteínas conocidas, lo que a veces aporta información sobre la función de la proteína completa, ya que las proteínas que comparten secuencias de aminoácidos similares suelen realizar funciones parecidas. 
+
+La de analizar secuencias de ADNc puede convertirse en una tarea lenta, si bien en los últimos años se han desarrollado instrumentos que ejecutan el trabajo de una forma fiable y automática.
+Necesitábamos, además, otras mejoras técnicas para que nuestra estrategia fuera factible.
+Los equipos de secuenciación, cuando operan a la escala que estábamos contemplando, generan una cantidad inmensa de datos.
+La suerte es que ahora contamos con máquinas capaces de manejar esa información y estamos desarrollando programas que nos ayuden a encontrarle sentido a tamaño aluvión de datos.
+
+Para identificar los genes que se expresan en una célula, se analizan las 300 a 500 primeras bases de uno de los extremos de cada molécula de ADNc.
+Esas secuencias parciales de los ADNc sirven de marcadores de los genes y a veces se denominan "secuencias expresadas marcadas".
+Hemos elegido esa longitud para nuestras secuencias parciales de ADNc porque es lo suficientemente corta como para que el análisis sea rápido, pero también lo suficientemente larga como para que identifique a un gen sin ambigüedades.
+Si asociamos una molécula de ADNc a un capítulo de un libro, una secuencia parcial sería la primera página del capitulo.
+Con ella se puede identificar el libro e incluso nos puede dar una idea sobre su argumento.
+De la misma manera, las secuencias parciales de ADNc pueden decirnos cosas sobre el gen del que proceden.
+En HGS producimos, cada día, casi un millón de bases de secuencias "en rama".
+
+Nuestro método es muy eficaz.
+En cinco años no completos hemos identificado miles de genes, muchos de los cuales podrían intervenir en alguna enfermedad.
+Otros investigadores han iniciado también programas para generar secuencias parciales de ADNc.
+
+Los ordenadores de HGS reconocen que muchas de las secuencias parciales que producimos corresponden a algunos de los 6000 genes que otros expertos han identificado por medios distintos.
+Otras corresponden a un gen que nosotros habíamos identificado con anterioridad.
+Cuando no podemos asignar una nueva secuencia parcial a un gen ya conocido, la cosa se vuelve más interesante.
+En esos casos, nuestros ordenadores realizan una búsqueda en todas las bases de datos disponibles, incluidas las nuestras, para comprobar si la nueva secuencia parcial se solapa con alguna previamente descrita.
+Cuando encontramos un solapamiento claro, disponemos las secuencias parciales solapantes en segmentos "contiguos", de longitud creciente. 
+Los contiguos son, por tanto, secuencias incompletas que, según inferimos, deben estar presentes en alguna parte de algún gen.
+Este proceso evoca al que podríamos llevar a cabo si tomamos de un texto frases como "..lugar de la Mancha.." y "...Mancha, de cuyo nombre.." y las combinamos después en un fragmento reconocible de El Quijote , de Miguel de Cervantes.
+
+Al mismo tiempo, intentamos deducir la función verosímil de la proteína correspondiente a la secuencia parcial.
+Una vez realizada la predicción sobre la estructura de la proteína, la clasificamos según su parecido con las estructuras de otras proteínas conocidas. 
+A veces encontramos que una secuencia coincide con otra proteína humana, pero no es raro que se parezca a la de una bacteria, hongo, planta 0 insecto.
+
+Otros organismos producen muchas proteínas con funciones similares a las humanas.
+Nuestros ordenadores están continuamente actualizando estas clasificaciones provisionales. 
+
+Hace unos tres años, teníamos caracterizados cuatro contiguos.
+
+Tras compararlos con las bases de datos, hicimos la predicción de que los genes correspondientes a cada uno de ellos deberían producir proteínas similares a las que en bacterias y levaduras se encargan de corregir mutaciones que se producen en el ADN.
+
+Nos decidimos a caracterizar la secuencia completa de los cuatro genes, que presumíamos importantes, ya que se sabía que los fallos en la reparación de mutaciones podían producir cáncer de colon.
+Cuando cierta autoridad en cáncer de colon nos pidió ayuda para identificar genes que pudiesen intervenir en esa enfermedad, de los cuales él conocía uno de ellos, pudimos avanzarle que ya estábamos trabajando con otros tres candidatos posibles. 
+
+Posteriores investigaciones han confirmado que mutaciones en cualquiera de esos cuatro genes pueden causar cáncer de colon, ovario o endometrio.
+Una de cada 200 personas, de América del Norte y Europa, porta una mutación en uno de esos genes encargados de reparar errores que se producen en el ADN.
+Sabiendo esto los expertos pueden poner a punto pruebas para analizar ese tipo de genes en las personas que tienen algún familiar con esos tipos de cánceres.
+Si la persona analizada presenta alguna predisposición genética a la enfermedad, se la somete a un seguimiento más estrecho. 
+La detección precoz de un tumor resulta vital, ya que se puede eliminar quirúrgicamente.
+Este tipo de pruebas se utilizan ya en programas de investigación clínica para identificar personas que presentan algún riesgo.
+
+Nuestras bases de datos recogen más de un millón de secuencias génicas parciales derivadas de ADNc agrupadas en 170.000 contiguos.
+Creemos que tenemos secuencias parciales de casi todos los genes humanos que se expresan.
+Y lo creemos porque. cuando los investigadores registran secuencias génicas en las bases de datos públicas, comprobamos que en el 95 por ciento de los casos nosotros ya poseemos una secuencia parcial de ellas.
+Con frecuencia, agrupando varias secuencias parciales se deja al descubierto algún gen nuevo.
+En conjunto, más de la mitad de los nuevos genes que identificamos se parecen a algún gen con función conocida.
+Con el tiempo, esta proporción habrá de ir en aumento.
+
+Si un tejido produce un número extraordinario de secuencias de ADNc que derivan del mismo gen, se nos está diciendo que ese gen produce una gran cantidad de ARNm.
+Esto suele suceder cuando las células sintetizan grandes cantidades de la proteína correspondiente, lo que a su vez es una señal de que la proteína puede estar desempeñando una función vital.
+HGS presta también una atención especial a los genes que sólo se expresan en un tipo particular de tejido, o en muy pocos de ellos, pues muy probablemente esos genes tienen que ver con enfermedades que afectan a dichos tejidos.
+De los miles de genes que hemos descubierto, hay unos 300 que parecen revestir un interés clínico particular.
+
+Utilizando este tipo de aproximación, basada en secuencias parciales de ADNc, se ha podido estimar cuántos genes participan en las funciones de defensa, metabolismo y otras de parecida importancia celular.
+Tamaña cantidad de información sobre secuencias parciales de ADNc que se está almacenando, abre una nueva gama de posibilidades para la biomedicina, muchas de las cuales son objeto de exploración sistemática.
+
+Bases de datos como las nuestras son muy útiles para descubrir proteínas que sirvan como marcadores de enfermedades.
+Lo vemos en el cáncer de próstata. 
+Uno de los ensayos utilizados para detectar cáncer de próstata se basa en la medición de los niveles en sangre de cierta proteína, el antígeno específico de próstata.
+Los pacientes que tienen cáncer de próstata suelen presentar niveles muy altos de esa proteína.
+
+Mas, para nuestro infortunio, los tumores benignos, de crecimiento lento, y los malignos, que precisan de una terapia agresiva, pueden producir niveles elevados del antígeno, razón por la cual el ensayo es ambiguo.
+
+HGS y sus asociados han analizado ARNm de muchas muestras de tejidos sanos de próstata y de tumores de próstata benignos y malignos.
+
+Hemos encontrado unos 300 genes que se expresan en la próstata, pero no en otros tejidos.
+De tales genes, casi 100 son activos sólo en los tumores de próstata y una veintena se expresan exclusivamente en tumores considerados malignos. 
+Ahora utilizamos esos 20 genes y sus productos proteicas para poner a punto ensayos que nos permitan identificar los tumores malignos de próstata.
+
+Estamos llevando a cabo una estrategia similar para los cánceres de mama, pulmón, hígado y cerebro. 
+
+Las bases de datos de secuencias parciales de ADNc valen también para identificar los genes responsables de enfermedades raras.
+
+Desde hace tiempo se sabe que cierta forma de ceguera infantil se debe a un defecto hereditario relacionado con el metabolismo de la galactosa.
+Una búsqueda en nuestra base de datos identificó dos genes humanos, de los que no se tenía noticia, cuyas proteínas correspondientes eran previsiblemente similares a ciertas enzimas que, en levaduras y bacterias, aparecían implicadas en el metabolismo de dicho azúcar.
+No tardó en confirmarse que ese tipo de ceguera venía determinado por un defecto hereditario en uno u otro de esos dos genes.
+En el futuro, las enzimas o los propios genes podrían emplearse para prevenir la enfermedad.
+
+Las secuencias parciales de ADNc constituyen una herramienta poderosísima para la búsqueda de micromoléculas con capacidad terapéutica.
+
+Los métodos para crear y ensayar esos fármacos diminutos han mejorado espectacularmente en los últimos años.
+Hay equipos automáticos que analizan en un santiamén compuestos sintéticos y naturales y comprueban si afectan a una proteína humana implicada en alguna enfermedad.
+
+No obstante, el limitado número de posibles proteínas diana frena el desarrollo de ese tipo de estrategias.
+
+Cuantas más proteínas humanas se investiguen, más se podrá avanzar en esa línea.
+Y nuestro trabajo está colaborando a ello.
+De hecho, suministramos a Smith-Kline Beecham más de la mitad del material que utilizan en la búsqueda de nuevos productos de interés potencial.
+
+Las bases de datos del estilo de las nuestras no sólo facilitan el escrutinio aleatorio en busca de moléculas eficaces.
+El conocimiento de la estructura de una proteína permite diseñar drogas que interaccionen de forma específica con la proteína.
+Se acude a esta técnica, denominada diseño racional de fármacos, para crear nuevos inhibidores de proteasas que han mostrado su eficacia contra el VIH (nuestras bases de datos no han tenido que ver en ello).
+Confiamos en que las secuencias parciales de ADNc posibilitarán una atención mayor al diseño racional de fármacos.
+
+En los osteoclastos podemos ejemplificar el servicio que prestan nuestras bases de datos.
+Estas células habituales de los huesos producen una enzima capaz de degradar el tejido óseo.
+Ciertas enfermedades, as' la osteoartritis y la osteoporosis, producen la enzima en demasía.
+En nuestros ordenadores encontramos una secuencia de un gen que se expresaba en osteoclastos, que parecía cifrar la enzima destructora.
+
+Su secuencia era similar a la de un gen conocido que determina una enzima degradadora del cartílago.
+Por último, confirmamos que el gen de osteoclastos era el responsable de la enzima degradadora y demostramos que no se expresaba en otros tejidos.
+
+Los resultados no carecían de interés:
+permitían diseñar procedimientos para atacar la proteína sin preocuparnos de que pudiese perjudicar a otros tejidos.
+Fabricamos la proteína y Smith-Kline Beecham la utilizó en un programa de búsqueda de posibles terapias, combinando las técnicas de escrutinio rápido y diseño racional de fármacos.
+La compañía se ha apoyado también en nuestros datos para buscar moléculas eficaces contra la aterosclerosis. 
+
+Desde un punto de vista médico, los receptores asociados a proteínas G son un auténtico filón de genes y proteínas.
+Las G atraviesan la membrana exterior de la célula, reciben señales biológicas procedentes de otras células y las transmiten al interior celular.
+Con toda seguridad, los fármacos capaces de inhibir tales receptores vitales podrán utilizarse para tratar la hipertensión, úlceras, migraña, asma, el resfriado común y trastornos psiquiátricos. 
+La HGS ha encontrado más de 70 nuevos receptores asociados a proteínas G.
+Ahora estamos comprobando sus efectos, introduciendo en las células los genes para esos receptores y evaluando cómo las células que sintetizan las correspondientes proteínas responden a diversos estímulos. 
+Hay dos genes de interés particular:
+determinan proteínas que parecen estar críticamente implicadas en la hipertensión y en la diabetes adulta.
+Nuestros socios de la industria farmacéutica buscan ya micromoléculas que inhiban las señales biológicas transmitidas por esos receptores.
+
+Por último, creemos que algunos genes y proteínas humanas que estamos descubriendo, quizá con algunas modificaciones, serán ellos mismos la base de algunas nuevas terapias. 
+Muchas proteínas humanas se utilizan ya como fármacos. 
+La insulina y el factor coagulante para los hemofílicos son dos ejemplos conocidos.
+Las proteínas que estimulan la producción de eritrocitos se emplean también para acelerar la recuperación de los pacientes tras quimioterapia. 
+
+Proteínas de unos 200 genes totalmente caracterizados por HGS tienen posibles aplicaciones médicas.
+
+Hemos sintetizado ya la mayoría de esas proteínas y hemos puesto a punto ensayos para medir su actividad celular. 
+Algunas están dando también resultados muy prometedores en ensayos con animales de experimentación. 
+Entre esas proteínas hay varias quimiocinas, moléculas que estimulan el sistema inmunitario.
+
+El desarrollo farmacéutico nunca será un proceso rápido, porque las medicinas, ya sean proteínas, genes o micromoléculas, deben someterse a ensayos exhaustivos. 
+Las secuencias parciales de ADNc pueden, no obstante, acelerar el descubrimiento de nuevos agentes terapéuticos. 
+
+Gracias a la utilización sistemática de los procedimientos automáticos e informáticos desarrollados para buscar genes se ha alcanzado una visión global de dónde se expresan los genes, o lo que es lo mismo, la anatomía de la expresión génica humana. 
+
+Figura 1
+
+PROPORCIONES DE GENES dedicados a las principales tareas que se llevan a cabo en una célula humana,según se deduce de un estudio de 150.000 secuencias parciales.
+
+El criterio utilizado para asignar provisionalmente cada una de las funciones fue la similitud con otros genes, humanos o no, de función conocida.
+
+Figura 2
+
+ROBOT utilizado para distinguir colonias bacterianas que portan secuencias de ADN humano. 
+
+El aparato desecha las colonias azules, que son las que no contienen esas secuencias.
+Mediante análisis de las secuencias presentes en las bacterias, se llega a la identificación de los genes humanos.
+
+Figura 3
+
+PROTEINAS HUMANAS producidas a partir de genes descubiertos en Human Genome Sciences. 
+
+Se presentan algunas que han demostrado ya su eficacia en células humanas aisladas y en animales de laboratorio. 
+Se están sometiendo a ensayo para evaluar sus posibilidades terapéuticas. 
+
+Tabla 3
+
+Proteína.
+Actividad.
+Posibles aplicaciones.
+
+
+Factor de crecimiento de queratinocitos.
+Estimula la regeneración de la piel.
+Cicatrizar heridas, estimular el crecimiento capilar, proteger contra los efectos secundarios de la quimioterapia.
+
+
+Proteína inhibidora 1 del progenitor del mieloide.
+Previene la destrucción de las células de médula ósea ocasionada por la quimioterapia.
+Protección contra los efectos secundarios de la quimioterapia.
+
+
+Factor de crecimiento de las neuronas motoras.
+Previene la muerte traumática de las neuronas motoras.
+Tratamiento de la enfermedad de Lou Gehrig, daños traumáticos al sistema nervioso, accidentes cerebrovasculares y atrofia muscular debida al envejecimiento.
+
+
+Factor inhibidor de monocitos.
+Inhibe a los macrófagos.
+Tratamiento de la artritis reumatoide y otras enfermedades autoinmunitarias y relacionadas con los macrófagos.
+
+
+Así se fabrican y purifican moléculas de ADNc 
+
+Las células utilizan el ARN mensajero para sintetizar proteínas.
+Nuestra estrategia para descubrir genes consiste en crear copias de ADN complementario (ADNc) del ARN mensajero.
+Para determinar la secuencia de bases de los ADNc debemos clonar y fabricar un gran número de copias de cada uno de ellos.
+Los biólogos moleculares han desarrollado técnicas para insertar ADNc en bucles especiales de ADN, vectores que se replican dentro de las bacterias. 
+Una colección de moléculas de ADNc de un tejido determinado constituye una genoteca.
+
+Los investigadores de HGS han preparado genotecas de ADNc humano de casi todos los órganos y tejidos normales y también de muchos afectados por alguna enfermedad.
+Para conseguir copias de una genoteca, los vectores se introducen y multiplican en bacterias.
+
+Las bacterias se inoculan después en cajas con un gel nutritivo para que se repliquen y formen colonias.
+Cada colonia deriva de una sola bacteria.
+A continuación, utilizamos un robot que automáticamente reconoce y separa del gel las colonias que han incorporado una molécula de ADNc.
+Para ello, el robot se guía por el color. 
+Los vectores que utilizamos están diseñados de tal manera que, si no consiguen combinarse con un ADNc, producen un pigmento azul.
+El robot, que es capaz de analizar hasta 10.000 colonias al día, identifica las que contienen ADNc humano evitando las colonias azules.
+El ADNc de cada colonia seleccionada, debidamente multiplicado, se purifica automáticamente. 
+
+Obtención de una secuencia parcial de ADNc
+
+Para generar secuencias parciales de ADNc, hay que descomponer químicamente las moléculas de ADNc hasta generar una colección de fragmentos cuyas longitudes difieren en una sola base.
+Durante ese proceso, la base presente en uno de los extremos de cada fragmento se combina con un colorante fluorescente.
+Existen cuatro tipos de colorantes, uno por cada tipo de base.
+Las máquinas ordenan los fragmentos marcados por tamaños.
+Posteriormente, un láser excita las marcas de colores una a una.
+El resultado es una secuencia de colores que puede leerse electrónicamente y que se corresponde con la secuencia ordenada de bases de uno de los extremos del ADNc que se está analizando.
+El ordenador ensambla secuencias parciales, que pueden llegar a tener centenares de bases cada una, y completa la secuencia de un gen.

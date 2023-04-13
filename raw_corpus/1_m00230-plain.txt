@@ -1,0 +1,301 @@
+
+Genética y cognición 
+
+La investigación sobre capacidades cognitivas especificas ayuda a esclarecer la influencia de los genes en la conformación de componentes del intelecto.
+
+En punto a inteligencia y sus manifestaciones, puede decirse que no hay dos individuos iguales.
+Las diferencias se hacen patentes no sólo en clase, del parvulario a la universidad, sino también en el quehacer cotidiano:
+en el vocabulario que la gente usa y entiende, en la soltura para leer un mapa o seguir una ruta, en la facilidad de recordar números de teléfono o calcular el cambio de la compra.
+La variación observada en esas capacidades específicas es tan palmaria, que nadie se detiene en ella.
+Pero,
+¿a qué se debe tamaña disparidad?
+
+Parece razonable atribuir al entorno el origen de las diferencias en habilidad cognitiva.
+De acuerdo con esa tesis, somos lo que aprendemos.
+Nadie nace con un vocabulario desarrollado; todos hemos de aprender palabras.
+En el aprendizaje reside, pues, el mecanismo en cuya virtud surgen las diferencias en dominio del vocabulario entre individuos.
+Y las diferencias en la experiencia vivida - incidencia de los padres en el uso rico del vocabulario y en su estimulo para adquirirlo, así como el nivel de la docencia del lenguaje en las aulas- tienen que ser las responsables de las diferencias de aprendizaje manifestadas. 
+
+A comienzos de siglo dominaba en psicología la interpretación ambientalista de la diversidad en habilidades cognitivas.
+Pero hace ya algún tiempo que los psicólogos optan en su mayor parte por una explicación más equilibrada: 
+naturaleza y crianza se imbrican en el desarrollo cognitivo. 
+A lo largo de los últimos 25 años, la investigación genética ha ido forzando la atribución a la herencia de un papel sustancial en la configuración de los componentes del intelecto.
+Se buscan ahora los genes implicados en la función cognitiva.
+No se trata de negar la participación de factores ambientales en la modulación del proceso de aprendizaje.
+Antes bien, se sugiere que las diferencias génicas entre individuos condicionan la facilidad del aprendizaje.
+
+¿En qué medida genes y ambiente influyen sobre habilidades cognitivas específicas, sobre dominio del vocabulario, pongamos por caso?
+De eso vamos a ocuparnos. 
+Nuestro herramienta de trabajo ser la genética cuantitativa, disciplina estadística que estudia las causas de la variación de los caracteres entre individuos.
+La comparación de resultados obtenidos por hermanos gemelos y niños adoptados en ciertas pruebas sobre habilidades cognitivas, por ejemplo, permite apreciar la contribución respectiva de naturaleza y educación (o crianza).
+
+Al revisar los resultados de pruebas realizadas por otros investigadores y nosotros mismos, hemos empezado a ver la luz sobre las relaciones entre determinadas características del intelecto (razonamiento verbal y espacial), así como sobre las relaciones entre la función cognitiva normal y ciertas discapacidades (la dislexia, por ejemplo).
+El recurso a la genética molecular nos llevar a identificar los genes que afectan a estas capacidades y discapacidades.
+Del conocimiento de los genes interesados, cabe esperar, se llegará a los mecanismos bioquímicos implicados en la inteligencia humana.
+Sonar entonces la hora de idear medios de intervención que moderen o prevengan los efectos de los trastornos cognitivos.
+
+Ante la idea de un condicionamiento genético de la inteligencia, algunos se ponen en guardia alarmados o al menos denuncian su perfil confuso.
+Conviene, pues, dejar claro a qué nos referimos al hablar de influencia genética. 
+El término "heredabilidad" es una medida estadística de la contribución genética a las diferencias entre individuos.
+
+La heredabilidad nos dice en qué proporción las diferencias individuales en el seno de una población -la varianza- han de adscribirse a los genes.
+Al afirmar que un carácter presenta una heredabilidad del 50 por ciento indicamos que la mitad de la varianza en dicho rasgo esta ligada a la herencia.
+La heredabilidad es, pues, una forma de explicar lo que hace a unos individuos diferentes de otros; no es lo que constituye la inteligencia de un individuo.
+En general, si la heredabilidad de un rasgo es elevada, la influencia de los genes sobre dicho rasgo ser también muy intensa. 
+
+Los primeros pasos para acotar la heredabilidad de las capacidades cognitivas se dieron con el estudio de familias. 
+El análisis de semejanzas entre padres e hijos y entre hermanos ha puesto de manifiesto que las habilidades cognitivas tienen que ver con el parentesco.
+Los resultados del estudio m s amplio realizado con familias sobre las capacidades cognitivas, acometido en Hawai en los años setenta, ayudaron a cuantificar dicha similaridad.
+
+En el estudio en cuestión trabajaron en equipo la Universidad de Colorado en Boulder y la de Hawai.
+Participaron más de 1000 familias y pares de hermanos.
+Se determinaron las correlaciones (un estadístico de la semejanza) entre parientes en pruebas de competencia verbal y espacial.
+Una correlación de 1,0 indicaría que las puntuaciones de los miembros de una familia eran idénticas; una correlación de cero indicaría que los resultados alcanzados no guardaban una similaridad mayor que los de cualquier otro par de personas elegidas al azar.
+
+Puesto que los niños comparten, en promedio, la mitad de los genes con cada progenitor y con sus hermanos, la correlación más alta en el resultado de las pruebas que cabría esperar, ciñéndonos a la genética, sería de 0,5.
+
+El estudio de Hawai demostró que los miembros de una misma familia evidencian, en punto a mediciones de capacidades cognitivas específicas, un parecido mayor que los individuos no emparentados.
+En estas pruebas de competencia verbal o espacial, se observaron correlaciones de 0,25.
+Por sí solas, tales correlaciones no nos aclaran si su asociación por familias obedece a la genética o al entorno.
+
+Para resolverlo, se recurre a dos "experimentos":
+la gemelaridad (un experimento de la naturaleza) y la adopción (un experimento social).
+
+La investigación con gemelos constituye el caballo de tiro de la genética del comportamiento.
+Se compara el parecido entre gemelos idénticos, dotados de la misma composición genética, con su parecido de otros hermanos, que comparten sólo la mitad de los genes.
+Si las capacidades cognitivas vienen condicionadas por los genes, los gemelos idénticos ofrecerán, en los resultados de los tests de capacidad, un parecido mayor que los demás hermanos.
+A partir de las correlaciones observadas, se calcula en qué medida los genes explican la varianza en la población en general.
+Puede hacerse un cálculo somero de la heredabilidad doblando la diferencia entre correlaciones de gemelos idénticos y de gemelos no idénticos. 
+
+Pasemos al experimento social.
+La adopción nos enseña el camino m s directo para averiguar cuánto de naturaleza y cuánto de educación o ambiente hay en las semejanzas familiares, toda vez que permite comparar parejas de individuos con parentesco genético si bien no comparten el mismo entorno familiar.
+Partiendo de las correlaciones entre parejas de estos individuos se calcula la parte que corresponde a la genética en la semejanza familiar. 
+Asimismo, la adopción produce también parejas de individuos sin parentesco genético que comparten un mismo ambiente familiar; guiados por sus correlaciones se pondera la incidencia de un ambiente compartido en la similaridad.
+
+Los estudios con gemelos sobre competencias cognitivas específicas, realizados a lo largo de tres decenios y en cuatro países, han dado resultados harto coherentes. 
+Las correlaciones entre gemelos idénticos superan con creces las de los gemelos no idénticos en lo que se refiere a competencia verbal y espacial en niños, adolescentes y adultos.
+Los resultados del primer estudio llevado a cabo con personas mayores -publicado el año pasado por el equipo de Gerald E. Mc- Clearn y por el de Stig Berg- ponen de manifiesto que las semejanzas entre gemelos idénticos y entre gemelos no idénticos persisten entrada la edad avanzada.
+Por más que los gerontólogos se empeñen en que las diferencias genéticas se van borrando con la acumulación de nuevas experiencias a lo largo de la vida, la investigación demuestra lo contrario. 
+De acuerdo con los cálculos basados en hallazgos combinados de estos estudios, en la población general deberíase a la genética el 60 por ciento de la varianza en competencia verbal y alrededor de un 50 por ciento de la varianza en competencia espacial.
+
+Las investigaciones con adoptados han llegado a conclusiones similares.
+Dos estudios recientes sobre gemelos educados por separado -uno de Thomas J. Bouchard, Jr., Matthew McGue y colaboradores, el otro de un proyecto internacional dirigido por Nancy L. Pedersen- atribuyen a la heredabilidad un 50 por ciento de ambos tipos de competencia: verbal y espacial.
+
+En nuestro propio Proyecto sobre Adoptados en Colorado, iniciado en 1975, nos basamos en las posibilidades de la adopción para investigar el papel de los genes y del ambiente, para cribar tendencias de desarrollo en las capacidades cognitivas y para averiguar en qué medida se desarrolla la mutua interrelación entre capacidades cognitivas.
+El proyecto, que sigue vivo, compara las correlaciones entre m s de 200 niños adoptados y sus padres, biológicos y de adopción, con las correlaciones de un grupo control de niños que han crecido junto a sus progenitores.
+
+De los datos obtenidos se desprenden algunas ideas sorprendentes. 
+Hasta la mitad de la infancia, por ejemplo, las madres biológicas y sus hijos adoptados por otros guardan un parecido similar al que registran los padres control y sus hijos, en cuanto a competencia verbal y espacial.
+La puntuación de los niños adoptados, sin embargo, no se asemejan en absoluto a la anotada por sus padres adoptivos.
+Estos resultados confieren un sólido respaldo a la idea de que un ambiente familiar común no fuerza la igualación entre los miembros de una familia.
+Antes bien, la semejanza basada en esos criterios diríase controlada por la genética; los factores ambientales contribuyen, a menudo, a hacer diferentes los miembros de la familia, no a igualarlos.
+
+Los datos del proyecto de Colorado revelan también una interesante tendencia del desarrollo.
+La influencia genética aumenta durante la infancia; en la adolescencia, la heredabilidad alcanza un nivel equiparable al observado en adultos.
+En las correlaciones de competencia verbal, por ejemplo, la semejanza entre padres biológicos y sus hijos adoptados por otros aumenta aproximadamente de 0,1 a los tres años a 0,3 a los 16.
+Un patrón similar se manifiesta en las pruebas de competencia espacial.
+Según parece, en el comienzo de la escolaridad, a los siete años, se produce una transformación, genética- mente instada, de la función cognitiva.
+Cuando se alcanza la edad de 16 años, la genética explica el 50 por ciento de la varianza en competencia verbal y el 40 por ciento en competencia espacial; valores ambos que no se apartan mucho de los que se obtienen a propósito de capacidades cognitivas específicas en los estudios con gemelos.
+
+Con otros, el proyecto de Colorado ha contribuido también a arrojar luz sobre diferencias y semejanzas entre habilidades cognitivas.
+La neurología cognitiva admite la existencia de un modelo modular de la inteligencia; los diferentes procesos cognitivos se hallarían anatómicamente aislados en módulos discretos del cerebro.
+Dicha modularidad exige que las capacidades cognitivas presenten un fundamento genético distinto. vale decir, que el condicionamiento genético de la competencia verbal no debe solaparse con el condicionamiento genético de la competencia espacial. 
+
+Los psicólogos, sin embargo, admiten, desde hace tiempo, que la mayoría de las habilidades cognitivas especializadas, incluidas la competencia verbal y la espacial, guardan una moderada correlación mutua.
+Es decir, la gente que realiza con buenos resultados un tipo de prueba, también tiende a hacerlo bien con otros tipos.
+Así, es habitual que las correlaciones entre competencia verbal y espacial tengan un valor alrededor de 0,5.
+Unas correlaciones de este orden implican una potencial vinculación genética. 
+
+Tampoco la investigación sobre genética de las capacidades cognitivas específicas respalda el modelo modular.
+Todo indica, por contra, que los responsables del solapamiento entre las distintas capacidades cognitivas son los genes.
+El análisis de los datos del proyecto de Colorado, por ejemplo, señala que la genética gobierna el 70 por ciento de la correlación entre competencia verbal y la espacial.
+A resultados semejantes se ha llegado con gemelos en márgenes de edades que van de la infancia a la madurez.
+Parece, pues harto probable que, cuando se consiga identificar qué genes están asociados con una determinada capacidad cognitiva, sean los mismos que condicionen otras capacidades cognitivas.
+
+La investigación sobre resultados escolares da a entender que los genes asociados con las capacidades cognitivas podrían incidir en el rendimiento escolar.
+En los años setenta John C. Loehlin y Robert C. Nichols realizaron diversos estudios sobre más de 2000 pares de gemelos de secundaria.
+Observaron que los resultados alcanzados por gemelos idénticos guardaban un parecido mayor que los de gemelos no idénticos en cuatro reas de conocimiento: lengua, matemáticas, ciencias sociales y ciencias naturales. 
+A tenor de esa línea de trabajo, la genética respondería del 40 por ciento de la variación en las pruebas.
+
+La influencia genética sobre el rendimiento escolar queda corroborada en estudios sobre gemelos de primaria y en nuestro trabajo sobre niños adoptados.
+
+Los genes, tal parece, podrían influir en el rendimiento, escolar lo mismo que en las habilidades cognitivas.
+Resultados que no dejan de sorprender ante la doctrina pedagógica imperante desde hace tiempo según la cual el rendimiento escolar era un producto del esfuerzo en mayor grado que de la capacidad.
+Y lo que reviste mayor interés:
+los efectos genéticos se solapan entre diferentes categorías de rendimiento y estos genes solapados son, verosímilmente, los factores genéticos que influyen en las destrezas cognitivas. 
+
+Estos datos prestan sólido apoyo a la tesis según la cual la inteligencia sería una cualidad difusa o global de la mente, es decir, no modular.
+Las observaciones recogidas no sólo destacan la importancia de las capacidades cognitivas en la vida real, sino que, además, sugieren que los genes relacionados con las capacidades cognitivas son los vinculados con el rendimiento escolar, y a la inversa.
+
+Así las cosas, podría pensarse que las discapacidades cognitivas y un pobre rendimiento académico reflejaran a su vez un condicionamiento genético.
+Sin embargo, aun cuando haya genes implicados en trastornos cognitivos, no tienen por qué ser los mismos que influyen en las funciones cognitivas normales.
+
+Lo vemos ilustrado en el retraso mental.
+En grado leve, es un fenómeno familiar; no, si se trata de un retraso grave.
+El retraso mental grave depende de factores genéticos y ambientales -mutaciones nuevas, complicaciones en el momento del parto y lesiones cerebrales- que no intervienen en la gama normal de la inteligencia.
+
+Hay que sopesar los nexos genticos entre lo normal y lo anómalo, entre los rasgos que son parte de un continuo y los trastornos reales de funciones cognitivas.
+No basta con darlos por supuestos.
+
+En su mayoría los trabajos se han centrado en las dificultades de lectura.
+
+Afectan al 80 por ciento de los niños diagnosticados de algún tras torno del aprendizaje.
+Los niños con discapacidad para lectura, los disléxicos, leen con lentitud, su comprensión es limitada y tienen problemas para leer en voz alta.
+
+Uno de los autores (DeFries) ha demostrado que la dislexia constituye un fenómeno familiar en el que los factores genéticos explican el parecido.
+El riesgo de que la dislexia aparezca en los dos hermanos gemelos idénticos es del 68 por ciento si se ha diagnosticado en uno, mientras que cae al 38 por ciento si los gemelos no son idénticos. 
+
+¿Guarda este efecto genético alguna relación con los genes asocia dos con la variación normal de la competencia para la lectura?
+La pregunta plantea ciertos retos metodológicos.
+La propia idea de trastorno cognitivo es ya problemática, en el sentido de que se aborda la discapacidad desde una óptica cualitativa - se tiene o no se tiene - y no con una vara cuantitativa que mida el grado de discapacidad.
+Este enfoque abre un hiato analítico entre trastornos y caracteres que son dimensionales (varían a lo largo de un continuo) y, por definición, cuantitativos. 
+
+A lo largo de los últimos diez años se ha desarrollado una nueva técnica genética que cubre ese intervalo entre dimensiones y trastornos al recoger información cuantitativa de familiares de individuos cuya discapacidad se diagnosticó de un modo cualitativo.
+Nos referimos al análisis DF de extremos, método así llamado en homenaje a sus creadores, DeFries y David W. Fulker.
+
+En el caso de una discapacidad para la lectura, se procede a examinar gemelos idénticos y no idénticos sometiéndolos a pruebas cuantitativas de lectura.
+No basta con el diagnóstico de dislexia.
+Si la discapacidad para la lectura viene pro movida por genes que afectan también a la variación normal en esa competencia, entonces los valores obtenidos en gemelos idénticos disléxicos deberían acercarse a los del grupo con igual trastorno más que a los valores de los gemelos no idénticos. (Un mismo gen puede ejercer efectos diferentes si presenta m s de una forma en la población, de manera que dos personas pueden heredar dos versiones un tanto distintas.
+Ejemplos de éste tipo de genes variables son los que determinan el color de los ojos y la altura).
+
+En cuanto grupo, los gemelos idénticos con discapacidad para la lectura se asemejan a otros sujetos disléxicos en este tipo de pruebas cuantitativas, mientras que los gemelos no idénticos alcanzan mejores resultados que los del grupo de discapacitados (aunque peores que el resto de la población). 
+Los genes implicados en la discapacidad para la lectura podrían ser, pues, los mismos que los involucrados en la dimensión cuantitativa de la capacidad para la lectura medida en este estudio.
+Además, de acuerdo con el análisis DF de extremos podría atribuirse a la genética alrededor de la mitad de la diferencia de la puntuación en la prueba de lectura entre disléxicos y población general.
+
+En la discapacidad para la lectura podría entonces haber un nexo genético entre lo normal y lo anormal, sin que debamos generalizar ese vínculo a otras discapacidades. 
+Cabe la posibilidad de que la discapacidad en cuestión represente el extremo último de un continuo de competencia para la lectura, no un trastorno definido; es decir, la dislexia podría representar un grado cuantitativo, más que una desviación cualitativa, a lo largo de la gama de esta capacidad.
+Si se descubriera, pues, un gen relacionado con la discapacidad para la lectura, no tendría nada de extraño que se hallara asociado con la gama normal de variabilidad de la competencia para la lectura.
+La prueba definitiva llegar cuando se identifique un gen específico que está asociado con la competencia para la lectura o con la discapacidad correspondiente.
+
+Hasta ahora nos hemos ceñido a la genética cuantitativa, una disciplina que mide la heredabilidad de rasgos, sin prestar mayor atención al tipo o número de genes implicados.
+Para esto último debemos recurrir a la genética molecular.
+Si logramos identificar los genes implicados en el comportamiento y caracterizar las proteínas que codifican, se abrirán nuevas posibilidades de intervención en las discapacidades.
+
+En la investigación en ratones y mosca de la fruta se han identificado genes relacionados con el aprendizaje y la percepción espacial.
+El estudio de la variabilidad natural en poblaciones humanas ha conducido al hallazgo de mutaciones génicas que provocan retraso mental.
+Piénsese en las mutaciones de los genes relacionados con la fenilcetonuria y el síndrome del cromosoma X frágil, ambas causantes de retraso mental.
+Las deficiencias en genes individuales que están asocia dos con la distrofia muscular de Duchenne, el síndrome de Lesch-Nyhan, la neurofibromatosis de tipo I y el síndrome de Williams podrían hallarse también vinculados a las discapacidades cognitivas que se manifiestan. 
+
+Se conoce más de un centenar de mutaciones unigénicas que dañan el desarrollo cognitivo.
+El funcionamiento cognitivo normal se halla orquestado, casi con toda certeza, por muchos genes que actúan de una forma sutilmente coordinada, no por genes únicos que libran la guerra por su cuenta. 
+Se supone que estos genes solidarios influyen en la cognición de una manera probabilística; se les denomina loci de caracteres cuantitativos, o QTL (" quantitative trait loci "). 
+El nombre, que se aplica a los genes implicados en una dimensión compleja -la cognición, por ejemplo-, subraya la naturaleza cuantitativa de determinados caracteres físicos y conductuales.
+Se han identificado ya QTL en la diabetes, la obesidad y la hipertensión, así como en problemas de comporta miento involucrados en la sensibilidad y adicción a las drogas.
+
+Ahora bien, encontrar los QTL es bastante m s difícil que identificar mutaciones en un gen responsables de trastornos cognitivos.
+Fulker abordó el problema con un nuevo método, suyo y semejante al análisis DF de extremos; en él, las variaciones conocidas de ADN se correlacionan con diferencias en rasgos cuantitativos entre hermanos.
+La de terminación genética se muestra con mayor nitidez en los extremos de una dimensión; por eso, el método funciona mejor cuando al menos uno de los dos hermanos representa el extremo del carácter en cuestión. 
+En el centro de investigaciones de discapacidades del aprendizaje de la Universidad de Colorado se empleó esa técnica de ligamiento de QTL para acotar el sitio de los loci relacionados con la discapacidad para la lectura, objetivo que se consiguió.
+Los expertos de Boulder, Universidad de Denver y el Hospital Pediátrico Municipal de Omaha dieron a conocer este descubrimiento en 1994.
+
+A imagen de otras técnicas de genética molecular, el ligamiento QTL se basa en la identificación diferencial de marcadores del ADN:
+segmentos de ADN de los que se sabe que ocupan un sitio determinado en los cromosomas y varían ligeramente de un individuo a otro.
+Las versiones de un marcador, igual que las de un gen, se llaman ale los.
+Puesto que las personas por tan dos copias de cada cromosoma (salvo de los cromosomas X e Y que determinan el sexo en el varón), presentarán dos alelos de cada marcador de ADN.
+Ello significa que los hermanos compartirán uno, dos o ningún alelo de un marcador.
+En otras palabras, en lo concerniente al marcador, los hermanos serán gemelos idénticos (si comparten ambos alelos), gemelos no idénticos (si sólo la mitad de sus alelos) o hermanos adoptivos (si no comparten ningún alelo).
+
+Los descubridores de los QTL relacionados con la discapacidad para la lectura identificaron un gemelo afectado; luego, averiguaron qué resultados obtenía su hermano gemelo en las pruebas de lectura.
+Si la puntuación alcanzada por el segundo era peor cuando compartían alelos de un marcador dado, el marcador debería caer cerca de un QTL relacionado con la discapacidad para la lectura, en la misma región cromosómica.
+Hallaron ese marcador en el brazo corto del cromosoma 6 de dos muestras independientes, una en hermanos mellizos y otra en hermanos de distintas edades. 
+Se han confirmado los resultados.
+
+Si bien esa línea de investigación ha propiciado que se delimite la localización de un gen (o genes) implicado en la discapacidad para la lectura, el gen (o genes) no se ha podido caracterizar todavía.
+Distinción que nos permite expresar la situación en que se encuentra la genética de la cognición: en el umbral de un des cubrimiento importante.
+La identificación de genes que condicionan capacidades cognitivas específicas revolucionar la investigación de los procesos biológicos relacionados con la mente.
+La genética molecular tendrá, sin duda, profundas consecuencias en el estudio del comportamiento humano.
+Muy pronto se podrán investigar las conexiones genéticas entre diferentes caracteres y entre comportamientos y mecanismos biológicos.
+Y con ello seguir mejor la trayectoria del desarrollo de la influencia genética y establecer con mayor precisión las interacciones entre genes y entorno.
+
+El descubrimiento de genes vinculados con enfermedades y discapacidades facilitar la labor terapéutica y diagnóstica de los individuos en riesgo, antes de que se manifiesten los síntomas.
+Que las cosas avanzan en esa dirección lo vemos en el alelo ApoE4, asociado con demencia senil y declive de las capacidades cognitivas en la vejez.
+Los nuevos conocimientos traerán también nuevos problemas de índole ética.
+Las investigaciones genéticas siempre levantan temores de que los marca dores de ADN se utilicen para seleccionar "niños a la carta".
+
+Capacidades cognitivas e inteligencia 
+
+Desde los albores de la psicología nunca hubo acuerdo entre los expertos en torno la naturaleza de la inteligencia. 
+Para unos se trataría de una facultad heredada, mientras que otros insisten en la importancia de la educación y la crianza en su conformación.
+Unos la consideran una cualidad global que penetra todos los aspectos de la cognición; otros opinan que el intelecto consta de capacidades especializadas discretas -el talento artístico o la facilidad para las matemáticas- sin que compartan un principio común. 
+
+De un tiempo a esta parte, con la incorporación de la genética, los psicólogos se inclinan por atribuir a la herencia un peso importante en la inteligencia. 
+
+Hasta la mitad de la variabilidad individual manifestada cabria asignarla a factores genéticos.
+
+Los psicólogos se adhieren en su mayoría a una descripción globalizante de la inteligencia.
+Esa competencia cognitiva general, o "g", así la denominan, se refleja en el solapamiento de unas habilidades cognitivas sobre otras.
+Como Robert Plomin y John C. DeFries señalan las personas que no alcanzan una buena puntuación en las pruebas de una habilidad cognitiva suelen dar también valores bajos en pruebas que exploran otras.
+En esa correlación se apoyan las pruebas del cociente intelectual, que producen un valor único a partir de las valoraciones combinadas de distintas habilidades cognitivas.
+
+Por guardar dicha relación la capacidad cognitiva general y las específicas, a nadie sorprender que los hallazgos referentes a las capacidades especificas sean en numerosas ocasiones un eco de lo que ya se conoce acerca de la capacidad general.
+La heredabilidad observada en habilidades especificas es similar a la heredabilidad que se ha determinado para "g". 
+Las tendencias manifestadas durante el desarrollo -en que la influencia genética sobre capacidades cognitivas especificas aumenta a lo largo de la infancia y alcanza el nivel propio del adulto en la adolescencia- se repiten a propósito de la capacidad cognitiva general.
+
+Puesto que las medidas de "g" derivan de intercorrelaciones entre la competencia verbal y la espacial, un gen que está ligado a estos dos caracteres desempeñar alguna función en la capacidad cognitiva general; y viceversa.
+En un número reciente de Psychological Science , Plomin y sus colaboradores hacen público el descubrimiento del primer gen asociado con la capacidad cognitiva general.
+
+Aunque este hallazgo promueve el avance de nuestro conocimiento sobre la naturaleza de la cognición, es probable que reencienda el debate.
+
+¿Qué significa la heredabilidad? 
+
+El alcance de los registros de heredabilidad se interpreta a menudo de forma incorrecta.
+La heredabilidad es una medida estadística, que se expresa en términos de tanto por ciento, y des cribe el grado en el que los factores genéticos contribuyen a la variabilidad de un carácter de terminado en el seno de una población.
+
+El que los genes influyan en un carácter no significa, sin embargo, que "la biología sea determinista".
+La genética ha contribuido a confirmar la importancia de los factores ambientales, que suelen explicar la variabilidad del comportamiento humano en una cuantía pareja a la atribuida a la asignada a los genes.
+Si un 50 % de la inteligencia se hereda, otro tanto corresponder a los factores ambientales en la explicación de las diferencias entre individuos. 
+Aun cuando la genética tenga un peso notable, como en ciertos tipos de retraso mental, la implicación del entorno podría a menudo superar los "determinantes" genéticos.
+Sin ir m s lejos, los efectos devastadores de la fenilcetonuria, una enfermedad congénita que arrastra un retraso mental, pueden anularse con una dieta adecuada.
+
+Por último, el grado de heredabilidad de un carácter no es algo esculpido en roca.
+La influencia respectiva de genes y ambiente puede cambiar.
+Si los factores ambientales fueran casi idénticos para todos los miembros de una población hipotética, cualquier diferencia en la capacidad cognitiva en esa población tendría que atribuirse entonces a la genética, y la heredabilidad tendría valores cercanos al 100 por cien en lugar del 50 por cien.
+La heredabilidad describe lo que es, no lo que puede (o debería) ser.
+
+Figura 1
+
+LOS GEMELOS CONSTITUYEN SUJETOS IDEALES para investigar las capacidades cognitivas
+
+Las parejas de gemelos idénticos ( página precedente ) y no idénticos (abajo) que aparecen en las fotografías participan en nuestros estudios.
+Realizan una prueba de competencia espacial en la que deben reconstruir un bloque modular de pises con piezas de juguete.
+En este tipo de pruebas, que se ofrece a cada niño por separado, los resultados que obtienen los gemelos idénticos (con todos sus genes iguales) guardan un parecido mayor que los resultados de gemelos no idénticos (que comparten sólo la mitad de los genes), señal de que la herencia influye en la competencia espacial.
+
+Figura 2
+
+ENTRE LAS PRUEBAS de capacidades específicas a desarrollar por adolescentes y adultos se incluyen tareas similares a éstas
+
+Las pruebas calibran cada capacidad cognitiva de varias maneras; las pruebas múltiples se combinan para obtener una medida fiable de cada capacidad.
+(Las respuestas aparecen al final del articulo).
+
+Figura 3
+
+EN LOS ESTUDIOS CON GEMELOS IDENTICOS y no idénticos se examinan las correlaciones de competencia verbal y espacial
+
+Cuando los resultados de estudios distintos se comparan entre sí, se aprecia una notable influencia genética sobre las capacidades cognitivas de la infancia a la vejez; en todos estos grupos, los resultados obtenidos por gemelos idénticos guardan un mayor parecido mutuo que los de los gemelos no idénticos. 
+
+Figura 4
+
+SEGÚN EL PROYECTO DE ADOPCION de Colorado en competencia verbal ( arriba ) y espacial ( abajo ) los niños adoptados se asemejan a sus padres biológicos ( barras blancas )
+
+Lo mismo que los niños educados por sus padres biológicos( barras grises ). 
+Por contra, los niños adaptados no acaban pareciéndose a sus padres adoptivos (barras negras).
+A tenor de la investigación, el grueso del parecido familiar en las capacidades cognitivas deriva de actores génicos.
+
+Figura 5
+
+PUNTUACION en pruebas de lectura realizadas por gemelos
+
+Revela un nexo posible entre habilidades normales y disminuidas para la lectura.
+En un grupo de miembros de parejas de gemelos ( arriba ) elegidos al azar, un número restringido presentaba discapacidad para la lectura ( azul ).
+Los resultados obtenidos por los gemelos idénticos ( en medio ) y no idénticos ( abajo ) de niños con discapacidad para la lectura fueron inferiores a los del grupo seleccionado al azar, y los de los gemelos idénticos fueron peores que los de los gemelos no idénticos.
+Los factores génicos se hallan, pues, implicados en la discapacidad para la lectura.
+Los mismos genes que influyen en la discapacidad podrían esconderse tras las diferencias en la capacidad normal para la lectura.
+
+Figura 6
+
+DOS MODELOS que ilustran la responsabilidad de la genética en la discapacidad para la lectura
+
+Según la hipótesis clásica (arriba), basta una variante (arriba), o alelo, de un gen para causar el trastorno; quien porte dicho alelo estar discapacitado para la lectura (gráfico).
+Pero los datos abonan una explicación distinta (abajo):
+un alelo solo es inca paz de producir la discapacidad.
+Pero variantes de genes múltiples si pueden actuar de forma conjunta para mermar el rendimiento y aumentar el riesgo de discapacidad. 

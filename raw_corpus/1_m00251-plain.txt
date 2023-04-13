@@ -1,0 +1,242 @@
+
+Microsatélites de ADN
+
+Las secuencias repetitivas de ADN desempeñan un papel destacado en la adaptación de las bacterias a los ambientes donde medran.
+¿Cumplen una función similar en organismos superiores?
+
+El código genético humano está constituido por unos 3000 millones de bases de ADN.
+Sólo de un 10 a un 15 por ciento de esas bases forman parte de los genes, los planos maestros que la célula utiliza para construir sus proteínas.
+A otras secuencias de pares de bases les competen - en el hombre y otros muchos organismos- funciones muy importantes; por ejemplo, promover la activación o inactivación de los genes y mantener unidos los cromosomas. 
+Queda una buena parte del ADN sin manifiesta misión obvia.
+Algunos la llaman «chatarra».
+
+En ese «ADN chatarra» hay secuencias de características singulares, agrupadas bajo la denominación común de ADN satélite.
+Lo forman, en efecto, secuencias repetitivas de las cuatro bases del ADN-adenina ( A ), citosina ( C ), guanina ( G ) y timina ( T )-, en diversa combinación y repetidas en una suerte de tartamudeo.
+Los microsatélites, que contienen las repeticiones más cortas, encierran un interés muy superior al que cabría deducir de su tamaño, realizan funciones múltiples y sorprendentes. 
+
+Se hace cada vez más patente que la naturaleza repetitiva del ADN microsatélite le capacita para crecer o disminuir en longitud y que estos cambios pueden acarrear consecuencias buenas o malas para los organismos portadores.
+
+En determinadas bacterias patógenas las secuencias repetitivas promueven la aparición de propiedades nuevas que capacitan a esos microorganismos para sobrevivir ante cambios del entorno potencialmente letales.
+Es probable que algunos microsatélites ejerzan efectos importantes en el hombre, pues hay en el genoma humano- el conjunto del ADN de cada una de nuestras células- unos 100.000.
+Hasta la fecha, la única misión asignada a los microsatélites del hombre es negativa; causan diversas enfermedades neurológicas. 
+Sin embargo, podrían ser restos supervivientes de procesos evolutivos que desembocaron en la conformación de nuestra especie.
+
+Mientras unos indagan los motivos de la cuantiosa presencia de ADN repetitivo en el hombre, otros se apoyan en los microsatélites para el diagnóstico de enfermedades neurológicas y para la detección de personas en riesgo de padecerlas. 
+Se está comprobando que los microsatélites cambian de longitud en fases precoces de ciertos cánceres, lo que les convierte en valiosos marcadores para el diagnóstico precoz de tales patologías.
+Y puesto que la longitud de los microsatélites varía de una persona a otra, en ellos comienzan a apoyarse la identificación de criminales y la determinación de la paternidad.
+A este procedimiento se le denomina «identificación dactilar por ADN»(«fingerprinting»). 
+
+En los años sesenta se conoció el primer ADN satélite.
+Se descubrió que, cuando se centrifugaba ADN en determinadas condiciones, el ácido nucleico se disponía en dos o más capas:
+una banda o estrato principal, que contenía los genes, y bandas secundarias, o bandas satélites.
+Las bandas satélites constaban de secuencias muy largas de ADN repetitivo. 
+En 1985 Alec J., Jeffreys encontró otras regiones más cortas de ADN repetitivo; tales minisatélites - así los llamó - eran zonas repetidas de 15 o más bases. (El grupo de Jeffreys determinó que el número de repeticiones en un minisatélite difería de un individuo a otro, y en ello basó su diseño de la técnica de la identificación por ADN.) A finales de los ochenta, James L., Weber y Paula L., May, por un lado, y Michael Litt y Jeffrey A., Lutty, por otro, aislaron satélites constituidos por zonas repetitivas de ADN menores incluso.
+Los denominaron microsatélites.
+Se han mostrado muy eficaces para la identificación de las personas por ADN.
+
+Se admite que el ADN microsatélite está constituido por secuencias de hasta unos seis pares de bases, iterados y unidos en secuencia continua.
+Debe su interés especial en los procesos evolutivos a una altísima tasa de mutación: 
+la probabilidad de que un microsatélite adquiera o pierda, de una generación a la siguiente, una de las regiones repetidas multiplica 10.000 veces la probabilidad de que tal ocurra en el gen responsable de la anemia falciforme, en el que la mutación de una base da lugar a la enfermedad. 
+Y si es raro que esa mutación singular de la anemia falciforme revierta el gen a su estado inocuo, no puede predicarse lo mismo de los microsatélites, que vuelven sin problema a sus longitudes previas, incluso a las pocas generaciones.
+
+En 1986 el grupo de Thomas F., Meyer sacaba a la luz la función de los microsatélites en las bacterias patógenas.
+El equipo de Meyer investigaba Neisseria gonorrhoeae , la bacteria causante de la gonorrea, una enfermedad de transmisión sexual.
+N. gonorrhoeae , unicelular, posee una familia de hasta 12 proteínas de la membrana externa determinadas por genes Opa . (Les viene el nombre de la «opacidad» que presentan las colonias bacterianas que sintetizan proteínas Opa.) Merced a las proteínas Opa, la bacteria se adhiere e invade a las células epiteliales - las que tapizan el tracto respiratorio- y los fagocitos, células del sistema inmunitario.
+Cada gen Opa contiene un microsatélite compuesto por múltiples copias de un motivo de cinco bases, CTCTT .
+
+El enorme potencial de variación que arrastran las repeticiones de los microsatélites obedece a su proclividad a equivocarse en la replicación del ADN; cometen un error frecuente: el desajuste por deslizamiento entre secuencias complementarias. 
+Antes de que una célula - bacteriana o de otro tipo- se divida, ha de duplicarse su ADN.
+En este proceso complicado, cada molécula de ADN es una doble hélice en escalera de caracol, cuyos peldaños corresponden a los pares de bases.
+El código genético se escribe con las bases de un lado de la escalera; las del otro lado son complementarias ( A siempre se empareja con T , y C con G ).
+
+Durante la replicación del ADN,la escalera se parte por la mitad de cada peldaño; se separan los pares de bases al alejarse ambas cadenas helicoidales.
+Las ADN polimerasas copian cada una de las hebras.
+Mientras se va construyendo la nueva hebra, ésta se empareja con la que le sirve de molde.
+Pueden darse errores de replicación por corrimiento cuando la hebra vieja, el molde o la hebra que se está formando se deslizan y establecen un emparejamiento inadecuado con la zona repetitiva de la otra hebra.
+Este deslizamiento es la causa de que la ADN polimerasa añada o elimine una o más copias de las zonas repetitivas de la nueva hebra de ADN.
+
+La frecuencia de este mecanismo de deslizamiento alcanza valores altos en N. gonorrhoeae .
+En cada tanda de división bacteriana, de cada 100 o 1000 células hijas habrá una que porte una mutación que modifica el número de repeticiones de CTCTT .
+Esta modificación puede ejercer efectos drásticos sobre los genes Opa , porque la información genética se interpreta en «palabras» de tres bases, los codones.
+Las proteínas son ristras de aminoácidos y cada codón determina qué aminoácido ha de incorporarse en la cadena proteica.
+Como la secuencia repetitiva no está constituida por tres bases, un aumento o una disminución del número de estas secuencias desplaza el significado de los codones subsiguientes.
+
+En el caso de los genes Opa , la delación de una secuencia CTCTT conduce a la producción de una proteína recortada.
+No podrá ya adherirse a la célula hospedadora; en consecuencia, la bacteria portadora de la proteína acortada queda incapacitada para penetrar en las células.
+Pero el deslizamiento subsecuente abre la posibilidad de recuperar la zona repetitiva, permitiendo, por tanto, al gen Opa producir de nuevo una proteína funcional.
+
+Conocido por variación de fase, este cambio reversible se da en muchas bacterias causantes de enfermedades.
+Con los cambios alternativos que llevan a la conexión y desconexión de los genes Opa de una generación a otra, N. gonorrhoeae incrementa sus posibilidades de supervivencia.
+Hay momentos en que al microorganismo le conviene adherirse a la célula hospedadora y penetrar en ella.
+Tal acontece cuando la bacteria se propaga y llega a un nuevo huésped.
+En otras ocasiones le resulta a ésta más ventajoso no interaccionar con la célula huésped; en particular si se trata de fagocitos, que destruyen las bacterias tras atraparlas en su interior.
+
+Las implicaciones del emparejamiento incorrecto por deslizamiento y su relación con la capacidad para modificar las moléculas de superficie se han estudiado in extenso a propósito de la bacteria Hemophilus influeuzae .
+Las células del tipo b de esta bacteria pueden provocar una meningitis infecciosa que afecta al cerebro y puede resultar letal.
+Hasta la introducción de la vacuna a finales de los ochenta, uno de cada 750 infantes menores de cinco años contraía la meningitis por H. influenzae .
+
+La membrana externa del H. influenzae está festoneada con moléculas de lípidos y azúcares unidas entre sí para formar un lipopolisacárido ( LPS ).
+Una parte del LPS , el colín-fosfato, facilita la adhesión de H. influenzae a las células de la mucosa de la nariz y de la garganta, donde la bacteria se instala sin producir síntomas.
+Al menos tres de los genes requeridos para la síntesis del LPS contienen microsatélites construidos a partir de la secuencia de cuatro bases CAAT .
+Igual que sucede con los genes Opa de Neisseria gonorrhoeae , los cambios aquí en el número de repeticiones de CAAT pueden hacer que el H. influenzae sintetice LPS dotado de colín-fosfato o sin él.
+
+Jeffrey N., Weiser ha demostrado que las cepas de H. influenzae que tienen colín-fosfato ( ChoP ) en sus moléculas de LPS , las cepas ChoP+ , colonizan nariz y garganta de un modo más eficaz que las cepas que carecen de ella, las cepas ChoP- .
+Sin el colín-fosfato, la bacteria resiste mejor la agresión letal de factores diversos vehiculados por la sangre del huésped y otros líquidos tisulares. 
+Las células bacterianas pueden alternar entre los dos estados, según se encuentren sin obstáculos para medrar en el tracto respiratorio o se estén difundiendo por la sangre hacia otros lugares, donde pueden sufrir el ataque del sistema inmunitario.
+
+La mayoría de las bacterias de H. influenzae aisladas de humanos son variantes ChoP+ , sensibles al ataque inmunitario.
+Las variantes ChoP- surgen de los emparejamientos incorrectos producidos en el deslizamiento; no persisten habitualmente en el tracto respiratorio, pues se adhieren a las células huésped sin la fuerza de las cepas ChoP+ .
+Ahora bien, si el huésped contrae una infección vírica y se produce una inflamación de la mucosa nasal, se refuerza la exposición de las bacterias a las proteínas defensivas del sistema inmunitario del huésped. 
+En ese caso, las variantes ChoP- tendrían ventaja para repeler el ataque.
+Una vez que la infección vírica remite, las mutantes ChoP+ generadas por ulteriores emparejamientos defectuosos del ADN microsatélite tornarán a predominar.
+
+Este tipo de genes que se activan o inactivan sin problemas se cobijan bajo la denominación común de genes de contingencia; capacitan, por lo menos a unas cuantas bacterias de una determinada población, para adaptarse a los avatares o riesgos de un nuevo escenario.
+Entre los rasgos codificados por los genes de contingencia no podemos omitir los que gobiernan el reconocimiento inmunitario, la motilidad general, el movimiento hacia las señales químicas (quimiotaxis), la unión a las células huésped y su ulterior invasión, la adquisición de nutrientes y la sensibilidad a los antibióticos. 
+Los genes de contingencia, que representan una fracción muy pequeña del ADN de una bacteria, le confieren una gran flexibilidad en su funcionamiento.
+Si sólo 10 de los 2000 genes de una bacteria típica son genes de contingencia, por ejemplo, la bacteria podría dar lugar a 210, es decir 1024, combinaciones diferentes de genes «activos» o «inactivos».
+Esta diversidad asegura que al menos una bacteria de la población pueda sobrevivir al ataque inmunitario del huésped o a la acción de otras defensas, para replicarse luego y fundar una nueva colonia. 
+
+La inducción de la enfermedad - que se torna en su contra al destruir el huésped que le permite vivir- podría ser parte del precio que las bacterias pagan por disfrutar de esa capacidad de generar tantas variantes.
+Una de las variantes puede aventurarse allende su nicho ecológico habitual en el tracto respiratorio o el intestino y desencadenar una infección potencialmente letal en otra región del organismo.
+Habida cuenta de que tal sucede sólo en contadas ocasiones, las ventajas que los genes de contingencia aportan a la pervivencia de una especie bacteriana superan los inconvenientes de destruir algunos huéspedes.
+
+Los microsatélites de estas bacterias son auténticas adaptaciones evolutivas.
+Es poco probable que secuencias repetitivas tan singulares surgieran al azar; aparecerían, y se han conservado, porque capacitan a las poblaciones bacterianas para una pronta adaptación a los cambios del entorno. 
+
+Pese a su interés, diríase que los genes de contingencia se circunscriben a las bacterias.
+En los eucariotas, nosotros mismos, cuyas células contienen un núcleo, los microsatélites cumplen otras misiones. 
+Ninguno de los microsatélites eucariotas identificados hasta la fecha ha logrado, que se sepa, liar el ADN para que determine proteínas no funcionales.
+Se sitúan fuera de los genes, salvo un 10 por ciento que cae en su interior. 
+De este 10 por ciento, casi todos pertenecen a los tripletes repetidos, que tienden a extenderse o a contraerse en tríos de bases.
+Igual que al añadir el artículo «las» o al suprimir el artículo «los» de una frase no se pierde por lo común el sentido, de modo similar estas repeticiones pueden iterarse o perderse sin perturbar el mensaje del gen.
+Por tener la misma longitud que un codón, podrían dar lugar a la inserción o delación de unos cuantos aminoácidos repetidos sin que se alterase la secuencia de todos los demás de la ristra.
+
+¿Qué funciones desempeñan, pues, los microsatélites en los organismos superiores?
+Se sospecha que algunos al menos tienen su cometido.
+Los eucariotas poseen más microsatélites que las bacterias y muchos de ellos suelen estar alojados cerca o dentro mismo de genes implicados en vías reguladoras de procesos fundamentales. 
+Sin embargo, hasta el momento sólo disponemos de pistas dispersas acerca de su posible tarea.
+
+Los contados efectos cuya pista se ha podido seguir y atribuir a microsatélites eucariotas son, por lo general, nocivos. 
+Así la enfermedad de Huntington, una afección neurodegenerativa grave caracterizada por la aparición tardía de demencia y pérdida progresiva del control motor.
+Esta patología se dispara con la intervención de un gen defectuoso que codifica una proteína de gran tamaño, la huntingtina, de función desconocida. 
+El gen normal contiene un microsatélite largo, constituido por repeticiones de tripletes, que añade una ristra de glutaminas cerca del extremo inicial de la proteína. 
+
+El número de glutaminas del extremo inicial de la huntingtina varía de 10 a 30.
+Pero las personas con Huntington portan un microsatélite que codifica una ristra de glutaminas excesivamente larga, de hasta 36 unidades o más.
+Basta la herencia de una copia del gen defectivo - la paterna o la materna- para dictaminar la enfermedad.
+Se ignora en virtud de qué mecanismo esa ristra de glutaminas repetidas insta la patogénesis.
+
+Hay una docena larga de enfermedades asociadas a tripletes repetitivos; la mayoría son neuropatías raras. 
+Casi la mitad de los microsatélites desencadenantes se alojan en el interior de un gen; en su mayoría, cifran glutaminas.
+El resto se encuentra cerca de genes y pueden condicionar la función de éstos.
+
+Neuropatía inhabitual es la atrofia muscular bulboespinal, provocada por la extensión de un microsatélite en el interior de un gen del cromosoma X.
+El gen en cuestión determina un receptor de un andrógeno, hormona sexual masculina.
+Los individuos con 40 0 más repeticiones de estos tripletes en una parte de uno de los genes de receptores de andrógenos acabar n desarrollando la enfermedad.
+Un grupo dirigido por E.,L., Yong ha ido más lejos, demostrando que, cuando estas repeticiones son ligeramente más largas que lo normal, se presentan complicaciones clínicas.
+Los varones con entre 28 y 40 repeticiones en la parte del gen del receptor codificadora de glutaminas son con frecuencia infértiles. 
+
+Pero una cifra baja de repeticiones en el receptor de andrógenos acarrea también consecuencias adversas.
+Se ha revelado que los varones con 23 o menos repeticiones son más proclives a padecer cáncer de próstata, aunque se trata de casos bastante raros.
+
+¿Por qué tenemos todas estas bombas de relojería alojadas en nuestro genoma?
+Es llamativo que las enfermedades relacionadas con tripletes repetitivos afecten al dominio nervioso y ninguno de dichos tripletes se dé en el chimpancé y otros primates.
+Si este tipo de enfermedades resulta privativo de la especie humana, podría representar el tributo genético que hemos tenido que pagar por la evolución vertiginosa de nuestro cerebro.
+Es posible que microsatélites largos. en medió de genes determinados o en su vecindad, condicionen la función del cerebro; por cuya razón persistieron quizá durante la evolución, aun cuando se extiendan alguna vez en exceso y sean causa de enfermedad. 
+
+Hilvanando un razonamiento teórico, Wills, uno de los autores, propuso en 1989 que algunos genes habrían adquirido capacidad para evolucionar.
+Según esa hipótesis, en un ambiente que fluctúe de un modo predecible- hacia mayor calor o hacia una situación de frío mayor- la posesión de un mecanismo genético de ágil adaptación tendría ventajas.
+Los genes de contingencia de las bacterias constituyen ejemplos excelentes de genes con capacidad evolutiva.
+Merced a una frecuente mutación hacia delante y hacia atrás, las bacterias se adaptan presto a cambios ambientales predecibles y revierten a las condiciones previas cuando reaparece la situación de entonces.
+
+Tal vez los microsatélites eucariotas ejercen una forma más sutil de regulación que la que proporcionan a las bacterias sus genes de contingencia.
+En el hombre los microsatélites alojados en medio de genes afectan a la velocidad de producción de ciertas proteínas, desde la que acompaña al pigmento biliar bilirrubina a determinados neurotransmisores, sustancias químicas que transmiten mensajes entre neuronas.
+Para David G., King, estos microsatélites constituirían una suerte de «botones de ajuste fino», que habrían evolucionado actuando como reóstatos de la función del gen, reforzando la síntesis de una proteína en unos casos frenándola en otros.
+
+El grupo de Walter Schaffner ha demostrado que la adición de microsatélites que añaden hileras de glutaminas o prolinas (otro aminoácido) en el comienzo de un determinado gen puede incrementar su capacidad para producir proteína. 
+Tal vez, por ser menos perturbadora que la conmutación de los genes de contingencia, esta forma de regulación génica emergió durante la evolución de organismos pluricelulares complejos.
+
+Han comenzado los primeros sondeos sobre las funciones desempeñadas por los microsatélites en nuestra especie.
+Estas secuencias repetitivas, con su capacidad de cambiar rápidamente entre un número limitado de estados, nos ofrece una pista nueva para conocer nuestro poder de adaptación al cambio ambiental, a imagen de lo realizado por los genes de contingencia en bacterias.
+
+Figura 1
+
+EL MICROSATÉLITE ( región resaltada )ilustrado consta de una secuencia de unidades de ADN o bases - CAAT (citosina- adenina -adenina -timina)- que se repite cinco veces
+
+Cada secuencia de CAAT se empareja con su complementaria GTTA (guanina-timina-timina-adenina) en la hebra opuesta de la escalera de ADN.
+Las secuencias repetitivas, o motivos, pueden contener en los microsatélites hasta seis bases, y cada secuencia puede aparecer en múltiples copias.
+
+Errores en la formación de pares por culpa del deslizamiento
+
+En este proceso, el número de repeticiones de microsatélites aumenta o disminuye cuando una célula copia su ADN antes de dividirse.
+Durante la replicación del ADN (a) las enzimas que constituyen el complejo de la ADN polimerasa abren la doble hélice parental de ADN y copian ambas hebras. 
+Una de las copias se fabrica de retales:
+el complejo de la polimerasa sintetiza un fragmento corto (1) comenzando por el cebador de ARN después salta hacia delante para generar un segundo fragmento también corto (2).
+Cuando la polimerasa termina la síntesis de este segundo fragmento, se elimina el cebador de ARN, y los dos fragmentos establecen contacto con ADN.
+Se produce un aumento del número de secuencias repetitivas de microsatélites (b) cuando la nueva hebra se desliza hacia atrás sobre una de las repeticiones en la hebra molde; ello determina que la polimerasa agregue una repetición extra en la nueva hebra para llenar el hueco.
+Se acorta (c) cuando la hebra vieja se desliza, dando lugar a que las enzimas de reparación eliminen una repetición.
+
+- REPLICACIÓN DEL ADN
+- AUMENTO DE REPETICIONES
+- DISMINUCIÓN DE REPETICIONES
+
+En busca de papá Chimpancé 
+
+Se ha recurrido a microsatélites de ADN para identificar criminales a través del análisis de las huellas nucleotídicas.
+Se emplean también esas secuencias para conocer la vida sexual de los animales, en el marco de programas conservacionistas de especies en peligro de extinción. 
+La huella de ADN, peculiar de cada individuo, revela que la longitud de las secuencias nucleotídicas de los microsatélites difiere en cada persona.
+Se obtienen esas huellas mediante enzimas especiales, que permiten fabricar millones de copias exactas de varios microsatélites de un individuo.
+Luego, en un gel se separan las copias en razón del tamaño.
+Se configura así un patrón de bandas, similar al código de barras. 
+
+Pascal Gagneux, David S., Woodruff y Christophe Boesch han empleado microsatélites de ADN como trazadores para sondear los hábitos de apareamiento de un grupo de chimpancés del bosque Taï de Costa de Marfil.
+Han recogido pelos de los nidos que cada animal se construye en la copa de los árboles, donde se refugian para dormir. 
+De las raíces de estos pelos se ha extraído ADN y determinado sus huellas características.
+Al comparar las huellas de los microsatélites de ADN de hembras y machos adultos con los de 13 crías, Gagneux, Woodruff y Boesch han observado que siete crías no hablan sido engendradas por machos pertenecientes al grupo.
+Aunque los investigadores nunca vieron esos encuentros furtivos entre las hembras y machos de bosques vecinos.
+
+Estas aventuras nocturnas podrían explicar la diversidad genética mostrada incluso por grupos reducidos de chimpancés. 
+La diversidad refuerza la resistencia frente a enfermedades y favorece, sin duda, la pervivencia.
+
+Es probable que la conservación de la variedad sea esencial para la supervivencia de las poblaciones de chimpancés en libertad.
+Por desgracia, a medida que estas poblaciones se fragmentan y las distancias que las separan son mayores, la capacidad de las hembras para encontrarse con machos de otros grupos e introducir nuevos genes en sus grupos queda drásticamente recortada.
+
+Figura 2
+
+LAS HEMBRAS DE CHIMPANCE, como ésta que aparece aquí con su cría, hacen frecuentes escapadas furtivas para aparearse con machos pertenecientes a otros grupos, según se deduce de estudios con huellas de ADN de microsatélites 
+
+Detección del cáncer 
+
+El ADN microsatélite puede convertirse muy pronto en un poderoso condicionante de nuestra vida.
+Con su ayuda podrá afinarse en la detección precoz del cáncer.
+Las pruebas capaces de descubrir mutaciones en genes cuya alteración predispone al cáncer, pensemos en el p53 y el ras , se emplean ya para detectar hasta una célula maligna en medio de 10.000 normales.
+Pero las mutaciones en estos genes ni se dan en todos los tipos de cáncer, ni en todos los cánceres de un mismo tipo.
+
+Los microsatélites ofrecen una nueva posibilidad para la detección precoz del cáncer.
+En efecto, la tasa de expansión o de contracción de microsatélites en las células se dispara en ciertas formas tumorales.
+Estos cambios repentinos ponen en jaque muchos microsatélites diferentes, fenómeno que puede detectarse con bastante facilidad.
+Con dicho enfoque se descubre ahora una célula cancerosa entre 500 normales. 
+
+Fue Manuel Perucho quien descubrió en 1993 los cambios operados en los microsatélites de células cancerosas en el marco de una investigación de un tipo de cáncer de colon, hereditario, que no se acompaña de la formación de pólipos.
+Perucho observó que muchos de los microsatélites de las células cancerosas eran o más largos o más cortos que los de las células normales del mismo paciente.
+No tardó en demostrarse que uno de los defectos causantes de estas alteraciones se encontraba en un gen determinante de una enzima cuya función era corregir la longitud de los microsatélites que se extienden o menguan durante la replicación del ADN.
+La pérdida de este gen funcional habría de conducir a un aumento de la probabilidad de que los errores quedaran sin corregir. 
+
+La prueba se completó cuando Richard C., Boland y otros insertaron un cromosoma humano portador de un gen normal reparador de ADN en células cancerosas cultivadas.
+Observaron que el gen insertado corregía la tendencia a matar que presentaban los microsatélites de células cancerosas.
+Más, por muy sorprendentes que parezcan estos hallazgos, la inestabilidad de los microsatélites puede constituir un síntoma, no la causa del cáncer. 
+Aunque los ratones en que se ha eliminado el gen que codifica una de las principales proteínas reparadoras de emparejamientos incorrectos de ADN viven poco y adquieren diversos tipos de cáncer, ninguna de las células malignas muestra niveles elevados de mutaciones en los microsatélites. 
+Según parece, este tipo de alteraciones forma parte de los cambios genéticos que se suceden en cascada a lo largo del genoma celular, una vez incoado el proceso de carcinogénesis; ello significa que podría tratarse de productos secundarios del proceso carcinogenético y no de agentes que intervinieran en su desarrollo.
+
+Ahora bien, esas asociaciones se dan con suficiente frecuencia. 
+Y los clínicos empiezan a servirse de la inestabilidad de los microsatélites como un nuevo y poderosos instrumento para la detección precoz del cáncer de colon y de vejiga.
+Las pruebas clínicas se han visto coronadas por el éxito, lo que explica la voluntad de llevar su aplicación a otros tipos de cáncer.
+De momento, ninguna de esas pruebas ha salido todavía de los muros de los laboratorios.
+A medida que los clínicos adquieran experiencia con estos patrones, podrá diagnosticarse el cáncer antes y contar con datos más fiables del tipo de cáncer en razón del patrón de microsatélite.
+
+Figura 3
+
+PRUEBA para la detección del cáncer, que descubre los cambios de longitud de microsatélites; por ejemplo, los formados por repeticiones de la secuencia CA 
+
+Las células pulmonares normales ( izquierda ) condenen regiones repetitivas de dos longitudes diferentes- una heredada de la madre y otra del padre del individuo- que pueden separarse en un gel, de acuerdo con el tamaño. 
+Los tumores tempranos, así el adenoma de pulmón ( derecha ), constan de células normales y células cancerosas, que pueden detectarse porque sus microsatélites se han acortado o alargado y dan más de dos bandas en un gel.

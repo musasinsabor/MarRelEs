@@ -1,0 +1,991 @@
+
+Biología celular básica: estructura y función de los genes y los cromosomas
+
+Todas las enfermedades genéticas implican defectos a nivel celular.
+Por este motivo, para comprender la enfermedad genética es necesario conocer la biología celular básica.
+Los errores pueden producirse en la replicación del material genético o durante la traducción de los genes en proteínas.
+Estos errores suelen provocar trastornos causados por un único gen.
+Además, los errores producidos durante la división celular pueden dar lugar a trastornos que afectan cromosomas enteros.
+Con el fin de proporcionar las bases para el conocimiento de estos errores y de sus consecuencias, el presente capítulo se centra en los procesos de replicación de los genes y de su traducción en proteínas, así como en el proceso de división celular.
+
+Durante el siglo XIX, los estudios microscópicos de las células suscitaron la sospecha en los científicos de que el núcleo de la célula (figura, 2-1) contenía los mecanismos importantes para la herencia.
+Descubrieron que la cromatina , la sustancia que proporciona al núcleo su aspecto granular, puede observarse en los núcleos de las células cuando éstas no se dividen.
+
+Inmediatamente antes de que una célula experimente la división, la cromatina se condensa formando unos corpúsculos oscuros separados, denominados cromosomas (del griego corpúsculos teñidos ).
+Con el redescubrimiento de los experimentos de Mendel sobre la herencia, a principios de este siglo, pronto se puso de manifiesto que los cromosomas contenían genes .
+Los genes se transmiten de padres a hijos y se los considera la unidad básica de la herencia.
+Por la transmisión de los genes se heredan los rasgos físicos, como el color de los ojos, en las familias.
+Mediante la herencia genética también pueden transmitirse enfermedades.
+
+Los genes están formados por ácido desoxirribonucleico (DNA) .
+
+El DNA aporta el «molde» para todas las proteínas del cuerpo.
+De este modo, los genes incluyen finalmente en todos los aspectos de la estructura y la función del cuerpo.
+Se calcula que el organismo humano tiene entre 50.000 y 100.000 genes estructurales (genes que codifican las proteínas).
+La existencia de un error (o mutación ) en uno de estos genes origina a menudo una enfermedad genética identificable. 
+Hasta la fecha, se han identificado unos 5.700 rasgos por un único gen y la mayoría corresponde a procesos patológicos (tabla 1-1).
+
+Los genes, la unidad básica de la herencia, están contenidos en los cromosomas y están formados por DNA.
+
+Cada célula somática humana (células distintas a los gametos , es decir, espermatozoides y óvulos) contiene 23 pares de cromosomas diferentes, con un total de 46 cromosomas.
+Un miembro de cada par procede del padre y el otro de la madre. 
+Uno de los pares de cromosomas está formado por los cromosomas sexuales .
+Los varones normales tienen un cromosoma Y heredado del padre y un cromosoma X heredado de la madre.
+
+En las mujeres normales se encuentran dos cromosomas X, uno heredado de cada progenitor.
+Los otros 22 pares de cromosomas se denominan autosomas .
+Los miembros de cada par de autosomas se consideran homólogas , puesto que su DNA es muy similar.
+Los cromosomas X e Y no son homólogos entre sí. 
+
+Las células somáticas, que tienen 2 cromosomas de cada tipo, se denominan células diploides .
+Los gametos tienen el número haploide de cromosomas, 23.
+El número diploide de cromosomas se mantiene constante en las generaciones sucesivas de células somáticas mediante el proceso de mitosis , mientras que el número haploide se obtiene mediante un proceso conocido por meiosis.
+Ambos procesos se estudiarán con detalle en la parte final de este capítulo. 
+
+Las células somáticas son diploides, y tienen 23 pares de cromosomas (22 autosomas un par de cromosomas sexuales).
+Los gametos son haploides, con un total de 23 cromosomas.
+
+Figura 2-1
+
+Anatomía de la célula 
+
+DNA, RNA Y PROTEÍNAS: HERENCIA A NIVEL MOLECULAR DNA
+
+Composición y estructura del DNA
+
+La molécula de DNA está formada por tres componentes básicos: desoxirribosa, un azúcar de tipo pentosa; un grupo fosfato, y cuatro tipos de bases nitrogenadas (así denominadas porque pueden combinarse con iones hidrógeno en soluciones ácidas). 
+Dos de las bases, la citosina y la timina , son anillos simples de carbono-nitrógeno denominados pirimidinas .
+Las otras dos bases, la adenina y la guanina , son anillos dobles de carbono-nitrógeno denominados purinas (figura, 2-2).
+Se suele representar a las cuatro bases por sus primeras letras: C, T, A y G.
+
+Una de las contribuciones de Watson y Crick fue la demostración del modo en que los tres componentes se unen físicamente para formar el DNA.
+Estos investigadores propusieron el ahora famoso modelo de doble hélice , en que se puede contemplar el DNA como una escalera de mano retorcida con enlaces químicos formando sus peldaños (figura 2-3).
+Los dos lados de la escalera de mano están formados por los componentes fosfato y azúcar, que se mantienen unidos por fuertes puentes fosfodiéster.
+Saliendo de cada lado de la escalera, a intervalos regulares, se encuentran las bases nitrogenadas.
+Las bases proyectadas a cada lado se unen entre sí por un puente de hidrógeno relativamente débil.
+De este modo, Las bases nitrogenadas emparejadas forman los peldaños de la escalera.
+
+En la figura 2-3 (pág. 10) se muestran los enlaces químicos entre las bases, observándose que los extremos de la escalera finalizan en 3' o 5.
+Estos signos proceden del orden en que se numeran los cinco átomos de carbono que componen la desoxirribosa.
+Cada subunidad de DNA, formada por una desoxirribosa, un grupo fosfato y una base, se denomina nucleótido .
+
+Como veremos, secuencias diferentes de bases nucleótidas (por ejemplo xxx ) especifican proteínas diferentes.
+La especificación del gran número de proteínas del organismo requiere una gran cantidad de información genética.
+En realidad, cada célula humana contiene aproximadamente tres mil millones de nucleótidos, una información más que suficiente para especificar la composición de todas nuestras proteínas.
+
+Las cuatro bases nucleótidas, la adenina, la timina, la citosina y la guanina son las constituyentes más importantes del DNA.
+El DNA tiene una estructura en doble hélice.
+
+Figura 2-2
+
+Estructura química de las cuatro bases, mostrando los puentes de hidrógeno entre los pares de bases
+
+Entre los pares citosina-guanina se forman tres puentes de hidrógeno y entre los pares adenina- timina se forman dos.
+
+Replicación del DNA
+
+Cuando las células se dividen para efectuar copias de sí mismas deben efectuarse copias idénticas del DNA que se incorporan a las nuevas células.
+Este proceso es esencial para que el DNA sirva como material genético básico.
+La replicación del DNA consiste, básicamente, en la rotura de los débiles puentes de hidrógeno entre las bases, dejando un único filamento (o cadena) de DNA con cada una de sus bases desemparejadas.
+El emparejamiento constante de adenina con timina y de guanina con citosina, conocido como emparejamiento de bases complementarias , es la clave de la replicación exacta.
+El principio de emparejamiento de bases complementarias dictamina que una base no emparejada atraerá un nucleótido libre sólo si éste posee la base complementaria apropiada.
+Por lo tanto, una porción de filamento único con la secuencia de bases ATTGCT se unirá a una serie de nucleótidos libres que tengan las bases TAACGA.
+Se dice que el filamento único es un molde sobre el cual se construye un filamento complementario.
+Cuando finaliza la replicación se ha formado una nueva molécula de dos filamentos idéntica al original (figura 2-4, página, 10).
+
+Varias enzimas diferentes intervienen en la replicación del DNA.
+Una enzima desenrolla la doble hélice, otra mantiene separados los filamentos y otras enzimas efectúan funciones diferentes.
+La DNA-polimerasa es una de las enzimas fundamentales del proceso de replicación. 
+Recorre el trayecto del filamento aislado de DNA añadiendo nucleótidos libres al extremo 3' del nuevo filamento. 
+Los nucleótidos sólo pueden añadirse a este extremo del filamento, de modo que la replicación sólo tiene lugar desde el extremo 5' hacia el extremo 3'.
+Cuando nos referimos a la orientación de las secuencias a lo largo de un gen, la dirección 3'? 5'se denomina «contracorriente», y la dirección 5'? 3' se denomina «a favor de la corriente».
+
+Junto a la adición de nuevos nucleótidos, la DNA-polimerasa efectúa parte de un proceso de corrección de pruebas , en el que se examina al nucleótido recién añadido para asegurar que en realidad sea complementario a la base de molde.
+Si no lo es, el nucleótido es rechazado y sustituido por una base nucleótida complementaria correcta.
+Este proceso mejora sustancialmente la precisión de la replicación de la molécula de DNA.
+Cuando un error de replicación del DNA no se repara con éxito, se produce una mutación.
+Como veremos en el capítulo 3, muchas mutaciones de este tipo provocan enfermedades genéticas.
+
+La replicación del DNA depende fundamentalmente del principio de emparejamiento de bases complementarias.
+Ello permite que un filamento único de la molécula de DNA de doble filamento forme un molde para la síntesis de un nuevo filamento complementario.
+
+La tasa de replicación del DNA en humanos, cercana a 40-50 nucleótidos por segundo, es comparativamente lenta. 
+Las bacterias tienen una velocidad muy superior, alcanzando entre 500 y 1.000 nucleótidos por segundo.
+Dado que algunos cromosomas humanos poseen incluso 250 millones de nucleótidos, la replicación seria un proceso extraordinariamente lento si procediese de forma lineal de un extremo al otro del cromosoma (para un cromosoma de este tamaño, un solo proceso de replicación necesitaría casi 2 meses).
+En realidad, la replicación se inicia en muchos puntos diferentes a lo largo del cromosoma, denominados orígenes de replicación .
+Las múltiples separaciones resultantes de los filamentos de DNA se denominan burbujas de replicación (figura, 2-5). 
+Al producirse de forma simultánea en lugares diferentes del cromosoma, el proceso de replicación puede efectuarse más rápido.
+
+Las burbujas de replicación permiten que la replicación del DNA tenga lugar en múltiples localizaciones del cromosoma, acelerando en gran medida el proceso de replicación.
+
+Figura 2-3
+
+Doble hélice del DNA, con su esqueleto de azúcar-fosfato y bases nitrogenadas
+
+Figura 2-4
+
+Replicación del DNA
+
+Se rompen los puentes de hidrógeno entre los dos filamentos original, permitiendo que las bases en cada filamento se sometan a un emparejamiento de bases complementarias con bases libres.
+Este proceso, que se lleva a cabo de 5'? 3' en cada filamento, forma dos nuevos filamentos dobles de DNA.
+
+De los genes a las proteínas
+
+Mientras que el DNA se forma y replica en el interior del núcleo de la célula, la síntesis de proteínas tiene lugar en el citoplasma.
+Por lo tanto, la información contenida en el DNA debe transportarse de algún modo al citoplasma y utilizarse después para dictar la composición de las proteínas.
+Ello implica dos procesos, transcripción y traducción .
+En resumen, el código de DNA es transcrito al RNA mensajero, que a continuación sale del núcleo para traducirse en proteínas.
+Estos procesos, resumidos en la figura 2-6, se estudiarán más extensamente aquí.
+Tanto la transcripción como la traducción están mediados por el ácido ribonucleico (RNA) , un tipo de ácido nucleico químicamente similar al DNA.
+
+Como éste, el RNA consta de glúcidos, grupos fosfato y bases nitrogenadas.
+Se diferencia del DNA en que su hidrato de carbono es la ribosa en lugar de la desoxirribosa y que el uracilo, y no la timina, es una de las cuatro bases. 
+El uracilo es estructuralmente similar a la timina y, como ésta, puede emparejarse con la adenina.
+Otra diferencia entre el RNA y el DNA es que mientras éste suele aparecer como un filamento doble, el RNA suele estar formado por un único filamento.
+
+Las secuencias de DNA codifican las proteínas mediante los proceses de transcripción y traducción. 
+En ambos interviene el ácido ribonucleico, una molécula formada por un filamento único similar al DNA, excepto en que su hidrato de carbono es la ribosa y en que contiene uracilo en vez de timina.
+
+Figura 2-5
+
+Se forman burbujas de replicación en múltiples puntos del filamento del DNA, lo que hace posible que la replicación se lleve a cabo con más rapidez
+
+Figura 2-6
+
+Resumen de las fases que conducen desde el DNA hasta las proteínas
+
+La replicación y la transcripción se producen en el núcleo celular, después de lo cual el RNAm es transportado hasta el citoplasma, donde tiene lograr la traducción del RNAm en las secuencias de aminoácidos que componen una proteína.
+
+Figura 2-7
+
+Transcripción de DNA a RNAm
+
+La RNA-polimerasa recorre el filamento de DNA en la dirección xxx , ensamblando un filamento de nucleótidos RNAm complementario al filamento molde de DNA.
+
+Variación genética: origen y detección
+
+El ser humano presenta un grado considerable de variación genética, observado en rasgos como la estatura, la presión sanguínea y el color de la piel.
+En el espectro de la variación genética se incluyen los estados patológicos, como la fibrosis quística o la neurofibromatosis tipo 1 (v, cap, 4).
+Esta faceta de la variación genética constituye el eje central de la genética médica.
+
+Toda variación genética se origina a partir del proceso conocido como mutación , definida como una alteración de la secuencia del DNA. 
+
+Las mutaciones pueden afectar células somáticas o germinales (células que producen gametos). 
+Las mutaciones en las células somáticas (todas las que no son germinales) pueden dar lugar a cáncer y, por lo tanto, tienen un interés significativo.
+Sin embargo, nuestra atención en el presente capítulo se dirigirá principalmente a la mutación de las germinales, ya que éstas pueden transmitirse de una generación a la siguiente.
+
+Como consecuencia de las mutaciones, es posible que un gen se diferencie de un individuo a otro en términos de su secuencia del DNA.
+Los genes con secuencias diferentes se denominan alelos .
+La localización de un gen en un cromosoma se denomina locus (de la palabra latina que significa «lugar»).
+Podría decirse que un individuo tiene un alelo determinado en el locus de la betaglobina en el cromosoma 11.
+Si un individuo presenta el mismo alelo en ambos miembros de un par de cromosomas, se dice que es homocigoto .
+Si los alelos difieren en la secuencia del DNA, el individuo es heterocigoto .
+Los alelos presentes en un locus determinado constituyen el genotipo del individuo.
+Algunos loci (plural de locus ) presentan una variabilidad considerable entre individuos.
+Si un locus tiene dos o más alelos, la frecuencia de cada uno de los cuales supera el 10 en la población, se considera que se trata de un locus polimórfico («muchas formas»).
+El locus polimórfico se denomina a menudo polimorfismo .
+
+En este capitulo examinaremos la mutación como fuente de la variación genética.
+
+Discutiremos los diferentes tipos de mutaciones, así como sus causas y consecuencias.
+Además, se estudiarán las técnicas bioquímicas y moleculares empleadas en la actualidad en la detección de las variaciones genéticas en las poblaciones humanas.
+
+MUTACIÓN: ORIGEN DE LA VARIACIÓN GENÉTICA
+
+Tipos de mutación
+
+Algunas mutaciones consisten en una alteración del número o de la estructura de los cromosomas en una célula. 
+Estas anomalías cromosómicas principales pueden observarse por el microscopio y constituyen el tema del capitulo 6.
+En el presente capitulo nos centraremos en las mutaciones que afectan un único gen y que no se pueden visualizar mediante el microscopio.
+La mayor parte de nuestra discusión se centrará en las mutaciones que tienen lugar en el DNA codificador o en las secuencias reguladoras, puesto que las mutaciones que ocurren en otros segmentos del genoma no suelen provocar consecuencias clínicas.
+
+Un tipo importante de mutación monogénica es la sustitución de un par de bases , en la que un par de bases es reemplazado por otro par [1] .
+Ello puede originar un cambio en la secuencia del aminoácido, aunque, debido a la redundancia del código genético, muchas de estas mutaciones no alteran las secuencias de aminoácidos y por lo tanto no tienen consecuencias. 
+Estas últimas se denominan sustituciones silenciosas o silentes .
+A su vez, las sustituciones de pares de bases pueden ser de dos tipos básicos:
+las mutaciones con cambio de sentido provocan un cambio en un único aminoácido, mientras que las mutaciones sin sentido producen uno de los tres codones de terminación en el RNAm: UAA , UAG o UGA (figura. 3-1A, B).
+Estos codones finalizan la traducción del RNAm, y, por lo tanto, provocan la terminación prematura de la cadena polipeptídica.
+A la inversa, cuando un cebón de interrupción se altera de modo que codifica un aminoácido, se produce un polipéptido anormalmente alargado.
+Las alteraciones de las secuencias de aminoácidos pueden tener profundas consecuencias.
+Muchas de las enfermedades genéticas graves que se estudiarán más adelante son consecuencia de las sustituciones de pares de bases.
+
+Figura 3-1
+
+Las mutaciones con cambio de sentido (A) producen un cambio de un único aminoácido, mientras que las mutaciones sin sentido (s) producen un codón de terminación en el mRNA
+
+Los codones de terminación interrumpen la traducción del polipéptido.
+
+El segundo tipo importante de mutación consiste en las deleciones o inserciones de uno o más pares de bases.
+Estas mutaciones, que pueden originar la adición o la pérdida de aminoácidos en una proteína a menudo son patológicas. 
+Un ejemplo de este tipo de mutación es la delación de 3 xxx que provoca la mayoría de casos de fibrosis quísticas diagnosticados en individuos de raza blanca (v, cap, 4 para más detalles).
+Las delaciones e inserciones tienden a ser especialmente nocivas cuando el número de pares de bases perdidas o adicionales no es múltiplo de 3.
+Puesto que los codones constan de 3 xxx , estas inserciones o deleciones pueden alterar todos los codones subsiguientes.
+Por ejemplo, la inserción de una única base (una A en el segundo codón) convertiría una secuencia leída como xxx en una xxx .
+Ello transformaría una secuencia de aminoácidos de Thr-Asp-Cys-Val en una de xxx .
+Estas mutaciones, mostradas en la figura 3-2, se denominan mutaciones de cambio de la pauta de lectura .
+
+Otros tipos de mutaciones alteran la regulación de la transcripción o de la traducción.
+Una mutación del promotor puede reducir la afinidad de la RNA-polimerasa por un locus promotor, provocando a menudo una disminución de la producción de RNAm.
+El resultado final es la reducción de la producción de una proteína determinada.
+Las mutaciones del potenciador también pueden presentar efectos similares.
+
+Figura 3-2
+
+Las mutaciones de cambio de la pauta de lectura son consecuencia de la inserción o la deleción de un cierto número de bases (no múltiplo de 3)
+
+Esto altera todos los codones a favor de la corriente desde el locus de inserción o deleción.
+
+Las mutaciones también pueden interferir en el proceso de corte y unión de los intrones cuando se forma el RNAm maduro a partir del RNAm transcrito primario.
+
+Las mutaciones en los lugares de corte y unión que se producen en los límites intrón-exón, alteran la señal necesaria para la escisión apropiada de un intrón.
+Ello puede ocurrir en la secuencia GT que siempre define el locus donante 5' o en la secuencia AG que define el locus receptor 3' .
+También puede ocurrir en las secuencias que se localizan cerca de los loci donante y receptor es decir, las secuencias consenso descritas en el capítulo 2.
+Cuando estas mutaciones tienen lugar, la escisión se efectuará a menudo dentro del siguiente exón, en un sitio de corte y unión situado en el exón.
+Estos sitios de corte y unión, cuyas secuencias de DNA presentan una ligera diferencia con las de los sitios de corte y unión normales, suelen permanecer sin utilizar y «ocultas» en el interior de los exones y por este motivo se denominan lugares crípticos para el corte y unión .
+El uso de un sitio críptico para el proceso de corte y unión provoca la delación parcial del axón.
+En otros casos puede ocurrir la delación de un exón completo. 
+Como se muestra en la figura 3-3, las mutaciones en el sitio de corte y unión también pueden originar la inclusión anómala de la totalidad o parte de un intrón en el RNAm maduro.
+También es posible que se produzca una mutación en un lugar críptico para el corte y unión normal, compartiendo así con el verdadero sitio de corte y unión normal.
+
+Figura 3-3
+
+En la primera mutación de lugares de corte y unión mostrada (B), la secuencia donante, GT, es sustituida por AT
+
+Ello provoca un corte y unión incorrecto que deja parte del intrón en el transcrito RNAm maduro. 
+En la segunda mutación (C), se crea un segundo sitio donante GT en el primer intrón, lo que resulta en una combinación de productos de RNAm ensamblados de forma normal y anormal.
+
+Existen varios tipos de secuencias de DNA capaces de propagar copias de sí mismas a continuación, estas copias se insertan en otras localizaciones cromosómicas.
+La inserción de estos transposones (o elementos móviles ) puede causar mutaciones de cambio de la pauta de lectura.
+Hasta una fecha reciente no se había aclarado si este fenómeno que se había comprobado en experiencias con animales, como la mosca de la fruta, ocurría en el hombre.
+En la actualidad, ya se ha comprobado que la inserción de elementos móviles ocasiona casos aislados de neurofibromatosis de tipo 1 y hemofilia A (un trastorno de la coagulación) en humanos.
+
+El último tipo de mutación que consideraremos se ha descubierto recientemente y afecta secuencias de DNA repetidas en tándem (v cap. 2) que aparecen en el interior o cerca de algunos genes patológicos.
+Un individuo normal tiene un número relativamente pequeño de estas repeticiones en tándem (por ejemplo de 2O a 40).
+Por motivos todavía no conocidos, el número de repeticiones puede aumentar de forma espectacular durante la meiosis o, posiblemente, durante el inicio del desarrollo fetal, de modo que un recién nacido puede tener cientos o incluso miles de repeticiones.
+Cuando ello ocurre en determinadas determinadas regiones del genoma, provoca una enfermedad genética Igual que otras mutaciones, estas repeticiones expendidas pueden transmitirse a la descendencia del paciente.
+Hoy en día se conocen al menos siete enfermedades genéticas causadas por repeticiones expandidas.
+En el capítulo 4 hay una exposición adicional.
+
+Las mutaciones son la fuente original de la variación genética.
+
+Algunas mutaciones provocan enfermedades genéticas mientras que otras no tienen efectos.
+Los principales tipos de mutaciones incluyen las mutaciones con cambio de sentido sin sentido de cambio de la pauta de lectura, de promotor y de sitio de corte y unión.
+También existen pruebas de la existencia de mutaciones causadas por la inserción al azar de elementos móviles y se conocen varias enfermedades genéticas causadas por repeticiones expandidas.
+
+Consecuencias clínicas de la mutación:
+
+hemoglobinopatías
+
+Los trastornos genéticos de la hemoglobina humana son el grupo más común de enfermedades monogénicas: 
+se calcula que el 5% por de la población mundial es portadora de una o más mutaciones de los genes que intervienen en la síntesis de la hemoglobina.
+Puesto que todos los tipos de mutación descritos en este capítulo han sido, observados en las hemoglobinopatías, estos trastornos sirven como una importante ilustración de las consecuencias clínicas de la mutación.
+
+La molécula de hemoglobina es un tetrámero compuesto por cuatro cadenas polipeptídicas dos denominadas alfa y dos denominadas beta.
+Las cadenas beta están codificadas por un gen en el cromosoma 11, y las cadenas alfa están codificadas por dos genes en el cromosoma 16, que son similares entre sí.
+Por lo tanto, un individuo normal tendría dos genes beta normales y cuatro genes alfa normales (figura 3-4).
+Por lo general, la estricta regulación de estos genes asegura la producción de números aproximadamente iguales de las cadenas alfa y beta.
+Cada una de estas cadenas de globina se asocia con un grupo hemo , que contiene un átomo de hierro y se puede unir con el oxígeno. 
+Esta propiedad permite que la hemoglobina efectúe la función vital de transporte de oxígeno en los hematíes.
+
+Se puede clasificar a las hemoglobinopatías en dos amplias categorías:
+anomalías estructurales, en las que existe una alteración de la molécula de hemoglobina, y las talasemias, un grupo de patologías en las que la hemoglobina es estructuralmente normal pero con una reducción de su cantidad.
+Otro trastorno es la persistencia hereditaria de la hemoglobina fetal (PHHF) que aparece cuando la hemoglobina fetal, codificada por los genes de alfaglobina y por dos genes similares a los de betaglobina denominados A gama y G gama(figura 3-4), continua produciéndose después del nacimiento (normalmente, la producción de cadena gama cesa y la producción de cadena beta comienza tras el nacimiento).
+La PHHF no provoca ninguna enfermedad, sino que en realidad puede compensar una falta de hemoglobina adulta normal.
+En este capítulo, no se proporcionarán más detalles.
+
+Figura 3-4
+
+Acumulación de genes de alfaglobina en el cromosoma 16 y acumulación de gen de betaglobina en el cromosoma 11
+
+La acumulación de betaglobina incluye el gen de globina que codifica la globina embrionaria y los genes de gammaglobina que codifican la globina fetal.
+Los genes fi beta I y delta no se expresan.
+El grupo génico de alfaglobina incluye el gen de sigma globina, que codifica la alfaglobina embrionaria.
+
+Anemia de células falciformes
+
+Se ha identificado una amplia gama de hemoglobinopatías diferentes.
+La discusión que sigue es una presentación muy simplificada de las principales formas de estos trastornos. 
+En la tabla 3-1 se resumen los trastornos de la hemoglobina, las mutaciones que los causan y sus principales características. 
+
+La más importante de las anomalías estructurales de la hemoglobina es la anemia de células falciformes. 
+Un trastorno que afecta aproximadamente a 1 de cada 400- (100 afroamericanos.
+Es incluso más frecuente en algunas partes de África, donde puede afectar a uno de cada 50 nacimientos y también se observa en algunas ocasiones en las poblaciones mediterránea y de Oriente Medio.
+La anemia de células falciformes está causada por una única mutación con cambio de sentido que efectúa una sustitución de una valina por un ácido glutámico en la posición seis de la cadena de la betaglobina.
+En la forma homocigota, esta sustitución de aminoácido altera la característica de la molécula de hemoglobina, de modo que los eritrocitos (glóbulos rojos) adoptan una característica forma falciforme (figura 3-5 A) bajo condiciones de una tensión de oxígeno baja.
+Estas condiciones se experimentan en los capilares, pequeños vasos cuyo diámetro es inferior al de los eritrocitos. 
+Los eritrocitos normales pueden comprimirse y deslizarse por los capilares, pero los eritrocitos falciformes son menos flexibles y no pueden hacer lo mismo.
+La consiguiente obstrucción vascular provoca hipoxia (falta de oxigeno) localizada, «crisis» drepanocítica dolorosa, e infartos de varios tejidos, incluyendo, huesos, bazo, riñones y pulmones (un infarto consiste en la destrucción de tejidos.
+La destrucción prematura de los eritrocitos falciformes reduce el número de eritrocitos circulantes y el nivel de hemoglobina, produciendo anemia .
+El bazo se hipertrofia ( esplenomegalia ), si bien los infartos destruyen finalmente este órgano, provocando cierta pérdida de la función inmunitaria.
+Ello contribuye a la aparición de las infecciones bacterianas recidivantes (especialmente neumonías) que se observan a menudo en los pacientes con anemia de células falciformes y que son una causa frecuente de muerte.
+Se calcula que en Norteamérica cerca del 15 % de los niños con anemia de células falciformes fallecen antes de los 5 años de edad.
+
+La enfermedad de células falciformes, que provoca anemia, infartos hísticos y múltiples infecciones, es el resultado de una mutación única con cambio de sentido que produce la sustitución de un aminoácido en la cadena de betaglobina.
+
+Talasemia
+
+El término talasemia procede de la palabra griega thalassa que significa «mar». 
+Ello se refiere al hecho de que la talasemia se describió en primer lugar en poblaciones que vivían cerca del mar Mediterráneo, aunque también es frecuente en algunas partes de África, Oriente Medio, India y sudeste asiático. 
+Se puede clasificar la talasemia en dos grupos principales. 
+
+Talasemia alfa y talasemia beta, dependiendo de la cadena que haya disminuido en cantidad.
+Cuando se reduce el número de un tipo de cadena.
+La otra cadena, incapaz de participar en la formación del tetrámero normal, tiende a formar moléculas que constan de cuatro cadenas sólo de este tipo en exceso (estas moléculas se denominan homotetrámeros , en contraste con los heterotetrámeros formados normalmente por cadenas alfa y beta).
+En la talasemia alfa existe un déficit de cadenas de alfaglobina, de modo que se registra un exceso de cadenas beta(o cadenas gama en el feto).
+Estas cadenas forman homotetrámeros que tienen una capacidad de fijación de oxígeno muy reducida, lo que provoca anemia.
+En la talasemia beta, el exceso de cadenas alfa forma tetrámeros que precipitan y lesionan las membranas celulares de los precursores de los hematíes (es decir, las células que forman los eritrocitos circulantes).
+Ello conduce a la destrucción de eritrocitos prematuros y a anemia.
+
+Tabla 3-1
+
+Resumen de las hemoglobinopatías
+
+Enfermedad.
+Tipo de mutación.
+Principales signos patológicos.
+
+
+Anemia de células falciformes.
+Mutación con cambio de sentido de betaglobina.
+Anemia, infartos hísticos, infecciones.
+
+
+Enfermedad de Hb H.
+Deleción o anomalía de 3 de los 4 genes de la alfaglobina.
+Anemia de gravedad moderada, esplenomegalia.
+
+
+Hidropesía fetal.
+Deleción o anomalía de los 4 genes de la alfaglobina.
+Hipoxia grave, insuficiencia cardíaca congestiva; mortinato o muerte perinatal.
+
+
+Talasemia beta 0.
+En general, mutaciones sin sentido, de cambio de pauta de lectura, o de receptor o donante de puntos de corte y unión sin producción de betaglobina .
+Anemia grave, esplenomegalia, anomalías esqueléticas, infecciones, a menudo fatal durante la primera década de vida si no se trata.
+
+
+Talasemia beta +.
+En general mutaciones de pérdida de sentido, reguladoras, o de la secuencia consenso de puntos de corte y unión o de lugares crípticos de ensamblaje; producción de una pequeña cantidad de betaglobina .
+Signos similares a los de la talasemia beta 0, aunque a menudo algo más leves.
+
+
+La mayoría de casos de talasemia alfa se deben a deleciones de los genes de alfaglobina.
+La pérdida de uno o dos de estos genes no tiene ningún efecto clínico.
+La pérdida o la anomalía de tres de los genes alfa provoca esplenomegalia y anemia moderadamente grave (enfermedad de Hb H).
+La pérdida de los cuatro genes alfa, un trastorno observado principalmente entre los habitantes del sudeste asiático provoca hipoxia en el feto e hidropesía fetal (una enfermedad en que se produce una acumulación masiva de líquido.
+La hipoxia grave ocasiona invariablemente un niño nacido muerto o la muerte neonatal.
+
+Los trastornos de talasemia alfa suelen deberse a deleciones de los genes de la alfaglobina.
+La pérdida de estos genes ocasiona anemia de moderada gravedad y la pérdida de los cuatro genes tiene consecuencias fatales.
+
+Los individuos con mutación de la betaglobina en una copia del cromosoma 11 (heterocigotos) son diagnosticados de talasemia beta menor, una enfermedad que implica la existencia de escasa o nula anemia y que no suele requerir tratamiento clínico Los individuos cuyas dos copias del cromosoma tienen una mutación de la betaglobina desarrollan una talasemia beta mayor (también denominada anemia de Cooley) o el trastorno menos grave, la talasemia beta intermedia Es posible la ausencia completa de betaglobina (talasemia beta 0) o bien una disminución del 10 al 30% de la cantidad normal (talasemia, beta+).
+
+Figura 3-5
+
+Los eritrocitos de los pacientes con células falciformes adoptan una forma característica en determinadas condiciones de baja tensión de oxigeno(A) 
+
+Compárese con los eritrocitos normales (B).
+
+Puesto que el organismo no produce betaglobina hasta después del nacimiento la talasemia beta mayor no se manifiesta clínicamente hasta la edad de 2 a 6 meses.
+
+Estos pacientes desarrollan anemia grave.
+Sin tratamiento puede producirse un retraso notable del crecimiento.
+La anemia Provoca la expansión de la médula ósea que a su vez origina alteraciones esqueléticas, incluyendo pómulos y maxilares superiores protuberantes y adelgazamiento de los huesos largos (aumentando su predisposición a las fracturas).
+La esplenomegalia (figura 3-6) y las infecciones son usuales y los pacientes con talasemia beta principal no tratados fallecen a menudo durante la primera década de vida.
+La gravedad de la talasemia Beta puede variar mucho, dependiendo de la naturaleza exacta de la mutación responsable.
+
+En contraste con la talasemia alfa, las deleciones génicas son relativamente raras en la talasemia Beta.
+En realidad la mayoría de casos se deben a mutaciones de una única base.
+Las mutaciones sin sentido, que provocan la terminación prematura de la traducción de la cadena beta suelen producir talasemia beta.
+Las mutaciones de cambio de la pauta de lectura también generan de forma característica la forma beta 0.
+Además de las mutaciones en el gen de la betaglobina, también se observan alteraciones en las secuencias reguladoras.
+La transcripción de la betaglobina es regulada por un promotor, dos potenciadores y una región contracorriente conocida como región de control del locus ( RCL del inglés locus control region ), (figura 3-4).
+Las mutaciones producidas en estas regiones reguladoras suelen originar reducción de la síntesis de RNAm y disminución, aunque no ausencia completa, de betaglobina (talasemia beta+).
+También se han observado varios tipos de mutaciones en el sitio de corte y unión.
+Cuando ocurre una mutación puntual en los sitios donante o receptor, el corte y unión normal se destruye por completo, originando talasemia beta 0.
+Las mutaciones en las secuencias consenso circundantes suelen provocar beta+-talasemia.
+También se producen mutaciones en los sitios de corte y unión crípticos, localizados en los intrones o los exones del gen de la betaglobina, lo que provoca que estos sitios estén disponibles para el mecanismo de corte y unión.
+Estos sitios de corte y unión adicionales compiten después con los sitios de corte, y unión normales, produciendo algunas cadenas de betaglobina normales y otras anormales.
+El resultado suele ser la aparición de una talasemia beta+.
+
+Las talasemias beta pueden estar causadas por muchos tipos diferentes de mutaciones.
+Las mutaciones sin sentido, de cambio de la pauta de lectura, y de los sitios de corte y unión donante y receptor tienden a provocar enfermedades más graves.
+Las mutaciones de los mecanismos de regulación y las que implican las secuencias consenso de los sitios de corte y unión y a los sitios de corte y unión crípticos tienden a originar enfermedades menos graves.
+
+Se han descrito más de 100 mutaciones diferentes de la betaglobina.
+En consecuencia, la mayoría de pacientes con talasemia beta no son «homocigotos» en sentido estricto; suelen poseer una mutación diferente de la betaglobina en cada copia del cromosoma 11 y se les denomina heterocigotos compuestos .
+Aun cuando las mutaciones difieran, los dos genes de la betaglobina están alterados, produciendo un estado patológico.
+Es común aplicar el término «homocigoto» a los heterocigotos compuestos.
+
+[1] En genética molecular, las sustituciones de un par de bases también se denominan mutaciones puntuales .
+Sin embargo, este último término se utilizó en genética clásica para indicar toda mutación lo bastante pequeña para no ser visualizable por el microscopio.
+
+Mapeo genético
+
+El trazado del mapa o mapeo de los genes en sus localizaciones cromosómicas específicas constituye uno de los ejes centrales de la genética médica.
+Los espectaculares avances registrados en las técnicas de genética médica, junto con el notable desarrollo del análisis estadístico de los datos genéticos, han acelerado en gran medida el trazado del mapa de los genes (figura 7-1).
+En la actualidad se está trazando el mapa de genes codificadores de proteínas a una velocidad cercana a uno al día y casi 3.000 de estos genes ya se han asignado a sus localizaciones cromosómicas.
+Si bien se trata de un progreso de admirable velocidad, este número sólo representa una peña fracción del total estimulado de 50.000 a 100.000 genes que se calcula que componen el genoma humano.
+Es evidente que resta por llevar a cabo una ingente tarea.
+Uno de los objetivos del Proyecto del Genoma Humano ( Human Genome Project ), tratado más adelante, es trazar el mapa de todos nuestros genes en sus posiciones cromosómicas específicas.
+Con toda seguridad a medida que progrese esta investigación, también aumentará nuestro conocimiento acerca de la base biológica de la patología genética.
+
+El trazado del mapa genético es una etapa fundamental para el conocimiento, el diagnóstico y el eventual tratamiento de una enfermedad genética.
+Cuando se identifica con precisión la localización de un gen patológico a menudo se puede establecer un pronóstico más exacto para los individuos con riesgo de padecer una enfermedad genética.
+La localización de un gen patológico a menudo también es necesaria para que se pueda realizar la clonación del gen.
+Una vez clonado un gen es posible estudiar su secuencia de DNA y su producto proteico, y ello puede contribuir a nuestro conocimiento de la causa real de la enfermedad.
+
+Además, abre el camino para la síntesis artificial de un producto genético normal mediante las técnicas de DNA recombinante, permitiendo un tratamiento más efectivo de muchas enfermedades genéticas.
+La terapia génica, O inserción de genes normales en los cuerpos de los individuos afectados con una enfermedad genética, también se convierte en una posibilidad.
+Por lo tanto, el trazado del mapa genético contribuye de modo directo a alcanzar muchos de los principales objetivos de la genética médica. 
+
+En este capítulo estudiaremos los métodos utilizados de forma habitual en el trazado del mapa de los genes. 
+Pueden diferenciarse dos tipos principales de mapeo del gen.
+En el mapeo genético , se utiliza la frecuencia de los entrecruzamientos meióticos entre loci para determinar las distancias entre loci .
+El mapeo físico implica el uso de técnicas citogenéticas y moleculares para determinar la localización física real de los genes en los cromosomas.
+Además de discutir las técnicas de trazado del mapa, estudiaremos la forma en que estas técnicas posibilitan una predicción más precisa del riesgo patológico en las familias y el modo en que conducen al aislamiento y clonación de los genes patológicos.
+
+MAPEO GENÉTICO
+
+Análisis del ligamiento
+
+Una de las leyes de Gregor Mendel, el principio de distribución independiente, establece que los genes de un individuo se transmitirán a la siguiente generación de modo independiente entre sí (cap. 4).
+Mendel no sabía que los genes se localizan en cromosomas ni que los genes localizados uno cerca de otro en el mismo cromosoma se transmiten juntos, no de forma independiente.
+Así, el principio de Mendel de la distribución independiente continúa siendo cierto para la mayoría de pares de loci , pero no para aquellos que ocupan la misma región de un cromosoma. 
+A estos loci se les denomina ligados .
+
+Figura 7-1
+
+Número de genes codificantes mapeados en localizaciones cromosómicas específicas 
+
+Los loci A y B están ligados en el mismo cromosoma, por lo que los alelos A1, y B1 suelen heredarse juntos.
+El locus C se encuentra en un cromosoma diferente, de modo que no está ligado a A ni a B y sus alelos se transmiten de forma independiente de los alelos A y B.
+
+La figura 7-2 muestra dos loci , A y B, localizados muy cerca entre sí en el mismo cromosoma. 
+Un tercer locus , C, se localiza en otro cromosoma.
+En el individuo de nuestro ejemplo, cada uno de estos loci tiene dos alelos, denominados 1 y 2.
+A y B están ligados, de modo que Al y B, se heredan juntos.
+Puesto que A y C se encuentran en cromosomas distintos y, por lo tanto, no están ligados, sus alelos no siguen el principio de distribución independiente. 
+En este caso, si el proceso de meiosis coloca a A, en un gameto, la probabilidad de que se encuentre a C, en el mismo gameto es del 50 %.
+Recuerde que en el capitulo 2 se mencionaba que los cromosomas homólogos a veces intercambien segmentos de su DNA durante la profase I (cruzamiento).
+El cromosoma medio experimentará entre uno y tres entrecruzamientos durante la meiosis.
+Como resultado del entrecruzamiento, pueden formarse nuevas combinaciones de alelos en un cromosoma. 
+Consideremos los loci ligados, A y B, antes estudiados.
+Los alelos A1, y Bl se localizan juntos en un cromosoma y los alelos A2 y B2 se localizan en el cromosoma homólogo.
+La combinación de alelos en cada cromosoma se denomina haplotipo (de «genotipo haploide»).
+Los dos haplotipos de este individuo se designan como A1B1/A2B2 .
+Como se muestra en la figura 7-3 A, A,B, se encuentra en un gameto, y A2B2 se encuentra en el otro gameto en ausencia de un entrecruzamiento. 
+Cuando existe un entrecruzamiento, se encuentran nuevas combinaciones de alelos, A, B2 y A2B" en cada gameto (figura 7-3, B).
+
+Figura 7-3
+
+Resultados genéticos del entrecruzamiento
+
+A, falta de entrecruzamiento: Al y B1 permanecen juntos tras la meiosis;
+B, el cruzamiento entre A y B resulta en una recombinación: Al y B2 se heredan juntos en un cromosoma, y 4 y B1 se heredan juntos en otro cromosoma; 
+C, un entrecruzamiento doble entre A y B no produce ninguna recombinación de alelos.
+
+El proceso de formación de estas nuevas distribuciones de alelos se denomina recombinación .
+Sin embargo, el entrecruzamiento no origina necesariamente una recombinación, ya que puede producirse un entrecruzamiento doble entre los dos loci , teniendo como resultado final una falta de recombinación (figura 7-3, C).
+
+Como se muestra en la figura 7-4, es más probable que los entrecruzamientos ocurran entre loci alejados en un cromosoma que entre loci situados en posiciones muy próximas.
+Por lo tanto, puede inferirse la distancia entre dos loci calculando la frecuencia con que se producen recombinaciones en las familias (esto se denomina frecuencia de recombinación ).
+Si en una serie grande de meiosis estudiadas en familias los alelos de A y B sufren recombinaciones el 5 % del tiempo, la frecuencia de recombinación de A y B sería del 5 %.
+
+La distancia genética entre dos loci se mide en centiMorgan ( cM ) , en honor de T. H. Morgan, quien descubrió el proceso de entrecruzamiento en 1910.
+1 cM es aproximadamente igual a una frecuencia de recombinación del 1 %.
+La relación entre frecuencia de recombinación y centiMorgan es aproximada, ya que los entrecruzamientos dobles no producen ninguna recombinación.
+Por lo tanto, la frecuencia de recombinación infraestima la distancia en el mapa, especialmente cuando la frecuencia de recombinación aumenta por encima del 5-10 %.
+Se han disonado funciones de mapeo para corregir esta infraestimación.
+
+Los loci que se encuentran en el mismo cromosoma se denominan sinténicos («mismo filamento»).
+Si dos loci sinténicos se encuentran a 50 cM de distancia, se considera que no están ligados, ya que su frecuencia de recombinación es tan grande como si se localizaran en cromosomas diferentes.
+
+Los entrecruzamientos entre loci en un mismo cromosoma pueden producir recombinaciones.
+Los loci en un mismo cromosoma que experimentan recombinación menos del 50 % del tiempo se denominan ligados.
+La distancia entre loci puede expresarse en centiMorgan; I cM representa una frecuencia de recombinación aproximadamente del I %.
+
+Las frecuencias de recombinación pueden calcularse observando la transmisión de genes en árboles genealógicos. 
+La figura 7-5, A, es un ejemplo de árbol genealógico en que se transmite la neurofibromatosis de tipo 1 ( xxx ).
+También se ha efectuado la tipificación de los miembros de este árbol genealógico para un RFLP de dos alelos denominado xxx que, como el gen xxx , se localiza en el cromosoma 17.
+Los genotipos xxx se presentan debajo de cada individuo en el árbol genealógico.
+El examen de las generaciones 1 y 2 nos permite determinar que el gen xxx debe de estar en el mismo cromosoma que el alelo 1 del sistema xxx en esta familia, ya que el individuo I-2, homocigoto para el alelo 2, no está afectado por la enfermedad.
+La distribución de estos alelos en cada cromosoma se denomina fase de ligamiento .
+Conociendo la fase de ligamiento, los haplotipos del individuo 11-2 serían entonces Nl/n2 , donde N indica el alelo causante de IVF1, n indica el alelo normal, y 1 y 2 son los dos alelos de xxx .
+El marido de esta mujer (individuo II-1) no está afectado por la enfermedad y es homocigoto para el alelo 2 en xxx .
+Debe de tener los haplotipos xxx .
+Puesto que los loci. xxx y xxx están ligados, los hijos de esta unión que resulten afectados con xxx tendrán el alelo 1 de xxx , mientras que los no afectados presentarán el alelo 2.
+En siete de ocho niños en la generación 3,se comprueba que esto es cierto.
+En un caso se produjo una recombinación (individuo III-6).
+Ello da una frecuencia de recombinación de 1/8 = 12,5 % .
+
+Figura 7-4
+
+El entrecruzamiento es más probable entre loci alejados en el cromosoma (izquierda)que entre loci cercanos (derecha)
+
+En la práctica real se utilizaría una muestra mucho más amplia de familias con el fin de asegurar la precisión estadística de este resultado (si se efectuase, se demostraría que xxx y A7F1 están, en realidad, mucho más ligados de lo que indica este ejemplo, con una frecuencia de recombinación inferior al 1%).
+
+Las estimaciones de las frecuencias de recombinación se obtienen observando la transmisión de los alelos en las familias.
+La determinación de la fase de ligamiento (es decir, el cromosoma en que se localiza cada alelo) es una parte importante de este procedimiento.
+
+Los polimorfismos que, como el xxx , pueden utilizarse para efectuar el seguimiento de un gen patológico en una familia, se denominan marcadores .
+Puesto que puede efectuarse la tipificación de los marcadores ligados en un individuo de cualquier edad (incluso en un feto), son útiles para el diagnóstico precoz de la enfermedad genética (v. cap. 11).
+
+En general, 1 cM corresponde aproximadamente a 1 millón de xxx (1 Mb) de DNA.
+Sin embargo, sólo se trata de una relación aproximada ya que se conocen varios factores que influyen en las tasas de entrecruzamiento.
+En primer lugar, son casi 1,5 veces más frecuentes en la meiosis femenina (oogénesis) que en la meiosis masculina (espermatogénesis). 
+Además, los entrecruzamientos tienden a ser más frecuentes cerca de los telómeros de los cromosomas que junto a los centrómeros.
+Por último, algunas regiones cromosómicas exhiben tasas de entrecruzamiento muy superiores a otras regiones.
+Estas regiones se denominan zonas calientes de recombinación .
+Todavía no se conocen las causas de las zonas calientes de recombinación en humanos, aunque se cree que algunas secuencias de DNA específicas, que posiblemente incluyen secuencias Alu (v. cap. 2), cuentan con una predisposición especial al entrecruzamiento.
+
+Aunque existe una correlación entre los centiMorgan y las distancias físicas reales entre loci, esta relación resulta complicada por la diferencia de género sexual en la recombinación, unas frecuencias de recombinación superiores cerca de los telómeros y la existencia de puntos calientes de recombinación.
+
+Figura 7-5
+
+Un árbol genealógico en que se ha efectuado la tipificación de cada miembro para el polimorfismo xxx (A)
+
+Los genotipos de este locus marcador de dos alelos se presentan debajo de cada individuo en el árbol genealógico. 
+Los miembros afectados del árbol genealógico se señalan con un símbolo sombreado.
+Autorradiografía del polimorfismo xxx en esta familia (B).
+
+Puntuaciones LOD: determinación de la significancia de los resultados de ligamiento
+
+Como en cualquier estudio estadístico, se ha de comprobar con cuidado que los resultados obtenidos en un estudio de ligamiento no se deban simplemente al azar.
+Por ejemplo, consideremos que, en un árbol genealógico se ha tipificado un locus marcador de dos alelos. 
+Es posible que, por azar , todos los descendientes afectados hereden un alelo y que todos los no afectados hereden el otro alelo, incluso aunque el marcador no esté ligado al gen patológico.
+Este resultado engañoso es menos probable que ocurra cuando aumentamos el número de individuos en nuestro estudio de ligamiento (igual que la probabilidad de una fuerte desviación de la proporción 50-50 entre caras y cruces disminuye cuando efectuamos un número superior de lanzamientos de moneda).
+
+¿Cómo averiguamos si un resultado de ligamiento es probable que se deba únicamente al azar? En los análisis de ligamiento se utiliza un método estándar.
+
+Comenzamos comparando la probabilidad de que dos loci estén ligados con una frecuencia de recombinación determinada (señalada como teta) contra la probabilidad de que ambos loci no estén ligados (frecuencia de recombinación = 50 % o teta = 0,5).
+Supongamos que se desea probar la hipótesis de que los dos loci están ligados con una frecuencia de recombinación de teta= 0,1, en comparación con la hipótesis de que no están ligados.
+Utilizaremos los datos del árbol genealógico para formar una relación de probabilidad : probabilidad de observar datos del árbol genealógico si teta = 0,1 probabilidad de observar datos del árbol genealógico si teta = 0,5 .
+
+Si nuestros datos del árbol genealógico indican que es más probable que teta sea 0,1 en vez de 0,5, entonces la relación de probabilidad será mayor a 1.
+Sin embargo si los datos del árbol genealógico argumentan en contra del ligamiento de los dos loci , entonces el denominador será mayor que el numerador, y por lo tanto la relación será inferior a 1,0.
+Por razones de conveniencia, suele adoptarse el logaritmo [2] decimal de la relación: este «logaritmo de la relación», se denomina puntuación LOD ( logarithm of the odds ).
+Por convenio, una puntuación LOD de 3,0 se acepta como prueba de ligamiento: una puntuación LOD de 3,0 indica que la probabilidad en favor del ligamiento es 1.000 veces superior que la probabilidad contra el ligamiento. 
+A la inversa, una puntuación LOD inferior a 2 (una probabilidad de 100 a 1 contra el ligamiento ) se considera una prueba de que ambos loci no están ligados.
+
+Un ejemplo sencillo nos ayudará a ilustrar los conceptos de relaciones de probabilidad y de puntuaciones LOD.
+Consideremos el árbol genealógico de la figura 7-6, que presenta otra familia en la que se transmite la xxx .
+Se ha efectuado la tipificación del marcador xxx en la familia, igual que en la figura 7-5.
+El hombre de la generación 2 ha recibido el alelo xxx de su madre ya que ésta únicamente puede transmitir este alelo marcador.
+Por lo tanto, su alelo xxx sólo puede provenir de su padre, en el mismo cromosoma que el gen patológico xxx .
+Ello nos permite establecer la fase de ligamiento en este árbol genealógico: el hombre afectado en la generación 2 debe tener los haplotipos xxx .
+Este hombre se casa con una mujer homocigota para el alelo xxx Así, la hipótesis de ligamiento próximo (9 = 0,0) predice que cada descendiente en la generación 3 que reciba el alelo 2 de su padre o de su madre también debe recibir el alelo patológico xxx .
+Bajo la hipótesis de ligamiento, el padre puede transmitir únicamente dos combinaciones posibles: el cromosoma con el gen patológico y con xxx , o el otro cromosoma, con el gen normal y con xxx .
+La probabilidad de cada uno de estos sucesos es de 1/2.
+Por lo tanto, si teta = 0,0 la probabilidad de observar cuatro hijos con los genotipos mostrados en la figura 7-6 es de (1/2)4 o de 1/16.
+Éste es el numerador de la relación de probabilidad.
+
+Consideremos ahora la probabilidad de observar estos genotipos si xxx y xxx no estuviesen ligados(teta = 0,5) Bajo esta hipótesis, existe la distribución independiente de alelos en xxx y xxx .
+Por lo tanto, el padre puede transmitir cualquiera de las cuatro combinaciones, xxx con idéntica probabilidad (1/4).
+Entonces, la probabilidad de que se observen cuatro niños con los genotipos observados es ( l/4)4 = 1/256 .
+Esta probabilidad es el denominador de la relación de probabilidad. 
+Entonces, la relación de probabilidad es de 1/16:1/256 = 16 .
+Por lo tanto, los datos de este árbol genealógico nos dicen que el ligamiento , para teta = 0,0 es 16 veces más probable que el no ligamiento .
+Si tomamos el logaritmo común de 16, encontramos que la puntuación LOD es 1,2 todavía demasiado pequeña respecto al valor de 3,0 que suele aceptarse como prueba de ligamiento.
+Para probar la existencia de ligamiento, necesitamos examinar datos de familias adicionales.
+Las puntuaciones LOD de familias individuales pueden añadirse para obtener una puntuación global.
+Supongamos que se ha producido una recombinación en la meiosis que genera uno de los hilos en la generación 3.
+Este suceso es imposible bajo la hipótesis de que teta = 0,0, por lo que el numerador de la relación de probabilidad se convierte en 0, y la puntuación LDR es -8 .
+
+Figura 7-6
+
+Árbol genealógico en que se ha efectuado la tipificación de cada miembro para el polimorfismo xxx .
+
+De nuevo, se muestran los genotipos marcadores bajo cada individuo.
+
+Al efectuar un análisis de ligamiento se suele probar una serie de valores de teta, comparando la probabilidad de cada valor de teta con la probabilidad de teta = 0,5.
+Ello produce una puntuación LOD para cada valor de teta probado. 
+A continuación se realiza una gráfica comparando las puntuaciones LOD contra los valores teta, como se muestra en la figura 7-7.
+La máxima puntuación LOD en la gráfica es la máxima estimación de probabilidad de 9.
+Es decir, es la distancia más probable entre los loci analizados. 
+En la práctica, el análisis de los datos de ligamiento humano no es tan sencillo como en el ejemplo anterior. 
+A menudo se desconoce la fase de ligamiento, la penetrancia del gen de la enfermedad puede ser incompleta y el modo de herencia puede ser dudoso.
+Por estos motivos, se analizan los datos de ligamiento utilizando alguno de los diversos programas informáticos disponibles.
+Estos programas informáticos también nos permiten efectuar un mapeo multipuntual , un método de cálculo simultáneo de las localizaciones en el mapa de varios marcadores.
+
+Las probabilidades estadísticas de que dos loci se encuentren separados por un número determinado de centiMorgan pueden calcularse midiendo la relación de dos probabilidades: la probabilidad de ligamiento a una distancia determinada dividida por la probabilidad de no ligamiento.
+El logaritmo de esta relación de probabilidades es una puntuación LOD.
+Las puntuaciones LOD superiores a 3,0 se toman como evidencia de ligamiento, mientras que las puntuaciones inferiores a 2,0 se toman como evidencia de que dos loci no están ligados.
+
+Análisis de ligamiento y mapa génico humano
+
+Supongamos que estamos estudiando un gen patológico en una serie de árboles genealógicos y que deseamos trazar su mapa en una localización cromosómica especifica.
+De forma típica, efectuaríamos la tipificación de los miembros de nuestro árbol genealógico para los loci marcadores distribuidos a lo largo de cada cromosoma, analizando el ligamiento entre el gen patológico y cada marcador.
+La mayoría de estas pruebas registrarán puntuaciones LOD negativas, indicando la ausencia de ligamiento entre el marcador y el gen de la enfermedad.
+Por último, este ejercicio revelará el ligamiento entre un marcador y el gen de la enfermedad.
+Debido al gran tamaño del genoma humano, es posible que se deba efectuar la tipificación de docenas, o incluso cientos, de marcadores antes de encontrar un ligamiento.
+Utilizando este método se han localizado enfermedades importantes, incluyendo la fibrosis quística, la enfermedad de Huntington, el síndrome de Marfan y la xxx .
+
+Figura 7-7
+
+La puntuación LOD (logaritmo de las relaciones, eje y) se traza contra la frecuencia de recombinación (eje x) para determinar la frecuencia de recombinación más probable de un par de loci
+
+Figura 7-8
+
+Número de loci marcadores polimórficos conocidos; durante la última década se observa una rápida tasa de aumento
+
+Hasta hace poco más de un década, los análisis de ligamiento tenían escasa posibilidad de éxito ya que sólo se disponía de unas pocas docenas de marcadores polimórficos en todo el genoma humano.
+Por lo tanto, era improbable que un gen patológico estuviera localizado lo bastante cerca de un marcador para obtener un resultado de ligamiento significativo.
+Esta situación ha cambiado de forma espectacular durante los últimos años, cuando se han generado miles de nuevos marcadores polimórficos (RFLP, VNTR y polimorfismos de microsatélites: v., cap., 3) (figura, 7-8).
+En la actualidad es frecuente trazar el mapa de un gen patológico en tan sólo unos meses de análisis de laboratorio y estadístico. 
+
+Para que los loci marcadores sean útiles para el mapeo génico deben tener varias propiedades.
+En primer lugar, deben ser codominantes (es decir, los homocigotos deben ser diferenciables de los heterocigotos), lo que ayuda a determinar la fase de ligamiento.
+Los RFLP los VNTR y los polimorfismos de microsatélites satisfacen este criterio, no ocurrido igual con algunos de los tipos más antiguos de marcadores, como los grupos sanguíneos ABO y Rh.
+
+Figura 7-9
+
+Mapa genético del cromosoma 9, que muestra las localizaciones de un gran número de marcadores polimórficos
+
+Puesto que las tasas de recombinación suelen ser superiores en la meiosis femenina, las distancias entre marcadores (en cM ) son más grandes en las mujeres que en los hombres.
+
+[2] Recuerde que el logaritmo decimal de un número; es la potencia a la que se eleva 10 para obtener dicho número.
+Así, el logaritmo de 100 es F, el logaritmo de 1.000 es 3, y así sucesivamente. 
+
+Genética clínica y consejo genético
+
+La genética médica ha surgido recientemente como una auténtica especialidad médica.
+En los años sesenta se desarrollaron los campos de la genética médica, la citogenética médica y la dismorfología (el estudio del desarrollo físico anormal).
+Los años setenta fueron testigos del establecimiento de las técnicas necesarias para el diagnóstico prenatal de los trastornos genéticos. 
+A finales de la década de los setenta surgió la discusión acerca de la formación de un American Board of Medical Genetics y en 1981 se concedió el primer examen de certificación.
+Diez años más tarde, el American Board of Medical Specialties reconoció esta nueva especialidad. 
+
+Mientras que la genética médica es el estudio de la naturaleza hereditaria de la enfermedad humana, la genética clínica trata del cuidado clínico directo de las personas con enfermedades genéticas.
+Los temas relativos a diagnóstico, consejo y tratamiento que rodean a la enfermedad genética constituyen los ejes centrales de la genética clínica.
+
+En este capítulo se resumen los principios de la genética clínica y el proceso de consejo genético. 
+Además, se proporciona un resumen de la dismorfología, ya que el crecimiento de este campo ha influido y se ha desarrollado de forma paralela a la genética clínica.
+
+PRINCIPIOS Y PRÁCTICA DE LA GENÉTICA CLÍNICA
+
+Como se ha mencionado en el capítulo 1, las enfermedades genéticas forman un grupo común y son una causa significativa de la mortalidad y morbididad humanas.
+
+De forma característica.
+Los trastornos genéticos son complejos, multiorgánicos y sistémicos.
+En el cuidado de las personas que padecen estos trastornos intervienen a menudo múltiples especialidades.
+Por esta razón, los trastornos genéticos forman parte del diagnóstico diferencial de la mayoría de presentaciones sintomáticos y clínicas.
+Por ejemplo, cuando se valora a un lactante con enfermedad cutánea vesiculosa, dentro de las cualidades del médico deben figurar la capacidad para distinguir entre alguna de las muchas formas de la epidermólisis ampollosa (un trastorno hereditario de los queratinocitos en que se desarrollan vesículas cutáneas después de un traumatismo leve) y la enfermedad cutánea estafilocócica. 
+
+Debido a la complejidad y al número de enfermedades genéticas humanas, su diagnóstico clínico y tratamiento pueden parecer abrumadores.
+Para facilitar el manejo de esta información, proporcionamos un resumen de los conceptos más importantes.
+Entre ellos se incluyen la importancia de un diagnóstico preciso, la aplicación de los principios de la genética médica a la práctica médica y la función que tiene el consejo genético en el cuidado de las personas con enfermedad genética.
+
+Diagnóstico preciso
+
+Nunca se insistirá bastante en la importancia de este principio médico básico.
+
+El proceso de consejo genético, uno de los servicios fundamentales de la genética médica comienza con un diagnóstico correcto.
+Todas las discusiones sobre historia natural, pronóstico, tratamiento, determinación del riesgo, opciones de diagnóstico prenatal y consulta con grupos de apoyo dependen de un diagnóstico preciso. 
+Por ejemplo, el consejo genético a una familia que ha tenido un hijo con retraso mental suele tratar de cuestiones relativas al riesgo de este trastorno en la futura descendencia. 
+La respuesta precisa requiere que el médico identifique un trastorno de etiología conocida.
+Si se establece un diagnóstico específico (p. ej., síndrome del cromosoma X frágil), puede comenzar el resto del proceso de consejo genético: puede comunicarse la información actual e iniciarse el tratamiento (v. comentario clínico xxx para una discusión adicional de este punto).
+
+En genética clínica, como en todos los campos de la medicina, el diagnóstico preciso es la primera etapa más importante en el cuidado del paciente. 
+
+El proceso diagnóstico de un trastorno genético es una secuencia compleja de episodios.
+Depende de la toma de decisiones diagnósticas y de las pruebas bioquímicas, de la dismorfología, diagnóstico de laboratorio y de los principios básicos de la genética médica. 
+En las enfermedades que tienen criterios diagnósticos establecidos, el médico dispone de unas normas para emitir el diagnóstico.
+Un ejemplo de estos criterios serían los recomendados por el National Institute of Health Consensus Development Conference para el diagnóstico de la neurofibromatosis de tipo 1 (NF1, v. cap.
+
+4).
+El procedimiento diagnóstico de los trastornos definidos por un marcador especifico de laboratorio, como un cariotipo o un análisis bioquímico anormal, es en general directo.
+Sin embargo, gran número de enfermedades genéticas no tienen criterios establecidos y su definición y delimitación no es concluyente. 
+
+Los síndromes dismórficos requieren el conocimiento y la habilidad necesarios para la identificación de las malformaciones leves, anomalías menores y variaciones fenotípicas.
+El diagnóstico de otras enfermedades genéticas puede requerir experiencia en una diversidad de disciplinas.
+Por ejemplo, el diagnóstico de alguna de las formas de retinitis pigmentaria (v, cap, 7) requiere la intervención de un oftalmólogo familiarizado con este grupo de trastornos degenerativos de la retina.
+El proceso diagnóstico se complica aún más por la expresión variable, la penetrancia incompleta y la heterogeneidad de muchas enfermedades genéticas.
+Estos conceptos se estudiaron en el capítulo 4.
+
+Comentario clínico l2.l. Razones para establecer el diagnóstico de un síndrome 
+
+La larga lista de síndromes asociados con malformaciones congénitas es abrumadora para el médico.
+En los Smith's Recognizable Patterns of Human Malformations se enumeran más de 1.000 trastornos y más de 1.000 son accesibles mediante de la base de datos informatizada POSSUM.
+Este número da la sensación de que el diagnóstico de un síndrome de malformación se sitúa en el marco de «trivialidades académicas».
+Sin embargo, esta sensación no es correcta.
+
+Por ejemplo consideremos un niño grande para su edad gestacional y con cierto número de anomalías físicas: onfalocele (protrusión intestinal en el ombligo), lengua grande, hemangioma facial, masa en el flanco y longitud asimétrica de las extremidades (figura 12-1). 
+Su familia plantea interrogantes como ¿qué enfermedad tiene?,
+¿qué le pasará?, 
+¿tendrá un aspecto diferente?,
+¿tendrá retraso mental?
+Y ¿cuál es la posibilidad de que este trastorno ocurra de nuevo?
+
+Juntando todas estas manifestaciones y efectuando el diagnóstico, por identificación del cuadro clínico, de síndrome de Wiedemann-Beckwith, el médico es capaz de dar una respuesta bastante precisa a todas las preguntas sobre el paciente.
+El síndrome de Wiedemann-Beckwith es un trastorno autosómico recesivo con expresión variable y penetrancia incompleta. 
+Además, se cree que el gen exhibe la huella genética. 
+Sin embargo, en caso de ausencia de antecedentes familiares, el riesgo de recurrencia en hermanos es inferior al 5%.
+En caso de antecedentes familiares el riesgo de recurrencia es muy superior y el análisis de ligamiento puede proporcionar un cálculo del riesgo más preciso.
+En los embarazos posteriores se puede llevar a cabo el diagnóstico prenatal con ecografía para descartar onfalocele en el segundo trimestre.
+Así como el tamaño grande para la edad gestacional, exceso de líquido amniótico (polihidramnios) y lengua grande.
+Si se cree que un feto tiene el síndrome de Wiedemann-Beckwith se debe modificar la planificación del parto y procurar que el nacimiento del bebé se produzca en un centro de asistencia terciario. 
+
+Los niños con síndrome de Wiedemann-Beckwith no suelen presentar retraso mental.
+
+Aunque la lengua grande puede provocar problemas de ortodoncia. 
+Dificultades del lenguaje y, en algunas ocasiones, problemas de las vías respiratorias superiores estos trastornos suelen mejorar con la edad.
+El aspecto facial no es tan sorprendentemente anormal a finales de la infancia.
+
+Es probable que se efectúe un estudio cromosómico, aunque la mayoría de los pacientes con síndrome de Wiedemann-Beckwith no presentan la anomalía del cromosoma 11 descrita en un pequeño número de casos.
+
+Asimismo, el plan de cuidados médicos incluye de modo prioritario ecografías periódicas para descartar la presencia de neoplasias malignas intraabdominales, especialmente el tumor de Wilms y hepatoblastomas.
+Los niños con síndrome de Wiedemann-Beckwith tienen un riesgo del 5 al 10 % de desarrollar estos tumores y ambos tipos de neoplasias tienen tratamiento si se detectan precozmente.
+
+En este ejemplo resultó fundamental la obtención del diagnóstico del síndrome de Wiedemann-Beckwith. 
+El diagnóstico correcto proporcionó la información precisa para el consejo genético la predicción de la historia natural (incluyendo tranquilización), la organización de los estudios apropiados de laboratorio, el plan de mantenimiento de la salud y para la consulta con un grupo de apoyo.
+El diagnóstico fue útil para los padres, para el médico de familia y para el niño. 
+
+Figura 12.1
+
+Niño con síndrome de Wiedermann-Beckwith
+
+Obsérvense los ojos prominentes y la lengua grande y prominente.
+
+Aplicación de los principios de la genética médica
+
+El desarrollo de un enfoque genético de la enfermedad humana en el marco clínico requiere la aplicación de todos los principios básicos de la genética médica descritos en este libro.
+Por ejemplo, para establecer o descartar el diagnóstico de una N'F1 es necesario conocer la variabilidad clínica y la edad de presentación de ciertos signos de la enfermedad (para un estudio adicional, véase el comentario clínico 12-2).
+También es importante la identificación de las diversas formas de la neurofibromatosis (es decir, la identificación de la heterogeneidad).
+
+El conocimiento de los otros principios formales de la genética médica también es necesario en el cuidado de las personas con trastornos genéticos.
+La acumulación de datos sobre el historial de la familia y la interpretación de la información que proporciona el árbol genealógico son importantes para responder a las cuestiones relativas al riesgo de la familia.
+La comprensión de los diferentes modos de herencia es importante en cualquier explicación del riesgo de recurrencia.
+La discusión de los conceptos de nueva mutación y pleiotropía es común al revisar con una familia la etiología y la patogénesis de una enfermedad genética.
+Incluso una comprensión de la meiosis es necesaria para las discusiones de la etiología con la familia de un recién nacido con síndrome de Down.
+
+Consejo genético
+
+Definición y principios
+
+El consejo genético representa uno de los ejes centrales de la genética médica. 
+A primera vista, el uso del término consejo implica que este servicio se sitúe en el terreno de la salud mental, asistencia social o psicoterapia. 
+De hecho, el consejo genético se fundamenta en el modelo médico convencional ya que depende de forma significativa de un diagnóstico preciso y del conocimiento de la genética médica.
+Tradicionalmente, el consejo genético se ha desarrollado dentro del campo de la genética humana, en vez de formar parte de las ciencias de la conducta, a diferencia de otras disciplinas de consejo. 
+
+En 1975, la American Society of Human Genetics formuló una definición del consejo genético que ha resistido el paso del tiempo:
+
+El consejo genético es un proceso de comunicación que trata de los problemas humanos asociados con la ocurrencia, o riesgo de ocurrencia, de un trastorno genético en una familia.
+Este proceso requiere que una o más personas adiestradas de forma apropiada ayuden al individuo o familia a:
+
+1 ) comprender los hechos médicos, incluyendo el diagnóstico, la evolución probable del trastorno y el tratamiento disponible,
+2) apreciar el modo en que la herencia contribuye al trastorno y al riesgo de recurrencia en parientes especificados;
+3)comprender las alternativas para tratar con el riesgo de recurrencia;
+4)escoger un curso de acción que les parezca apropiado a la vista de su riesgo, sus objetivos familiares y sus normas éticas y religiosas, y actuar de acuerdo con la decisión tomada, y
+5) procurar la mejor adaptación posible a la enfermedad en un miembro afectado de la familia y/o al riesgo de esta enfermedad.
+
+Esta definición ilustra las complejas tareas que afronta el médico.
+La primera tarea implica el establecimiento del diagnóstico y la discusión de la historia natural y el tratamiento del trastorno.
+A este respecto, el tratamiento de una enfermedad genética no difiere del tratamiento de cualquier otro tipo de enfermedad. 
+
+La segunda tarea requiere una comprensión de los principios básicos de la genética médica, en especial de la determinación del riesgo.
+Para estimar la recurrencia de los trastornos cromosómicos y multifactoriales se utilizan los riesgos empíricos. 
+Los patrones de segregación se emplean para predecir el riesgo de recurrencia de los trastornos mendelianos.
+Sin embargo, a menudo los temas médicos se complican a causa de una penetrancia reducida, una expresión variable, una edad tardía de presentación y la heterogeneidad alélica y de loci .
+En ciertos casos, la incorporación de información adicional utilizando el método de probabilidad bayesiana puede modificar de forma significativa las estimaciones del riesgo (comentario clínico 12-3., página 237.
+
+237).
+
+Los objetivos tercero y cuarto del proceso de consejo genético subrayan las principales diferencias que existen entre el modelo genético y el método biomédico tradicional. 
+Estas tareas exigen la discusión de las opciones de reproducción y la facilitación de la toma de decisiones.
+Implícita en la cuarta parte de la definición se encuentra la noción de respeto por la autonomía de la familia y por sus percepciones acerca del riesgo y de la enfermedad.
+Este enfoque se ha denominado no directivo : el consejero deja que la familia tome todas las decisiones acerca de una futura reproducción. 
+Esta aproximación difiere en alguna medida del enfoque médico más tradicional en las que se efectuaban recomendaciones relativas al tratamiento o la intervención.
+
+Se trata de un tema importante puesto que este método no directivo entra, en algunas ocasiones, en conflicto con la visión más amplia de la medicina preventiva, que sugiere que el principal objetivo del consejo genético sería la reducción de la incidencia de las enfermedades genéticas.
+Si la prevención o la reducción de la ocurrencia es el principal objetivo, entonces el enfoque debería ser más directivo.
+Sin embargo, el principal objetivo del consejo genético es ayudar a las familias a comprender y afrontar la enfermedad genética, no a reducir la incidencia de la enfermedad genética.
+
+Aunque la mayoría de genetistas suscriben los principios de autonomía y método no directivo, en algunas ocasiones puede ser imposible comportarse de una forma no directiva por completo, simplemente debido a las opciones limitadas que el consejero tiene en una breve sesión.
+Además, la información puede presentarse de modo distinto en contextos diferentes.
+Por ejemplo, la información sobre el síndrome de Down puede comunicarse de una forma si el diagnóstico se realiza prenatalmente o de otra forma si el diagnóstico se establece después del nacimiento de un neonato afectado(comentario clínico 12-4, pág. 239).
+
+La mayoría de los genetistas clínicos suscriben el principio del método no directivo:
+la información acerca de riesgos, historia natural, tratamiento y pronóstico se presentan de una manera equilibrada y neutral, pero las decisiones acerca de la reproducción se dejan a la familia.
+
+La facilitación de la discusión sobre la toma de decisiones sobre la reproducción es fundamental para el consejo genético.
+Varios factores intervienen en la decisión de la familia acerca de futuros embarazos cuando existe un aumento del riesgo.
+Los más evidentes son la magnitud de La cifra del riesgo y la carga o el impacto de la enfermedad.
+Sin embargo, estos temas no son los únicos importantes.
+La percepción que una familia tiene del impacto del trastorno es probablemente más importante en su toma de decisión que la percepción que tenga el profesional.
+El significado de los hilos para una familia, según sus propias preferencias religiosas, y personales, pesa mucho en el proceso de toma de decisión sobre la reproducción.
+Además, a menudo las familias se plantean tener que afrontar la recurrencia del trastorno en otro hijo.
+La identificación de estos temas ayuda a la familia.
+A menudo a estimular sus propias discusiones.
+Algunas familias perciben el riesgo en forma cualitativa en vez de cuantitativa: se consideran con riesgo o no, siendo la estimación real del riesgo una consideración secundaria.
+El hecho de que exista una variación tan grande en la importancia que las personas asignan a cada uno de estos factores (percepción del riesgo, percepción del impacto, significado de los hijos y posibilidad de recurrencia) subraya de nuevo que el profesional debe facilitar la decisión y no ser quien la tome.
+
+Comentario clínico 12-2., Historial familiar negativo
+
+Una de las discusiones más frecuentes en las visitas hospitalarias es la anotación de que los antecedentes familiares de una persona son «negativos, o no «cooperantes». 
+A menudo, ello basta para descartar un trastorno genético. 
+
+Sin embargo, la mayoría de individuos con una enfermedad genética no tienen un historial familiar «positivo».
+Una rápida revisión de los mecanismos de herencia mendelianos, cromosómicos y multifactoriales muestra que la ausencia de otras personas afectadas en la familia es frecuente y no descarta en modo alguno la presencia de enfermedad genética.
+Por ejemplo, el riesgo de recurrencia en hermanos es del 25 % para las enfermedades con herencia autosómica recesiva.
+Por lo tanto, un número significativo de familias con múltiples descendientes sólo tendrán un niño afectado y sin antecedentes familiares.
+Incluso algunos trastornos autosómicos dominantes bien establecidos pueden presentar a menudo un historial familiar negativo a causa de las elevadas proporciones de nuevas mutaciones [entre los ejemplos se incluyen el síndrome de Marfan, la neurofibromatosis de tipo 1 (NF1) y la acondroplasia, en los que las proporciones de casos provocados por nuevas mutaciones son del 30, 50, y 80 %, respectivamente].
+Los síndromes cromosómicos suelen tener bajo riesgo de recurrencia. 
+Aun cuando un progenitor sea portador de una redistribución cromosómica equilibrada, el riesgo de recurrencia entre la descendencia suele ser inferior al 15 %.
+Los riesgos de recurrencia en hermanos, en el caso de trastornos multifactoriales, suele ser del 5 % o menos.
+
+Caso
+
+Una familia acude con un niño de 6 años de edad que presenta 10 manchas café-au-lait de diámetro superior a 0.5 cm y un glioma óptico (fig. 12-2).
+La familia formula preguntas acerca del diagnóstico y el riesgo de recurrencia en embarazos futuros.
+Mediante un Contacto telefónico inicial se averigua que no existen antecedentes familiares de manifestaciones similares.
+
+Existen varias explicaciones posibles a este hallazgo.
+
+Su exploración subraya las implicaciones de un historial familiar negativo:
+
+1. Nueva mutación del gen de NF1.
+Debido a la proporción relativamente elevada de nuevas mutaciones de este trastorno, esta explicación es la más probable.
+
+2. Expresión variable.
+También es posible que uno de los progenitores sea portador del gen con expresión leve.
+De forma ocasional, un progenitor tiene múltiples manchas caféau-lait y algunos neurofibromas, pero nunca ha sido diagnosticado de NF1.
+
+3. Penetrancia incompleta.
+Se trata de una posibilidad; sin embargo, no es probable en el caso de la NF1, cuya penetrancia se aproxima al 100 %.
+Si una familia tiene dos hijos con NF1 y ninguno de los progenitores tiene el gen, la existencia de un mosaicismo de la línea germinal seria la explicación más probable.
+
+4. Diagnostico incorrecto.
+Uno de los supuestos y principios básicos de la genética médica es un diagnóstico preciso.
+Este paciente cumple los criterios NIH establecidos para la NF1 (v. cap. 4).
+Sin embargo, si este individuo presentara sólo manchas café-au-lait , el diagnóstico sería objeto de discusión.
+Sería necesario conocer el diagnóstico diferencial de las manchas café-au-lait múltiples.
+
+5. Falsa paternidad.
+Aunque relativamente poco frecuente debe tenerse en cuenta esta posibilidad. 
+
+
+Comenzamos con un individuo que presenta un trastorno autosómico dominante clásico sin antecedentes familiares. 
+Esta ausencia de historial familiar puede tener diversas explicaciones.
+La declaración de que existe un «historial familiar negativo» no debe considerarse como prueba concluyente contra la presencia de un trastorno hereditario. 
+
+Figura 12-2
+
+Niño de 6 años de edad con múltiples manchas café-au-lait y pecosidad axilar
+
+Comentario clínico 12-2.
+Historial familiar negativo (Cont.,).
+
+Comentario clínico 12-3., Riesgos de recurrencia y teorema de Bayes
+
+El cálculo de los riesgos de recurrencias se describió en los capítulos 4 y 5.
+Un ejemplo típico de estimación del riesgo de recurrencia seria el caso de un hombre afectado con hemofilia A, un trastorno recesivo ligado al sexo, que tiene una hila (individuo II-1 en el árbol genealógico de la derecha).
+Puesto que el hombre sólo puede transmitir el cromosoma X portador de la mutación de hemofilia A a su hija, ésta será una portadora.
+La hija de la portadora, individuo III-6, tiene una probabilidad del 50% de recibir el cromosoma X con la mutación y, por lo tanto, de ser portadora ella misma. 
+Aun cuando la hija de la generación III tenga cinco hermanos normales, su riesgo continúa siendo del 50% ya que sabemos que la madre de la generación 11 es una portadora.
+
+Supongamos ahora que la mujer de la generación III tiene tres hijos (generación IV) y ninguno de ellos con hemofilia A.
+De forma intuitiva, podríamos sospechar que, después de todo, no es una portadora.
+¿Cómo podemos incorporar esta nueva información en nuestra estimación del riesgo de recurrencia?
+
+Un principio estadístico que nos permite utilizar esta información es el denominado teorema de Bayes (la aplicación del teorema de Bayes es denominada a menudo como análisis bayesiano o inferencia bayesiana). 
+La tabla resume las etapas básicas que intervienen en el análisis bayesiano.
+
+Comenzamos con la probabilidad previa de que la mujer de la generación III sea una portadora. 
+
+Como su nombre sugiere, la probabilidad previa indica la probabilidad de que sea una portadora antes de que expliquemos que ha tenido tres hijos varones normales. 
+Puesto a que sabemos que su madre es una portadora.
+Su probabilidad previa debe ser de 1/2.
+Entonces, su probabilidad previa de que no sea una portadora también es de 1/2.
+
+Tabla 3-2
+
+Es portadora.
+No es portadora .
+
+
+Probabilidad previa.
+
+
+Probabilidad condicional.
+
+
+Probabilidad conjunta.
+
+
+Probabilidad posterior.
+
+
+A continuación consideramos a sus tres hijos normales, calculando la probabilidad de que los tres sean normales dado que ella es una portadora.
+Ya que esta probabilidad está condicionada por su estado de portadora,se denomina probabilidad condicional .
+Si es una portadora, la probabilidad condicional de que sus tres hijos sean normales es de (1/2)3 , o de 1/8 .
+También calculamos la probabilidad de que sus tres hilos fueran normales si ella no fuese portadora.
+
+Naturalmente, su probabilidad condicional es muy próxima a 1.
+
+A continuación queremos averiguar la probabilidad de que la mujer sea una portadora y de que sea una portadora con tres hijos normales.
+Para obtener la probabilidad de la coocurrencia de estos dos sucesos, multiplicamos la probabilidad previa por la probabilidad condicional para obtener la probabilidad conjunta (es decir, la probabilidad de que ambos sucesos ocurran juntos, un concepto descrito en el capítulo 4).
+La probabilidad conjunta de que sea una portadora es de 1/2 x 1/8 = 1/16 .
+De modo similar, la probabilidad conjunta de que no sea una portadora es de 1/2 x 1 = 1/2 .
+Estas probabilidades conjuntas indican que la mujer tiene una probabilidad de no ser portadora 8 veces superior a la probabilidad de ser portadora.
+
+La etapa final consiste en estandarizar las probabilidades conjuntas de modo que ambas probabilidades estudiadas (es decir, ser portadora en comparación con no serlo) sumen 1.
+Para lograrlo, simplemente se divide la probabilidad conjunta de que la mujer sea portadora (1/16) por la suma de ambas probabilidades conjuntas (1/16 + 1/2) .
+De este modo se obtiene una probabilidad posterior de 1/9 de que sea una portadora y de 8/9 de que no lo sea.
+Obsérvese que este proceso de estandarización nos permite proporcionar una estimación del riesgo (1/9 u 11 %) mientras conserva la relación entre estado de portador y no portador indicado por las probabilidades conjuntas.
+
+Una vez efectuado el análisis bayesiano, observamos que nuestra intuición se confirma: el hecho de que la mujer en cuestión tuviera tres hilos normales reduce de forma notable su riesgo de ser portadora, desde una estimación inicial del 50 % hasta una probabilidad final de sólo el 11%.
+
+Antes de la llegada del diagnóstico genético mediante marcadores ligados o detección de mutaciones, el análisis bayesiano era a menudo el único modo de obtener una estimación del riesgo en una situación como la descrita.
+
+En la actualidad, se intenta identificar directamente la mutación del factor VIII que provoca la hemofilia A en esta familia 0 si esto falla, se utilizan marcadores ligados. 
+Se trata de un método mucho más directo y preciso para determinar el estado de portador.
+Sin embargo, como se describe en el capitulo 11, no siempre es posible identificar la mutación responsable, sobre todo cuando el trastorno puede estar causado por gran número de mutaciones (como en el caso de la hemofilia A).
+Además, el análisis de ligamiento no siempre es informativo.
+
+Por lo tanto, el análisis bayesiano todavía es en algunas ocasiones un instrumento útil para precisar las estimaciones del riesgo.
+
+La información adicional incorporada en el análisis bayesiano no se limita a la valoración del estado de salud de los parientes como se muestra en este ejemplo.
+
+Otro tipo de información es un análisis bioquímico, como el nivel de actividad del factor V111, que podría contribuir a indicar el estado de portador.
+Dado que en estas pruebas suele existir una solapación entre portadores y homocigotos normales, el análisis no puede determinar con certeza el estado de portador, pero nos proporciona una estimación de probabilidad para su incorporación al análisis bayesiano.
+En enfermedades con edad tardía de presentación, como la nefropatía poliquística del adulto, la probabilidad de estar afectado a una edad determinada puede utilizarse en un análisis bayesiano.
+
+En este caso se considera que la probabilidad de que el individuo con riesgo tenga el gen patológico disminuye cada vez más si permanece normal a una edad determinada. 
+
+La tarea final del consejo genético consiste en ayudar a la familia afrontar la presencia del trastorno y/o de su riesgo de recurrencia.
+Esta tarea es similar a la que presta el médico de familia al tratar con una enfermedad crónica y/o discapacidad.
+Posiblemente lo único excepcional sea la percepción que la familia tiene sobre el significado de un trastorno genético. 
+En muchos procesos adquiridos, como infecciones o accidentes. 
+Se exterioriza el significado último de la enfermedad. 
+En los trastornos genéticos, la enfermedad es más intrínseca para el individuo y su familia: por lo tanto provocan a menudo un completo dilema personal.
+La confirmación del compromiso de las familias es vital, y probablemente es más efectivo que los intentos simplistas de quitar la culpa.
+Los sentimientos de culpabilidad y vergüenza son naturales en esta situación y también es necesario reconocerlos.
+
+El médico de familia desempeña un papel vital en el apoyo continuado a las familias que tienen uno de sus miembros afectado por una enfermedad genética.
+
+Entre las estrategias de apoyo adicionales se incluyen la consulta de la familia con un grupo de apoyo genético, la distribución de información escrita sobre el trastorno, la consulta con especialistas en salud mental para consejo continuado y las frecuentes visitas de control que dispongan del tiempo necesario para la exposición de los sentimientos y los pensamientos.
+
+El consejo genético incluye cinco temas: tratamiento médico, determinación del riesgo, opciones de riesgo, toma de decisiones sobre la reproducción y servicios de apoyo.
+
+Numerosos estudios realizados en los últimos 20 años han intentado valorar la eficacia del consejo genético. 
+La metodología de estos estudios es complicada y la valoración de los resultados depende de la interpretación que se haga del objetivo del consejo genético.
+Sin embargo, pueden establecerse algunos puntos generales: Las familias tienden a recordar los riesgos de recurrencia relativamente bien.
+Una carta enviada después de la visita mejora este recuerdo.
+
+Las familias que perciben el estado de su descendencia como grave e impactante recuerdan mejor las cifras de riesgo. 
+La mayoría de los estudios sugieren que el consejo genético es relativamente eficaz en proporcionar información acerca de los aspectos médicos y los riesgos genéticos de la enfermedad.
+Es necesaria una investigación adicional sobre los temas que rodean la toma de decisión y el apoyo psicosocial.
+
+Transmisión del consejo genético: consejeros genéticos y grupos de apoyo
+
+Desde que el consejo genético apareció como disciplina independiente en la década de los setenta, se puso de manifiesto que la entrega de este servicio es compleja y requiere mucho tiempo.
+No sólo se requiere que los genetistas tengan conocimientos suficientes de la mayoría de especialidades de la medicina, sino que también es necesario que faciliten la toma de decisiones y proporcionen apoyo psicológico.
+Cuando se hizo evidente la necesidad de profesionales en genética que no sólo fueran médicos, se iniciaron programas de adiestramiento en consejo genético.
+En la actualidad existen más de una docena de cursos con grado de diplomado en consejo genético. 
+Los consejeros genéticos han pasado a formar parte integral de los servicios de genética médica.
+Por todas estas razones se fundó una sociedad profesional, la National Society of Genetics Counselors y, más recientemente, un tribunal de diplomación y acreditación, la American Board of Genetic Counseling .
+Aunque la gama de habilidades es amplia y las descripciones del trabajo varían en los diferentes centros médicos, los consejeros genéticos se han establecido como expertos en la determinación del riesgo, en la toma de decisiones sobre la reproducción y en apoyo psicosocial.
+
+Cada vez resulta más evidente la importancia que tienen los grupos de apoyo para la asistencia a las familias con uno de sus miembros afectado por un trastorno genético. 
+Estos grupos de voluntarios proporcionan a la familia el sentimiento de «compañero de viaje».

@@ -1,0 +1,236 @@
+
+El cromosoma de la masculinidad
+
+Los cromosomas X e Y de los humanos forman una extraña pareja.
+El X se parece a cualquier otro cromosoma, pero el Y resulta bastante peculiar.
+¿Qué evolución han seguido?
+
+Los cromosomas que determinan el sexo - X e Y- constituyen una pareja extravagante.
+Los 22 cromosomas restantes de nuestras células tienen tan idénticas sus parejas correspondientes, que parecen estructuras gemelares.
+De cada par, un cromosoma procede de la madre y otro del padre; en condiciones normales los dos tienen, sin embargo, el mismo tamaño y llevan los mismos genes.
+(Los genes son los planos de ADN sobre las proteínas, encargadas de realizar la mayor parte del trabajo del organismo.)
+Por eso resulta llamativo el contraste entre el Y y el X.
+El cromosoma Y es mucho menor que el X; en realidad es muy canijo.
+Aloja unas docenas de genes, frente a los 2000 o 3000 que encontramos en el X.
+Algunos de los genes del cromosoma Y carecen del acostumbrado correspondiente en el X.
+Por si fuera poco, está cargado de ADN «morralla», secuencias de nucleótidos que no encierran instrucciones para la síntesis de moléculas útiles.
+
+Hasta hace poco, los biólogos se veían incapaces de explicar los mecanismos que le habían conducido a semejante estado de penuria.
+
+Algunas teorías había, pero no sabían cómo someterlas a contrastación.
+La situación ha dado un giro copernicano. gracias en buena medida al Proyecto Genoma Humano y otros esfuerzos parecidos encaminados a descifrar la secuencia completa de los nucleótidos de ADN en los 24 cromosomas del ser humano: X, Y y los 22 autosomas (los cromosomas no involucrados en la determinación del sexo).
+A la manera en que los paleontólogos trazan la evolución seguida por una especie apoyados en el estudio de los esqueletos de los animales actuales y de los fósiles, los biólogos moleculares recorren la evolución de cromosomas y genes mediante las huellas dejadas en las secuencias de ADN . 
+
+Los hallazgos recientes demuestran una historia de los cromosomas sexuales sorprendentemente dinámica, marcada por una serie de perturbaciones drásticas en el Y y cambios compensatorios en el X.
+Esa relación se sigue dando también hoy.
+
+Además, el cromosoma Y -durante largo tiempo considerado un Desbarajuste, capaz de hacer poco más que poner en marcha el programa de la masculinidad- resulta que esconde posibilidades insospechadas para la mayoría de los biólogos.
+A lo largo de más de 300 millones de años se las ha arreglado para conservar un puñado de genes importantes en la supervivencia del macho y para adquirir otros necesarios en el proceso de fecundación.
+Pese a su aspecto modesto, tiene en sus manos un sorprendente poder.
+
+La investigación sobre la evolución de los cromosomas sexuales humanos partió de la curiosidad científica. 
+Pero no sólo de ésta.
+Con una aspiración más pragmática se buscaba explicar y revertir la esterilidad del varón.
+El descubrimiento de genes del cromosoma Y que influyen sobre la capacidad reproductora podría llevar a tratamientos innovadores en el hombre privado de tales genes o portador de versiones defectuosas de los mismos.
+
+Los avances recientes hunden sus raíces en ideas asentadas 100 años atrás.
+Antes del siglo XX, los biólogos, observando lo que acontecía en los reptiles, pensaban que el ambiente determinaba el sexo también en el ser humano y en otros mamíferos.
+Por lo que concierne a los reptiles, la temperatura del embrión en un momento precoz del desarrollo insta la intervención de un sistema, poco conocido todavía, que primará la formación de un macho o una hembra.
+A comienzos del siglo XX, sin embargo, se dieron cuenta de que en ciertas especies los cromosomas mediaban en la determinación del sexo.
+Unos veinte años después se vio que los mamíferos estaban entre los que se servían de cromosomas - el X y el Y- para determinar el sexo en el desarrollo embrionario.
+
+Figura 1
+
+LOS CROMOSOMAS X e Y fueron, hace millones de años, parejas equivalentes
+
+Pero el cromosoma Y se encogió, en tanto que X mantuvo su integridad.
+La investigación genética ha empezado a aclarar los pases que condujeron a la notable disparidad de hoy.
+Las micrografías muestran los cromosomas tal como aparecen en la metafase de la división celular.
+
+Rosario de pruebas
+
+En los decenios siguientes, se halló que el cromosoma Y constituía el marcador del sexo masculino. 
+La investigación dedujo, además, que el X y el Y habían evolucionado a partir de autosomas emparejados de un antepasado común. 
+Por azar, poco antes o inmediatamente después de que surgieran los mamíferos, se produjo una mutación en una pequeña zona de la copia del autosoma que originó el Y, determinando que los embriones heredasen ese cromosoma cambiado (junto con su compañero, el futuro cromosoma X) y nacieran machos.
+Los embriones que heredasen los dos cromosomas X serían hembras.
+
+En 1990 los genéticos identificaron la zona del cromosoma Y que confiere masculinidad.
+Se trata del gen SRY (de « sex-determining region Y»).
+La proteína cifrada por SRY insta la formación de los testículos, según parece por la activación de genes de diversos cromosomas.
+Luego, la testosterona y otras sustancias sintetizadas en los testículos toman las riendas de la configuración de la masculinidad.
+
+Para llegar a la conclusión de que los cromosomas sexuales humanos comenzaron su vida de pareja acoplada, ]a ciencia se fundaba en los extremos de X e Y, que son un tanto gemelares y aptos para participar en un proceso de recombinación.
+Durante la meiosis (la división celular que da lugar a espermatozoides y óvulos), los cromosomas emparejados se alinean juntos e intercambian segmentos; después, una copia de cada autosoma más un cromosoma sexual se distribuyen por igual en cada gameto.
+Aunque ahora la mayor parte del Y se parece poco al X, los extremos de ambos cromosomas se alinean durante la meiosis en los machos e intercambien fragmentos como si X e Y siguieran siendo una pareja.
+(Esa alineación resulta crucial para la distribución adecuada de los cromosomas en el espermatozoide).
+
+Que el cromosoma X y el Y fueron un tiempo iguales se corrobora con una prueba más, que atañe a la parte de Y que no se recombina con X.
+Muchos de los genes distribuidos en la región no recombinante siguen teniendo su equivalente en el cromosoma X.
+
+La existencia de la región no recombinante, que constituye el 95 por ciento de Y, nos ofrecía una pista de cómo ese cromosoma se convirtió en sombra de su entidad originaria.
+En la naturaleza y en el laboratorio, la recombinación ayuda a mantener la integridad de los cromosomas.
+Por el contrario, su ausencia provoca que los genes de las regiones no recombinantes acumulen mutaciones destructivas que terminan por degradarlos, si no borrarlos.
+Parecía razonable pensar, pues, que hubo algo que detuvo el intercambio de partes de X e Y, con el desplome consiguiente de los genes de la región no recombinante del cromosoma Y.
+Pero transcurrieron decenios sin saberse cuando y cómo cesó la recombinación después de que surgiera dicho cromosoma.
+
+Figura 2
+
+LOS CROMOSOMAS de una célula de varón ( fotografía ) comprenden 22 pares de autosomas (no implicados en la determinación del sexo), más un cromosoma X y otro Y
+
+De cada par, un miembro procede de la madre y el otro del padre.
+Los genes de la NRY , región no recombinante del cromosoma Y ( azul en el diagrama ), han permitido trazar la historia evolutiva de X e Y.
+Como nos dice su nombre, se trata de una región que no puede recombinarse, o intercambiar ADN , con el cromosoma X.
+Sólo se indican los genes operativos.
+Aproximadamente la mitad tienen su pareja correspondiente en X ( rojo ); algunos de estos genes cumplen funciones de «administración y cuidado», y son necesarios para la supervivencia de la mayoría de las células.
+Ciertos genes de la NRY son activos sólo en los testículos ( púrpura ), donde probablemente participan en la fecundidad del varón.
+
+Conocimiento gradual
+
+El trabajo realizado a lo largo de los últimos cinco años ha venido cubriendo muchos vacíos.
+En 1999 uno de los autores (Lahn) y David C., Page, del Instituto Whitehead de Investigaciones Biomédicas de Cambridge, demostraron que el cromosoma Y perdió su capacidad de intercambio con el X de una manera gradual e inesperada: 
+primero implicó un trozo de ADN circundante al gen SRY y, luego, se expandió, en bloques separados, por el cromosoma.
+Pero sólo Y se deterioró en respuesta a la pérdida de la recombinación X- Y; el cromosoma X prosiguió con su recombinación entre sus dos copias en la meiosis de las hembras.
+
+¿A qué se debió el fracaso de la recombinación entre X e Y?
+Cuando el cromosoma X y el cromosoma Y primitivos se aprestaban a intercambiar segmentos durante la meiosis en un antepasado lejano de los mamíferos modernos, parte del ADN del cromosoma Y sufrió, a buen seguro, una inversión o un giro total con respecto a su parte equivalente en el cromosoma X.
+Puesto que la recombinación requiere que las dos secuencias de ADN similares se alineen juntas, la inversión suprimiría en adelante cualquier interacción entre las zonas de emparejamientos primitivas de X e Y.
+
+Descubrimos que la recombinación cesó en distintos episodios cuando examinamos las secuencias nucleotídicas de 19 genes que aparecen en la región no recombinante de X y de Y. (Algunas de las copias de Y han dejado de funcionar).
+En general, si las copias emparejadas de un gen perdieron su posibilidad de recombinación, la disparidad de las secuencias crecer con las generaciones.
+Ante una cifra limitada de diferencias entenderemos que la recombinación cesó recientemente; si el número es elevado, se detuvo hace mucho tiempo. 
+
+En su mayoría, los pares X- Y caían en cuatro grupos.
+Dentro de cada grupo, las copias de X e Y diferían en la misma cuantía, prueba de que la recombinación cesó casi al mismo tiempo.
+Los grupos se distinguían entre sí con claridad.
+Las copias de Y que empezaron a divergir de su correspondiente en el cromosoma X casi al tiempo en que surgió el gen SRY eran las que más diferían de sus parejas; los otros grupos mostraban una divergencia progresivamente menor entre las copias de X e Y.
+
+Mediante la comparación interespecífica de las secuencias de ADN , los biólogos calculan con bastante aproximación el momento en que los genes emparejados (y, por tanto, las regiones que los alojaban) comenzaron a seguir caminos separados.
+Aplicado el método a nuestro ámbito se reveló que los precursores autosómicos de X e Y seguían emparejados y persistían intactos en los reptiles que vivieron antes de que la línea de los mamíferos iniciara su proceso de frondosa ramificación.
+Pero los monotremas (así el ornitorrinco y el equidna), que se numeran entre los primeros en ramificarse de otros mamíferos, poseen el gen SRY y una región adyacente no recombinante.
+De tales diferencias se infería que el gen SRY surgió, y se detuvo la recombinación de una región cercana, en un momento cercano a la aparición de los mamíferos, hace unos 300 millones de años.
+
+Nuestro conocimiento acerca de la cronología de los hechos aumentó cuando aplicamos el método del «reloj molecular».
+En biología se calcula la llamada tasa de variación de fondo, es decir, la velocidad o tasa de variación de las secuencias de ADN cuando no se encuentran sometidas a una presión especial que les obligue a permanecer inalteradas.
+Multiplicando la amplitud de la disparidad de la secuencia en los pares X- Y por la tasa calculada, dedujimos que la primera inversión suspensora de la recombinación aconteció hace de 240 a 320 millones de años.
+
+Análisis parecidos señalan que la siguiente inversión ocurrió hace entre 130 y 170 millones de años, poco antes de que surgieran los marsupiales, ramificados de la línea que dio lugar a los mamíferos placentarios.
+El tercer episodio de inversión se registró hace entre 80 y 130 millones de años, antes de la diversificación de los mamíferos placentarios. 
+Por último, la inversión final se produjo hace entre 30 y 50 millones de años, después de que los simios iniciaran su propia senda evolutiva, aunque antes de que lo hicieran primates y homínidos.
+
+Apeándose de la tendencia general de los pares X- Y, algunos genes de la región no recombinante del cromosoma Y determinan proteínas que difieren sorprendentemente poco de las proteínas cifradas por sus equivalentes en X, incluso en zonas que sufrieron la inversión en momentos muy tempranos.
+La explicación de la conservación de los mismos se apoya, probablemente, en una ley evolutiva harto simple. según la cual si un gen es crucial para la supervivencia, tenderá a conservarse. 
+En efecto, los genes de Y que menos cambios han experimentado coinciden con los «encargados de la administración de la casa», vale decir, los responsables de mantener la integridad de las células del organismo.
+
+Figura 3
+
+LA DEGENERACIÓN DEL CROMOSOMA Y conoció cuatro episodios distintos
+
+Comenzó hace unos 300 millones de años, después de que un antepasado reptiliforme adquiriera un gen nuevo ( SRY ) en uno de sus cromosomas autosómicos.
+En cada uno de los episodios se produjo un fallo de la recombinación (intercambio de ADN ) entre el cromosoma X y el Y durante la meiosis, la división celular que origina el espermatozoide y el óvulo.
+Si la recombinación se bloquea, los genes de las regiones afectadas dejan de funcionar y se degradan.
+
+La secuencia que se muestra es muy esquemática. 
+En realidad, el cromosoma Y se expendió temporalmente a veces (enfilando ADN autosómico en zonas todavía capaces de recombinación), antes de que los fracasos de la recombinación condujeran a un acortamiento neto.
+
+Figura 4
+
+EVOLUCIÓN DE LA INACTIVACIÓN DE X o silenciamiento de la mayoría de los genes del cromosoma X en las células de una hembra
+
+Según parece, procedió de una forma gradual - un gen o algunos genes a la vez- para compensar la pérdida de genes del cromosoma Y ( diagrama ).
+En el gato moteado encontramos un efecto de la inactivación de X ( fotografía ).
+El gen determinante del color de la piel, naranja o negro, se halla en el cromosoma X.
+Las hembras que llevan la versión naranja en un cromosoma X y la versión negra en el otro X tendrán algunas zonas naranja y otras negras, dependiendo de qué X esté inactivo en cada célula.
+El responsable de las zonas blancas es un gen diferente.
+
+Compensación de pérdidas 
+
+La lógica- y un cuerpo sólido de resultados de investigación- nos induce a afirmar que a la recombinación fallida entre el cromosoma X y el Y, con la degradación consiguiente de muchos genes en Y, hubo de sucederle un tercer proceso que compensara la degeneración.
+¿Por qué?
+No todos los genes están activos en todas las células. 
+Ahora bien, cuando una célula necesita determinadas proteínas, activa las copias, maternas y paternas, de los genes correspondientes.
+La cantidad de proteína sintetizada a partir de cada copia se ajusta con finura a las exigencias de desarrollo del organismo y a su desenvolvimiento diario.
+Por tanto, cuando los genes del cromosoma Y comenzaron a desaparecer, la producción de las proteínas asociadas habría disminuido catastróficamente en los machos, de no haber logrado las especies afectadas desarrollar algunas mañas compensadoras.
+
+La mosca del vinagre y muchas especies más resuelven ese desequilibrio doblando la actividad de las versiones X de los genes Y perdidos en el macho.
+Otros animales emplean una estrategia más compleja.
+Primero refuerzan la actividad de los genes del cromosoma X, lo mismo en el macho que en la hembra; con ello se colman los niveles de proteína en el macho, aunque se crea un exceso en la hembra.
+Algunos, como los nemátodos, reducen a la mitad la actividad de los genes de X en la hembra.
+Otros, mamíferos incluidos, recurren a un proceso de inactivación de X, en cuya virtud las células de embriones tempranos de hembras silencien al azar la mayoría de los genes en uno de sus dos cromosomas X.
+Las células vecinas podrían silenciar copias de X diferentes, pero todas las descendientes de una determinada célula se acomodar n al mismo patrón de inactivación de X .
+
+Aunque desde hacia tiempo se veía en la inactivación de X una respuesta al deterioro de los genes de Y, carecíamos de pruebas tajantes.
+Si la degeneración de los genes de Y conducía a la inactivación del cromosoma X, entonces los genes de X dotados de pareja funcional en la región no recombinante de Y continuarían, cabía esperar, operando en las hembras (para evadir la inactivación), de suerte que así se mantuvieran en las hembras niveles de proteína equivalentes a los de los machos.
+Al analizar los niveles de actividad de los pares X- Y en dos docenas de especies de mamíferos, uno de los autores (Jegalian) y Page descubrieron años atrás que las copias en X de genes funcionales en Y escapaban a la inactivación. 
+Su investigación reveló también que la inactivación de X, aunque hoy sucede en un instante durante el desarrollo del animal, distó mucho de surgir de una forma repentina.
+Apareció trozo a trozo. quizá gen a gen dentro de un segmento, no de golpe en el cromosoma.
+
+Esterilidad del varón
+
+Además de revelar la historia de los cromosomas sexuales, los estudios genéticos del cromosoma Y nos permiten conocer las causas de algunos casos de esterilidad. 
+En casi la mitad de las parejas afectadas, el problema reside total o parcialmente en el varón, que produce un número insuficiente de espermatozoides o ninguno en absoluto. 
+A menudo las raíces de estas anomalías permanecen oscuras.
+Los nuevos hallazgos revelan, sin embargo, que el cromosoma Y contiene genes de fertilidad y que la alteración de uno o varios explica por qué alrededor del 10 por ciento de los hombres producen escasos espermatozoides o incluso ninguno.
+
+En los años setenta, tras observar al microscopio que muchos varones estériles carecían de pequeños fragmentos del cromosoma Y, presentes por norma en los fértiles, se dedujo la responsabilidad de dicho cromosoma en la infecundidad.
+Sabemos hoy que las delaciones en una cualquiera de tres regiones especificas del Y provocan esterilidad.
+Se trata de las regiones AZF (por factor de azoospermia) a, b y c.
+Cada una de ellas contiene múltiples genes.
+
+En su mayoría, tales genes se muestran muy activos en los testículos, donde se producen los espermatozoides.
+(Los genes fabrican en cantidades abundantes las proteínas que codifican.) 
+De semejante comportamiento se desprende la importancia de los genes de las regiones AZF para la formación de fluido seminal, aunque se desconoce su contribución exacta, así como la interacción de los mismos con genes de la fecundidad de otros cromosomas.
+
+Algunos andrólogos introducen ya las deleciones del cromosoma Y en valoración diagnóstica. 
+Si los varones que sufren esas delaciones producen al menos algunos espermatozoides, podrían someterse a una terapia de inyección espermática citoplasmática ( ICSI ), en que se recoge semen de los testículos y se inyecta en el ovocito en el laboratorio.
+Pero los hijos así concebidos heredarán los cromosomas Y defectuosos y padecer n probablemente los mismos problemas de esterilidad.
+
+Una vez se descifren las funciones exactas de las proteínas codificadas por los genes de la zona AZF , podría quizá repararse la esterilidad de los varones con delaciones en el cromosoma Y, mediante la restauración de los genes perdidos y la aportación consiguiente de las proteínas necesarias.
+Vistas las cosas desde la otra cara. algunos se proponen aprovechar esa información para el diseño de fármacos que alteren la maquinaria de producción de espermatozoides y convertirlos en nuevos anticonceptivos del varón.
+
+Figura 5
+
+LA INYECCIÓN del espermatozoide (visible en la microaguja) directamente en un óvulo puede vencer la esterilidad en varones afectados por mutaciones en el cromosoma Y
+
+Temas nuevos
+
+Resulta cuando menos llamativo que la región no recombinante del cromosoma Y posea, además de un puñado de genes valiosos, reflejados en el cromosoma X, otra docena que promueve la fecundidad en el macho.
+Estos genes de la masculinidad determinan sólo proteínas sintetizadas exclusivamente en los testículos, presumiblemente para intervenir en la producción de espermatozoides. 
+Algunos parecen haber saltado hasta el cromosoma Y desde otros cromosomas.
+De otros genes pudiera decirse que estuvieron en Y desde el comienzo, aunque cumpliendo en su inicio una misión diferente; con el tiempo adquirirían las nuevas funciones.
+De donde se desprende que la degeneración constituye un asunto mayor en el curso evolutivo seguido por el cromosoma Y.
+Otra segunda cuestión, apenas atisbaba hasta hace poco, se refiere a la adquisición de los genes de fertilidad.
+
+Los teóricos discrepan a propósito de las fuerzas que convierten al cromosoma Y en un imán para esos genes.
+La especie, en cuanto tal, podría beneficiarse del secuestro en los machos de genes nocivos o inútiles para las hembras.
+Es también posible que al estar en el Y los genes de la fertilidad se aseguraría su paso de macho a macho sin tener que desviarse a través de las hembras (que podrían desecharlos sin sufrir consecuencias directas).
+
+¿Cómo pueden los genes de la fertilidad prosperar en ausencia de recombinación, bajo las mismas condiciones que arruinaron a la mayoría de los restantes genes del cromosoma Y?
+La respuesta podría esconderse tras la observación siguiente:
+la inmensa mayoría de los genes de fertilidad presenta múltiples copias en el cromosoma Y.
+Semejante multiplicidad puede servir de tampón contra los efectos de mutaciones destructivas, que acostumbran afectar sólo a una copia por vez.
+Algunas copias acumulan mutaciones y terminan por fracasar, en tanto que las restantes siguen cuidando la capacidad reproductora del hombre y sirven de simiente para su propia multiplicación. 
+
+La evolución de los cromosomas sexuales se ha estudiado a fondo en el hombre.
+De su comparación con los trabajos acometidos en otras especies han aflorado una serie de principios generales que operan incluso en animales cuyos cromosomas sexuales siguieron un curso evolutivo distinto del expuesto a propósito de los mamíferos.
+Aves y mariposas usan el sistema W-Z de determinación del sexo.
+Cuando la herencia de una sola copia de un cromosoma específico induce la formación de un macho, a ese cromosoma se le llama Y, y a su pareja X .
+Cuando la herencia de una sola copia de un cromosoma promueve la formación de una hembra, a ese cromosoma se le denomina W, y a su pareja Z.
+
+Un principio importante es que los cromosomas sexuales proceden de los autosomas.
+Pero los autosomas concernidos pueden variar.
+En las aves los cromosomas W y Z surgieron de autosomas distintos de los que dieron lugar a X e Y en los mamíferos. 
+Por su parte, los cromosomas X e Y de la mosca del vinagre se originaron a partir de autosomas diferentes de los que dieron lugar a esos cromosomas en los seres humanos.
+
+En la mayoría de las especies que se reproducen por vía sexual, una vez que surgieron los cromosomas sexuales, éstos comenzaron a adquirir rasgos muy peculiares a medida que sufrieron uno o más ciclos de tres pasos secuenciales: supresión de la recombinación, degeneración de las regiones no recombinantes del cromosoma específico del sexo (el Y o el W) y, por último, la compensación por parte del otro cromosoma.
+Al mismo tiempo, el cromosoma específico del sexo devino importante para la fecundidad, como sucedió con el cromosoma Y en el hombre y en los insectos.
+
+Es razonable preguntarse por el futuro que le aguarda a nuestra especie.
+¿Podría continuar el ciclo hasta desaparecer toda recombinación entre el cromosoma X y el Y, hasta la destrucción final de Y, quizá dentro de millones de años? 
+Los descubrimientos recientes insinúan que los machos están capacitados para proteger sus genes del cromosoma Y que resultan decisivos para la supervivencia y la fecundidad del varón.
+Ello no obstante, la degradación total del cromosoma Y sigue ahí como una posibilidad teórica.
+
+Muy a menudo, se emprende una investigación génica con la mirada puesta en alguna enfermedad, para conocerla a fondo y repararla si se puede.
+Así se acometieron varios trabajos sobre el cromosoma Y, que buscaban comprender el desarrollo y la corrección de la esterilidad.
+A un buen número de estudios, sin embargo, les preocupaba menos la posible terapéutica.
+Conforme se iban identificando más genes de los cromosomas X e Y, gracias a la investigación médica y a una secuenciación sistemática, los científicos no se resistieron a plantear una cuestión más básica, la de si esos genes aportaban alguna novedad sobre el pasado remoto de ese extraño desemparejamiento entre el cromosoma X y el Y.
+Ahora vemos, en efecto, que los genes tenían una maravillosa historia que contarnos. 

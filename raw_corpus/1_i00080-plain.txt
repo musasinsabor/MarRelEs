@@ -1,0 +1,2076 @@
+
+Introducción 
+
+Internet no ha conocido nada como Mosaic.
+Este programa de reciente creación ha irrumpido en el mundo de las redes de la información y lo ha tomado por sorpresa captando la atención de los usuarios en todo el mundo con su seductor y atrayente interfaz.
+Puesto que no está limitado al texto lineal, los seguidores de Mosaic pueden navegar por las fotografías, dibujos en color, muestras de sonido e incluso por películas existentes en Internet, Y además, las características de formato de Mosaic permiten manipular la pantalla como si de una página impresa se tratara, a la vez que facilita el acceso a los ya conocidos recursos de Internet como Gopher , FTP, y Telnet.
+Si existe un programa de Internet que abarque todas las tareas, ése es Mosaic.
+
+Lo que hace a este programa especial es una buena ingeniería.
+Mosaic parte del problema que millones de nuevos usuarios se están acercando a Internet para encontrarse con que es estupendo pero difícil de usar, y lo resuelve brillantemente.
+El escritor de ciencia ficción Robert Heinlein dijo una vez: "Nunca se preocupe de la teoría mientras la maquinaria realice lo que se supone que tiene que hacer".
+
+La inmensa mayoría de los nuevos usuarios de Internet no son informáticos ni programadores y tienen poca paciencia con un sistema de ordenador que los pide que dominen complicados comandos y parámetros para poder llevar a cabo su trabajo.
+
+Mosaic les permite olvidarse de toda la teoría referente a Internet y que la maquinaria, en este caso, un programa concebido brillantemente, realice lo que se espera de él.
+
+Mosaic en su máximo avance 
+
+Seguir la trayectoria de este software es como observar un cohete tratando de alcanzar el cielo.
+Considere esta cifra: se han cargado 340.000 copias de Mosaic del Centro Nacional de Aplicaciones de Supercomputación (NCSA).
+Además considere el hecho de que Mosaic se puede cargar de otros servidores aparte del que mantiene NCSA, aunque una copia cargada en un servidor de ficheros puede soportar más de un usuario al mismo tiempo.
+
+Compare estos puntos con el hecho que Mosaic es un software en un estado inicial de desarrollo, y cada versión nueva induce a los usuarios a su actualización, lo que dificulta la estimación del número total de usuarios.
+
+Podemos hablar de un conjunto de usuarios en torno a cientos de miles, pero sería una exageración afirmar que son un millón o incluso más los usuarios que se encuentran activos, como muchos sostienen.
+Aunque este programa se está mejorando continuamente y lo que le hará cobrar mayor reconocimiento es el tema del tipo de acceso.
+Las ventajas evidentes de utilizar Mosaic, en especial su interfaz de seleccionar y ejecutar opciones y su capacidad para acceder dentro de un único programa a cualquier tipo de información de Internet, nos están conduciendo hacia una Internet del todo democrática.
+Nos hayamos en la fase previa de una revolución de interfaz que cambiará el modo en que recuperamos datos de la red.
+Millones de usuarios acceden a la red a través de cuentas dial-up o shell en vez de con las técnicas más especializadas y potentes como son SLIP (IP sobre Línea Serie) o PPP (Protocolo Punto a Punto), que permiten ejecutar Mosaic sobre un enlace a través de módem. 
+SLIP/PPP es cada vez más asequible debido a la aparición de módems de más alta velocidad y del drástico descenso que han experimentado los precios de las conexiones, mientras que aquéllos que disfrutaban de un acceso directo desde su puesto de trabajo ya han podido experimentar los placeres de ejecutar Mosaic a la máxima velocidad.
+
+Software e historia 
+
+Aunque Mosaic es la herramienta del futuro también tiene una deuda con la Historia.
+Tome pequeños guijarros, trozos de mármol, un trozo de cristal o terracota y empótrelo con yeso o masilla para sujetarlos en su lugar.
+El resultado es la más bella de todas las decoraciones del mundo antiguo.
+En el Museo británico, los mosaicos de la época romana cuelgan de las paredes de una inmensa escalera que conduce a las exposiciones de las culturas de la época clásica Grecia, Roma, Bizancio.
+
+Lo que verdaderamente sorprende son esos colores, los vibrantes azules, turquesas, rosas y dorados.
+Puede apreciar un trabajo similar en las ruinas romanas de Bath, donde los artesanos colocaron laboriosamente tesela a tesela para crear suelos tan maravillosos y exquisitos como jamás se hayan podido pisar.
+Los sucios son como calidoscopio.
+Siempre tendemos a olvidar la riqueza de color que dominaba el mundo antiguo.
+
+El Mosaico llamado "La magnífica cacería" se recuperó de las ruinas de la Piazza Armerina , en Sicilia, donde mosaicos de más de 7000 pies de largo nos muestran escenas de la vida cotidiana de los últimos días del Imperio Romano.
+En ellos aparecen patricios a caballo en una escena inolvidable de una cacería de un ciervo, y las caras tanto del cazador como del animal cazado están perfectamente captadas a través de diminutas inserciones de pequeños cubos llamados tesserae .
+En este proceso se daba forma a delgadas piedras de diversos colores para que se adaptasen a las características de cada diseño, mientras que el vidrio fundido se pintaba con óxidos de metales antes de verterlo sobre una superficie donde se enfriaba y así poder cortarlo.
+
+Incluso antes de la época Romana, en la antigua Sumeria, ya se empotraban piezas de barro cocido en paredes de ladrillo para crear dibujos.
+La utilización de los mosaicos ha sobrevivido hasta nuestros días como herramienta decorativa.
+
+Qué mejor nombre entonces para el software del que vamos a tratar.
+Mosaic consta de igual forma de diminutos objetos, insertados laboriosamente cada uno en su lugar adecuado.
+El hecho de que sean digitales-una colección de datos binarios de muy variada forma, tan complejos como un ADN-no modifica la proposición inicial: la acumulación de pequeños detalles crean belleza e información.
+
+Ahora podemos aprovecharnos del trabajo de los creadores de Internet al hacer uso de un software para acceder a esa información independientemente del flujo tan inmenso de datos digitales que soporta la red, aunque lo que cada uno de nosotros recibimos a este extremo de la red no son sólo datos sino talento artístico.
+Una página World Wide Web diseñada adecuadamente revela a través de Mosaic la mano de su creador.
+Podemos ver fotografías en color, escuchar sonidos, visualizar películas, utilizar el ratón para navegar por los enlaces existentes con otra información.
+Un solo clic del ratón nos lleva hacia páginas nuevas cada una con sus correspondientes enlaces para poder así continuar navegando.
+
+Tanto Mosaic como Web son el primer intento para poner en marcha una red digital de cierto atractivo visual.
+En algún momento de la historia alguien sugirió que un suelo romano podría ser bonito, y otra persona contestó ¿y por qué no? 
+
+El Centro Nacional de Aplicaciones de Supercomputacion (NCSA) 
+
+En nuestros días se ha llevado a cabo un diálogo similar en el Centro Nacional de Aplicaciones de Supercomputación, situado en la Universidad de Illinois en Urbana-Champaign.
+
+NCSA es un centro de investigación especializado en las altas prestaciones de los ordenadores dentro de un entorno interdisciplinario, lo que era necesario ya que el desarrollo de Mosaic exigía la capacidad de aunar en un todo diversos tipos de información, y lo que es más importante, necesitaba presentar el aspecto de un herramienta de acceso a Internet del todo potente si tenía la intención de atraer no sólo a las personas relacionadas con el mundo informático, sino al inmenso grupo de usuarios de la red, desde académicos hasta particulares.
+
+NCSA lleva a cabo ciencia computacional , un tipo de investigación que combina la teoría con los experimentos en laboratorios dentro de un contexto de un superordenador, se pueden modelar fenómenos naturales en dicho ordenador al trabajar con datos en tiempo real para sacar a la luz resultados que de otro modo quedarían ocultos.
+Desde que permitió el acceso a la comunidad investigadora en enero de 1986, NCSA ha trabajado con más de 6.000 usuarios, y cerca de 400 universidades y empresas.
+Entre sus beneficiarios se encuentran los educadores, científicos, artistas e ingenieros que se hayan enlazados a la red a través de lo que NCSA denomina metacentro para la ciencia computacional y la ingeniería.
+Este metacentro abarca a su vez otros centros de supercomputación aparte del mismo NCSA, como son el Centro de Teoría de Cornell, el Centro de Supercomputación de Pittsburgh, y el de San Diego.
+Su reto común: conseguir que la información esté accesible independientemente del lugar donde se encuentre el usuario y que se pueda utilizar con independencia del tipo de ordenador.
+
+Mosaic surge como consecuencia de esta necesidad, ya que el sistema está diseñado para que se pueda distribuir por toda la red, con lo que el usuario no necesita conocer la ubicación real de ningún documento al que tenga que acceder.
+
+Así llegamos al ciberespacio , el universo de las comunicaciones de los ordenadores conectados.
+El encargado de crear este espacio, el Grupo de Desarrollo de Software (SDG) de NCSA utiliza el software para distribuir información acerca de su propia misión y de las capacidades del programa que han creado.
+SDG desarrolla varias herramientas para todos los grandes ordenadores, desde el ordenador compatible con IBM hasta las estaciones de trabajo UNIX, Macintosh y los mismos superordenadores.
+
+La mayoría de este software es de dominio público, aunque otros programas que tienen protegidos sus derechos están accesibles para el colectivo académico y de investigación.
+
+El Mosaic de NCSA tiene protegidos sus derechos aunque es de libre distribución para el uso académico y de investigación.
+Como cualquier otro software de NCSA, se puede obtener por medio de CD-ROM, servidor de correo electrónico, el servicio de correos de los Estados Unidos, y por FTP anónimo.
+(Suponiendo que usted ya sea un usuario de Internet, en el capítulo 3 y 4 le proporciono las direcciones completas para recuperar e instalar Mosaic).
+
+Aquéllos que hayan seguido la saga de Mosaic ya sabrán que se encuentra accesible cierto número de versiones comerciales del programa.
+De hecho, Marc Andreesen, creador de Mosaic, y una gran parte del equipo tecnológico de Mosaic han abandonado NCSA para crear la empresa Mosaic Communications Corp. en Mountain View, California.
+
+Su objetivo primordial es proporcionar servicios y software para las actividades comerciales en Internet, de la que forman parte un conjunto de empresas que también están haciendo su aparición en el terreno comercial de Mosaic como por ejemplo, Spyglass, una compañía con sede en Savoy, Illinois, que recientemente ha conseguido el permiso de NCSA para comercializar Mosaic; Spry, con sede en Seattle, que produce el Internet in A Box , y por último, Quarterdeck, que tiene la intención de lanzar al mercado un producto de creación propia.
+En el capítulo 9 trataremos las ramificaciones de esta rápida comercialización.
+
+Pero de momento, la cuestión principal es qué Mosaic debemos utilizar.
+La respuesta que se facilita en este libro es sencilla: Cargue y aprenda todo lo referente a Mosaic con la versión del NCSA, que es de libre distribución y proporciona todo el conjunto de características que nos encontramos a punto de explorar.
+Llegue a conocer, gracias a Mosaic, todos los recursos que se están accesibles en Web y las diferentes formas que existen de llegar hasta ellos.
+Por consiguiente, si está metido en alguna operación comercial y tiene la intención de emplear Mosaic en su negocio, o si por el contrario se trata de un usuario particular que encuentra útiles ciertas características de alguno de los Mosaic en modo extendido que están apareciendo en el mercado, no lo dude y vaya directamente a por uno de ellos.
+A todos los usuarios particulares les vendrá bien aprender el funcionamiento con la versión de NCSA, ya que, después de todo, el equipo de desarrolladores de NCSA está continuamente mejorándola.
+
+Cómo funciona Mosaic 
+
+Si utiliza una cuenta dial-up con un interfaz tipo texto, las diferentes partes de Internet se presentan ante usted en unidades separadas.
+Para llevar a cabo algún tipo de tarea necesita dar/introducir una serie de comandos en el ordenador de su proveedor de servicios, y cada vez que lo realiza activa un programa.
+
+El comando pine llama al programa lector de correo de su mismo nombre, el comando trn el programa para leer los boletines de noticias USENET, y cada tarea desde sesiones FTP (File Protocol Transfer) para transferencia de ficheros hasta conexiones Telnet para acceder a terminales remotos las maneja un programa diseñado al efecto.
+Cada uno de estos programas cuenta con su propio conjunto de comandos.
+
+El atractivo de Mosaic está en que sus funciones incluyen casi todas las principales características de Internet, y así, por ejemplo puede establecer una conexión Telnet al llamar al mismo programa Telnet que utiliza en su conexión SLIP/PPP, con la diferencia que emergerá una pantalla dentro de su sesión de Mosaic pudiendo volver a ésta cuando haya finalizado.
+Puede cargar ficheros con FTP, pero en vez de trabajar con comandos memorizados a nivel del prompt, Mosaic le presenta una pantalla que le permite utilizar el cursor para llevar a cabo operaciones de selección y le muestra la estructura del terminal remoto en un formato lógico y fácil de entender.
+Gopher se encuentra accesible, y asimismo también lo están los boletines de noticias USENET, y como no, el inmenso mundo de recursos enlazados de hipermedia a los que se puede acceder por medio de World Wide Web .
+
+Esta es la principal razón por la que tanta gente está tan entusiasmada con Mosaic.
+John Markoff del periódico The New York Times lo describió como "un mapa de los tesoros ocultos de la Era de la Información".
+Lo que emociona a Markoff es su capacidad de hacer clic sobre cualquier palabra resaltada y llegar por medio de una conexión hipertexto a una nueva pantalla de Mosaic, que contiene información adicional sobre el tema que se está tratando.
+Haga clic sobre una imagen, y puede llamar a cualquier cosa desde escenas turísticas de Bali a una fotografía del satélite metereológico de la NASA.
+Haga clic sobre un icono de un altavoz de sonido y podrá escuchar la música de las montañas de Perú o la voz de Babe Ruth.
+A través de Mosaic se puede acceder a las exposiciones de los museos, guías telefónicas y catálogos de productos en venta.
+Cada día aparecen en escena nuevos recursos.
+
+Esto es bastante emocionante para la gente que está acostumbrada a las pantallas tipo texto, y haciendo uso de los llamados emuladores de terminal , dichas pantallas aparecen cuando los ordenadores intentan ser terminales de los ordenadores a los que están conectados.
+No existe alternativa para los usuarios dial-up , ya que el método utilizado limita sus posibilidades de uso.
+Los gráficos se quedan fuera, y el formato que aparece en pantalla resulta visualmente muy sencillo.
+
+Mosaic cambia todo esto.
+De repente surge un mundo sonoro a la vez que visual, y un bazar de información digital frecuentado por empresarios, científicos, académicos y meros usuarios particulares-visionarios y excéntricos-.
+
+El usuario puede crear su propio entorno Mosaic al diseñar páginas principales haciendo uso de un lenguaje hipertexto especial conocido con el nombre HTML, que transforma información lineal en un nuevo formato entrelazado, que incluye no sólo información textual sino todo los tipos de medios de información incluido el vídeo de animación.
+
+Debajo de esta superficie subyace World Wide Web , un sistema de información hipertexto de red desarrollado en el CERN, el Laboratorio Europeo de Física de Partículas en Suiza.
+Tim Berners-Lee, desarrollador de Web , nunca habría pensado que podía ser capaz de crear un programa tan completo como Mosaic.
+De hecho, las maravillas de Mosaic ocurren porque se trata de un programa superpuesto, o navegante , diseñado para explotar al máximo los recursos ya existentes en Web .
+Nada innato en el diseño de Web exige que tenga que ser gráfico, sino que en efecto existen otros navegantes Web incluidos varios tipo texto como www y lynx .
+Estos últimos son excelentes implementaciones y realizan todo aquello que se puede esperar de un sistema tipo texto, aunque no pueden incluir en un todo ni gráficos, ni diferentes formatos de texto, fotografías o sonidos.
+Esto ha llevado a transformar a Web en la revolucionaria herramienta comercial en que se ha convertido.
+
+Las premisas de Mosaic 
+
+Una buena herramienta de interfaz es aquélla que es más fácil de demostrar que de explicar.
+Sus premisas deberían ser tan evidentes como las de Mosaic, y deberían inducir al usuario a probar cosas nuevas, aparte de basarse en un sistema de menús que le permita regresar al punto de partida si llega a algún que otro callejón sin salida.
+Sus operaciones deberían ser coherentes al ofrecer opciones de comandos de una manera lógica accesibles desde el cursor, y por último no sólo tendría que ser fácil de instalar sino también de adaptar a las necesidades de una determinada situación.
+
+Mosaic no cumple todavía todos estos requisitos, pero se encuentra más cerca de alcanzarlos que cualquier otro procesador de Internet haya jamás conseguido, y lo hace a la vez que mantiene la potencia innata de nuestro creciente número de herramientas de red.
+Todos nosotros desearíamos que fuera más rápida pero para que nos pueda mostrar esa extraordinaria fotografía del monte Fuji, Mosaic tiene que recuperar de la red el fichero completo para luego mostrarlo por pantalla con la ayuda de un programa externo de visualización que se ha instalado expresamente para tal fin.
+Lo mismo se aplica a amplios ficheros audio; llegar hasta el himno nacional japonés on-line, puede tener como resultado largos minutos de espera mientras que se carga el fichero, byte a byte, por nuestra conexión a la red.
+
+No cabe duda que es frustrante, pero las limitaciones no son propias de Mosaic, sino de la calidad de nuestras conexiones.
+Esta es la razón por la que los usuarios que se conectan a la red por medio de módem necesitan trabajar con el instrumento más rápido que le sea posible, preferiblemente nada por debajo de 14.400 baudios (estudiaremos los requisitos mínimos de equipo en el capítulo 3).
+Mosaic demuestra que la tecnología de las comunicaciones ha rebasado, si cabe, nuestros sistemas de distribución; todos nosotros podríamos utilizar en nuestros propios hogares y lugares de trabajo conexiones de fibra de alta velocidad, que distribuiría un ancho de banda más amplio que los hilos de cobre, y permitiría que Mosaic ampliara su campo de acción.
+La popularidad de Mosaic y el propio crecimiento de Internet serán sólo dos de los factores que darán impulso para la consecución de esta meta, aunque sabemos que ya está de camino.
+Tanto lo llame la Infopista o Autopista de la Información, lo que es cierto es que nos estamos encaminando a una infraestructura de un gran ancho de banda que hará alarde de lo mejor de Mosaic.
+
+Todo esto no significa que el programa no esté listo para su utilización, aunque es verdad que todavía está en sus comienzos.
+
+Mosaic se puede utilizar hoy en día para llevar a cabo numerosas tareas de red, muchas de las cuales no haya quizá todavía intentado a causa de la desalentadora complejidad que pueda presentar esa tarea en cualquier otro interfaz.
+
+El interfaz de Mosaic 
+
+Los usuarios que se acercan a Mosaic procedentes del mundo convencional dial-up , sienten en primer lugar cierta curiosidad por el software seguido de un sentimiento estimulador.
+Las conexiones tipo texto siempre sitúan al usuario al nivel del prompt, y por consiguiente lo que usted ve en su pantalla no le proporciona ninguna pista de lo que puede realizar.
+
+Aquí, por ejemplo, aparece el prompt del usuario de Interpath, un proveedor de servicios de Internet en zona de Raleigh.
+Esto es lo que yo veo cuando me conecto: mercury: .
+
+La palabra " mercury " es el nombre del ordenador al que me he conectado, y los dos puntos es un icono en espera de mis comandos, por lo tanto este prompt significa "teclee un comando para utilizar el sistema".
+
+Varios proveedores de servicios modifican sus propios prompts y así puede encontrar como prompt del usuario alguno de los siguientes signos (%), ($) o (:), pero independientemente del prompt que se utilice, necesita conocer el comando que se va a ejecutar o no sucederá nada.
+
+Compare esto con lo que sucede cuando llama a Mosaic.
+En vez del prompt del usuario aparece una pantalla llena de información como la que nos muestra la figura 1.1.
+Aunque ésta es sólo una de las miles y miles posibles pantallas que puede encontrarse en Mosaic.
+El hecho de que Mosaic esté enlazado con documentos World Wide Web , hace posible que lo utilicemos para cambiarnos entre estos documentos que ofrecen a su vez múltiples pantallas o páginas de información.
+El número de tales servidores está creciendo rápidamente según aumenta la popularidad de Mosaic.
+
+Figura 1.1
+
+Página principal de la versión de Mosaic para Microsoft Windows
+
+La figura 1.1 nos muestra la página principal de la versión de Mosaic de Windows de Microsoft, lo que puede comprobar por la información que aparece en la parte superior de la pantalla, que le muestra en cualquier momento a qué página ha accedido por medio de la compleja y entrelazada estructura de Web .
+Un poco más abajo se encuentra el parámetro URL ( Uniform Resource Locator) , que especifica la dirección del documento al que hemos accedido.
+Un URL proporciona la dirección completa de dónde encontrar un determinado recurso en Internet, independientemente de su formato.
+
+Como veremos más adelante, Mosaic nos permite introducir URL para llegar directamente a este documento.
+
+En la figura 1.1 puede apreciar qué parte del texto aparece subrayado (un monitor color mostraría que el texto subrayado puede aparecer en un color diferente al resto del texto).
+
+Tanto el subrayado como el cambio de color indican la presencia de un hiperenlace con otros documentos, al que puede llegar al hacer clic sobre él con el botón izquierdo del ratón.
+Nunca se equivocará si asume que la curiosidad es el mejor vehículo para explorar las posibilidades de uso de Mosaic y los destinos accesibles a través de World Wide Web .
+Todo el proceso consiste en seleccionar las opciones que se nos presentan.
+
+La naturaleza de la conexión 
+
+A pesar de su complejidad, Mosaic es un programa extraordinariamente fácil de instalar, aunque la clave consiste en hacerse con la versión apropiada.
+Para ello viajaremos en el capítulo 3 hasta las instalaciones del Centro Nacional para las Aplicaciones de Supercomputación en Urbana-Champaign, Illinois, lugar donde nació Mosaic y donde todavía continúan los trabajos y desarrollos de este programa.
+Una vez allí podemos elegir entre las versiones de Mosaic para Macintosh, Windows o UNIX.
+Los capítulos 3 y 4 nos enseñarán a recuperar los ficheros necesarios, descomprimirlos e instalar el programa en nuestro disco duro.
+Sólo entonces podremos realizar los procedimientos básicos de configuración para poner a prueba nuestra copia de Mosaic.
+
+Pero antes de seguir adelante hay que tratar un cuestión fundamental, que es el tipo de conexión a Internet que se requiere para poder ejecutar Mosaic.
+Este puede ser quizá el punto más desconcertante para todos los nuevos usuarios puesto que han oído hablar de la existencia de un programa que elimina la necesidad de recordar comandos para navegar por Internet.
+Muchos de ellos ya han cargado, descomprimido e instalado el programa para encontrarse ante un mensaje enigmático y con una conexión aparentemente sin vida (que parece no funcionar) cuando deciden empezar a trabajar.
+Por consiguiente, vamos a comenzar este capítulo con el tema de la conectividad, una preocupación de primer orden para cualquier futuro usuario de Mosaic.
+
+Si su conexión a Internet se realiza a través de un módem hasta el servidor UNIX de su proveedor de servicios, entonces este capítulo está especialmente diseñado y pensado para usted.
+A menos que utilice una cuenta SLIP/PPP, Mosaic será incapaz de funcionar con su módem habitual.
+A continuación se explica en qué consiste y lo que es una cuenta SLIP/PPP, y lo que hay que hacer para conseguir una.
+Si se conecta a Internet desde su lugar de trabajo sobre una red interna que está directamente enganchada a Internet, no tendrá por qué preocuparse de lo que es SLIP/PPP y podrá pasar sin ningún problema al capítulo siguiente donde se describe el procedimiento para instalar Mosaic.
+
+Una instalación detallada de SLIP/PPP iría más allá del alcance de este libro, por lo que por el contrario lo que voy a presentar son una serie de alternativas que nos ayuden a encontrar e implementar software SLIP/PPP.
+Algunos libros en el mercado empiezan a incluir disquetes de muestra de software SLIP/PPP y ya se encuentra disponible para Windows de Microsoft un magnífico programa de libre distribución llamado Trumpet Winsock.
+La mejor manera para trabajar con una cuenta SLIP/PPP tanto si utiliza un Macintosh o un PC compatible con IBM, es en primer lugar, contratar una cuenta con un proveedor de servicios Internet y, en segundo lugar, servirse del soporte técnico que nos facilita nuestro proveedor a la hora de instalar el software necesario.
+Un buen proveedor de servicios es aquél que le ayuda y le guía durante el proceso de la instalación.
+En algunos casos los proveedores ofrecen también un paquete de software y un manual de instalación con los que no debería tener ningún problema en el momento de realizar la instalación, pero si por el contrario tiene espíritu aventurero siempre puede intentar implementar SLIP por medio del programa Trumpet Winsock, aunque es aconsejable que los principiantes sigan las recomendaciones de sus proveedores y traten de crear, en la medida de lo posible, un entorno SLIP/PPP.
+
+Tipos de conexión a la red Internet 
+
+Si la vida fuera más sencilla, existiría simplemente una única forma de conectarse a Internet.
+
+Como sucede con CompuServe o DELPHI se accedería a través de un módem, que conectado al puerto serie de su ordenador y situado a medio camino entre el ordenador y la red telefónica, convertiría los trabajos binarios de su ordenador en los analógicos del sistema telefónico.
+
+Piense en el módem como un programa de traducción que convierte datos digitales en sonido.
+
+Si escucha el sonido de un módem que está funcionando sobre la línea telefónica, podrá oír una serie de tonos, ya que el módem de un extremo está transformando la información en una especie de música, dejando que esa música corra por las líneas telefónicas hasta que el módem situado al otro extremo;lo convierta en datos digitales.
+Durante la década pasada nos empezamos a familiarizar con la existencia de los módems y en estos momentos apenas nos cuestionamos su funcionamiento.
+Para muchos usuarios representan el mayor logro de las comunicaciones, ya que los permite conectarse a bases de datos remotas, dejar mensajes electrónicos, unirse y tomar parte en grupos de debate o en servicios comerciales existentes on-line.
+
+La clave para entender la conexión a Internet radica en darse cuenta que existen diferentes formas de conseguir el acceso.
+Dos de ellas implican el uso de un módem, aunque no ocurre así con el tercer tipo.
+En este libro he supuesto que usted desea utilizar un módem, por lo tanto, mi trabajo consiste en indicarle cómo tiene que adaptar su conexión a Internet para que el módem funcione de la manera que tendría que funcionar con Mosaic.
+Si no utiliza un módem para conectarse con Intemet, significa que está accediendo directamente desde su lugar de trabajo, donde todos los ordenadores se hayan enganchados a la red a través de un router que se encarga de gestionar y enviar todo el tráfico.
+Estudiemos ahora estos tres tipos de conexión.
+
+Conexión dial-up (shell) 
+
+Puesto que Internet se encuentra en sus comienzos, todavía estamos inmersos en una búsqueda de la terminología más apropiada que defina ciertos conceptos de conectividad.
+A partir de ahora voy a utilizar el término dial-up para hacer referencia al nivel más básico de acceso a Internet.
+
+Cuando contrata una cuenta del tipo dial-up , se le facilita el acceso a uno de los ordenadores de su proveedor y asimismo se le proporciona el número de teléfono al que tiene que llamar, la identificación del usuario ante el ordenador o login y una palabra de paso secreta o password inicial, que deberá cambiar una vez que se conecte on-line para evitar que otras personas puedan acceder o modificar su información.
+
+A este tipo de conexión también se le conoce con el nombre de shell , ya que es así como se llama el intérprete de comandos UNIX.
+Piense en ella como el interfaz que utiliza cuando trabaja on-line con UNIX (la mayoría de estas cuentas utilizan UNIX como su sistema operativo).
+Existe una gran variedad de shells en UNIX, siendo algunas de las más comunes la C Shell, conocida como csh , y la Shell Bourne o sh .
+Cada una de estas shells proporciona un interfaz que acepta nuestros comandos y realiza las acciones que especificamos.
+
+Nuestro trabajo consiste, por tanto, en conectamos al ordenador UNIX e introducir los comandos UNIX en el entorno shell.
+Personalmente, me inclino por el término dial-up ya que algunos servicios como DELPHI y America Online ofrecen conexión a Internet pero no emplean una shell UNIX.
+
+Cualquiera que sea el término que empleemos, dial-up o shell, no nos vemos limitados por el tipo de software a utilizar para conectarnos a la red.
+Cualquier programa de comunicación Procomm Plus, Zterm, Crosstalk, Crosstalk para Windows puede servirnos igualmente.
+La mayoría de-los usuarios de modem ya disponen de este programa y lo han utilizado para conectarse con BBS ( Bulletin Board Systems) locales y servicios comerciales on-line como los que ofrece CompuServe o America Online, y es posible que también utilicen estos programas para transferir ficheros entre los ordenadores de casa y los de la oficina.
+Nuestra conexión dial-up funciona en esta misma línea; marcamos un número que hemos establecido con anterioridad como un directorio de entrada en nuestro software de comunicación, seguido de la identificación del usuario y del password para poder conectarnos a la red.
+
+Las conexiones dial-up proporcionan un modo particular de acceso a Internet, ya que después de que se haya conectado con su proveedor de servicios y haya introducido su login y password, se encontrará con un prompt o, en algunos casos, con un menú que le presenta todas las opciones que se hayan disponibles.
+
+La mayoría de las veces se va a conectar con un ordenador que utiliza el sistema operativo UNIX, ya que es el más común dentro de Internet.
+Esta cuenta dial-up le ofrece la posibilidad de ejecutar cualquier programa que se encuentre accesible en el ordenador de su proveedor de servicios.
+Estos programas pueden realizar infinidad de funciones en Internet, así por ejemplo, el programa pine le permite enviar y recibir correo electrónico; el programa trn le permite leer y enviar mensajes a cualquiera de los más de 8.500 boletines de noticias existentes en USENET y el programa Telnet le permite acceder a terminales remotos conectados a Internet y hacer uso de sus recursos.
+
+La distinción básica entre una cuenta dial-up y el resto es que cuando usted utiliza una cuenta dial-up , su propio ordenador no está realmente conectado a Internet, sino que lo hace a través de un emulador de terminal.
+El proceso se realiza utilizando la emulación de terminal VT-100 disertada para ordenadores DEC (Digital Equipment Corporation) , que le proporciona el acceso a numerosas herramientas de Internet.
+Por el contrario, si su ordenador funciona como terminal en sí mismo, está destinado a realizar operaciones muy sencillas.
+Un terminal depende por entero del ordenador al que esté conectado.
+La potencia de proceso dentro de su ordenador se ignora en esta emulación y, por el contrario, utiliza el ordenador de su proveedor de servicios para realizar el mismo proceso.
+De igual forma, cuando utiliza la emulación de terminal no se haya de hecho conectado a Internet, es decir, su ordenador no disfruta de una conexión directa, los protocolos sobre los que funciona Internet denominados TCP/IP ( Transmission Control Protocol/Internet Protocol) no están establecidos en su ordenador, sino que el ordenador de su proveedor de servicios es el que maneja y gestiona los paquetes de datos.
+Cuando alguien le envía un mensaje electrónico, éste no llega directamente a su ordenador sino al de su proveedor de servicios, por eso usted tiene que conectarse para recibir todos los mensajes que le hayan llegado hasta ese momento.
+
+¿Pero qué es exactamente TCP/IP?
+Sin ponernos demasiado técnicos, se pude decir que representa la forma de empaquetar datos y enviarlos por la red Internet.
+Cada paquete de datos contiene información completa de ruta y los diferentes paquetes que forman un único documento se pueden montar de nuevo en su destino para completar y recuperar el texto original incluso en el caso de que hayan llegado por diferentes rutas y de forma desordenada.
+Dial-up es por lo general la alternativa menos costosa de acuerdo con las prestaciones que ofrece y no transfiere de forma directa a su ordenador los paquetes de datos que recibe desde Internet.
+Si utiliza un servicio comercial on-line como el que ofrece CompuServe o American Online, en ese caso lo hace a través de una conexión dial-up , y lo mismo se aplicaría a cualquiera de los proveedores de acceso a Internet que están proliferando en todo el mundo.
+Cuando envía correo electrónico o recibe mensajes de una lista de distribución, usted se beneficia de acciones que ha realizado en el sistema de su proveedor de servicios, y no en el suyo propio.
+
+Este hecho tiene un efecto crucial sobre lo que se puede realizar dentro de Internet.
+Mosaic necesita gozar de una conexión plena, o lo que es lo mismo, el programa tiene que utilizar la potencia de proceso existente en su propio ordenador.
+Asimismo también necesita un intercambio directo de información entre la red Internet y su ordenador, es decir, Mosaic necesita que su máquina tenga su propia dirección de Internet.
+
+Esta es la principal razón por la que un servicio comercial on-line como puede ser DELPHI o BIX no le puede proporcionar Mosaic, ya que la naturaleza de una conexión dial-up implica la presencia de un interfaz tipo texto y una emulación de terminal.
+En estas condiciones no puede existir ningún intercambio de paquetes de datos con protocolo TCP/IP entre estos proveedores y su propio ordenador.
+
+De hecho, este problema no sólo se aplica a Mosaic sino que afecta a numerosos programas.
+Internet opera en base a una relación cliente/servidor .
+
+El cliente es un programa que se ejecuta en su ordenador, mientras que el servidor es un programa que se ejecuta en un terminal remoto y trabaja conjuntamente con el cliente.
+
+Los dos interactúan por medio de un protocolo .
+
+En el caso de World Wide Web , el programa cliente que se ejecuta en su ordenador envía una petición al servidor por medio de Internet, haciendo uso del protocolo de comunicación conocido con el nombre HTTP ( Hipertext Transport Protocol) .
+El usuario se mantiene ajeno a la complejidad de las operaciones que están teniendo lugar y lo que visualiza en pantalla es sencillamente el interfaz de Mosaic que interpreta los datos que recibe a través de World Wide Web .
+
+Cuando utiliza una cuenta dial-up o shell para conectarse sólo puede usar los programas clientes que su proveedor de servicios haya dejado accesibles en su ordenador.
+Sin embargo, si dispone de una conexión directa con Internet, puede hacer uso del programa cliente que mejor se adapte a sus necesidades y actuar en consecuencia.
+
+Existen numerosos programas cliente que realizan las tareas básicas de Internet, desde correo electrónico a FTP (File Transfer Protocol) , Gopher y otras herramientas de navegación y búsqueda.
+Una conexión directa le ofrece la posibilidad de elegir aquél que considere más eficaz, aunque acabará considerando Mosaic como el programa cliente más revolucionario, ya que combina en un único interfaz casi todas las funciones más importantes de Internet.
+Ed Krol no lo pudo explicar mejor en su libro The Whole Internet User's Guide and Catalog (O,Reilly, 1994, Segunda Edición): "si tuviera que instalar un solo software de navegación en su sistema, ese sería sin duda alguna Mosaic".
+Más tarde, según vaya ganando experiencia, es posible que encuentre programas especializados que traten algún tema específico mejor que Mosaic, pero antes de todo debería considerar y comprobar lo que Mosaic le permite realizar.
+
+La conexión SLIP/PPP 
+
+Si lo que necesita es acceso directo a Internet para ejecutar Mosaic, ¿cómo puede conseguirlo?
+Para la gente que utiliza módems, la respuesta es SLIP (Línea Serie IP) o PPP (Protocolo Punto a Punto).
+La conexión SLIP/PPP es el medio que utiliza un módem para acceder de forma directa a Internet sin tener que hacerlo a través del ordenador de su servidor de servicios.
+La diferencia radica en que cuando utiliza SLIP/PPP los paquetes de datos bajo el protocolo TCP/IP viajan y se intercambian directamente entre su ordenador y la red Internet, porque este protocolo ya está cargado y reside en su ordenador.
+
+El software SLIP/PPP se vale de esta conexión TCP/IP para integrar su ordenador en la red con una dirección completa de red.
+
+Por consiguiente, si desea ejecutar Mosaic tiene que disponer de una conexión SLIP/PPP o algo mejor.
+Hace varios años esto habría sido mucho pedir ya que la diferencia entre las cuentas dial-up y SLIP/PPP se expresaba en términos económicos.
+No hace mucho tiempo podía pensar en gastarme 30 dólares al mes por 75 horas de acceso a Internet en un contexto dial-up , o 175 dólares al mes por una conexión SLIP/PPP.
+Este tipo de disparidad es la razón por la que mucha gente ha venido usando solamente el acceso dial-up , y por lo que se sentían tan frustrados cuando se daban cuenta de que Mosaic sólo se puede ejecutar con una cuenta SLIP/PPP.
+La tarifa tan elevada provocó, sin lugar a dudas, que SLIP/PPP estuviera exclusivamente en manos de ejecutivos y sus compañías.
+
+El reciente boom en el número de proveedores de acceso a Internet ha llevado consigo un descenso drástico en el precio de las conexiones SLIP/PPP.
+Sin ir más lejos, Interpath, mi propio proveedor de servicios cobra 30 dólares al mes por una conexión dial-up mientras que SLIP/PPP sólo cuesta 35 dólares.
+Esta diferencia de 5 dólares es mínima e insignificante si consideramos la potencia de red que conseguimos con la conexión SLIP/PPP.
+
+Para muchos usuarios la principal razón para hacerse con una cuenta SLIP/PPP es el programa Mosaic en sí, ya que les permite acceder a un entorno completamente diferente con interfaces donde se pueden seleccionar opciones, menús desplegables y comandos ejecutables a través del cursor, en suma, un entorno mucho más parecido a los entornos gráficos tanto para PC y Mac del mercado actual.
+
+Por lo tanto, el primer paso para llegar a Mosaic es abrir una cuenta SLIP/PPP, lo que no debería presentar ningún problema ya que la mayoría de los proveedores la ofrecen, aunque donde sí puede encontrar problemas es en la instalación del software, ya que incluso implementaciones intuitivas como puede ser Chameleon de NetManage requieren la introducción de considerables cantidades de información.
+Esta es la razón que le debería guiar a la hora de elegir su proveedor de servicios.
+No busque solamente los mejores precios, sino también y muy principalmente un proveedor que le pueda proporcionar soporte técnico siempre que lo necesite y le ayude con los problemas más escabrosos que se puedan presentar durante la instalación del software SLIP/PPP.
+
+Al igual que SLIP, PPP también soporta los protocolos TCP/IP sobre línea telefónica dial-up proporcionando así el mismo tipo de conexión, aunque todavía hay gente que piensa que la conexión PPP es una solución más elegante.
+El reciente interés que ha suscitado PPP puede llegar a solapar la opción SLIP en un futuro, pero mientras esto sucede los temas fundamentales permanecen sin cambio alguno.
+Tanto SLIP como PPP son dos formas de intercambiar paquetes de datos en Internet por las líneas telefónicas y ambas a su vez le permiten ejecutar programas cliente en su propio ordenador, aunque, sin embargo, SLIP es por el momento la opción más extendida.
+
+Cuando utiliza el software SLIP/PPP en vez de su programa de comunicación habitual lo que hace es conectarse al ordenador de su proveedor, y una vez que se haya establecido la conexión, su máquina ya forma parte de la red Internet y usted ha dejado de ser un mero receptor pasivo de datos para convertirse en el sujeto activo que envía y recibe paquetes de información que utilizan el protocolo TCP/IP a través de un punto de acceso en Internet que su proveedor ha habilitado para tal fin.
+Su máquina ya posee su propia dirección IP, y se pueden intercambiar mensajes entre los extremos sin que tenga que verse involucrado el servidor de su proveedor de servicios.
+
+Existe otra, aunque quizá inesperada ventaja, ya que con SLIP/PPP se pueden ejecutar diferentes conexiones al mismo tiempo, así por ejemplo, si me he subscrito a un determinado número de boletines de noticias USENET pero no los leo muy a menudo, cuando me conecto con mi lector de news me encuentro con que tengo que esperar durante cierto tiempo hasta que recibo la cantidad tan inmensa de mensajes que tengo almacenados y quizá prefiera, si es que estoy ocupado y hasta que reciba todos ellos, continuar con mi trabajo, o puede existir un servidor FTP del que me gustaría extraer un fichero; con SLIP/PPP puedo llamar al programa cliente FTP y ejecutar mi sesión FTP para transferir el fichero a mi ordenador al mismo tiempo que está en marcha la sesión USENET .
+
+No necesitamos conocer cuál es el mecanismo que los hace funcionar, solamente saber que TCP/IP y SLIP/PPP pueden de algún modo desenmarañar todos los datos que se envían y reciben por una única línea telefónica y lograr que cada sesión proporcione el resultado deseado.
+En cierto sentido se pierde el control sobre la sesión que se ejecuta en paralelo, pero por el contrario ha conseguido rentabilizar al máximo su tiempo.
+Un hecho que resulta del todo útil es mantener abiertas en forma de iconos todas las aplicaciones que crea que puede utilizar en el transcurso de su sesión, para sólo tener que llamarlas en el momento que las necesite.
+Y no se olvide de una ventaja decisiva de la conexión SLIP/PPP.
+Con un shell se toma parte en un proceso de dos tiempos cada vez que desee recuperar un fichero por FTP o conseguirlo a través de un Gopher , ya que en primer lugar hay que indicar los comandos pertinentes para conseguir el fichero en cuestión que a su vez se transfiere al ordenador de su proveedor de servicios, y en segundo lugar, tiene que hacer uso de su software de comunicación para cargar ese fichero en su propia máquina.
+Una conexión SLIP/PPP elimina este doble proceso, ya que el fichero se transfiere directamente a su cuenta tan pronto como active la recuperación.
+Mosaic, como vamos a comprobar muy pronto, es un motor FTP muy eficaz, ya que posibilita la visualización y recuperación de ficheros de cualquier Gopher .
+
+Una conexión SLIP/PPP tiene que funcionar con los tres niveles de software que posee.
+En primer lugar, subyacente, se encuentra el software TCP/IP que gestiona datos en términos que entiende Internet, en segundo lugar aparece el software SLIP/PPP, que efectúa la conexión al punto de acceso de su proveedor de servicios y le permite establecer la conexión, y por último nos encontramos con los programas cliente que son las herramientas básicas que tiene que utilizar para llevar a cabo tareas como FTP, Telnet y correo electrónico.
+Conseguir que estos tres niveles funcionen al unísono puede ser todo un reto dependiendo del equipo que utilice, pero, como pronto veremos, esta situación está mejorando rápidamente.
+
+Acceso pleno a Internet 
+
+La conexión SLIP/PPP le proporciona todo cuanto necesita para ejecutar sesiones en Internet sobre su línea telefónica, mientras que al mismo tiempo le permite conservar su propia dirección en Internet y ejecutar programas cliente en su ordenador, pero para poder llegar a una conexión verdaderamente rápida necesita disponer de un acceso pleno.
+En este caso en vez de marcar un número de teléfono para conectarse a Internet, lo que hace es trabajar con líneas alquiladas de fibra óptica de gran velocidad.
+Los grandes organismos como los laboratorios de investigación, empresas y universidades mantienen con Internet estos anchos de banda conectados a la red a través de los ordenadores conocidos como routers.
+En este sentido, un administrador del sistema puede cubrir las necesidades de un amplio número de usuarios, distribuyendo los recursos existentes en Internet por todo el organismo.
+No se requiere el proceso dial-up , ya que el enlace con Internet permanece abierto las 24 horas del día.
+
+Si por el contrario utiliza SLIP/PPP dentro de la red de la oficina, lo que hace es llamar a una máquina que recibe el nombre de servidor de terminal , y que recibe los datos entrantes en su módem y los envía a la red de área local (LAN) de su proveedor de servicios.
+
+Esta red de área local se conecta a Internet por medio de un router, que envía todos sus datos a Internet de igual forma que lo realizaría con una conexión plena, aunque está añadiendo un paso adicional al proceso (y reduciendo su actuación en términos de velocidad) al enviar sus datos a través de un módem y de la línea telefónica.
+
+Por consiguiente, el acceso dedicado pensado para la transferencia de datos a altas velocidades es una verdadera ventaja cuando se utilizan imágenes y ficheros audio, como Mosaic suele hacer.
+Más que utilizar un módem para establecer la conexión, el acceso dedicado hace uso de una tarjeta de interfaz de red (Network Interface Card) -que en la mayoría de los casos viene a ser una tarjeta Ethernet-.
+Dicha tarjeta se conecta a la red LAN de la oficina, que a su vez se encuentra conectada con Internet, bien por cable coaxial o por hilos telefónicos de par trenzado.
+Debido a la naturaleza de esta conexión resulta innecesario tanto la palabra clave como el número de identificación del usuario que se utilizaba en la conexión SLIP/PPP, ya que la empresa recibe una factura global del uso mensual.
+
+Con una conexión plena a Internet puede ejecutar cualquier software cliente que elija, al igual que sucedía con SLIP/PPP.
+Se puede acceder a Mosaic como al resto de los programas clientes, y el material que se presenta en este libro es tan idóneo para aquéllos con acceso pleno a Internet como para los que disponen de una cuenta SLIP/PPP.
+Sin embargo, dado el crecimiento que está experimentando Internet, he supuesto que está tratando de adquirir una cuenta SLIP/PPP para poder ejecutar Mosaic, o que de hecho ya dispone de una.
+Este hecho viene a confirmar la cantidad de usuarios particulares que se están conectando a la red, al igual que las pequeñas y medianas empresas para quienes Internet tiene que jugar todavía un papel decisivo dentro de sus actividades que justifique el coste de una línea alquilada y el acceso pleno a Internet.
+
+Si por el contrario ya es un usuario SLIP/PPP, debería aprovechar cualquier oportunidad que se le presente para observar cómo funciona Mosaic sobre una conexión plena.
+
+Cuanto más amplio sea el ancho de banda, más rápido funcionará Mosaic, y puede resultar toda una revelación navegar fácilmente entre imágenes, texto y ficheros de sonido sin ningún tipo de espera aparente.
+Una conexión SLIP/ PPP no puede facilitar este tipo de actuación debido a las limitaciones de la tecnología; en concreto, nos hayamos sujetos a la capacidad de nuestros módems para transferir datos, lo que puede disminuir la velocidad de los programas, y nos lleva a preguntarnos, por ejemplo, si verdaderamente deseamos visualizar grandes ficheros de imágenes, aunque como veremos más adelante, existen soluciones a este problema.
+
+Implementar SLIP/PPP 
+
+Nunca antes había resultado tan fácil conseguir una conexión SLIP/PPP tanto si utiliza un Macintosh o un PC compatible con IBM.
+Muchos proveedores empiezan a facilitar paquetes de software que manejan la necesaria conectividad TCP/IP.
+Su proveedor de servicios debería ser siempre su primer punto de referencia, ya que obviamente se puede llevar a cabo un mejor seguimiento de su conexión si existe una estrecha relación con el soporte técnico que proporciona su proveedor (y ésta es otra de las razones que le tienen que llevar a elegir un proveedor con soporte técnico de primera clase).
+Puesto que la instalación del software SLIP/PPP puede ser complicada, es mejor que siga las instrucciones de su proveedor quien solucionará sus problemas y dudas según vayan surgiendo.
+
+Cargar e instalar Mosaic para Microsoft Windows 
+
+¿Preparado para instalar Mosaic en su sistema?
+Este capítulo le explica cómo, ya que asume que usted ya ha establecido una cuenta SLIP/PPP con su proveedor de servicios.
+Mosaic no se puede ejecutar si mantiene una cuenta del tipo dial-up o shell, y aunque sí puede llamar al programa, los únicos recursos que encontrará serán los ficheros que se hallen en su propio ordenador, inutilizando así el programa como una herramienta de red.
+
+Por consiguiente, una cuenta SLIP/PPP es imprescindible para aquél que desee utilizar un módem para ejecutar Mosaic, pero si por el contrario su empresa le proporciona el acceso al tener enlazada la red de la oficina directamente con Internet a través de un router, esta cuenta SLIP/PPP no sería necesaria.
+La conexión queda igualmente establecida ya que transmite paquetes de datos directamente entre Internet y su red, y en ese momento puede empezar a cargar y a trabajar con el software de Mosaic.
+Este capítulo le mostrara cómo se hace.
+
+Según se aventura en el proceso, se dará cuenta de que no se encuentra solo en esta aventura.
+El Centro Nacional para Aplicaciones de Supercomputación (NCSA) informa que su servidor ha venido experimentando considerables niveles de uso, y así por ejemplo, en febrero de 1994, NCSA dio cuenta de 1.153.843 conexiones a su servidor Mosaic, y en mayo del mismo año se cargaron más de 340.000 copias de Mosaic. 
+Internet Business Report señala que en abril de 1994 el número total de accesos a los ficheros de NCSA superaron los seis millones, cifra impresionante aunque exagerada como indicador del uso total de Mosaic, ya que la mayoría de los usuarios acceden a más de un fichero en el curso de su sesión con Mosaic.
+A lo largo del verano de 1994 el interés creció debido a la aparición de cada vez más servidores Web on-line.
+
+Nadie sabe con seguridad el número total de usuarios de Mosaic, especialmente cuando los partidarios de Mosaic tienden a cargar las versiones nuevas que van apareciendo, aumentando así el número, aunque se supone que ronda el medio millón de usuarios.
+Como podrá comprobar, este nivel de interés favorece el crecimiento y desarrollo de Mosaic, aunque puede resultar todo un reto para aquél que intente acceder al servidor de NCSA durante las horas de mayor tráfico.
+En capítulos posteriores veremos cómo se soluciona este problema al adaptar su copia de Mosaic.
+
+Dónde encontrar Mosaic 
+
+Como se ha mencionado anteriormente, están a punto de aparecer numerosas implementaciones de Mosaic, aunque la mejor forma de empezar a trabajar con el software es cargándolo, ya que es de libre distribución para el usuario particular.
+Nosotros vamos a seguir los procedimientos de FTP (File Transfer Protocol) para recuperar el paquete.
+
+Una nota sobre las direcciones y directorios 
+
+El servidor FTP de Mosaic es una dirección permanente, aunque la estructura del directorio de cualquier servidor siempre se haya sujeta a cambios.
+Le voy a proporcionar los directorios que necesita para encontrar cada una de las versiones de Mosaic (al menos las que se encontraban vigentes en el momento de escribir estas líneas, pero en caso de que acceda al servidor y encuentre que han cambiado estos directorios, lo mejor que puede hacer es estudiar la pantalla inicial de FTP, que a menudo le indica todo lo que necesita.
+Ejecute el comando dir para visualizar los subdirectorios disponibles y busque aquél que contenga la palabra Mosaic o si no el nombre de su ordenador, es decir, PC, Macintosh, etcétera.
+Busque, igualmente, cualquier fichero con el nombre README, o con alguna otra variación, ya que proporcionan información de los desarrollos más recientes.
+
+El servidor NCSA 
+
+Esta es la dirección a la que queremos llegar: ftp.ncea.uiuc.edu .
+
+Tenemos que acceder al directorio /Mosaic y desde aquí al subdirectorio que contiene la versión de Mosaic que necesitamos.
+Mosaic se encuentra disponible en las versiones para Macintosh, Windows de Microsoft y para el Sistema X Windows.
+Aquí están los directorios de cada uno de ellos: 
+
+En la versión de Mosaic para Windows de Microsoft el directorio es Mosaic/Windows , y el nombre del fichero wmos20a6.zip ; puede que los números hayan cambiado cuando acceda a este paquete, pero siempre se encontrará accesible la última versión.
+Se ha utilizado la utilidad PKZIP de PKWARE, Inc. para comprimir el fichero y por lo tanto necesita su correspondiente PKUNZIP si desea descomprimirlo.
+
+En la versión de Mosaic para Macintosh el directorio es Mosaic/Mac y el nombre del fichero NCSAMosaicMac.103.sit.hqx .
+Se ha utilizado la utilidad Stuffit para comprimir este fichero seguida de Binhexed para ahorrar espacio en disco.
+Si desea descomprimirlo necesita la utilidad Stuffit Expander o un programa de decodificación similar.
+Cargue el programa como fichero ASCII en vez de como binario.
+
+La versión de Mosaic para el Sistema X Windows se encuentra en el directorio Mosaic/Unix .
+Los ficheros binarios ejecutables se hallan en el directorio Mosaic/Unix/binaries donde también se encuentran las versiones para IBM, Digital Equipment, Sun Microsystems, Silicon Graphics y para otras estaciones de trabajo de los principales fabricantes (los ficheros binarios se descomprimen con el comando gunzip nombre fichero ).
+
+Aquí se encuentra en un subdirectorio la distribución completa del código fuente.
+
+Cargar Mosaic para Windows de Microsoft 
+
+La dirección FTP de NCSA ya contiene el término ftp .
+Para llegar a ella desde una shell tiene que introducir el siguiente comando: ftp ftp.ncea.uiuc.edu .
+
+Utilice la palabra anonymous como login del usuario, y su dirección completa de e-mail como password.
+
+Lo que visualice cuando cargue Mosaic dependerá en gran medida del modo en que acceda al sistema.
+Le voy a mostrar la situación desde dos perspectivas diferentes.
+
+En primer lugar, recuperaré el software desde una cuenta dial-up o shell, ya que la operación resultará más obvia para aquéllos que no están acostumbrados a las cuentas SLIP/PPP, aunque también le explicaré el proceso a seguir con un programa cliente y una conexión SLIP/PPP.
+
+Conectarse con NCSA 
+
+Esta es la imagen que ofrecía el sistema la última vez que me conecté desde una cuenta shell: 
+
+El sistema le sitúa a nivel del prompt ftp para que realice sus operaciones, es decir, cambiar de directorios y cargar Mosaic.
+
+Si utiliza SLIP/PPP para cargar Mosaic, lo que visualice en pantalla va a depender en gran medida del software FTP que emplee.
+No obstante, el cliente SLIP/PPP será más gráfico que el interfaz tipo texto arriba mostrado, cualquiera que sea el ordenador con el que trabaje.
+En la figura 3.1 he utilizado Chameleon de NetManage como software SLIP/PPP y ejecutado el programa cliente FTP incluido en el paquete.
+
+Una vez que he introducido la dirección necesaria y se ha establecido la conexión, el cliente NetManage me muestra la estructura de directorio existente en el servidor NCSA de una forma bastante intuitiva, con campos en los que uno se puede desplazar a otros documentos y con la capacidad de hacer clic sobre un determinado directorio para llegar a él directamente.
+Puedo utilizar la barra de desplazamiento en el cuadro del directorio remoto para cambiarme al directorio Mosaic, y haciendo clic sobre éste accedo a la aparición de la relación de ficheros allí accesibles.
+
+Para cargar el fichero con este software, tendría que seleccionarlo con el cursor y utilizar luego el botón Copy , eso sí, asegurándome antes de que he configurado mi programa cliente para transferir un fichero binario, según nos lo muestran los botones que aparecen en pantalla.
+
+Cuando el servidor NCSA no está accesible 
+
+La inmensa carga de usuarios que soporta el servidor FTP de NCSA es de entender que provoque verdaderas congestiones en ciertos momentos del día cuando demasiados usuarios intentan acceder al sistema al mismo tiempo.
+Si intenta conectarse en uno de estos momentos, se encontrará con un mensaje que le proporciona un abanico de posibilidades.
+
+A continuación puede observar un ejemplo de una sesión desde una cuenta shell: xxx .
+
+Como puede observar, Mosaic está accesible en otros servidores.
+Un servidor espejo es sencillamente aquél que tiene accesible el mismo software que pueda encontrar en un servidor central.
+En caso de desearlo, puede utilizar cualquiera de ellos, aunque este libro supone que va a recuperar Mosaic del servidor NCSA en la Universidad de Illinois en Urbana-Champaign.
+Es aconsejable que intente la transferencia de datos fuera de las horas de mayor tráfico del servidor.
+La perseverancia tiene un precio.
+
+Figura 3.1
+
+Una emulación de terminal carece de las características gráficas que proporciona SLIP
+
+Cargar el software a través de una cuenta Shell 
+
+Cargar Mosaic a través de una cuenta shell se reduce a ejecutar el comando get seguido del nombre del fichero.
+De nuevo recuerde que los números de las versiones cambian constantemente, y es posible que cuando lea estas líneas el nombre del fichero haya sufrido ligeros cambios.
+En estos momentos, el número de la versión actual para Windows es 20a6, es decir, la quinta versión de alpha 2.0, y el nombre del fichero wmos20a6.zip .
+AL denominar la versión con el nombre alpha , NCSA nos indica que no se han corregido todos los errores del software y que esta versión está todavía en proceso de desarrollo.
+La parte negativa es que nos podemos encontrar con la caída del sistema, mientras que la positiva es que podemos participar en el desarrollo y comprobación de Mosaic, pudiendo intervenir y siendo parte activa en el desarrollo del software por medio de los mensajes que se envían a los desarrolladores.
+
+Puede encontrar el fichero con el nombre wmos20a9.zip , o algún otro nombre similar.
+Los cambios de número pueden ser algo desconcertantes, pero recuerde que sólo la última versión será la única que se encuentre accesible en el directorio de NCSA.
+El nombre del fichero para la versión de Windows incluye siempre las letras wmos , abreviatura de Windows Mosaic .
+
+El fichero comprimido incluye además del programa actual varios documentos del NCSA.
+
+Observe que la versión de Windows está comprimida con el formato zip para ahorrar espacio libre en disco (necesitaremos emplear su correspondiente PKUNZIP para descomprimirlo una vez que lo hayamos cargado en nuestro propio ordenador).
+El fichero en cuestión es binario por naturaleza, por lo tanto, nuestra primera misión es indicar al sistema remoto que lo queremos en este modo.
+(No es necesario para la versión de Macintosh, ya que el fichero Mac es ASCII y, según se especificará en el siguiente capítulo, se debería cargar como tal).
+
+Ahora ya podemos indicar el comando para transferir el fichero: xxx y lo que veamos deberla parecerse a lo siguiente: xxx .
+
+En una cuenta shell, el fichero ha pasado al ordenador de su proveedor de servicios y ahora puede utilizar sz o sx para transferir el programa a su propio ordenador.
+Mi comando debería ser, por ejemplo, sz -b wmos20a6.zip o sx -b wmos20a6.zip .
+
+Cargar el software a través de SLIP/PPP 
+
+El programa cliente FTP que hemos utilizado con SLIP/PPP también nos permite cargar el fichero, pero con mucho menos trabajo.
+En la figura 3.2, por ejemplo, vuelvo a utilizar Chameleon de NetManage para llevar a cabo esta tarea.
+Advierta que el comando necesario para cambiar el sistema remoto a modo binario se controla desde aquí al hacer clic en el campo correspondiente que se encuentra en la parte superior central de la pantalla, bajo el enunciado Transfer .
+
+Cargar el fichero es una tarea que se reduce sencillamente a hacer clic en los lugares adecuados, y si utiliza NetManage Chameleon basta con seleccionar el fichero que desea transferir.
+
+Cualquiera que sea el directorio en que me encuentre, los ficheros que contiene ese directorio aparecen en el campo Files por debajo de éste en la pantalla FTP.
+Al seleccionar alguno de ellos y hacer clic sobre el botón Copy , transfiero dicho fichero a mi propio ordenador a través de la conexión SLIP.
+
+Los programas cliente FTP de Macintosh utilizan un interfaz similar para llevar a cabo esas funciones.
+
+Figura 3.2
+
+Sesión FTP con un programa cliente SLIP
+
+Cargar Win32s para Windows de Microsoft 
+
+De un modo u otro ya hemos cargado Mosaic, pero no desconecte todavía.
+Aunque ya tenemos en nuestro ordenador el fichero comprimido de Mosaic, todavía necesitamos otro fichero si estamos configurando el sistema para ejecutar la versión de Mosaic para Windows de Microsoft (los usuarios de Macintosh no lo necesitan).
+
+Se trata de un fichero comprimido que contiene el software Win32s.
+Tanto Windows 3.1 como Windows para Grupos de Trabajo son sistemas operativos de 16 bits, pero al igual que la versión 20a3, Mosaic para Windows de Microsoft tiene una aplicación de 32 bits.
+El software Win32s es necesario ya que permite ejecutar aplicaciones de 32-bits, como puede ser Mosaic, en un entorno de 16 bits.
+El programa desarrollado por Microsoft está accesible para usuarios autorizados de Windows 3.1 y Windows para Grupos de Trabajo.
+En el momento de escribir estas líneas, la última versión era la 1.1.5.
+
+Es posible que ya tenga cargado el software Win32s en su sistema si es que ejecuta otras aplicaciones Windows de 32 bits.
+Para descubrirlo tendrá que mirar en su sistema de directorios, y si existe el directorio xxx , entonces es que el software está ahí.
+Sin embargo, no sería una mala idea actualizarlo con la última versión, ya que mejora la calidad funcional de las aplicaciones de 32 bits y le añade estabilidad.
+
+Para conseguir el software Win32s del NCSA, busque en el directorio Mosaic/Windows donde NCSA lo ha situado junto con un documento adjunto, el cual se encuentra accesible en formato comprimido.
+El nombre del fichero en cuestión es win32s.zip .
+
+Cárguelo en su ordenador siguiendo los procedimientos que se han descritos con anterioridad.
+
+La versión de Win32s que vamos a utilizar en estos momentos es la 1.1.5a, y aunque puede haber cambiado cuando lea estas líneas, siempre podrá encontrar la última versión del fichero en el servidor del NCSA.
+
+Pero también recuerde que Microsoft tiene accesible el fichero en su servidor FTP anónimo, y lo podrá encontrar en el directorio /developer/DEVTOOLS/WIN32SDK .
+La dirección para llegar a él es ftp.microsoft.com .
+
+Ahora que ya debería tener estos dos ficheros: wmos20a6.zip y win32s.zip está listo para continuar.
+
+Recuperar herramientas para comprimir y descomprimir 
+
+Con Mosaic en su sistema, el próximo paso a seguir es descomprimirlo y empezar a trabajar con él.
+
+Como se ha mencionado anteriormente, la versión para Macintosh necesita para descomprimirlo Stuffit Expander o un programa de decodificación similar.
+La versión para Windows, un fichero comprimido con el formato zip , requiere la utilidad PKUNZIP.
+Estas utilidades tan comunes se pueden encontrar fácilmente tanto en Intemet como en otros servicios on-line.
+Si todavía no posee una copia, puede cargarla del siguiente servidor: xxx .
+
+Utilice los métodos estándares FTP para conectarse y vaya al directorio pub/msdos/zip .
+Las utilidades PKWARE también se pueden encontrar en el servidor del NCSA.
+
+El nombre del fichero en el momento de escribir estas líneas es pkz204g.exe .
+Se trata de un fichero auto extraíble, es decir, lo único que necesita hacer para descomprimirlo es situar el programa en su propio directorio y teclear el comando pkz204g.exe .
+El programa se descomprimirá por sí mismo y estará listo para el uso.
+
+Es una buena idea poner el directorio en el que ha situado el programa PKUNZIP en su línea path, ya que de este modo podrá utilizar el comando en cualquier directorio de su disco duro.
+
+Para descomprimir con PKUNZIP un fichero comprimido con el formato zip , teclee sencillamente el comando pkunzip nombre fichero desde el prompt del DOS, (puede llamar a la shell del DOS desde Windows y ejecutar allí PKUNZIP.
+En este caso el comando sería pkunzip wmos20a6.zip ), y si quiere descomprimir el paquete Win32s, el comando que hay que utilizar es pkunzip win32s.zip .
+De momento no descomprima nada, tiene que crear en primer lugar los directorios necesarios.
+
+Instalar Mosaic para Microsoft Windows 
+
+- Debería tener cargado Windows 3.10 Windows para Grupos de Trabajo. 
+- Debería tener instalado y configurado el software Win32s. 
+- Su sistema debería poseer al menos una conexión SLIP/PPP con Internet, ya que una cuenta shell no le permitirá utilizar Mosaic. 
+
+
+Crear directorios para Mosaic y Win32s 
+
+Cualquier proceso de instalación debería ser lógico y metódico, por eso, si quiere que Mosaic funcione de forma adecuada vaya cubriendo etapas progresivamente.
+
+En primer lugar, necesita crear en su disco duro una estructura adecuada de directorios, para luego descomprimir el software en el lugar exacto y continuar con el proceso de instalación en sí.
+Una vez que tenga instalados Mosaic y Win32s, es relativamente sencillo integrarlos en el entorno de Internet, aunque hay que preparar primero el terreno.
+
+El siguiente paso será crear un subdirectorio en su sistema, lugar que ocupará el programa Mosaic.
+Aunque puede elegir libremente el nombre de este subdirectorio, vamos a llamarle /Mosaic ya que estamos en un proceso de aprendizaje.
+Posicionados desde el prompt del DOS, se puede también realizar este proceso desde el directorio raíz con el comando mkdir mosaic , aunque probablemente va a resultar mucho más fácil si se realiza desde el Administrador de archivos de Windows, al desplegar el menú Archivo y elegir la opción Crear Directorio .
+En la figura 3.3 he desplegado dicho menú y estoy a punto de seleccionar la opción Crear Directorio .
+
+Emergerá así un cuadro de diálogo que le pide el nombre del directorio que desea crear.
+
+Teclee el nombre del directorio y haga clic en el botón Aceptar para completar esta operación.
+
+Figura 3.3
+
+Utilizar Windows para crear un directorio
+
+De igual forma va a necesitar un directorio para el software Win32s, pero recuerde que Win32s se tiene que instalar antes de que Mosaic empiece a trabajar con Windows 3.10 Windows para Grupos de Trabajo (este software es innecesario si ejecuta Windows NT de Microsoft).
+
+No obstante, la creación de este directorio se realiza de forma algo diferente.
+En primer lugar, necesita mover el fichero win32s.zip a un directorio que se encuentre vacío.
+El nombre de este directorio no es de gran importancia, ya que el software creará sus propios directorios en el siguiente paso de este proceso.
+He decidido utilizar para tal fin mi directorio testbed , donde pongo a prueba los programas nuevos y realizo otras operaciones de este tipo.
+Puede crear un directorio como éste con el comando mkdir testbed desde el directorio raíz del DOS, o si lo prefiere desde el Administrador de programas.
+Sitúe win32s.zip en el directorio testbed y estará listo para empezar.
+
+Descomprimir el software Mosaic 
+
+Ahora vamos a descomprimir tanto Mosaic como Win32s.
+Asegúrese que el fichero wmos20a6.zip reside en su directorio Mosaic (cópielo ahí si es necesario), y ejecute a continuación el programa PKUNZIP, con el comando pkunzip wmos20a6.zip .
+Puesto que PKUNZIP es un programa del DOS, vamos a activar la shell del DOS desde Windows para ejecutar ahí el programa.
+Seleccione el icono de MS-DOS del grupo de programas Principal en el Administrador de programas.
+Una vez que haya terminado con el comando, puede regresar a Windows con el comando exit seguido de la tecla Intro.
+
+Si examina los contenidos de su directorio Mosaic , debería encontrar los siguientes ficheros:
+
+wmos20a6.zip fichero.
+El fichero original comprimido.
+
+devnote.wri .
+Notas referidas a la versión actual de Mosaic.
+
+faq.wri .
+Una lista FAQ ( Frequently Asked Questions) útil, aunque concisa, acerca de Mosaic para Windows de Microsoft.
+
+install.wri .
+Un documento del NCSA que contiene información sobre los procedimientos de instalación.
+Haga uso de él como complemento a la información que aparece en este libro, especialmente si ha variado el número de la versión de Mosaic.
+Advertencia:la documentación del NCSA es escasa.
+
+mosaic.exe .
+El programa Mosaic en si.
+Un programa que está listo para ejecutar se le conoce también con el nombre de ejecutable.
+
+mosaic.ini .
+Un fichero que utiliza Mosaic para configurar e inicializar sus operaciones.
+
+update.wri .
+Un documento actualizado sobre lo que está sucediendo con Mosaic en el NCSA; contiene mejoras de la versión y errores corregidos.
+
+Instalar Mosaic en un Macintosh 
+
+Al igual que sucede con Mosaic para Windows de Microsoft, Mosaic para Macintosh experimenta frecuentes revisiones on-line.
+En el momento de escribir estas líneas, la última versión para Macintosh era la 2.0.0 alpha 6.
+Cualquier versión alpha se trata de un versión de prueba; aquellos usuarios que necesiten una versión totalmente desarrollada y probada de Mosaic para Macintosh pueden cargar la 1.0.3, que apareció a finales de enero de 1994, y es con la que voy a trabajar en este capítulo.
+
+Después de que se haya acostumbrado a la versión 1.0.3, quizá quiera utilizar una versión más actualizada.
+La mayoría de las veces merece la pena ponerse al día con los cambios tan rápidos que experimenta Mosaic, incluso si de vez en cuando causan algún problema.
+
+Los formularios que se encuentran accesibles en Mosaic para X Windows y Mosaic para Windows de Microsoft se tienen que implementar en la versiones alpha de Mosaic para Macintosh 2.0.0, pero no están disponibles en la versión 1.0.3.
+Los formularios son documentos HTML que se pueden completar on-line; poseen una gran capacidad para expandir el mercado comercial de Internet.
+
+Requisitos de equipo de Mosaic para Macintosh 
+
+Mosaic para Macintosh es bastante más fácil de instalar que su pariente para Windows de Microsoft, pero aún así, hay que prestar atención a un serie de detalles si queremos que la instalación resulte un éxito.
+- Sistema operativo System 7 o posterior. 
+- MacTCP 2.0.2 o posterior, los desarrolladores recomiendan al menos MacTCP 2.0.4, si se quieren conseguir mejores resultados. 
+- 4 o más megabytes de memoria RAM.
+Al igual que sucede con la versión de Windows, cuanta más memoria, mucho mejor; es preferible 8 Mb 
+
+- Un disco duro. 
+
+
+Cargar Mosaic para Macintosh 
+
+Vamos a utilizar la dirección FTP del NCSA para cargar los ficheros Macintosh que necesitamos: ftp. ncca.uiuc.edu .
+
+Podemos cargar el programa tanto a través de una shell como de SLIP, utilizando un programa cliente que se ejecute en su propio Mac.
+Aquí tiene una descripción rápida de los dos métodos.
+
+Cargar Mosaic a través de un shell 
+
+Conéctese al servidor como anonymous , y utilice como password su dirección completa en Internet.
+Lo primero que hay que hacer, es recuperar el fichero README.FIRST , que contiene cualquier información actualizada sobre cómo recuperar los ficheros de Mosaic del NCSA.
+
+Para conseguir este fichero, teclee el siguiente comando: get README.FIRST .
+
+Ahora ya puede introducir el comando bye para finalizar su sesión FTP.
+Antes de seguir adelante estudie el fichero README.FIRST para cualquier información adicional y así, por ejemplo, aquí aparecerá cualquier cambio que se hubiera realizado en la estructura del directorio del NCSA.
+En estos momentos, este fichero se encuentra en el directorio raíz del NCSA.
+
+Vuelva a conectarse al servidor, aunque esta vez va a dirigirse al directorio Mosaic para Macintosh, Mac/Mosaic .
+
+Para llegar allí, teclee el siguiente comando: cd Mosaic/Mac .
+
+Un comando ls le mostrará los ficheros que se encuentran accesible en este directorio.
+
+A continuación se muestran los resultados de estos dos comandos: xxx .
+
+El fichero que necesite dependerá de la versión que decida cargar: xxx .
+
+(Recuerde que los números en los nombres de los ficheros pueden haber cambiado ligeramente cuando lea estas líneas).
+
+Necesita encontrar y cargar uno de estos ficheros para poder seguir adelante; el fichero en cuestión se tiene que cargar como un fichero ASCII, y para asegurarse que se encuentra en este modo, teclee ascii desde el prompt: xxx .
+
+El sistema responde con Type set to A , indicándole que está listo para continuar.
+
+El comando para cargar el fichero es el siguiente: xxx .
+
+El fichero se encuentra ahora en el ordenador de su proveedor de servicios, de donde tiene que cargarlo hasta su propio disco duro.
+
+Observe que debido al hecho de estar comprimido va a ser necesario descomprimir Mosaic una vez que esté en su disco duro, para lo que tendrá que utilizar Stuffit Expander o cualquier otro programa para descomprimir datos como puede ser Compact Pro.
+
+Arrastre el fichero de Mosaic, posiciónele sobre el icono de Stuffit Expander y deje que el programa haga su trabajo.
+Ahora tendrá la carpeta Mosaic en su escritorio.
+
+Cargar Mosaic a través de una Conexión SLIP/PPP 
+
+Si va a cargar Mosaic a través de un programa diente FTP como Fetch o Telnet del NCSA, el procedimiento es mucho más sencillo debido a el carácter gráfico del interfaz.
+Es necesario introducir la información del servidor al igual que la identificación del usuario; ésta última, como ya se ha mencionado anteriormente, deberá ser anonymous , y como password su dirección completa en Internet.
+
+Una vez que haya alcanzado el servidor del NCSA, podrá moverse por los directorios del fichero hasta llegar al directorio Mosaic/Mac .
+La figura 4.1 nos muestra cómo aparece este directorio desde el programa Petch.
+Puede que otros programas muestren una imagen algo diferente, pero el carácter gráfico de la presentación será siempre el mismo.
+
+Haga clic sobre el botón Get File para que tenga lugar la transferencia del fichero.
+
+Fetch le evita tener que establecer el tipo de fichero, ya que él mismo lo realiza de manera automática.
+Con la opción Automatic File Opening activada, se descomprime el fichero y Mosaic ya está accesible en su disco duro.
+
+Mosaic por correo 
+
+Si por cualquier razón decide no cargar el software a través del servidor FTP del NCSA, también puede conseguir Mosaic por correo desde los Estados Unidos.
+La dirección donde puede obtener el Catálogo de Recursos Técnicos del NCSA ( Technical Resources Catalog) es la siguiente: xxx .
+
+Pero tanto el software como los manuales se encuentran a la venta.
+
+Figura 4.1
+
+Se está utilizando Fetch para mostrar por pantalla la información de un directorio del NCSA 
+
+Instalar y configurar Mosaic para Macintosh 
+
+La instalación consiste en arrastrar el icono de Mosaic hasta la posición correcta de su disco duro.
+Si ha utilizado Fetch o un cliente similar para cargar el programa, entonces ya lo tiene descomprimido; si por el contrario lo ha cargado a través de una shell, necesitará descomprimirlo con Stuffit Expander o algún otro programa similar.
+
+Un doble clic sobre el icono de Mosaic le debería permitir llamar al programa y lo que visualice en pantalla se debería parecer a la figura 4.2.
+Elija la opción Preferences del menú Option para que aparezca la pantalla que aparece en la figura 4.3.
+
+Teclee su nombre en el campo UserName , y su dirección de correo en e-mail Address .
+Cualquier mensaje que quiera enviar a los desarrolladores de la versión de Mosaic para Macintosh incluirá esta información.
+Habrá observado que el campo Home Page ya contiene un servidor HTTP.
+Por el momento lo vamos a dejar según está, aunque más adelante quizá quiera regresar de nuevo a este menú para cambiar de página principal.
+Nuestro objetivo es reducir la enorme carga que soporta el servidor del NCSA, ya que esta página principal viene definida por defecto cuando ejecuta Mosaic por primera vez. 
+(Consulte el capítulo 7 y 8 para saber cómo diseñar su propio Mosaic).
+
+Si ahora hace clic sobre el botón Apply , podrá guardar los cambios que acaba de realizar, pero no abandone todavía el menú Preferences .
+
+Figura 4.2
+
+La página principal del NCSA para Macintosh 
+
+Configurar Mosaic como lector de News 
+
+En el campo Newshost del cuadro de diálogo se especifica la dirección de Internet de su servidor local de news.
+En mi caso tendría que introducir la siguiente dirección: new-server@interpath.net .
+
+El host que contiene sus news puede parecerse a éste o puede constar de una serie de números IP.
+En cualquier caso, puede conseguir la información que necesita de su administrador local del sistema.
+
+Figura 4.3
+
+La Opción Preferences del menú Options 
+
+Establecer una pasarela WAIS 
+
+Mosaic para Macintosh según está configurado actualmente no puede comunicarse directamente con un servidor WAIS (únicamente lo puede realizar Mosaic para X Windows, aunque en un futuro se va a añadir esta característica a la versión de Macintosh).
+
+Por el contrario, el programa pasa por una pasarela que controla los diferentes protocolos que se utilizan y realiza las traducciones pertinentes entre ellos.
+Esta pasarela, que viene establecida por defecto como la pasarela de NCSA, es la siguiente: www.ncea.uiuc.edu: 8001 lo que significa que la pasarela WAIS se está ejecutando en el puerto 8001 de la dirección arriba indicada.
+
+Los usuarios de USA no necesitan especificar una pasarela diferente, pero en función del país desde el que acceda a Internet, quizá le convenga elegir una que se encuentre más próxima a su localidad.
+
+La necesidad de utilizar una pasarela WAIS desaparecerá con el tiempo en las futuras versiones de Mosaic para Macintosh, cuando Mosaic pueda comunicarse directamente con los servidores WAIS .
+Lo mismo se aplica a la versión para Windows, aunque en la actualidad apenas funcionan las pasarelas WWW-WAIS .
+Los usuarios de la versión X Windows no tienen este problema ya que su programa puede tratar directamente con los servidores WAIS .
+
+Cambiar el visualizador de pantalla para PowerBooks 
+
+Si está utilizando un PowerBook, tendría sentido modificar el modo en que aparece la pantalla para que así pudiera maximizar la visualización de cada uno de los documentos seleccionados que se presentan en una pantalla más pequeña.
+- Oculte los mensajes de status al elegir la opción Hide Status Messages del menú Options . 
+- Oculte el campo URL al elegir la opción Hide URLs del menú Options . 
+
+
+Aumentar su partición de memoria 
+
+NCSA recomienda a todos los usuarios que amplíen la partición de memoria a niveles superiores de los 2 Mb que vienen establecidos por defecto, ya que los documentos que contienen numerosas imágenes integradas necesitan más memoria que ésta.
+1 Asegúrese que no se ha ejecutado Mosaic. 
+2 Haga clic sobre el icono Mosaic en el Finder . 
+3 Elija la opción Get Info del menú File . 
+4 En la ventana GetInfo , vaya al campo Preferred Size , y cambie el número a su nuevo valor.
+NCSA recomienda 4 o 5 Mb.
+
+
+
+Establecer visualizadores 
+
+Al igual que la versión de Mosaic para Windows de Microsoft, Mosaic para Macintosh también requiere la instalación de programas externos de visualización para poder sacar el máximo provecho al software.
+Estas aplicaciones auxiliares, según se las conoce, se encargan de lanzar los diferentes tipos de ficheros, como por ejemplo las películas QuickTime y los ficheros audio.
+No tiene que preocuparse por los programas de visualización si está utilizando Mosaic en un interfaz tipo texto, pero si tiene la intención de sacar partido a la amplia oferta multimedia de Mosaic, estos visualizadores resultan casi imprescindibles.
+
+Aquí tiene una descripción de los tipos de ficheros básicos de Mosaic para Macintosh que se pueden establecer, junto con los programas que actualmente se recomiendan para su uso: xxx .
+
+Todos ellos son programas de libre distribución con o freeware, a excepción de SimplePlayer, un programa de visualización QuickTime para Apple, que viene incluido en el mismo paquete, y que se encuentra también accesible en el servidor FTP del NCSA.
+La mejor forma de recuperar estos programas es por medio de FTP anónimo.
+Si observa detenidamente la página principal de Mosaic para Macintosh, se dará cuenta que contiene un enlace llamado Quick Start; sígalo y encontrará más información referente a los visualizadores.
+La figura 4.4 nos muestra esta pantalla.
+Si desea adquirir alguno de ellos sólo tiene que hacer clic sobre el visualizador que necesite para cargarlo en su disco, pero si opta por adquirir el software a través de FTP, inténtelo con alguna de estas dos direcciones: xxx .
+
+Figura 4.4
+
+En esta pantalla puede encontrar más información sobre visualizadores y cargar cualquiera de ellos
+
+Habrá observado, si tiene alguna experiencia con el software FTP para Macintosh, que se trata de ficheros importantes para el ordenador, ya que cada programa de visualización viene con toda la documentación que necesita para poder instalarlo en su Macintosh.
+Recuerde que SimplePlayer es un visualizador QuickTime para ordenadores Apple, que puede encontrar en el servidor FTP anónimo del NCSA, en ftp.ncsa.uiuc.edu .
+
+Mosaic para pantalla Macintosh 
+
+Si suponemos que ya ha instalado sus programas de visualización y ha establecido en el menú Preferences los pocos cambios que eran necesarios, no tiene más que empezar a trabajar.
+Al igual que sucede con la versión de Mosaic para Windows de Microsoft, el principal medio de navegación consiste en seleccionar con el cursor y hacer clic sobre aquel recurso que le gustaría visitar.
+El indicador estilizado en la parte superior de la pantalla le indica cuándo se transfieren los datos, y los mensajes de status por debajo de éste le muestran en qué lugar se encuentra dentro del proceso.
+Utilice las flechas situadas en la parte superior de la pantalla si desea regresar al documento anterior.
+El icono con la casita se utiliza para regresar automáticamente a la página principal que haya establecido en su menú Preferences .
+
+Habrá observado que la pantalla contiene las características habituales de Macintosh.
+Como sucede con la versión de Mosaic para Windows de Microsoft, utiliza la barra de desplazamiento situada a la derecha de la pantalla para desplazarse arriba y abajo dentro del documento en curso.
+La barra de desplazamiento horizontal le permite desplazarse hacia la derecha o izquierda según crea conveniente para poder visualizar imágenes, ya que el texto por lo general se ajusta automáticamente al tamaño de la pantalla, aunque si hace clic sobre el cuadro de zoom situado en la esquina superior derecha, puede ampliar el tamaño de la ventana para que ocupe toda la pantalla.
+El cuadro de selección de tamaño en la esquina inferior derecha de la pantalla le permite modificar el tamaño de la ventana según considere conveniente.
+
+La figura 4.5 nos muestra una pantalla estándar donde se pueden apreciar todas estas características.
+Los enlaces de información tiene que buscarlos en los datos que aparecen en su pantalla, bien subrayados, bien resaltados con otro color.
+
+Una característica a destacar en la versión de Macintosh es que una vez que haya observado una determinada pantalla, los enlaces a ese documento cambian de color, indicándole así que ya ha visto toda la información.
+Otra forma de localizar un hiperenlace consiste en posicionar el cursor, que se convertirá en una pequeña mano, sobre cualquiera de ellos, según nos muestra la figura 4.6 en la parte inferior izquierda de la pantalla.
+
+Figura 4.5
+
+Pantalla típica de Mosaic, que muestra el cuadro de zoom en la esquina superior derecha y el de selección de tamaño en la inferior derecha
+
+La barra de iconos en la parte superior de la pantalla apenas necesita explicación.
+El título de la ventana en cuestión siempre aparece en la parte superior central de la imagen; a la izquierda, el indicador de status de Mosaic, el símbolo con forma de S que engloba una pequeña esfera terrestre, se activa durante la transferencia de datos.
+Los botones de navegación le llevan de un documento a otro; el que señala hacia la izquierda regresa al documento anterior, mientras que el que señala hacia la derecha le desplaza al siguiente.
+Este último botón aparecerá en un tono oscuro a menos que ya haya regresado a un documento anterior y ahora quiera una vez más seguir hacia adelante.
+El símbolo de la casita, como ya se ha mencionado anteriormente, es una forma rápida de regresar a su página principal.
+
+En el campo situado junto al icono de la casita, puede desplegar una lista de los servidores que ha visitado durante la sesión en curso.
+A la derecha de éste se encuentra el botón y el campo de búsqueda, que se utilizan cuando quiera buscar una determinada palabra dentro de un índice de documentos.
+
+Figura 4.6
+
+El cursor se transforma en una mano al situarse en un hiperenlace
+
+Debajo del campo de búsqueda y en el extremo izquierdo de la pantalla comienza el campo URL ( Uniform Resource Locator) , que muestra por pantalla la ubicación del documento actual.
+
+Este campo se puede desactivar si lo desea en el menú Options .
+El campo por debajo del URL es una zona destinada a los mensajes de status, que sólo aparecen en pantalla cuando se cargan los documentos, y asimismo también muestra el URL de un hiperenlace cuando posicionamos el cursor sobre alguno de ellos.
+
+Estos mensajes de status se pueden desactivar de igual modo en el menú Options .
+
+Soporte técnico en Mosaic para Macintosh 
+
+NCSA proporciona soporte técnico para Mosaic a través de correo electrónico.
+Si quiere contactar con el equipo de Macintosh, envíe un mensaje a la siguiente dirección: mosaic- ma@ncsa.uluc.edu .
+
+La manera de hacerlo desde Mosaic es bastante fácil, sólo tiene que elegir la opción Mail Developers del menú File .
+En este mensaje no necesita incluir ninguna información referente al sistema que utiliza ya que Mosaic automáticamente añade por ejemplo el modelo de su Macintosh, la versión del sistema operativo y otros datos de interés que pueden ayudar al equipo del NCSA a determinar y aislar su problema.
+Aunque también si lo prefiere puede hacerlo por correo postal a la siguiente dirección: xxx .
+
+Y no se olvide de la numerosa ayuda que existe on-line; de hecho, dado el rápido desarrollo que está experimentando Mosaic, no cabe duda que ésta resulta la mejor forma de encontrar la información más actualizada.
+
+Un manual de ayuda on-line, una guía del usuario para HTML y URLs, y un documento FAQ, Frequently Asked Questions , acerca de Mosaic para Macintosh, están accesibles a través de NCSA.
+
+Figura 4.7
+
+Visualización de un Gopher en Mosaic para Macintosh 
+
+Si elige la opción MacMosaic Documentation del menú Ballon Help puede acceder a estos enlaces de una forma rápida.
+
+Mosaic no es un programa difícil de ejecutar, ni en su versión Windows de Microsoft, ni en la de Macintosh.
+Las ideas que subyacen en todas sus operaciones son lógicas y coherentes.
+La figura 4.7 nos muestra cómo se visualiza un Gopher en Mosaic para Macintosh.
+
+Observe que aquí se aplican los mismos principios descritos anteriormente incluido el uso de iconos para indicar la presencia de ficheros y directorios.
+Así, por ejemplo, el tercer icono dentro del menú Gopher contiene un signo de interrogación porque es un índice de búsqueda.
+
+Aunque preferentemente vamos a utilizar en este libro la versión de Mosaic para Windows de Microsoft, a primera vista, no debería plantear ningún problema el hecho de que nos traslademos de una versión a otra.
+
+Resulta mucho más importante e interesante entender lo que sucede cuándo se ejecuta Mosaic, y eso a su vez implica entender el funcionamiento de World Wide Web .
+
+Mosaic y World Wide Web 
+
+Al comienzo de la era informática, VisiCalc irrumpió en la esfera administrativa como la primera hoja de cálculo que realizaba automáticamente todos los cálculos.
+Empresarios que no habían utilizado nunca un ordenador, empezaron a demandar este software sin comprender la verdadera naturaleza de los ordenadores o su estrecha relación con cualquier software que se quisiera utilizar, podía ser tanto VisiCalc como Electric Pencil, WordStar o PowerPoint.
+
+Estas máquinas son indudablemente un reflejo de nuestras propias necesidades, siempre y cuando aprendamos a adaptarlas de la mejor manera posible.
+Una utilización óptima del ordenador significa comprender la distinción existente entre las aplicaciones y los procesos que los rigen.
+No tendría ningún sentido si toda nuestra actividad se redujera a la utilización de un software determinado como si pensáramos que es el único software que se puede ejecutar en nuestro ordenador.
+Si no logramos comprender que nuestro sistema operativo funciona de intermediario entre el hardware y el software de nuestro ordenador, estamos de hecho pasando por alto una de las características más útiles de estos programas.
+
+Resulta muy difícil utilizar y adaptar un programa del que sabemos muy poco.
+
+Mosaic ofrece una visión paralela.
+EL primer contacto con Mosaic para los principiantes se parece al que esos directores tuvieron con VisiCalc.
+Todos ellos quieren tener Mosaic, porque es lo que han leído en la prensa o lo que han visto cuando han asistido a alguna demostración.
+De igual forma que los usuarios de VisiCalc tuvieron que aprender todo lo relacionado con CP/M, el sistema operativo de este software, así los usuarios de Mosaic tienen que entender y comprender World Wide Web para poder aprovechar Mosaic al máximo.
+Este capítulo lo vamos a dedicar a esa relación, y nuestro objetivo principal va a consistir en mostrar cómo funciona Mosaic.
+
+World Wide Web 
+
+Pensado como un medio para intercambiar información entre físicos, World Wide Web debe su origen a los desarrolladores del CERN (Laboratorio Europeo de Física de Partículas) al norte de Génova.
+No cabe duda que el proyecto ha sobrepasado los límites para lo que originalmente se había pensado según se muestra en una página principal dedicada a explicar lo que es el Web , y donde aparece descrito como "el universo de información accesible a través de la red, la misma encarnación del conocimiento humano".
+Una afirmación un tanto ambiciosa, aunque así era en realidad el proyecto.
+
+Se ha dejado constancia que la cantidad de información que estaba accesible en Internet era tan inmensamente grande y difícil de controlar que World Wide Web ofrecía una forma práctica y ordenada de navegar a lo largo y ancho de la Internet.
+Prueba de ello se tiene en el enorme crecimiento que han experimentado los servidores de Web en los últimos dos años.
+
+Ninguna otra implementación ha logrado probar su falta de fallos como lo ha hecho Web .
+
+Su visión abarca todas las herramientas de red que estamos acostumbrados a utilizar, desde FTP pasando por Telnet, Gopher o archie .
+
+Pero Web ofrece algo más que un agradable interfaz, ya que modifica el concepto que tenemos de proximidad al facilitar enlaces hipertexto e hipermedia entre la información.
+La página principal que utilicemos en un momento dado puede contener enlaces tanto a un server que está a la vuelta de la esquina como a otro que se encuentra a mitad de camino al otro lado del mundo.
+
+Nuestros viajes entre todos ellos se realizan de forma transparente, ya que nuestro objetivo no es controlar la conexión entre las redes, sino obtener información allí donde se encuentre.
+
+Timothy Berners-Lee fue el primero que desarrolló el proyecto que daría como resultado el World Wide Web en 1989, aunque su trabajo con hipertexto se remonta a 1980.
+
+Este licenciado de Oxford escribió las aplicaciones originales en el ordenador NeXT y desarrolló el software de comunicación que haría posible el proyecto.
+Podemos echar un vistazo a las personas que han contribuido al desarrollo del WWW si con el uso de Mosaic recuperamos una determinada página principal; aquí está su URL: http://info.cern.ch/hypertext/WWW/People.html .
+
+No podrá encontrar en ningún otro lugar tal cantidad de programadores y disertadores de sistemas con tanto talento.
+Algunos de ellos se encuentran en el CERN, pero de igual manera que se ha extendido y difundido Web , así lo han hecho también sus aplicaciones, y si observa esta página podrá comprobar lo diversas que son sus fuentes de inspiración.
+
+Introducción a hipertexto 
+
+¿Qué es exactamente hipertexto? 
+Piense en cómo lee un libro convencional, como puede ser éste mismo.
+Aunque resulta un poco diferente con los libros de consulta, la tendencia general es realizar un lectura de forma secuencial, pero lo que nunca haría sería cogerse Los Papeles del Club Pickwick , por ejemplo, y leer párrafos elegidos al azar si con ello espera comprender, y mucho menos disfrutar, de lo que trata la novela.
+
+Incluso en un libro de consulta intenta mantener un orden secuencial; puede que quizá se salte un capítulo que no le interesa o que contiene información que ya conoce, pero cuando sin duda llega a otro que necesita, lo lee en segmentos consecutivos, de una línea a otra y siguiendo la estructura impuesta por el autor.
+
+Hipertexto, por su parte, proporciona una forma diferente de acercarnos a esa información.
+En vez de obligarle a leer de manera secuencial, le permite moverse entre diferentes artículos de información relacionados entre sí.
+Este no es un concepto nuevo, porque de hecho, los pies de página, las citas bibliográficas e índices están ya establecidas en los libros convencionales precisamente con el fin de permitirle ir de una referencia a otra, dependiendo de la información que quiera conseguir.
+Por consiguiente, piense en hipertexto como en una forma de simplificar la transición entre diferentes fuentes de datos.
+En vez de pasar páginas o buscar los títulos de los capítulos, simplemente tiene que seleccionar un artículo con el cursor y hacer clic sobre él para recibir toda la información que se halle accesible en la red.
+
+Un ejemplo de hipertexto 
+
+Cualquier texto se puede transformar en hipertexto si establecemos los enlaces pertinentes con una palabra o frase determinada, o con otro tipo de información.
+Aquí, por ejemplo, se muestra un pasaje de Otelo, Shakespeare, donde Otelo discute con Yago las consecuencias de los celos.
+Echemos un vistazo al texto y consideremos qué se podría hacer con él si le trasladáramos de su formato impreso en libro a un entorno hipertexto.
+Los enlaces hipertexto que he establecido se muestran de forma subrayada en el texto, y podemos hacer clic sobre cualquiera de ellos para ver la información con la que están enlazados: xxx .
+
+En el texto Otelo sostiene que no es un hombre celoso (en estos momentos, Yago le ha presentado una serie de observaciones sobre Desdémona, su mujer, con la esperanza de hacerle rabiar).
+Este texto, escrito en inglés isabelino, requiere algún tipo de ayuda, ya que puede plantear al lector moderno algunos problemas de vocabulario.
+Hipertexto puede de hecho facilitarle esa ayuda.
+
+EL primer énfasis recae sobre la primera palabra, 0th. -abreviatura de Otelo.
+En este punto se podría facilitar toda la información del texto referente al acto, escena y línea, por lo tanto sólo tendríamos que hacer clic en el enlace para que nos apareciera una ventana con toda esta información.
+Asimismo, también podríamos incluir en este enlace un pequeño resumen del argumento, de la boda de Desdémona con el Moro Otelo, un general al servicio del estado de Venecia, y cómo Yago, un soldado celoso, manipuló y destruyó este matrimonio.
+
+En la línea 5, la palabra once no sólo está subrayada sino que además aparece entre corchetes.
+EL subrayado, que nos avisa de nuevo sobre la presencia de un enlace hipertexto, pone de manifiesto la cercanía de información adicional.
+En este caso se podría tratar de una cita de la introducción realizada por G. Blackemore Evans, el editor de esta edición de Shakespeare, sobre las razones que le llevaron a marcar determinadas partes del texto.
+AL hacer clic sobre once aparecerá el siguiente pasaje del prefacio: xxx .
+
+La palabra "once" aparece entre corchetes en esta edición porque se cuestiona su validez; su uso sólo se puede deducir más que demostrar.
+Esta información, que podría tratarse de una nota convencional a pie de página, no es que hipertexto la amplíe y complete, sino que se nos facilita el trabajo a la hora de localizarla, ya que no tenemos que ir comprobando página por página hasta dar con las notas al final de cada capítulo.
+
+Con un editor hipertexto se pueden crear enlaces allí donde deseemos.
+Cuando nos encontramos con alguna palabra inusual, de la que desconocemos su significado, podemos crear un enlace hipertexto donde se nos explique y faciliten algunos sinónimos para su comprensión.
+Así, por ejemplo, cuando llegamos al nombre "Yago", podemos abrir un enlace de información que explique al lector, que no haya leído Otelo, quién era este Yago.
+EL lector descubrirá que se trata de un soldado a quien Otelo no ascendió en favor de Cassio.
+EL argumento de la obra gira en torno a su venganza, tratando de deshonrar a Desdémona para que parezca que está relacionada románticamente con Cassio, lo que determina a Otelo a estrangularla en su propio lecho.
+
+La elección de los enlaces es meramente nuestra.
+
+Advierta, asimismo, que no estamos limitados a un único enlace, si no que por ejemplo cuando decidimos averiguar quién era Yago, lo podríamos también haber enlazado con otros donde se facilitase información adicional sobre los antecedentes de Yago, su función literaria como emblema de los celos, o qué opinan los críticos de nuestros días.
+
+Cada conjunto de enlaces nos pueden llevar a profundizar cada vez más en el tema que estemos tratando.
+
+Empezando solamente con un pasaje de Otelo, podemos teóricamente profundizar en el tema y llegar hasta una presentación de diferentes visiones críticas, o una explicación de la vida en Venecia durante la época en que tuvo lugar la obra, o quizá una página que muestre las fuentes literarias que Shakespeare utilizó en su trabajo.
+No existe ningún tipo de límite hasta donde podemos llegar con estos enlaces, salvo la paciencia de las personas que los crean.
+
+Los enlaces hipertexto tienen que crearse de una forma adecuada.
+Siempre que examinemos un documento hipertexto, tenemos que recordar que estamos accediendo a la información en la manera que el editor quiere que la veamos.
+Aunque a primera vista hipertexto parece ser una exploración inmensa de datos, una vez que la adaptemos a nuestras propias necesidades específicas, es de hecho tan arbitraria como cualquier texto tradicional, en el sentido de que la elección de enlaces viene controlada por un editor que utiliza herramientas hipertexto.
+EL proceso de creación de documentos hipertextos, arduo y entretenido, se simplificará con el desarrollo de herramientas que automaticen el proceso, aunque las decisiones humanas detrás de cada uno de esos enlaces determinarán si un determinado documento hipertexto es útil o no.
+
+Observe ahora un ejemplo de hipertexto según aparece en World Wide Web a través de Mosaic.
+La figura 5.1 nos muestra una página principal con una relación de libros on-line ordenados por autor.
+Cada uno de los libros aparece subrayado y de color azul, si es que utiliza un monitor color; estas dos formas de señalar indican la presencia de un hiperenlace.
+Si hace clic sobre Beowulf obtendrá el documento que aparece en la figura 5.2.
+
+Figura 5.1
+
+Página de hipertexto con enlaces a varios libros on-line
+
+Se trata de hipertexto a un primer nivel aunque son enlaces a otra y más detallada información.
+
+EL texto de Beowulf no contiene ningún tipo de enlace.
+La única navegación posible en este punto es regresar a la página inicial de libros on-line, donde podemos elegir otro nuevo.
+EL hipertexto puede servir como una especie de índice inteligente que nos lleva directamente a donde necesitamos ir y nos devuelve al punto de partida.
+
+Figura 5.2
+
+Tomando el hiperenlace a Beowulf
+
+El comienzo de hipermedia 
+
+Hipertexto, originalmente anunciado como una nueva forma de leer libros y otros tipos de textos, siempre tendrá una función útil en la navegación en busca de información.
+Pero la buena noticia de los últimos dos años, que se corresponde con el desarrollo de World Wide Web , es la aparición de hipermedia .
+Por hipermedia, se entiende la información entrelazada que no solamente tiene carácter textual.
+En el ejemplo de Shakespeare, habría sido posible crear un entorno hipermedia en el que con un solo clic sobre el enlace apropiado, realizaremos un viaje visual por la Venecia de Otelo que ayudara a esclarecer los temas tratados en la obra y apreciar su dimensión cultural en su justo valor.
+Quizá otros enlaces a partir de éstos podrían mostrarnos obras de arte veneciano o llevarnos a escuchar retazos de música.
+
+Que este modelo de hipermedia ha empezado a tener éxito lo confirman otros acontecimientos en el mundo informático.
+Tomemos, por ejemplo, el predominio de los títulos de CD-ROM, que el pasado año empezaron a alcanzar las expectativas iniciales de venta.
+La aplicación Encarta de Microsoft es una enciclopedia multimedia, aspecto que procede de la capacidad de Encarta para mostrar por pantalla tanto texto como fotografías, dibujos en movimiento, sonidos y animación.
+
+Sin embargo, hipermedia es la única herramienta de navegación imprescindible de esta aplicación.
+Un artículo sobre Mauricio, por ejemplo, proporciona información textual sobre la historia de la isla y su geografía, pero un pequeño icono con un altavoz le avisa que el relato contiene audio-podrá escuchar el nombre "Mauricio"-mientras que otros iconos le indicarán que es posible visualizar su bandera o escuchar su himno nacional.
+Todas estas acciones son posibles gracias a los enlaces hipertexto.
+Haga clic sobre el icono apropiado y el enlace hipermedia le presentará nueva información.
+
+Mosaic, de igual forma, es la herramienta hipermedia.
+Según vimos en el capitulo 1, numerosas aplicaciones, desde Global Network Navigator de O'Reilly '&' Associates a exposiciones de museos como la Biblioteca del Congreso y la del Vaticano, utilizan enlaces hipermedia para poder visualizar información de una forma nueva.
+EL único inconveniente que presenta hipermedia es que con un enlace SLIP/PPP puede llevar bastante tiempo cargar imágenes complicadas.
+Pero ya aprenderemos en el capítulo 8 que existen formas de agilizar Mosaic, permitiéndonos así disfrutar de lo mejor de ambos mundos.
+
+Y, puesto que el software de visualización y los enlaces entre Mosaic y estos programas son cada vez más sofisticados, el proceso en sí de adquirir información de servidores remotos ofrecerá grandes recompensas.
+
+Herramientas de navegación con World Wide Web 
+
+Dada esta potente infraestructura hipermedia, tenemos que encontrar formas eficaces de utilizarla.
+
+Estamos buscando programas clientes que cumplan la misma función con Web como lo hacen con cualquier otra herramienta de Internet.
+Un buen programa cliente es aquél que permite una utilización sencilla y fácil de las aplicaciones de Internet a la vez que mantiene su potencia.
+Los programas clientes que se han desarrollado para World Wide Web se conocen con el nombre de navegantes .
+
+Existen programas de navegación generalmente para todo tipo de ordenadores desde los sistemas UNIX de X Windows a Amigas, desde Macintosh al ordenador NeXT, y como no, el omnipresente PC compatible de IBM tanto para DOS como para Windows de Microsoft.
+
+Detengámonos por un momento en la palabra "navegante".
+EL término tiene sentido por sí solo, ya que Web nos permite navegar por inmensas bibliotecas de información; una analogía se podría encontrar en mis visitas a las librerías (mi lugar predilecto), donde me paso el tiempo recreando la vista entre los estantes en busca de algo que llame mi atención.
+A este proceso no se le puede considerar en rigor una búsqueda, ya que una herramienta de búsqueda es aquélla que permite elegir una información y especificar lo que deseamos; una búsqueda encuentra nuestro objetivo con toda exactitud.
+
+Existen algunos programas clientes en Internet que realizan este proceso, o al menos lo intentan, como son las herramientas archie o Veronica , y hasta cierto punto, también WAIS ; les explicamos lo que necesitamos y el software se encarga de buscarlo.
+
+La naturaleza de la navegación 
+
+Web no es una herramienta de búsqueda sino un herramienta de navegación, aunque una de sus frustraciones es este mismo hecho.
+Supongamos que estoy buscando información sobre una obra de la literatura china llamada The Art of War de Sun Tzu.
+EL libro ha tenido numerosas ediciones ya que los ejecutivos agresivos lo han utilizado como libro empresarial con la esperanza de aplicar la filosofía oriental a sus propias prácticas comerciales y empresariales.
+Es posible que exista alguna información sobre este tema, pero cómo podemos encontrarla en Web .
+Hasta hace relativamente poco tiempo, era imposible decirle a Web : Encuentra The Art of War , sino que por el contrario, tendría que navegar empezando quizá en el CERN, donde existe un catálogo de materias que me puede guiar en mi búsqueda por el Web hasta encontrar lo que estoy buscando.
+
+Por consiguiente, en algún momento me encontraría con la siguiente dirección: URL: http://biomed.nus.sg/CM/cweb/sunzi/xx/sunzi.xx.html .
+
+Una vez que tengo la dirección, no tengo más que ir directamente a ese servidor, pero el prolongado proceso hasta llegar a este punto ha tenido más de navegación que de búsqueda.
+
+Todo ello está empezando a cambiar con la aparición de nuevos mecanismos de búsqueda que se aplican a Web , según veremos en el capítulo 9.
+Se debería explicar por qué la palabra "navegante" fue el primer término que se aplicó a los programas cliente de Web y por qué todavía se los conoce como tal.
+
+Mosaic, quizá el último navegante de Web , trabaja con la información que está accesible a través de la infraestructura de World Wide Web , empaquetándola para ofrecer la dimensión gráfica que les falta a la mayoría de los programas de navegación.
+
+El navegante www 
+
+Figura 5.3
+
+El programa de navegación www muestra los enlaces con los números que se tienen que teclear para poder llegar hasta ellos
+
+La figura 5.3 nos muestra un página del Web donde se nos explica su funcionamiento.
+En este punto estamos visualizando esta página a través de un programa de navegación conocido con el nombre www , un programa de tipo texto que no puede mostrar gráficos.
+Es preferible ejecutarlo sobre un emulador de terminal VT-100, según sucedería con una conexión estándar dial-up .
+Observe que todos los enlaces se muestran por pantalla seguidos de un número entre corchetes, en vez del subrayado y los cambios de color que son las características propias del interfaz de Mosaic.
+Para llegar a esos enlaces tenemos que teclear el número elegido y pulsar la tecla Intro.
+
+No tenga un concepto equivocado respecto a www , aunque se trata de un programa de navegación completo, requiere que tecleemos un número de comandos para su puesta en funcionamiento.
+Para una mejor y más rápida utilización, los comandos principales aparecen en la parte inferior de la página, mientras que otros se facilitan a través del sistema de ayuda.
+Con www estamos muy lejos de la sencillez que presentaba el entorno de seleccionar y ejecutar comandos por ratón, aunque ello no afecta en absoluto a la información que proporciona World Wide Web .
+www está en la cumbre de Web y explota sus recursos.
+
+El navegante Lynx 
+
+Echemos ahora un rápido vistazo al navegante Lynx , que es otro enfoque para presentar información World Wide Web sin ningún tipo de gráficos u otros detalles.
+Si examinamos la figura 5.4, podremos observar que se trata del mismo documento que acabamos de visualizar con el navegante www pero ahora mostrado a través de Lynx .
+EL contenido del texto no ha cambiado, pero si su presentación.
+
+Aunque lo vemos en blanco y negro, con una imagen en color se apreciaría que ciertas partes del texto están resaltadas en color azul, mientras que el resto lo está en negro.
+La presencia del texto en azul indica la existencia de enlaces hipertexto en el documento.
+
+Figura 5.4
+
+Lynx ofrece un interfaz más limpio que www eliminando la presencia de números entre corchetes para indicar hiperenlaces
+
+La presencia de imágenes integradas se indica con la palabra &lsqb;IMAGE&rsqb;, y al igual que sucede con www los comandos más importantes aparecen en la parte inferior de la pantalla.
+
+Si tuviéramos que trabajar con Lynx durante mucho tiempo, podríamos comprobar que se trata de una herramienta de navegación potente para todo aquél que utilice un emulador VT- 100 conectado a Internet, pero como sucede con www ésta es solamente una parte de la historia, ya que no se puede acceder a ningún detalle gráfico.
+La única ventaja que presenta es que tanto www como Lynx son herramientas rápidas y el cambio entre pantallas es relativamente instantáneo ya que no tenemos que esperar que el software procese ni imágenes extensas ni ficheros de sonido.
+
+La ventaja de Mosaic 
+
+La diferencia entre Mosaic y estos programas de navegación tipo texto no podría ser más evidente.
+En la figura 5.5 podemos observar de nuevo la página en cuestión, un seminario sobre cómo se preparó World Wide Web en el CERN.
+Nos encontramos una vez más con el mismo texto puesto que estamos accediendo a la misma fuente de información.
+
+Figura 5.5
+
+La misma página en Mosaic con los gráficos incorporados
+
+Sin embargo, esta vez observamos que con la ayuda de Mosaic podemos visualizar muchas más cosas.
+EL documento en sí resulta ser una guía ilustrada de World Wide Web ; las imágenes dan soporte al texto de una manera que sería impensable con www o lynx .
+Pero precisamente a causa de estas imágenes notamos cierto retraso cuando accedemos a la página, al menos si estamos utilizando una conexión SLIP/PPP sobre línea telefónica en vez de una conexión directa a la red de alta velocidad.
+
+Aunque su interfaz es bastante rico, Mosaic no es más que otro más dentro del conjunto de los programas de navegación, y sería un grave error considerarle como la única aplicación.
+Como cualquier otra herramienta de red, se trata de un programa cliente que funciona conjuntamente con otros ordenadores para tener accesibles recursos de información en un entorno distribuido, y por tal entiendo que los recursos que utiliza son parte de una red que tiene un alcance mundial.
+Podemos utilizar un programa de navegación para llegar a cualquiera de ellos independientemente de dónde se encuentren situados físicamente.
+La gente que utiliza otros programas de navegación gráficos World Wide Web no estarán de acuerdo en que Mosaic es el interfaz del futuro, alegando que herramientas como Cello o MacWeb poseen virtudes propias.
+Pero es evidente que del inmenso universo de motores de navegación, Mosaic se ha alzado por encima de todos ellos y ha adquirido autonomía propia.
+
+Terminología World Wide Web Posiblemente de entre las numerosas exigencias de Internet la que más intimida al recién llegado es la necesidad de dominar su terminología.
+
+Nosotros los informáticos tendemos a utilizar acrónimos en nuestra habla cotidiana al igual que varias formas de taquigrafía cuando tenemos que hacer referencia a algún recurso, olvidando por completo el desconcierto que causan en todo principiante.
+
+Particularmente incomprensibles son las largas direcciones que se utilizan para especificar recursos en entorno World Wide Web .
+
+Ahora es el momento de explicar todo esto, al igual que los términos que es posible que se encuentre en su trabajo diario con este sistema de información. 
+Web cuenta con una serie de términos propios aunque no es necesario que sea un experto en ninguno de ellos para poder utilizar Mosaic.
+
+Cómo hacer que funcionen las herramientas de Mosaic 
+
+Dentro de Internet existen tres importantes aplicaciones, aunque irónicamente la tercera fue el resultado de una idea posterior.
+Desde un principio era obvio que tenía que existir algún modo para transferir ficheros entre ordenadores, lo que se consiguió con el denominado FTP, o File Transfer Protocol .
+Igualmente obvio resultaba que cualquier investigador situado en un terminal remoto pudiera establecer una conexión con otro ordenador que estuviera conectado a la red y acceder a sus recursos, como pueden ser las bases de datos o cualquier otra herramienta para la manipulación de información, independientemente de la distancia que existiera entre esos dos ordenadores.
+Esto fue exactamente lo que pensaron los investigadores a comienzos de los años setenta cuando crearon ARPANET.
+
+ARPANET, precursor de Internet, se diseñó como un proyecto experimental con la intención de comprobar si era posible enviar y recibir información en forma de paquetes de datos.
+AL Departamento de Defensa de los Estados Unidos le atrajo la idea ya que en el evento de una catástrofe, como podía ser una guerra nuclear, los ordenadores de la nación podrían seguir comunicándose entre ellos incluso en el caso de que quedara destruida una cantidad considerable de la infraestructura de las comunicaciones, ya que aunque se caiga un enlace los datos pueden tomar otra ruta alternativa para llegar a su destino.
+
+EL tercer protocolo de Internet fue el denominado correo electrónico, o e-mail en el argot popular, que en cierto sentido representó una sorpresa para los diseñadores, ya que nunca se les había ocurrido que a la gente le pudiera interesar intercambiar mensajes en la red.
+EL continuo crecimiento de la mensajería pronto vino a confirmar que se trataba de un medio de comunicación imprescindible para los investigadores debido a la prestación de beneficios que reportaba, los mismos que hoy en día ya damos por sentado-es rápido y asíncrono, es decir, la persona no tiene que estar al otro lado de la red para recibir su mensaje, sino que éste se guarda en un buzón de correo hasta que se lee.
+
+Mosaic soporta sólo dos de estos tres protocolos, en los que no está incluido el correo electrónico, aunque si uno muy sencillo que se utiliza para enviar comentarios a los desarrolladores del NCSA, quienes pueden tener constancia de los informes de errores y tratar de arreglarlos.
+Es muy probable que éste sea el punto de partida para las futuras versiones de Mosaic donde se espera que se amplíen su posibilidades de uso.
+
+De momento, Mosaic no parece presentar demasiado atractivo para los usuarios adictos al correo electrónico, pero espere a ver todo lo que puede~ conseguir con FTP y Telnet.
+
+Herramienta FTP en Mosaic 
+
+Mientras que el correo electrónico es la forma en que todos nos iniciamos en Internet, es relativamente sencillo de utilizar y nos proporciona innumerables muestras de nuestra conexión.
+FTP por el contrario, es el primero que nos va a facilitar la navegación por la red.
+
+Su atractivo reside en que nos permite conectarnos con ordenadores remotos para recuperar ficheros.
+Existen millones de ordenadores diseminados por todo el mundo que contienen información, pero sólo una parte de ellos, digamos unos cientos, permiten el acceso público a toda o parte de su información.
+Se puede acceder a estos ordenadores con cualquier programa cliente FTP y una vez allí examinar su contenido.
+Para recuperar cualquier tipo de información, un documento, programa, imagen o incluso un fichero con sonido o una película, sólo tenemos que especificarlo y acto seguido lo tendremos en nuestra cuenta.
+
+FTP Anónimo ilustrado 
+
+Cuando un administrador del sistema proporciona acceso público a ciertos recursos dentro de un servidor, el usuario puede llegar a esta información siguiendo una serie de convenciones.
+Para acceder a servidores de FTP anónimo que permiten la transferencia, intercambio y distribución de ficheros de dominio público, es necesario introducir anonymous cuando se pregunta por el login del usuario, y como password nuestra dirección de correo electrónico.
+Una sesión de conexión desde UNIX sería como a continuación se detalla: xxx .
+
+Como sucede con cualquier otra shell, y según se puede observar con este ejemplo, somos nosotros mismos los que tenemos que especificar todos los comandos.
+Para acceder a FTP anónimo es necesario introducir anonymous como nombre del usuario y la dirección de correo electrónico como password, aunque nunca aparece por razones de seguridad.
+Esto nos conduce a una pantalla con información acerca del servidor al que hemos accedido y una vez allí se utiliza el comando cd pub para cambiarnos al directorio pub .
+
+Si observamos la misma sesión con Mosaic, la diferencia es notable.
+Cuando queremos llegar a una dirección determinada, es necesario especificar en primer lugar el URL correspondiente; para ello abrimos el menú File , según se muestra en la figura 6.1 y hacernos clic sobre la opción Open URL ... , con lo que emergerá el cuadro de diálogo que aparece en la figura 6.2.
+La información de este cuadro de diálogo es bastante sencilla; el campo URL nos informa sobre la ubicación del documento que tenemos en pantalla, el campo Current Hotlist , nos dice que si queremos añadir un URL a nuestra lista activa, tendremos que hacerlo en el menú Starting Points situado en la parte superior de Mosaic, a la derecha del campo URL.
+Si en este punto hacemos clic en la flecha del cuadro de diálogo, podremos observar una lista completa de todos los URLs incluidos en el menú Starting Points , y elegir al que queramos desplazarnos.
+
+Figura 6.1
+
+Despliegue del menú File de Mosaic
+
+Figura 6.2
+
+El cuadro de diálogo Open URL
+
+Sin embargo, de momento, sólo nos vamos a centrar en el cuadro URL .
+Si situamos el cursor en ese campo y hacemos clic, el URL quedará resaltado en color azul, y cualquier información que tecleemos reemplazará a la ya existente.
+Si queremos desplazarnos a un servidor FTP, tendremos que utilizar el siguiente parámetro: ftp://direccion_servidor/directorio/ y así, por ejemplo, para ir al servidor FTP de oak.oakland.edu , sólo tenemos que introducir este URL dentro del cuadro URL : ftp://oak.oakland.edu/ y si lo que deseamos es llegar directamente al directorio pub, indicaremos este otro URL: ftp://oak.oakland.edu/pub/ .
+
+La figura 6.3 muestra el resultado del primer URL, que nos sitúa en el menú raíz del servidor FTP.
+La principal diferencia entre utilizar Mosaic, como cliente FTP, y una shell para realizar las mismas operaciones estriba en la facilidad y comodidad gráfica que ofrece Mosaic.
+
+Figura 6.3
+
+Directorio FTP según aparece en Mosaic
+
+Tenemos a nuestra entera disposición la estructura del directorio del servidor, organizada jerárquicamente con diferentes símbolos gráficos que facilitan la visualización del lugar donde nos encontramos, a diferencia de una shell donde perderse resulta un fenómeno del todo frecuente.
+
+En este ejemplo se puede observar que existen diferentes símbolos en función del recurso al que estemos accediendo, así por ejemplo para un documento de texto como README aparece una pequeña página con una de las esquinas doblada hacia adentro, él resto de los elementos son pequeñas carpetas que representan directorios.
+
+Todos ellos aparecen subrayados lo que indica la presencia de hiperenlaces con otros documentos.
+
+¿Se ha dado cuenta ya de lo fácil y sencillo que resulta llegar hasta aquí?
+Mosaic nos lleva automáticamente al directorio que hayamos elegido, en vez de vernos obligados a teclear la palabra anonymous seguida de nuestro password.
+
+Cambiar de directorio en Mosaic 
+
+Ya que Mosaic nos permite leer la información que aparece por pantalla, podemos elegir un directorio al azar.
+Me sitúo con el cursor sobre el directorio pub , que ya ha adquirido la forma de una pequeña mano, indicando así la presencia de un hiperenlace, y hago clic sobre él para cambiar a la pantalla que aparece en la figura 6.4.
+
+Figura 6.4
+
+Siguiendo un hiperenlace nos desplazamos rápidamente al directorio especificado
+
+Una vez más nos encontramos con la estructura del directorio /pub organizado de forma jerárquica en sus correspondientes subdirectorios.
+En la línea inmediatamente inferior a éste aparece subrayado el elemento Up to Parent Directory por si queremos regresar al directorio anterior.
+En una shell tendríamos que teclear manualmente el comando cd.. si queremos conseguir el mismo resultado.
+
+Leer ficheros en el servidor 
+
+En Mosaic es posible leer directamente un documento en pantalla e incluso recuperarlo si lo considera de interés, independientemente del modo que utilice para acceder a un servidor FTP.
+Si nos detenemos por un momento para leer el fichero README , con una shell necesitaríamos utilizar el siguiente comando get nombre fichero "&verbar;more" , para que por medio del filtro more pudiéramos leer el documento página por página-recuerde que un solo error de sintaxis le obligaría a repetir el comando-, en cambio con Mosaic, el procedimiento es mucho más sencillo, sólo tenemos que hacer clic sobre el documento en cuestión y el resultado es el que nos muestra la figura 6.5.
+
+EL fichero en formato ASCII aparece en pantalla, y en caso de que constara de más de una página, podemos utilizar la barra de desplazamiento situada en la parte derecha de la: pantalla para movernos por el documento.
+
+Cuando hayamos terminado de leerlo podemos elegir, por ejemplo, el botón con el triángulo que apunta hacia la izquierda en la barra de iconos para regresar a la pantalla-anterior, que en este caso se trataría del directorio raíz de oak.oakland.edu .
+
+Figura 6.5
+
+Lectura de un fichero de texto on-line
+
+Mosaic y compresión de ficheros 
+
+Este programa puede hacer mucho más que mostrar ficheros de texto por pantalla como acabamos de observar.
+
+EL atractivo de este navegante reside en que puede interpretar los diferentes tipos de ficheros con que se encuentre.
+En Internet se comprimen numerosos ficheros de texto con la finalidad de ahorrar espacio en disco bien por medio del comando UNIX compress o de los comandos gzip del Free Software Foundation .
+Si hiciéramos clic sobre alguno de estos elementos Mosaic decodificaría la compresión para mostrarnos el fichero por pantalla.
+
+Recuerde que el programa no funciona demasiado bien con ficheros que contienen más de una extensión; así, por ejemplo, no puede leer ficheros como info.tar.Z , el sufijo tar indica que es un archivo de fichero y que luego se ha comprimido según lo demuestra la Z final.
+Es posible recuperar un fichero de este tipo, pero más que leerlo en pantalla, habría que cargarlo en nuestro disco duro para luego descomprimirlo.
+
+En la figura 6.6 podemos observar un fichero binario que se ha comprimido con el programa PKZIP de PKWARE.
+EL URL del fichero es el siguiente: file://oak.oakland.edu/simtel/win3/SIMWNDEX.ZIP .
+
+Figura 6.6
+
+Listado de ficheros de texto comprimidos en un subdirectorio de un servidor FTP
+
+Una vez más la presencia de iconos nos ayuda en nuestro trabajo, ya que nos indican que estamos tratando con ficheros binarios a diferencia de los pocos ficheros de texto existentes en este directorio que carecen de indicación.
+Mosaic puede mostrar por pantalla algunos formatos de ficheros de texto comprimidos con el programa compress de UNIX o el gzip de Free Software Foundation , pero no puede entender otras formas de compresión como puede ser PKZIP o cualquier fichero binario comprimido.
+Para todos ellos no queda más remedio que cargarlos en nuestro disco duro.
+
+Guardar ficheros en el disco 
+
+Si queremos guardar un fichero de texto para su utilización posterior, primero tenemos que desplegar el menú File y de las dos opciones Save y Save As ... elegir la primera para guardar el fichero con su mismo nombre, pero puesto que estamos utilizando un sistema de Windows para tratar con un fichero de texto de UNIX que puede contener numerosas extensiones o un nombre de fichero con más caracteres de los permitidos en DOS, quizá resulte preferible cambiarle el nombre, lo que realizaremos con la opción Save As ... .
+Tras esto aparecerá un cuadro de diálogo donde puede cambiarle el nombre y determinar el directorio en el que lo va a situar.
+
+Para la versión de Macintosh se elige igualmente la opción Save As ... del menú File , que abre un cuadro de diálogo donde puede guardar el fichero como texto o en formato HTML.
+La versión de Windows no incluye de momento esta característica, y así los pasos a seguir son los siguientes: 
+
+Despliegue el menú Options , según se muestra en la figura 6.7.
+
+Seleccione y haga clic sobre la primera opción Load to Disk .
+La señal de comprobación que aparece le indica que esta opción está activada; un segundo clic seria suficiente para desactivarla.
+
+Sitúese y haga clic sobre el fichero que desee leer.
+Dicho fichero no aparece por pantalla, sino que por el contrario se abre un cuadro de diálogo como el que nos muestra la figura 6.8.
+
+Ahora puede renombrar el fichero y situarlo en el directorio que elija.
+Este fichero se podrá editar o imprimir.
+
+Despliegue de nuevo el menú Options y desactive la opción Load to Disk .
+Si se olvida de realizar este paso Mosaic intentará cargar en disco el siguiente elemento que seleccione.
+
+Un modo más seguro y más corto de evitar los problemas que plantea el paso número 5 consiste en situarse sobre el fichero que quiera recuperar y mientras mantiene pulsada la tecla Mayús hacer clic sobre el fichero en cuestión.
+Esta transferencia se aplicará sólo a este fichero.
+
+Figura 6.7
+
+Menú Options de Mosaic que muestra la opción Load to Disk 
+
+Figura 6.8
+
+El cuadro de dialogo le permite introducir la información del nombre del fichero y el directorio del fichero que va a cargar
+
+La gran diferencia entre Mosaic y otros métodos de recuperación FTP estriba en que en una shell se puede utilizar el comando mget seguido de los nombres de los ficheros que necesite recuperar; mientras que con Mosaic sólo se puede cargar uno cada vez.
+
+Mosaic y otros tipos de ficheros 
+
+Mosaic puede trabajar con una gran variedad de tipos de ficheros, lo único que tiene que hacer es situarse y hacer clic sobre el elemento en cuestión.
+Ya hemos observado que los ficheros de texto aparecen por pantalla, pero qué sucede si se encuentra con un fichero GIF o audio en un servidor FTP.
+Estos tipos de ficheros también se pueden visualizar, solo tiene que hacer clic sobre el nombre del fichero en cuestión, así conseguirá que se transfiera y aparezca por pantalla tras haber elegido el visualizador más adecuado dentro del fichero mosaic.ini .
+Estas posibilidades de uso al poder enlazar con programas externos de visualización añaden otra dimensión a la flexibilidad de Mosaic.
+
+Pero una vez más se nos plantea el problema de cómo guardar estos ficheros, ya que por lo general Mosaic no guarda en disco ficheros audio o vídeo.
+Si queremos guardar un determinado fichero, tenemos que hacer clic sobre el comando Load to Disk del menú Options ; el mismo proceso se aplica a la versión de Macintosh, así emerge un cuadro de diálogo donde podemos renombrar el fichero y especificar el directorio donde lo vamos a situar.
+
+Mosaic no muestra por pantalla el fichero en cuestión sino que lo guarda directamente en el disco para su futura utilización.
+
+Huelga decir que tanto visualizar como cargar y guardar el fichero son procesos muy laboriosos y entretenidos, por eso recuerde comprobar con anterioridad el tamaño de los ficheros a menos que se quiera quedar bloqueado en medio de: alguno de estos procesos.
+Afortunadamente, la versión de Mosaic para Windows proporciona entre paréntesis detrás del nombre de cada fichero la información referente al tamaño de los mismos.
+
+Utilizar Mosaic con Telnet 
+
+Telnet es el segundo de esos tres protocolos de Internet y el que utilizamos para acceder a los recursos de terminales remotos como pueden ser las bases de datos, información que está en continuo crecimiento.
+Con Mosaic, se puede elegir el tipo de programa cliente que deseemos para Telnet.
+Mosaic se encarga de llamarlo para ejecutar Telnet y una vez que hayamos finalizado volvemos a estar dentro de Mosaic.
+
+Abrir un URL para Telnet 
+
+En el capítulo 3 ya hablamos editado el fichero mosaic.ini para establecer un visualizador Telnet y como en mi caso se trata del software Chameleon de NetManage, dicho fichero tiene que contener la siguiente línea en la sección &lsqb;Viewers&rsqb; : telnet="c:\netmanag\telnet.exe" .
+
+Para abrir una sesión Telnet en cualquier servidor hay que desplegar el menú File , seleccionar la opción Open URL... e introducir allí el URL del documento.
+El parámetro para Telnet es el siguiente: telnet://direccion_servidor:puerto/ .
+
+La dirección del puerto es opcional, a utilizar sólo si el servidor Telnet utiliza un puerto no estándar.
+
+Si ése fuera el caso, lo reconocería por el grupo de números que aparece detrás de la dirección al igual que sucede en este ejemplo: culine.colorado.edu 859 que tendría el siguiente URL: telnet://culine.colorado.edu:859/ .
+
+No aparece ningún número en las direcciones de Telnet que utilizan puertos estándares, así por ejemplo el URL de la dirección michael.ai.mi.edu aparecería como: telnet://michael.ai.mit.edu/ .
+
+Ejemplo de sesión Telnet
+
+Para abrir una sesión Telnet con la dirección arriba mencionada, desplegamos el menú File , elegimos la opción Open URL... donde introducimos la dirección y después de pulsar Intro, tendría que aparecer la pantalla de Telnet que nos muestra la figura 6.9.
+
+Cuando se introduce el URL adecuado, Mosaic abre una ventana donde se ejecuta la aplicación Telnet; en este caso nos hemos conectado con MuseNet, Multi-User Science Education Network , que tiene acceso a varios entornos interactivos.
+
+Estamos ejecutando en Mosaic una sesión Windows con un programa Telnet, el interfaz es VT-100 pero no recibimos el soporte gráfico al que estábamos acostumbrados con otras herramientas de Mosaic.
+Sin embargo, siguen estando presentes las posibilidades de uso de Telnet, ya que es posible realizar el lanzamiento de una sesión sin que, para ello, tengamos que abandonar el entorno de Mosaic.
+
+Figura 6.9
+
+La pantalla de Telnet es otra ventana dentro de Mosaic
+
+La figura 6.10 nos muestra otro ejemplo de una sesión Telnet, esta vez se trata de la pantalla inicial de la biblioteca de la Universidad de Mississippi en el siguiente URL: telnet://libserv.msstate.ad/ .
+
+Explorar los menús de Mosaic 
+
+Aunque Mosaic facilita la navegación por la red al ofrecer hiperenlaces con otros documentos, el programa en sí contiene numerosas características que no parecen nada sencillas a primera vista.
+Algunas de éstas son herramientas que resultarán ser sumamente útiles aunque, por ejemplo, la capacidad para crear anotaciones está todavía sin explotar.
+En este capítulo explicaré cómo funciona esta característica y le indicaré cómo Mosaic puede organizar sus viajes por la Internet en formas que nunca habrá podido imaginar.
+
+Este es el momento de establecer una lista activa, que incluya todos los lugares que visita más frecuentemente en el Web .
+Ya sabe que los URLs especifican la ubicación de determinados recursos, pero asimismo son también difíciles de manejar; si comete cualquier equivocación al teclear un URL, no recibirá más que un mensaje de error.
+Afortunadamente Mosaic permite añadir de forma sencilla el documento URL que esté utilizando a su lista activa y así puede regresar a él siempre que lo desee.
+EL programa también le permite jugar con su estructura de menús para crearse su propia herramienta de navegación.
+En realidad, Mosaic tiene ya por defecto establecidos una serie de servidores que no siempre se visitan; en este capítulo aprenderemos a cambiarlos y a diseñar nuestros propios menús.
+
+Aunque algunas funciones de la estructura de menús son más evidentes que otras, vamos a estudiar cada uno de los menús desplegables que ofrece el programa centrándonos en la versión de Mosaic para Windows de Microsoft, aunque la de Macintosh es muy similar.
+
+Una vez que dominemos los menús de Mosaic, estaremos listos para modificar algunas funciones del fichero mosaic.ini y adaptar el programa a nuestras propias necesidades según se explica en el capítulo 8.
+
+Anotaciones de Mosaic 
+
+Hace años tuve que trabajar en un proyecto que amenazaba con consumir el tiempo libre que me quedaba por el resto de mi vida.
+En concreto, tenía que realizar fichas de trabajo, ya que la idea era crear una ficha por cada línea que existía de poesía anglosajona.
+El período Anglosajón en Gran Bretaña que finalizó en 1066, no fue demasiado prolífico en poesía pero se han mantenido alrededor de 30.000 líneas de versos en rima asonante.
+Mi trabajo consistía en catalogarlas, una por una, para descubrir cómo funcionaba la rima.
+Si se detiene un momento a pensar e imagina esas 30.000 fichas entenderá por qué acabé escribiendo sobre ordenadores.
+
+Todos nuestros ordenadores tendrían que estar orientados a una simplificación de estos procesos, aunque programas con InfoSelect de Micro Logic Corp. ya permiten la creación de fichas electrónicas.
+Puede introducir un patrón de búsqueda que puede estar situado en algún lugar de una ficha, y el software le llevará directamente a esa determinada ficha, lo que hay que conseguir ahora es poder ampliar esas posibilidades de uso al entorno de la información existente en red.
+Evidentemente el mejor lugar para ponerlo en práctica es el Web , puesto que está diseñado con hiperenlaces entre la información.
+
+Mosaic aparece en escena con una de las mejores ideas para Internet como es el hecho de que los documentos existentes en red hagan referencia entre sí gracias a unas notas privadas que se añaden a cada uno de ellos.
+Por consiguiente, todo el mundo podrá tener acceso al documento en cuestión pero sólo nosotros podremos ver las notas; con ello lo que creamos es un puente entre el universo de redes públicas y nuestro propio ordenador.
+
+Este hecho sólo puede ser posible en términos de un entorno muy personal de Internet, entorno que podemos modificar por medio de nuestras anotaciones y de otras adaptaciones a nuestras propias necesidades, como es elegir los servidores que visitamos con mayor asiduidad.
+
+Naturaleza de las notas 
+
+La posibilidad de Mosaic de tomar notas no es difícil de entender.
+Toda anotación o apunte que realice se guarda en su ordenador, y siempre que vuelva a ese mismo documento encontrará una reseña que le advierte de la existencia de una anotación al final del mismo. 
+(Para los usuarios de Macintosh se presenta en la forma de un enlace hipertexto, mientras que para los usuarios de Windows de Microsoft se trata de una reseña que le llevará a la anotación si hace clic sobre la opción Annotate del menú de su mismo nombre).
+En cualquiera de los dos casos puede añadir información personal a cualquier documento que esté visualizando.
+
+¿Qué uso se puede hacer de esta información?
+Piense por un momento en el inmenso tamaño de Internet y que su mayor reto es utilizarlo para buscar la información que necesita.
+Todas sus anotaciones le pueden recordar lo que se encuentra accesible en un determinado servidor, eliminando así la necesidad de tener que pasar de nuevo por numerosos hiperenlaces.
+Quizá desee, por ejemplo, apuntar el e-mail de una persona de contacto de un servidor en particular, para no tener que ahondar y profundizar en la estructura de menús cada vez que quiera utilizarlo; hacer referencia a otros documentos que contienen información similar o simplemente añadir un caprichoso comentario sobre la información que ha encontrado.
+
+En el capítulo 8 veremos que se puede llegar mucho más lejos, ya que Mosaic nos va a permitir diseñar nuestra propia página principal.
+Si combina las anotaciones y las páginas principales personalizadas, habrá creado una potente herramienta de información, siempre y cuando aprenda a utilizarla.
+
+Crear anotaciones 
+
+Utilicemos ahora Mosaic para visitar un servidor, bastante interesante por cierto, donde vamos a crear nuestra primera anotación.
+Telecom París es el nombre de su página principal, según nos muestra la figura 7.1, donde encontraremos enlaces a un amplio número de recursos, tanto referentes a Francia como a la Internet en general.
+Su URL es el siguiente: http://mistral.enst.fr/ .
+
+Vamos a poder contemplar una de las maravillosas obras que el Louvre tenía accesible on-line en el momento de escribir este libro.
+Se trata de Les Tres Riches Heures du Duc de Berry, un clásico ejemplo de un libro medieval de horas.
+Estos libros se realizaban con la finalidad de dotar de texto a cada una de las horas de un día litúrgico, y a menudo podían incluir calendarios y oraciones adicionales.
+Las ilustraciones de Les Tres Riches Heures , pintadas entre 1412 y 1416, son uno de los ejemplos más exquisitos de iluminación de manuscritos que conservamos de la Edad Media.
+
+Jean de Berry fue un noble y mecenas de las artes que murió poco después de la Batalla de Agincourt, en 1415.
+Si ahondamos en esta exposición que nos presenta el Louvre, siguiendo los hiperenlaces desde la página principal, podremos llegar a la primera de une serie de imágenes de Les Tres Riches Heures , según nos muestra la figura 7.2.
+
+Figura 7.1
+
+La página principal de Telecom Paris: Observe la relación de enlaces a recursos tan interesantes como el Museo del Louvre
+
+Figura 7.2
+
+Imágenes de Les Tres Riches Heures,un libro medieval de horas
+
+Habrá observado que se trata de un formato bastante típico de las páginas de Web , al menos en lo que a exposiciones fotográficas y obras de arte se refiere.
+
+Esta figura contiene varias imágenes incorporadas en el texto, difícilmente apreciables debido a su tamaño, y junto a ellas un pequeño texto que explica cada uno de los dibujos.
+Si situamos el cursor sobre alguna de estas imágenes, éste toma la forma de una pequeña mano indicándonos así la presencia de un hiperenlace sobre el que podemos hacer clic de nuevo si deseamos visualizar toda la imagen, aunque desde luego puede tardar bastante tiempo si se trata de una conexión SLIP.
+
+Después de haber contemplado cada una de las imágenes, nos hemos podido dar cuenta que existen una o dos que destacan por su belleza.
+La figura 7.3, por ejemplo, nos muestra una sorprendente ilustración de la estación del invierno en un pueblo de la Edad Media, y hemos decidido que nos gustaría verla de nuevo.
+
+Figura 7.3
+
+Una de las ilustraciones más bellas de Les Tres Riches Heures vista en tamaño completo tras hacer clic sobre la imagen pequeña
+
+Este es el lugar idóneo para realizar una anotación.
+1 Despliegue el menú Annotate . 
+2 Escriba su apunte en el campo Annotation . 
+3 Guárdelo al hacer clic en el botón Commit . 
+
+
+La figura 7.4 nos muestra cómo se realiza la anotación y nos presenta variedad de opciones disponibles.
+
+Figura 7.4
+
+Cómo realizar una anotación como reseña para la próxima vez que visite esta página 
+
+Opciones de la anotación 
+
+AL elegir la opción Commit hemos creado una anotación permanente a la que podemos volver siempre que regresemos a esta página ya que la reseña que aparece al final del documento, según nos muestra la figura 7.5, nos advertirá de su presencia.
+
+Cuando vea dicha reseña (Personal Annotations) haga clic sobre el menú Annotate y luego sobre la opción Annotate, lo que le mostrará por pantalla la anotación en cuestión.
+Aunque existen otras posibilidades: 
+
+Tiene la posibilidad de cancelar la anotación si elige Dismiss en vez de Commit en la ventana de Annotate .
+
+Una vez que se ha guardado la anotación, el botón Dismiss sólo se utiliza para cerrar la ventana.
+
+El botón Help proporciona ayuda, (o al menos debería proporcionarla cuando se implemente esta opción).
+
+Se pueden editar los campos del autor y del título.
+EL campo Author inserta por defecto la dirección de correo electrónico que especificó en el fichero mosaic.ini , mientras que el título se puede modificar cuantas veces quiera.
+
+EL botón Clean Slate elimina el contenido del campo Annotation text .
+
+EL botón Include File... le permite incluir cualquier fichero en su anotación.
+(Esta opción todavía no se ha implementado en la versión de Mosaic para Microsoft Windows).
+
+EL botón Delete suprime cualquier texto que aparezca resaltado, aunque de momento tampoco está implementado.
+
+Figura 7.5
+
+La reseña de la anotación aparece al final de la página
+
+- EL botón Edit this annotation le permite cambiar lo que ha escrito.
+- EL botón Delete this annotation le permite eliminarlo por completo. 
+
+
+Hasta aquí nos hemos centrado exclusivamente en anotaciones personales, pero Mosaic también puede realizar anotaciones en grupo que quedan registradas en un servidor de grupo.
+Para poder moverse entre los dos tipos de modalidades es necesario realizar una serie de cambios en el fichero mosaic.ini , aunque ésta y otras modificaciones las estudiaremos en el capítulo 8.
+
+Anotaciones en Macintosh 
+
+Los usuarios de Macintosh verán en las anotaciones una herramienta tan valiosa como lo puede ser para los usuarios de Windows de Microsoft.
+Para crear notas tienen que elegir la opción Text ... del menú Annotate , lo que les abrirá en pantalla una ventana de anotación donde pueden escribir y guarda sus notas con sólo hacer clic sobre el botón OK.
+Se crea de este modo un enlace que le llevará a la anotación en cuestión siempre que lo desee.
+La presencia de hiperenlaces individuales para cada una de las anotaciones sitúa la versión de Macintosh por delante de la de Windows en lo que se refiere a flexibilidad.
+(En el momento de imprimir este libro la versión Windows de Microsoft ya había añadido esta característica).
+
+Utilizar una lista activa 
+
+La herramienta más sencilla de Mosaic, y con diferencia la mejor, es su capacidad para mantener una lista activa de los servidores que se visitan más frecuentemente.
+Cuanto más navegue por Internet con Mosaic, más valorará esta característica.
+Hasta ahora nos hemos limitado a movernos entre los servidores siguiendo el método de desplegar el menú File y elegir la opción Open URL.... donde introducimos el URL deseado, o de igual modo desplegamos menús y hacemos clic sobre un determinado URL, como es el caso del menú Starting Points .
+
+Teclear algunos URL es relativamente sencillo, como por ejemplo el que nos conecta con la biblioteca de la Universidad de Maryland telnet://info.umd.edu , aunque otros, como habrá podido observar, pueden resultar algo difíciles de manejar.
+Este, por ejemplo, puede ser el tipo de URL que se va a encontrar más frecuentemente: http://edb518ea.edb.utexas.edu/html/LatinAmerica.html Más que ser un buen mecanógrafo, es necesario poseer ciertas dotes de memoria y una mano firme en el teclado para no equivocarse, porque de no ser así, recibiremos un mensaje como el que nos muestra la figura 7.6.
+
+Desde luego, también podemos encontrar el servidor que queremos visitar siguiendo una serie de hiperenlaces, aunque este proceso nos llevaría mucho tiempo.
+Lo que verdaderamente nos interesa, y lo que nos ofrece una lista activa, es poder utilizar los menús de Mosaic para llegar casi al momento a un determinado servidor.
+Es aquí entonces donde podemos empezar el proceso de adaptar y diseñar nuestros propios menús.
+
+Figura 7.6
+
+Aparece un mensaje de error si se equivoca al introducir el URL
+
+Echemos un vistazo a las opciones que vienen incorporadas con el programa.
+La figura 7.7 nos muestra el menú Starting Points con la lista de servidores que el equipo de Mosaic decidió incluir por defecto en el programa; todos estos destinos le pueden ayudar a sacar un mayor rendimiento de las prestaciones que ofrece Mosaic y mantenerse al día con los últimos y más recientes avances del programa y de World Wide Web en general.
+De igual forma, también proporciona una gran variedad de fuentes de información, como son por ejemplo los enlaces a servidores Gopher o finger .
+Elegir un elemento de un menú elimina las posibilidades de poder cometer errores al teclearlo, pero sin duda, cualquier enlace que aparezca en el menú tiene que estar actualizado, o seguirá recibiendo en su pantalla ese mensaje de error.
+
+Figura 7.7
+
+El menú Starting Points.
+
+Los pequeños indicadores a la derecha del menú indican la existencia de submenús
+
+Si echa un vistazo al fichero mosaic.ini debería encontrar una sección con el nombre &lsqb;Hotlist&rsqb; donde debe aparecer esto: xxx .
+
+NO EDITE ESTA PARTE DEL FICHERO MOSAIC.INI .
+Se trata sólo de un ejemplo; si intenta editarlo Mosaic puede tener dificultades a la hora de mostrar los menús por pantalla.
+Según está a punto de comprobar, existen formas más sencillas de editar esta sección con los menús de Mosaic.
+De momento, simplemente recuerde que el fichero mosaic.ini contiene información de los sitios a los que puede acceder a través de sus menús.
+
+Acceder a las listas activas de Mosaic 
+
+A cualquier lista de recursos se le puede considerar una lista activa, desde los elementos que aparecen en el menú Starting Points hasta cualquier submenú preconfigurado en su fichero mosaic.ini .
+QUICKLIST es otra lista activa, aunque es la única que no despliega ningún menú.
+La clave para utilizar una lista activa es que el usuario puede crear tantas como quiera.
+
+Para llegar a sus propias listas abra el menú File y elija la opción Open URL... , donde podrá observar, según nos muestra la figura 7.8, la existencia de un campo llamado Current Hotlist que contiene un menú desplegable y nos muestra el nombre de la lista activa en la que nos encontramos.
+
+Figura 7.8
+
+El cuadro Current Hotlist facilita un acceso rápido a diferentes listas activas
+
+Haga clic sobre la flecha para desplegar el menú, según nos muestra la figura 7.9, y podrá observar la relación de listas activas que tiene accesibles en estos momentos.
+
+Para visualizar los documentos que están accesibles en la lista activa en la que nos encontramos, despliegue el menú situado a la derecha del campo URL, y así por ejemplo, la figura 7.10 nos muestra los elementos accesible en la lista activa de los servidores de gopher.
+
+Todos los documentos de la lista activa aparecen con su URL correspondiente, aunque no siempre es posible visualizarlos al completo debido al tamaño de este campo.
+
+El URL para Gopherspace Overview es: xxx .
+
+Añadir documentos a una lista activa 
+
+Mosaic permite añadir cualquier documento que estemos visualizando por pantalla a la lista activa que hayamos elegido, lo que nos permite tener a su vez un amplio control sobre los menús de programa.
+
+Figura 7.9
+
+Menú de listas activas accesibles
+
+Figura 7.10
+
+Menú con los elementos accesibles dentro de la misma lista activa de servidores de gopher 
+
+Si quisiera añadir por ejemplo el siguiente documento a mi lista activa Starting Points : http://gnn.interpath.net/gnn/gnn.html todo lo que tengo que hacer es mostrar dicho documento por pantalla y elegir del menú Navigate la opción Add Current to Hotlist , según nos muestra la figura 7.11.
+
+Figura 7.11
+
+El menú Navigate.
+
+Vamos a utilizar la opción Add Current to Hotlist para añadir la página en la que nos encontramos a la lista activa
+
+Observe la figura 7.12 y comprobará que este nuevo elemento con el nombre GNN Home Page está ya incluido al final de mi menú Starting Points .
+Si ahora quisiera llegar hasta él, basta con desplegar el menú y hacer clic sobre dicho elemento.
+
+Utilizar QUICKLIST 
+
+Si usted es uno de esos lectores perspicaces, habrá sin duda notado en la figura 7.9 la existencia de una lista activa con el nombre QUICKLIST.
+A diferencia de otras listas activas, se trata de una lista de URLs que no se presenta bajo el formato de un menú desplegable en la parte superior de la pantalla de Mosaic, sino que se llega a ella tras elegir la opción Open URL.... del menú File , y una vez allí selecciona el elemento QUICKLIST.
+Puede visualizar los URLs que QUICKLIST tiene accesible si despliega la ventana situada a la derecha del campo URL, según nos muestra la figura 7.13.
+Elija cualquiera de ellos y haga clic sobre el botón OK para desplazarse directamente a ese determinado servidor.
+
+Figura 7.12
+
+El nuevo elemento aparece añadido al final del menú Starting Points
+
+Figura 7.13
+
+Diferentes URLs accesibles dentro de QUICKLIST
+
+¿Por qué tener que utilizar QUICKLIST en primer lugar?
+La razón es muy sencilla, ya que le permite visitar numerosos servidores en los que puede estar interesado sin tener que instalarlos en la estructura de menús de Mosaic.
+
+Puede añadir elementos nuevos a QUICKLIST de la misma forma que los añade a cualquier otra lista activa; vaya al documento en cuestión, despliegue el menú Navigate y haga clic sobre la opción Add Current to Hotlist .
+
+Pero recuerde que para ello antes ha tenido que seleccionar QUICKLIST como la lista activa en la que se encuentra.
+Otra de las ventajas que ofrece es que QUICKLIST no presenta ningún tipo de restricción en lo que al tamaño se refiere, mientras que el resto de las listas activas se ven limitadas únicamente a cuarenta entradas.
+
+Mosaic tiene cabida para veinte menús de creación propia, junto con QUICKLIST, por lo tanto no le debería faltar espacio para adaptar los menús a su propio entorno.
+Los menús principales, como es de suponer, aparecen en la barra principal de menús situada en la parte superior de la pantalla, mientras que el resto se presentan en forma de menús desplegables a partir de éstos.
+Cuarenta entradas es el número máximo para cualquiera de estos menús y si incluye un menú dentro de otro, ese elemento se considera como uno de los cuarenta permitidos.
+
+Ejemplos de listas activas 
+
+EL usuario puede elegir entre una gran variedad de opciones para adaptar las listas activas a sus propias necesidades y gustos.
+Un biólogo, por ejemplo, podría establecer una lista activa expresamente dedicada a temas de biología que contuviera enlaces a servidores Telnet, colecciones de archivos FTP, servidores Gopher y cualquier otra información que estuviera relacionada con su campo.
+Un bibliotecario podría establecer una lista activa que constara únicamente de bibliotecas cuyos catálogos se pueden consultar a través de Internet, lo que nos proporcionaría un ejemplo claro de cómo las bibliotecas van implementando sus catálogos on-line; o un artista en su caso, podría establecer una única lista activa que agrupase todas las exposiciones de los museos que se encuentran accesibles en la red.
+
+Ahora que ya hemos aprendido a movernos entre las listas activas y a añadir nuevos elementos a alguna de ellas, sólo nos queda recorrer una parte del camino.
+
+Después de todo, si Mosaic nos permite configurar hasta veinte menús y NCSA solamente lo distribuye con el menú Starting Points , necesitamos comenzar la tarea de organizar nuestras propias listas para adaptarlas a nuestras necesidades personales, y el menú Editor es la herramienta principal para poder llevarlo a cabo.
+
+El menú Editor de Mosaic 
+
+Nuestro objetivo no se basa sólo en aprender a crear listas activas, sino también saber cómo editarlas para poder eliminar elementos en un momento determinado u ordenar estos elementos por orden alfabético.
+
+Después de todo las listas activas son la forma más clara en la que vamos a poder adaptar este programa.
+
+La pantalla del menú Editor 
+
+Para llegar al menú Editor , desplegamos el menú Navigate y elegimos la opción Menu Editor , lo que nos debería mostrar una ventana parecida a la que aparece en la figura 7.14.
+La parte izquierda de la misma contiene la lista de los menús configurados por el usuario al igual que QUICKLIST, que como se ha visto anteriormente, es la única lista activa que no aparece como menú en la barra principal de menús de Mosaic.
+
+Figura 7.14
+
+El menú Editor
+
+Imaginemos por un momento que hemos estado navegando por el Web y hemos descubierto un documento al que nos gustaría volver con cierta asiduidad.
+Su URL es el siguiente: http://physics7.berkeley.edu/home.html .
+
+Adaptar Mosaic al uso personal 
+
+Mosaic nos ofrece numerosas oportunidades para crear nuestro propio entorno en Internet.
+De hecho, ya hemos considerado alguna de ellas, como por ejemplo la posibilidad de abrir una ventana de menús personales dentro de Menu Editor , donde se nos permite cambiar los contenidos de diversos menús o crear otros completamente nuevos.
+Ya que Mosaic puede trabajar hasta con veinte menús configurados por el usuario, disponemos de espacio suficiente para organizar la información bajo la estructura que elijamos.
+
+Los usuarios que se acercan a Mosaic tras su experiencia con cuentas UNIX tienen que acostumbrarse y familiarizarse con este nuevo interfaz.
+Las herramientas UNIX que utilizamos cuando nos conectamos con el ordenador de nuestro proveedor de servicios ofrecen numerosas opciones dentro de los mismos comandos que nos dan la posibilidad de llevar a cabo un amplio número de tareas en Internet, es decir, podemos ejecutar un comando seguido de un parámetro opcional para que UNIX realice una acción específica.
+No existe límite para tales opciones.
+
+Sin embargo, estos programas se ven limitados a la hora de adaptarlos al uso personal ya que carecen de la flexibilidad que presenta Mosaic al establecer entornos personales donde pueden aparecer anotaciones, listas activas personalmente seleccionadas, páginas principales definidas por el usuario, un control absoluto sobre los diferentes tipos de ficheros-imagen, sonido, vídeos de animación-y que además permite manipular todos ellos.
+En este sentido se puede decir que Mosaic es un programa verdaderamente sui generis .
+
+No tiene que adaptar Mosaic a su propio uso personal, de hecho, ya hemos configurado el programa en el capítulo 3 y hemos comprobado que resulta bastante sencillo empezar a trabajar en Internet ya que el programa es como un juego de niños-selecciona con el cursor lo que desea visualizar y hace clic sobre ello para recuperarlo-.
+Pero un poco de experiencia, especialmente si utiliza una cuenta SLIP/PPP sobre línea telefónica para conectarse a Mosaic, le convencerá de las ventajas que le puede reportar el hecho de navegar por este programa.
+Cambiar los menús de Mosaic es tan sólo una manera de conseguirlo, aunque en este capítulo vamos a tratar alguna de las otras posibilidades.
+
+Cambiar su página principal 
+
+Mosaic está configurado para que cargue por defecto la página principal que proporciona NCSA, aunque puede variar en función de la versión de Mosaic que esté utilizando.
+Las páginas principales del NCSA resultan de inmensa utilidad a los usuarios principiantes ya que proporcionan información previa, anuncios de las últimas versiones del programa y noticias de los desarrollos que se llevan a cabo en el NCSA.
+Pero como el impacto de Mosaic ha sido tan grande, así también ha crecido hasta proporciones insospechables el número de programas que intentan acceder al mismo servidor.
+
+Nuestra primera misión en este capítulo consistirá en configurar Mosaic para disminuir la carga de los servidores del NCSA, bien realizando algún tipo de modificación en el fichero mosaic.ini para que no cargue ninguna página principal, bien cambiando la página principal que viene establecida por defecto a otro documento.
+Cualquiera de estas dos acciones descongestionarán el tráfico que soporta NCSA.
+La posibilidad de cambiar la página establecida por defecto se puede llevar a cabo de dos maneras diferentes; podemos establecer por defecto una página principal ya existente o podemos de hecho construirnos la nuestra propia.
+
+Estudiemos en detalle cada una de estas posibilidades.
+
+Establecer una nueva página principal por defecto 
+
+Antes de establecer por defecto una nueva página principal, debemos pensar en la que va a sustituir a la del NCSA.
+Cualquier documento puede servir para este propósito, aunque tiene mayor sentido encontrar una que se adapte a nuestros propios intereses y hábitos de trabajo.
+Una vez que ha localizado alguna (puede revisar para este fin el capítulo 10 donde se enumeran algunos servidores interesantes), tendrá que conseguir el URL de dicha página, aunque a estas alturas ya tiene que saber cómo buscar en la pantalla de Mosaic el URL del documento que se encuentra activo.
+
+Una vez que ha obtenido el URL, abra el fichero mosaic.ini con un editor de texto, pero recuerde que quiere abrir el fichero para luego poder guardarlo como un fichero ASCII y que, según vimos en el capítulo 3, Mosaic siempre trabaja con la copia del fichero mosaic.ini que habíamos movido al directorio c:/windows .
+Asimismo tampoco olvide que mantenemos la copia original del fichero en el directorio /mosaic , por lo tanto asegúrese que edita el fichero mosaic.ini del directorio /windows .
+Cualquier cambio que realice en el otro fichero no surtirá ningún efecto.
+
+Diríjase a la sección &lsqb;Main&rsqb; del fichero mosaic.ini y busque una línea en la que aparezca lo siguiente: Home Page=http:/www.ncsa.uiuc.edu/SDG/Software/WinMosaic/ HomePage.html .
+
+En este punto puede observar que el fichero mosaic.ini apunta por defecto al URL de la página principal del NCSA.
+Este parámetro es el que tiene que cambiar en su editor de texto para que muestre el URL del documento que desea utilizar.
+Por consiguiente, elimine el URL del NCSA y sustitúyalo por el URL que haya elegido; a continuación guarde el fichero mosaic.ini en formato ASCII y así la próxima vez que ejecute Mosaic, cargará este documento de forma automática.
+
+Los usuarios de Macintosh pueden llevar a cabo el mismo proceso con la opción Preferences... del menú Options .
+
+Tienen que insertar el URL que hayan elegido en el campo Home Page y luego hacer clic sobre el botón Apply para que se complete el proceso.
+Después de esto, cada vez que ejecuten Mosaic se cargará esta nueva página principal.
+
+Desactivar la página principal establecida por defecto 
+
+Como ya hemos observado anteriormente se pueden realizar ciertas modificaciones en el fichero mosaic.ini para que no cargue de forma automática la página principal establecida por defecto, para ello busque en la sección &lsqb;Main&rsqb; de dicho fichero una línea que sea como sigue: Autoload Home Page=yes .
+
+Edite esta línea y cambie el parámetro yes por un no como se detalla a continuación: Autoload Home Page=no .
+
+Ya puede cerrar el fichero y guardarlo en formato ASCII.
+La próxima vez que ejecute Mosaic, el programa se cargará en la forma habitual pero no mostrará nada en la ventana de visualización del documento, sino que es usted quien puede elegir el servidor que desea visitar si despliega el menú File y selecciona la opción Open URL... , o por el contrario puede utilizar el menú Starting Points o cualquier otro menú que haya configurado para navegar entre los servidores.
+Recuerde que siempre puede volver a la página principal del NCSA con el menú Starting Points .
+
+Crear su propia página principal 
+
+Aunque puede intimidar un poco al principio, el hecho de crear nuestra propia página principal con HTML no resulta nada difícil.
+HTML, Hypertext Markup Language , contiene los comandos necesarios que herramientas del World Wide Web como Mosaic utilizan para presentar su información.
+Por consiguiente, un documento HTML contiene la suficiente información sobre el formato y la posición de los hiperenlaces dentro de éste.
+Observe el documento HTML que nos muestra la figura 8.1.
+
+Figura 8.1
+
+Típico documento HTML según aparece en Mosaic
+
+Se trata del documento HTML que crea la página principal del NCSA para la versión de Mosaic para Windows de Microsoft a la que se llega al desplegar el menú File y elegir la opción Document Source... .
+
+De hecho parece extremadamente difícil crear una página como ésta, pero observe que sólo se trata de un fichero de texto en formato ASCII, al igual que mosaic.ini .
+
+Es posible crear algo parecido en cualquier editor de texto (y aunque de momento sólo hemos visto algunos editores HTML como el editor HTML Edit para Macintosh y varios programas para Windows de Microsoft, no tardarán en aparecer otros que nos faciliten aún más el trabajo).
+Fuera del ámbito de este tipo de texto nos encontramos con todos los detalles gráficos propios de Mosaic.
+
+Debería quedar constancia que no tenemos que dominar todas las peculiaridades de HTML para crear nuestra propia página principal.
+La ventaja de crear una página reside en que disminuimos la carga del servidor del NCSA y en que podemos diseñarla de tal forma que incluya en sus hiperenlaces aquellos destinos que utilizamos con mayor frecuencia en nuestro trabajo.
+
+Un ejemplo de documento HTML 
+
+Podemos utilizar un conjunto muy básico de comandos para configurar un ejemplo de documento HTML, tal como se señala a continuación: xxx .
+
+De nuevo estamos trabajando con texto en formato ASCII, y hemos especificado el formato que debería tener ese texto en pantalla con el uso de etiquetas, conocidas en lenguaje HTML con el nombre de etiquetas de marca.
+
+Por consiguiente, si nos remitimos al ejemplo anterior /title especifica el título del documento en cuestión, aunque observe que la sección dedicada al título se cierra con otra etiqueta /title .
+
+Asimismo también utilizamos la etiqueta hl y su correspondiente /hl para indicar la información que debería aparecer como cabecera de primer nivel, y la etiqueta p para especificar cuándo finaliza un párrafo.
+EL texto al que tratamos de dar formato se presenta entre etiquetas de marca y en la mayoría de los casos, aunque no siempre, aparecen dos etiquetas iguales, una al principio y otra al final del parámetro, aunque la última incluye una barra oblicua como la que muestra /title y /hl .
+La etiqueta p es la excepción a la regla, ya que no necesita su pareja correspondiente, al igual que sucede con las imágenes integradas en el texto.
+
+HTML funciona en su totalidad con este tipo de etiquetas para dar formato a un determinado texto.
+Los espacios o tabuladores que incluya en el documento original HTML no aparecerán cuando Mosaic muestre por pantalla dicho documento.
+De igual forma, el lugar donde se deben dividir las líneas en la pantalla de Mosaic vendrá determinado por la disposición de las etiquetas en el texto HTML.
+Una línea muy extensa puede ocupar dos en su editor de texto mientras que Mosaic las mostrará en una sola.
+Su trabajo al diseñar los documentos HTML se basa en un perfecto dominio de las etiquetas existentes en este lenguaje.
+
+¿Por qué no configura a modo de práctica los párrafos anteriores como si de un documento HTML se tratara?
+Para llevar a cabo esta operación, sólo tiene que abrir un editor de texto y copiar el material en la forma que se ha indicado.
+Guarde el fichero en formato ASCII.
+EL nombre que le aplique debería tener una extensión .htm para los documentos de Windows o .html para los de Macintosh.
+Si quiere visualizarlos en Mosaic, despliegue el menú File y elija la opción Open Local File... , se abrirá un cuadro de diálogo que le permite seleccionar el fichero que desea ver.
+
+Comandos básicos de HTML 
+
+EL ejemplo anterior nos da una pequeña idea de cómo se construye un documento HTML, aunque se trata sólo de un documento de lectura ya que carece por completo de hiperenlaces o gráficos.
+Si queremos diseñar una página principal verdaderamente interesante todavía tenemos que aprender otros comandos HTML que nos permitirán añadir una amplia gama de características a nuestros documentos.
+
+A continuación se detallan las etiquetas de marca más importantes.
+
+Título :
+Cuando crea un título con la etiqueta title y su correspondiente /title al final del mismo, lo que ha creado es un texto que aparecerá situado en la parte superior de la pantalla.
+
+Elija un título que refleje de forma precisa y concisa el contenido de su página principal.
+Aquí tiene otro ejemplo de título: title Mi Propia Página Principal /title .
+
+Observe que no se deja ningún espacio entre las etiquetas y el texto en sí.
+
+Cabeceras :
+Existen seis niveles de cabecera en los documentos HTML dependiendo del grado de importancia dentro del mismo, así la cabecera 1 sería la de mayor importancia, mientras que la número 6 la de menor.
+
+Puede practicar con algún documento HTML para comprobar las diferencias que existen entre ellos en pantalla.
+La sintaxis para crear cualquiera de ellos es la que se muestra en el siguiente ejemplo: hl Las cabeceras le ayudan a separardiferentes niveles de contenido /hl .
+
+Sustituya el número del 2 al 6 en el ejemplo anterior para variar el tamaño de la fuente.
+
+Párrafos :
+Puede separar los párrafos con la etiqueta p situada al final de cada uno de ellos, que inserta un retorno de carro y una línea en blanco tal como indica el ejemplo: Esta línea quedará separada como si de un párrafo se tratara p .
+
+Un hecho significativo a tener en cuenta es que los retornos de carro dentro de los documentos HTML carecen de importancia, únicamente las etiquetas p y br son trascendentes para establecer las divisiones de texto dentro de un documento.
+Por lo demás, la división entre palabras puede darse en cualquier lugar del documento HTML.
+
+División de líneas: Puede forzar la división de las líneas con la etiqueta br .
+Así por ejemplo, podría utilizar esta forma para especificar una dirección: 
+
+Hiperenlaces :
+La etiqueta del hiperenlace es crucial, ya que nos permite establecer la relación existente entre un texto dado y los servidores a los que está conectado en el World Wide Web .
+La etiqueta para indicar hipertexto es a.
+A continuación se detalla un ejemplo de hiperenlace en HTML: a href="http://gun.interpath.net/gun/gun.html"/Global Network Navigator</a .
+
+Si observa el ejemplo que acabamos de utilizar se dará cuenta que hemos empleado a continuación de la etiqueta el parámetro href= , que se utiliza para indicar el documento al que queremos acceder.
+Especificamos entre comillas el URL del recurso sobre el que queremos aplicar el enlace, seguido del nombre del hiperenlace, que es lo que visualizaremos en pantalla, y para cerrar el parámetro la etiqueta /a .
+
+Cada vez que activemos el documento nos encontraremos que las palabras Global Network Navigator aparecen en forma de hiperenlace, es decir, presentan un color diferente (si es que utiliza un monitor color) y están subrayadas.
+
+Imágenes externas :
+Quizá prefiera abrir una imagen como si de un documento aparte se tratara, utilizando para ello cualquier visualizador que haya establecido en Mosaic.
+
+Una referencia a una imagen externa adoptaría el siguiente formato: ahref="htip://www.hydroplane.com/vintage/mitchell.gif "/The B-25 in Flight/a .
+
+En este caso indicamos el URL de la imagen e incluimos el nombre del enlace que aparecerá en nuestro documento, The B-25 in Flight .
+Este enlace aparecerá subrayado y con el correspondiente cambio de color para indicar la presencia de un hiperenlace en el documento de Mosaic.
+
+Si desea indicar una imagen que reside en su propio ordenador, no se olvide de que no está trabajando con un servidor Web sino con un fichero de su propia máquina y que el URL que tiene que utilizar debe contener el parámetro file:// en vez del ya conocido http:// .
+
+Ante todo considere la naturaleza del recurso que va a utilizar: xxx .
+
+Listados: 
+Resulta bastante útil en lo que a la claridad se refiere establecer listados en un documento HTML.
+Estos listados pueden aparecer por pantalla con o sin numeración.
+Se utiliza la etiqueta ol para ordenar un listado numéricamente, mientras que uno que no esté ordenado utilizará la etiqueta ul .
+En ambos casos se utiliza la etiqueta li para distinguir cada uno de los elementos.
+Examine el siguiente ejemplo y observe que el listado acaba con su correspondiente pareja /ol : xxx .
+
+Texto en negrita: 
+Puede conseguir que un texto aparezca en negrita con las etiquetas b y /b , según nos muestra la siguiente línea: Comandos de Formato de Mosaic .
+
+Cursiva: 
+Para establecer un texto en cursiva utilice las etiquetas i e /i y así, por ejemplo, la siguiente línea aparecerá como tal: i EL uso de Etiquetas de Marca/i .
+
+Etiquetas de formato anidadas :
+Mosaic le permite combinar en un mismo texto diferentes etiquetas de formato.
+Así, por ejemplo, si quisiera mostrar una cabecera en cursiva, tendría que utilizar dos conjuntos de etiquetas como a continuación se detalla: Manual Básico de Web/h1/i .
+
+La tabla 8.1 nos muestra un resumen de los principales comandos de formato de HTML.
+Observe de nuevo que la mayoría de las etiquetas (aunque no todas) vienen por parejas y utilizan una barra oblicua en la que se sitúa en posición final.
+
+Tabla 8.1
+
+Los principales comandos de formato de HTML
+
+Un ejemplo de página principal 
+
+Aunque usted es el único que puede decidir lo que desea ver en su página principal, aquí le muestro un ejemplo muy sencillo de una página principal en la que he incluido una imagen.
+Usted puede hacer lo mismo si elige un fichero en formato GIF y lo sitúa bien dentro del mismo directorio que su fichero HTML o en algún otro lugar, pero no se olvide de especificar el path para que Mosaic pueda encontrarlo y de cambiar el nombre de la imagen para que refleje el que haya elegido.
+
+La página principal que se ha creado es la que nos muestra la figura 8.2.
+
+Figura 8.2
+
+Página principal creada con HTML
+
+Es posible que su gusto sea diferente al mío (soy un aficionado de Monet), pero fíjese en su construcción: hay una imagen inmediatamente debajo del título, seguida de dos cabeceras y cada una de ellas contiene una lista de servidores de Internet.
+Los servidores aparecen subrayados indicando así la existencia de hiperenlaces.
+
+Si se hace clic sobre cualquiera de ellos, se desplazará directamente al servidor que haya elegido.
+
+Para establecer que esta nueva página principal aparezca por defecto, abra una vez más el fichero mosaic.ini y busque la siguiente línea: Home Page=hthp://www.ncea.uiuc.edu/SDG/Software/WinMosaic/ HomePage.html .
+
+Suponiendo que intente cargar la página principal desde su propio ordenador, tendrá que especificar que acceda a un fichero local.
+En mi caso, por ejemplo, he situado el documento HTML de la página principal en un subdirectorio de mi directorio \mosaic; el path exacto es xxx y si quiero que aparezca así en el fichero mosaic.ini tengo que editarlo de la siguiente forma: xxx He sustituido el parámetro http:// por file:// ya que no estoy accediendo a un servidor WWW (que es a lo que hace referencia HTTP), sino a un fichero personal HTML que reside en mi propio ordenador.
+Observe que le he dado el nombre homepage.htm ya que tengo que ajustarme a las convenciones que rigen a la hora de nombrar ficheros en MS-DOS, y no puede asignarle una extensión que exceda los tres caracteres permitidos.
+
+Los usuarios de Macintosh lo tienen mucho más fácil, ya que sólo tienen que desplegar el menú Options y seleccionar la opción Use this URL for Home .
+La próxima vez que ejecuten Mosaic, cargará esta página principal directamente de su disco duro.
+Tanto los usuarios de Macintosh como los de Windows de Microsoft encontrarán más sencillo regresar a su página principal si hacen clic sobre el icono de la casita situado en la parte superior de la pantalla.
+
+Aunque le he tomado bastante cariño a la página principal que acabo de diseñarle tengo que admitir que se trata sólo de una pequeña muestra en comparación con lo que se puede conseguir con los comandos de formato de HTML.
+Después de todo, es posible que desee añadir enlaces a ficheros audio o a películas en formato MPEG o QuickTime, o quizá desee explorar toda la gama de opciones de formato que ofrece HTML.
+Si éste es el caso (quién sabe, quizá se convierta en un diseñador de páginas principales-y tengo la corazonada que su número va a crecer de manera considerable ) es posible que desee establecer enlaces con diferentes servidores especializados en HTML y añadirlos a sus menús o establecerlos como hiperenlaces dentro de su propia página principal.
+
+Según se mencionó en el capítulo 5, esos servidores son los que podemos ver a continuación: http://www.ncea.uiuc.edu/demoweb/html-primer.html http://www.ucc.ie/info/net/htmldoc.html http://melmac.harris-atd.com/about_html.html .
+
+Asimismo también considere el documento de Dan Connolly, Design Notebook , uno de los primeros desarrolladores de HTML; su URL es: http://www.hal.com/-connolly/drafts/html- design.html .
+
+Domine todos estos servidores y habrá adquirido un profundo conocimiento de HTML.
+
+Páginas principales vs. menús 
+
+Según avanza en el proceso de adaptar el entorno Mosaic para que se ajuste a sus propias necesidades surge inevitablemente la pregunta de si no sería mejor centrarse en la manipulación de los menús desplegables del programa donde podemos insertar nuestros destinos habituales, o por el contarlo tendría más sentido construir una página principal con referencias a estos mismos servidores, que a su vez estarían conectados con otras páginas de su propia elección.
+
+Indudablemente, es una decisión que usted mismo tiene que tomar, pero la ventaja de dominar los comandos HTML reside en que puede diseñar un entorno gráfico adaptado por entero a sus propios objetivos, aunque por otro lado los menús son más fáciles de adaptar.
+
+En mi caso particular he optado por una combinación de las dos propuestas ya que me he diseñado una página principal con enlaces a los recursos que utilizo con más frecuencia en mi trabajo, pero también he mantenido en los menús los destinos más importantes de Internet, añadiendo de vez en cuando algún que otro menú nuevo para dar cabida al continuo crecimiento que experimentan los servidores Web .
+
+Si en algún momento se siente atraído o está interesado en una determinada página, recuerde que siempre puede acceder al documento HTML que subyace tras ella para estudiar y aprender cómo se han conseguido determinados efectos.
+Despliegue el menú File y elija la opción Document Source... .
+
+Tras esto, incluso la más compleja de todas las páginas principales que encuentre revelará sus secretos, ofreciéndole así la oportunidad de mejorar sus habilidades con HTML.
+
+Robots, navegantes y el futuro de Mosaic 
+
+El hecho de utilizar Mosaic nos transporta de inmediato a un nuevo entorno que nada tiene que ver con las anteriores herramientas de Internet tipo texto a las que estábamos acostumbrados.
+Resulta fácil entender por qué el programa ha causado una respuesta tan positiva dentro de la comunidad de Internet, amén de la euforia conseguida entre los medios de comunicación.
+
+Mosaic parece estar proclamando que aquellas herramientas de red hasta ahora difíciles de acceder, se encuentran a partir de este momento accesibles para un nuevo tipo de usuario, para todas aquellas personas que están empezando a conocer las ventajas que ofrece Internet y están deseando poder comprobar su potencia.
+
+Mosaic ha galvanizado la comunidad de usuarios como no lo había conseguido ninguna otra herramienta antes.
+HTML es el lenguaje imperante debido a la continua aparición de páginas.
+Muchas de ellas no están construidas demasiado bien y exigen un mayor esfuerzo y trabajo por parte del lector, aunque otras por el contrario hacen alarde de su extraordinario diseño.
+Se prevé que el proceso de desarrollar páginas principales sea largo, ya que después de todo se trata de un medio nuevo que nos obliga a detenernos para considerar cuál es la mejor forma de transmitir información dentro de un contexto de datos de red hiperenlazados.
+
+La actividad comercial también ha hecho su aparición en World Wide Web , al igual que en la Internet en general.
+Cualquier herramienta con el potencial que posee Mosaic para acceder a la red atraerá a los desarrolladores, y por lo tanto no es una sorpresa comprobar que NCSA ha empezado a conceder licencias de Mosaic para varias operaciones comerciales, algunas de las cuales ya han introducido sus propias interpretaciones en una versión mejorada del programa.
+
+Ante esta situación es de esperar una batalla intensa entre todas las empresas para decidir qué Mosaic es el mejor y conseguirse así una posición dentro del mercado corporativo.
+
+Pero antes de entrar en materia, todavía quedan dos áreas que merecen nuestra atención.
+La primera de ella es el hecho de cómo podemos utilizar Mosaic para encontrar toda la información que necesitamos.
+Una nueva generación de programas surge con la intención de explorar Web en busca de datos, y en este sentido vamos a comenzar este capítulo viendo cuáles son esos programas y cómo podemos utilizarlos.
+También trataremos los rasgos distintivos de los formularios de Mosaic, que permiten que los diseñadores de páginas principales creen documentos que puedan procesar la información facilitada por el usuario.
+Esto último es trascendental para el desarrollo comercial tanto de Mosaic como de Internet en general.
+
+Búsqueda automatizada de World Wide Web 
+
+Internet siempre se ha enorgullecido de su diversidad, que es el resultado de enlazar más de 3,5 millones de ordenadores en una misma red mundial.
+La proliferación de servidores FTP significa que cientos de administradores de sistemas pueden elegir los programas y ficheros que van a dejar accesibles al público en sus servidores, aunque el número de terminales accesibles vía Telnet continua creciendo.
+
+La total diversidad de Internet es al mismo tiempo una fuente de confusión.
+Hemos asistido en los últimos años a la aparición de dos tipos de software para controlar la situación: las herramientas de navegación y los motores de búsqueda .
+World Wide Web es un ejemplo de las primeras, una herramienta de navegación que nos permite navegar por la red gracias a sus hiperenlaces.
+
+Podemos descubrir una gran cantidad de información si seguimos un orden lógico (aunque a veces no lo es tanto) entre los enlaces agrupados por temas afines.
+
+Gopher , otra de las herramientas de navegación, se presenta a modo de menús y submenús que nos permite seleccionar aquello que queremos para llevamos directamente a ello.
+
+El otro tipo de herramienta de Internet es el motor de búsqueda, y en este punto pensamos inmediatamente en sistemas como WAIS ( Wide Area Information Servers), que nos permiten efectuar búsquedas por palabras en las bases de datos que se encuentran por lo general distribuidas por toda la Internet.
+archie es otro de esos sistemas que nos permite efectuar búsquedas de ficheros por nombre que estén accesibles por FTP en toda la Internet (aunque sólo se trata de un determinado conjunto de servidores).
+Veronica , que está estrechamente relacionada con Gopher , nos permite realizar nuestra propia búsqueda en todos los servidores Gopher dentro de Internet.
+
+Tanto las herramientas de navegación como los motores de búsqueda nos ayudan a navegar por Internet y, en la mayoría de los casos, a localizar la información que estamos buscando, pero sin embargo también poseen una serie de desventajas.
+Los servidores Veronica están enormemente sobrecargados como consecuencia de su utilidad, y puede resultar algo difícil ejecutar una búsqueda con Veronica durante las horas de mayor tráfico.
+WAIS es un motor potente aunque algo peculiar, y puesto que se trata de un sistema que está todavía en pleno desarrollo, aún tiene que ampliar su selección de bases de datos.
+
+En lo que se refiere a las herramientas de navegación, tanto Gopher como World Wide Web pueden ser extremadamente frustrantes. 
+Gopher nos obliga a navegar por su interfaz de menús y submenús hasta que encontramos la información que andamos buscando; únicamente su sistema incorporado de listas de referencia nos permite seleccionar y guardar elementos para futuras referencias.
+
+World Wide Web por su parte, nos pide que sigamos sus hiperenlaces para llegar a nuestro destino, lo que implica comenzar en un servidor conocido e ir navegando, a veces no demasiado rápido, por un laberinto de información.
+Aunque por lo general siempre encontramos aquello que estábamos buscando, el proceso en sí puede llevar algo de tiempo.
+Pero aclaremos el por qué de este hecho.
+Aunque los partidarios de Web le consideran el motor más novedoso y revolucionario de información, presenta sin embargo las mismas limitaciones que cualquier otro tipo de herramienta de red.
+Los hiperenlaces son efectivamente una forma maravillosa de conectar con información afín de un tema determinado, pero presenta el inconveniente de que se tienen que construir a mano, lo que viene a significar que una persona tiene que decidir donde y como situarlos de manera lógica para que el usuario puede sacar el máximo provecho de la información allí existente.
+
+Aun conociendo la ubicación exacta de los buenos servidores, todo el sistema está basado en sus conexiones y enlaces con otros documentos.
+Web es considerado como una entidad sin ningún tipo de fallos; elija cualquier hiperenlace al azar y podrá dar con una página principal situada al otro lado del mundo, diseñada por una persona cuyo sentido de la organización y de la interrelación puede ser totalmente distinto del nuestro.
+Por consiguiente, el hecho de elegir incluso el mejor de los enlaces implica empezar desde lo general-pongamos por caso la arqueología -para llegar a lo particular-las ruinas incas del Machu Picchu-.
+Este direccionamiento hacia lo particular es lo que llega a frustrar al usuario de Web debido a la cantidad de tiempo que emplea hasta llegar a esa información.
+
+Lo que necesitarnos es poder incorporar el objetivo de un motor de búsqueda dentro del entorno de navegación para especificar exactamente lo que necesitamos y dejar que los ordenadores lleven a cabo la búsqueda por nosotros.
+Estos nos mostrarán la lista de páginas World Wide Web que se ajusten a nuestras especificaciones.
+Llegado a este punto, podemos utilizar Mosaic para acceder a estas páginas y encontrar, espero, la información prometida.
+Afortunadamente este tipo de motor de búsqueda está empezando a hacer su aparición en el horizonte de Web .
+En este capítulo vamos a tratar varios de estos motores y a considerar en consecuencia hacia dónde se encamina Web .
+Una vez que haya utilizado uno de los motores de búsqueda Web que aquí se especifican, deseará enlazar su página principal con alguno de ellos, o incluso añadirlos a sus propios menús.
+
+Una nueva generación de motores de búsqueda 
+
+¿Puede una herramienta de software considerarse un robot?
+Naturalmente que sí, si es que navega por la red en busca de información.
+Los nuevos motores de búsqueda de Web reciben el nombre de robots, navegantes o arañas (spiders) , y todos ellos poseen la capacidad de encontrar información en este extenso entorno.
+Aunque el desarrollo de estos motores está todavía en mantillas, su número ha crecido de modo sorprendente.
+Llegué a contabilizar hasta un número de veinticinco proyectos en septiembre de 1994, pero indudablemente habrá muchos más en el momento que lea estas líneas.
+
+Algunos de estos programas son demasiado estrictos en sus especificaciones, así por ejemplo RBSE, Repository Based Software Engineering Project Spider , consta de un programa que crea una base de datos Oracle de documentos HTML existentes en Web , donde luego se puede realizar una búsqueda con free WAIS, la versión no comercial de WAIS (NCSA patrocina RBSE).
+Lycos, de la Universidad Carnegie Mellon, proporciona una amplia base de datos de resúmenes de documentos World Wide Web .
+El MacWWWWorm, desarrollado en Montreal, es un robot de búsqueda de palabras al parecer creado en un contexto francés.
+SG-Scout se ejecuta sólo como un proyecto de investigación interno de Xerox.
+Se podría prolongar aún más la lista, pero quizá sea suficiente para darle una idea global de la actividad que existe en este campo.
+Por el momento, nos vamos a centrar en algunas de las mejores herramientas para observar su funcionamiento.
+
+Recuerde que a los robots tampoco les falta su parte de controversia, ya que suponen una gran presión para la red en el desarrollo de sus actividades (después de todo, Web es un lugar muy grande para buscar).
+
+Circulan algunas historias de robots que recuperan continuamente documentos de un mismo servidor, sin saber de qué tipo de recurso se trata.
+Algunos administradores del sistema, hastiados de esta actividad, han establecido barreras para impedir el paso de los robots a su servidor, ya que la presencia de muchos robots visitando diferentes servidores produciría un colapso total en la red.
+Un robot bien diseñado tiene que indicar el lugar de donde procede, cuál es su objetivo y cómo contactar con sus creadores.
+Estamos asistiendo al desarrollo de estándares de la actividad de los robots según va creciendo Web .
+
+Si siente curiosidad por estos temas, quizá quiera conectarse con el URL: http://web.nexor.co.uk/mak/doc/robots/guidelines.html .
+
+El nombre de este documento es Guidelines for Robots Writers , que explica cada uno de estas materias y cómo se puede aprovechar el desarrollo de los robots.
+El trabajo de Martijn Koster de NEXOR, una compañía tecnológica de Nottingham en el Reino Unido, proporciona interesantes lecturas acerca del tema dentro del marco de un estudio global de los motores de búsqueda de Web .
+La página principal de los robots, navegantes y arañas de World Wide Web se encuentra en este URL: http://web.nexor.co.uk/mak/doc/robots/robots.html .
+
+Aquí se facilitan los enlaces a todos los navegantes y robots conocidos de Web , según nos muestra la figura 9.1.
+
+WebCrawler 
+
+Dirigido por Brian Pinkerton de la Universidad de Washington, WebCrawler crea índices para los documentos que encuentra en el Web , y le permite buscar documentos de interés.
+Con la ayuda de WebCrawler, Pinkerton ha podido confeccionar una lista de los veinticinco documentos más frecuentados en el Web , que resulta en sí misma un recurso de gran interés.
+Su URL es: http://www.biotech.washington.edu/WebCrawler/Top25.ht ml .
+
+Figura 9.1
+
+Lugar clave donde buscar información acerca de las herramientas de búsqueda de World Wide Web
+
+La pantalla de búsqueda que utiliza WebCrawler es la que nos muestra la figura 9.2.
+Dicha pantalla facilita la búsqueda ya que sólo hay que introducir el término a buscar y hacer clic sobre el botón Search para que WebCrawler realice su trabajo.
+En la figura 9.3 puede apreciar el resultado de la búsqueda que he especificado bajo el término televisión .
+
+Asimismo también puede observar que esta página consta de una serie de elementos, que al ser todos ellos hiperenlaces en sí mismos me pueden llevar directamente al servidor en cuestión.
+La figura 9.4 nos muestra el resultado de haber seleccionado el tercer elemento de la lista, Science Fiction TV Series Guides .
+
+La capacidad de búsqueda de WebCrawler ha reducido el tiempo que he empleado en Web , ya que de otro modo tendría que haber navegado por un directorio de materias, igual que el que mantiene CERN, organizado desde lo más general a lo particular hasta que hubiera encontrado esta página.
+Con un motor de búsqueda como éste, basta con introducir el término deseado para recibir una lista completa de los servidores relacionados con dicho tema.
+Puede utilizar el siguiente URL para llegar a la información disponible en WebCrawler: http://www.biotech.washington.edu/WebCrawler/WebQuery .html .
+
+Figura 9.4
+
+A través de un hiperenlace a una página de series de televisión de ciencia ficción
+
+World Wide Web Wanderer 
+
+Matthew Gray del MIT mantiene el World Wide Web Wanderer, o más comúnmente conocido como W4.
+El interés de Gray se centraba en determinar la extensión de Web , y cuando ejecutó W4 por primera vez en junio de 1993 encontró que existían cerca de 100 servidores HTTP; una segunda vuelta en septiembre del mismo año le confirmó que el número se había doblado, en marzo de 1994 se trataba de 1.200 servidores y en junio de 1994 el número ya había alcanzado los 3.100.
+La figura 9.5 nos muestra la lista de servidores que contiene W4.
+
+Como puede observar, no se trata de una herramienta de búsqueda sino de un rastreador del rápido crecimiento de Web .
+
+Todo aquél que esté interesado en las estadísticas de Web puede comprobar el siguiente URL: http://www.netgen.com/cgi/comprehensive.html .
+
+Figura 9.5
+
+Lista de servidores de World Wide Web Wanderer
+
+World Wide Web Worm 
+
+Desarrollado por Oliver McBryan de la Universidad de Colorado, World Wide Web Worm utiliza formularios para ayudarle a buscar.
+La pantalla de búsqueda de Worm es la que nos muestra la figura 9.ó.
+
+Recuerde que los documentos HTML contienen un título y que una herramienta como World Wide Web Worm puede no sólo buscar esa información, sino también los hiperenlaces existentes dentro de dicho documento, o realizar una búsqueda por los nombres de las páginas principales HTML y sus correspondientes URL.
+Si por ejemplo deseara buscar servidores en Colorado , Worm encontraría todos aquéllos que contuvieran la palabra colorado como parte del nombre de la máquina.
+De igual modo,- puede efectuar una búsqueda por países o por tipos de enlaces.
+
+Observe que puede buscar por títulos o por nombres dentro de los URL de un documento HTML.
+La figura 9.7 nos muestra el resultado de una búsqueda de títulos bajo el término exhibit .
+Para llegar a este punto he tenido que introducir el término que vaya a buscar en el cuadro de diálogo y hacer clic sobre el botón Start Search , obteniendo así una lista de hiperenlaces directamente accesibles.
+
+Figura 9.6
+
+Pantalla de búsqueda de World Wide Web Worm
+
+JumpStation 
+
+Al igual que otros navegantes Web , JumpStation permite búsquedas por palabras dentro de las bases de datos; las respuestas se facilitan en forma de hiperenlaces para facilitar el acceso a los recursos que necesitamos.
+Los documentos se pueden buscar por títulos y por temas, y los servidores se pueden encontrar con sólo introducir parte de la dirección (para aquellos momentos en que sólo recordamos parte del URL).
+Jonathon Fletcher de la Universidad de Stirling en el Reino Unido es el creador de este navegante y recientemente ha desarrollado una implementación beta de la versión 2.
+La figura 9.8 nos muestra la pantalla de búsqueda de JumpStation.
+
+Según puede observar voy a realizar la búsqueda bajo el término chemistry que he insertado en el cuadro de diálogo Enter Subject Word , pero a su vez también he seleccionado otras opciones y esta combinación me permite utilizar JumpStation para efectuar búsquedas hasta de siete formas diferentes.
+
+Figura 9.7
+
+Búsqueda realizada con Worm bajo la palabra Submit
+
+Figura 9.10
+
+Pantalla de búsqueda de JumpStation
+
+Aunque no se puede apreciar en pantalla, el botón Submit , que tengo que seleccionar para ejecutar la búsqueda, puede encontrarse si se desplaza hacia abajo en el documento.
+El URL de JumpStation es: http://js.stir.ac.uk/jsbin/js/ .
+
+A dónde se encaminan robots y navegantes 
+
+La figura 9.9 nos muestra la página principal del robot SG-Scout desarrollado en el Centro de Investigación Xerox de Palo Alto (éste es el famoso PARC donde se llevan a cabo numerosos desarrollos de ordenadores, incluido el del interfaz intuitivo que más tarde apareció para Macintosh).
+
+Figura 9.9
+
+Página principal de SG-Scout, un robot de Web
+
+La única forma de mantenerse al día en un campo que está continuamente evolucionando es controlar lugares como éste, y como se ha mencionado con anterioridad el mejor lugar para seguir la marcha del desarrollo y ubicación de nuevas páginas principales existentes para robots y navegantes es a través del servidor que mantiene Martijn Koster, exactamente en su página World Wide Web Robots, Wanderers, and Spiders, aunque este campo es sumamente experimental y un tanto controvertido.
+
+Puede esperar muchos cambios en las direcciones según aparezcan nuevos navegantes Web y desaparezcan los antiguos.
+Asimismo estamos asistiendo al desarrollo de estándares para la actividad de los robots que deberían provocar búsquedas más eficaces de Web que causaran menos problemas a los administradores del sistema y una menor carga de trabajo en servidores particulares.
+
+Para todos aquellos usuarios interesados en seguir de cerca los problemas que plantean los robots Web existe una lista de distribución a la que puede subscribirse si envía un e-mail a la siguiente dirección: robots-request@nexor.co.uk .
+
+El cuerpo del mensaje deberá contener las palabras subscribe, help y stop en líneas distintas.
+
+Recuerde que se trata de una lista de carácter técnico orientada a creadores, administradores y personas encargadas del mantenimiento de robots WWW y no de una lista de discusión sobre temas de Web en general.
+
+Y si alguna vez había dudado que existieran cada vez más herramientas de búsqueda accesibles en World Wide Web compruebe este URL suizo, cuya página principal aparece en la figura 9.10: http://cuiwww.unige.ch/meta-index.html .
+
+Figura 9.10
+
+Página principal que controla varios motores de búsqueda en Web
+
+Observe que desde esta página puede acceder a una amplia variedad de herramientas de búsqueda, desde los catálogos World Wide Web hasta motores de búsqueda como pueden ser WebCrawler, World Wide Web Worm, Veronica , Jughead y WAIS .
+
+Esta pantalla sólo nos muestra una pequeña parte, pero si se desplaza por el documento podrá apreciar el resto.
+Este será seguramente uno de esos servidores que deseará añadir a sus menús o a su página principal.
+
+Otros tipos de búsqueda de Web 
+
+No todos los tipos de búsqueda dentro de Web se realizan por medio de herramientas automáticas.
+De hecho, la saturación que producen ha llevado a los desarrolladores a preguntarse si no existe una forma mejor de generar toda la información que se necesita.
+A continuación se presentan dos alternativas a ese enfoque automático, que contienen bases de datos donde se pueden buscar servidores interesantes de Web .
+
+ALIWEB 
+
+ALIWEB es el medio del que gozan los usuarios para generar información particular de los servicios que ofrecen.
+ALIWEB agrupa esta información en una base de datos de acceso público que se actualiza cada pocos días.
+
+Este servicio, cuyas siglas significan indexación que sigue el modelo de Archie ( Archie-like indexing for the Web ) , está en teoría tan actualizado como cualquier otro navegante de Web , pero no produce la saturación que generan las búsquedas automáticas en la red.
+
+La figura 9.11 nos muestra la página de búsqueda de ALIWEB.
+Su URL es el siguiente: http://web.nexor.co.uk/public/aliweb/search/doc/form. html .
+
+El catálogo CUI W3 
+
+El Catálogo W3 se construye a partir de listas que ya están disponibles en World Wide Web e incluye, por ejemplo, documentos como Internet Services List de Scott Yanoff y Computer-Mediated Communication and Internet Tools Summary .
+Estas fuentes se consultan a diario para mantener al día el catálogo.
+
+En la figura 9.12 podemos observar la página de búsqueda que utiliza este catálogo.
+
+Figura 9.11
+
+Formulario de búsqueda de ALIWEB
+
+Figura 9.12
+
+Utilización del catálogo W3 para establecer una búsqueda bajo la palabra clave wais 
+
+El formulario y su función 
+
+Los formularios son una característica propia de Mosaic.
+El hecho de que los disertadores puedan crear páginas principales e insertar en ellas campos donde los futuros usuarios van a introducir el parámetro o término a buscar, los convierte en herramientas interactivas al igual que gráficas.
+Sin la existencia de este tipo de formularios, Mosaic vería limitadas sus posibilidades obligando al usuario a leer únicamente lo que otra persona ha decidido poner accesible, pero con ellos el programa acepta la interacción ya que puede enviar un e-mail a un desarrollador para hacerle algún comentario o sugerencia acerca de su página principal; solicitar información o introducir un password para acceder a una base de datos de tipo comercial.
+Si es el administrador del sistema puede establecer un filtrado para restringir el acceso a su servidor o si se dedica al comercio, puede hacer uso de estos formularios para promover la realización de pedidos on-line de productos de su catálogo.
+
+Ya hemos visto alguno de los tipos de formularios existentes on-line, en los que sólo teníamos que introducir la información en los campos que había creado el autor del programa para tal fin.
+Cada vez que completa un espacio en blanco, está rellenando algún tipo de formulario.
+También puede encontrarse entre estos navegantes de Web otros formularios que utilizan botones que hay que seleccionar, como el botón Send para que su petición se haga efectiva.
+La figura 9.13 nos muestra un ejemplo de un formulario típico para enviar correo electrónico.
+
+Esta figura nos muestra una página facilitada por Tyler Jones que forma parte de un proyecto que él mismo ha creado para enseñar español on-line.
+Los usuarios pueden trabajar en una o más de estas lecciones de español (contienen enlaces audio que ayudan a pronunciar las palabras de vocabulario) y luego enviar un email con comentarios acerca del curso e incluir una dirección de correo electrónico para que le conteste.
+
+Según se vayan generalizando los formularios se multiplicará el número de estas páginas.
+
+Hasta ahora hemos dominado la creación de documentos básicos HTML al aprender a construir nuestra propia página principal, pero los formularios son algo más complejos.
+Si desea saber más sobre cómo construirlos quizá le interese examinar el siguiente URL: 

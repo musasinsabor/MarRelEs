@@ -1,0 +1,199 @@
+
+Terapia génica contra el cáncer 
+
+La inserción de genes podría, en teoría, detener el crecimiento tumoral e incluso frenar el sida
+
+Se estima que en 1997 en los Estados Unidos se diagnosticarán 1,38 millones de nuevos casos de cáncer.
+Con las técnicas actuales, cirugía, radioterapia y quimioterapia, sólo se pueden curar aproximadamente la mitad de todos ellos.
+Este dato tan poco halagüeño ha promovido una serie de investigaciones dirigidas al desarrollo de estrategias adicionales para el tratamiento de la enfermedad, basadas en los mecanismos biológicos subyacentes.
+Los investigadores centran su atención en las terapias génicas, esto es, en la introducción en el organismo de genes con capacidad potencial para combatir los tumores.
+
+Los investigadores consideraron en un primer momento la terapia génica para remediar los efectos de instrucciones genéticas deficientes causadas por mutaciones.
+Este tipo de alteración se transmite a las generaciones siguientes.
+La mayoría de los tumores, sin embargo, no se han contraído por herencia, sino que tienen su origen en mutaciones adquiridas, producidas por factores externos (citemos el humo del tabaco y la radiación a altas dosis) o por simple mala suerte.
+Con el tiempo, estas mutaciones se acumulan en las células y terminan por incapacitarlas para controlar de forma correcta su propio crecimiento, fundamento último del cáncer.
+
+En general, las terapias génicas proporcionan instrucciones en forma de secuencias de ADN a las células enfermas, con el fin de que produzcan proteínas de carácter terapéutico.
+Este tipo de abordaje es posible porque tanto los virus y las bacterias, como los vegetales y los seres humanos compartimos el mismo código genético.
+Se ha aprendido mucho en muy poco tiempo sobre los mecanismos en virtud de los cuales determinados genes rigen los procesos fundamentales de la vida y sobre la forma en que contribuyen al desarrollo de tumores.
+Y puesto que los genes de una especie puede leerlos y descifrarlos otra, nos es permitido transferir genes de una célula a otra y de una especie a otra, en la búsqueda de nuevas variantes terapéuticas.
+
+Existen varios enfoques de la terapia génica experimental en el tratamiento del cáncer.
+Algunos se basan en la introducción en las células cancerosas de genes que den lugar a la producción de moléculas tóxicas.
+Cuando tales genes se expresan (esto es, cuando la maquinaria celular los utiliza para la síntesis de proteínas), las proteínas resultantes matan a esas mismas células tumorales.
+Otras estrategias apuntan a la corrección o compensación de mutaciones genéticas adquiridas.
+También hay planteamientos que persiguen la activación de los procesos encargados, de suyo, de la reparación de tales fallos.
+Y todo un universo de ideas están brotando de la inquisición en diversas líneas:
+métodos de que se valen los tumores para evitar su reconocimiento y destrucción por el sistema inmunitario, vías que siguen para su diseminación a partir del foco originario, medios gracias a los cuales organizan su vascularización y caminos por los que alcanzan una serie de condiciones que les permiten resistir y diseminarse. 
+
+Aunque la mayoría de los enfoques mencionados no han pasado siquiera las pruebas clínicas preliminares de seguridad y eficacia, cabe presumir que con tal bagaje conceptual llegaremos a un mejor tratamiento del cáncer en el futuro. 
+
+Las técnicas de terapia génica, además de abrir el horizonte a nuevos tratamientos, han mostrado ya su rentabilidad en la valoración de los tratamientos que se aplican.
+En los últimos años los médicos han recurrido con frecuencia al trasplante de médula ósea en el tratamiento de aquellos tumores que se han mostrado resistentes a las terapias tradicionales, como los estadios avanzados de la leucemia.
+Esta forma de cáncer afecta a los leucocitos, células sanguíneas que se producen en la médula ósea.
+Antes del trasplante, se extrae médula ósea de pacientes afectos de leucemia que se encuentren en período de remisión y se almacena. 
+Los pacientes reciben altísimas dosis de radio o de quimioterapia, suficientes para eliminar cualquier posible tumor residual.
+Semejante tratamiento bastaría para destruir también la médula ósea sana, por lo que no sólo se eliminaría el cáncer sino que, además, se provocaría la muerte del individuo. 
+El trasplante evita esta circunstancia al recibir el paciente una transfusión de su propia médula ósea sana.
+
+En teoría, este procedimiento debería curar la leucemia.
+Pero a menudo la enfermedad recidiva.
+Los clínicos se han preguntado repetidas veces a qué puede deberse.
+Dos son las posibilidades que se barajan: 
+que la dosis de radiación administrada sea insuficiente para matar todas las células cancerosas, o bien que pase inadvertida la presencia de células leucémicas en la médula ósea, supuestamente libre de enfermedad, extraída durante un período de remisión. 
+Para poder diferenciar estas dos posibilidades, se buscó un marcador permanente e inocuo, con el que poder identificar tras el reimplante las células de la médula ósea extraída.
+A finales de 1991, Malcolm K. Brenner, del Hospital Pediátrico San Judas de Menfis, Tennessee, insertó en la médula ósea extraída de los pacientes una secuencia de ADN bacteriano que no se encuentra en el genoma humano.
+
+Brenner sabía que la detección de ADN bacteriano en la sangre y en la médula ósea del paciente tras el transplante significaría que los elementos celulares sanguíneos se habían originado de la médula reimplantada.
+Más importante aún:
+la presencia del marcador en cualquier tumor recidivante demostraría que la fuente de las células tumorales era esa misma médula ósea transplantada.
+
+Esto último es lo que, en efecto, han comprobado Brenner y otros en algunos casos, lo que hace necesaria una revisión crítica de las indicaciones del transplante de médula ósea.
+Así, se reconoce ahora que en algunos tipos de cáncer debe indicarse antes de su implante un tratamiento adicional de la propia médula ósea almacenada, con el fin de eliminar todo resto de células cancerosas.
+Las investigaciones sobre marcadores genéticos de médula ósea, idénticas a las descritas, son de gran ayuda a la hora de encontrar la mejor solución. 
+Estos estudios permiten comparar diversos métodos de purificación de la médula ósea de tumores residuales.
+Se están empleando diferentes marcadores genéticos para identificar muestras de médula ósea, purificada de formas diversas.
+
+Se puede así valorar en qué medida una médula ósea purificada según un procedimiento concreto facilita el tratamiento posterior del paciente.
+
+Ante un cáncer que recidiva, es posible determinar si proviene o no de una médula ósea cuya purificación se acometió de una determinada manera.
+
+Vacunas génicas
+
+En lo que se refiere al tratamiento de los tumores, hace más de tres décadas que los investigadores intentan hallar la forma de estimular al sistema inmunitario para que se enfrente al cáncer;
+nos referimos a la inmunoterapia o vacunoterapia.
+Y no sin razón, si se tiene en cuenta que la inmunidad es una reacción sistémica que podría, en principio, eliminar todas las células cancerosas del organismo, incluidas aquellas que emigran desde su lugar de origen o las que reaparecen tras años de remisión clínica.
+El problema de esta alternativa radica en que el sistema inmunitario no siempre reconoce a las células cancerosas como tales.
+Son muchos los tumores que consiguen escapar a la detección por el sistema inmunitario.
+
+Recientemente, las investigaciones realizadas en el campo de la inmunología básica han descubierto medios para desenmascarar estos cánceres.
+En particular, existe la posibilidad de marcar las células tumorales con ciertos genes que las hagan más visibles para el sistema inmunitario.
+
+Una vez estimulado, no es infrecuente que el sistema inmunitario señale también células tumorales sin marcar. 
+
+La respuesta inmunitaria pone en marcha muchas células y substancias químicas distintas que colaboran en la eliminación de microorganismos invasores o de células alteradas.
+Las células anormales acostumbran presentar en su membrana ciertas proteínas, llamadas antígenos, que difieren de las encontradas en las células sanas.
+Cuando el sistema inmunitario se activa, los linfocitos B producen cierto tipo de moléculas, los anticuerpos, que circulan por el organismo y se unen a antígenos extraños.
+De esa guisa marcan a los portadores de éstos para que los destruyan otros componentes del sistema inmunitario.
+Otro tipo celular, los linfocitos T , que también reconocen antígenos extraños, acaban con las células portadoras de antígenos específicos o estimulan a las células T asesinas para que lo hagan. 
+Las células T y las B se comunican entre sí mediante las proteínas que secretan: las citoquinas.
+Existen además otras células, como las células presentadoras del antígeno y las células dendríticas, que auxilian a los linfocitos T y B en la detección de antígenos de células cancerosas o infectadas.
+
+Actualmente se está sometiendo a prueba una estrategia de terapia génica que se basa en la modificación de células cancerosas mediante la introducción de genes codificadores de citoquinas.
+Se extraen primero células tumorales, en las que se insertan genes que cifran citoquinas tales como la interleuquina 2 (IL-2, es decir, factor de crecimiento de linfocitos T ) o el activador de células dendríticas, conocido como factor estimulador de colonias de granulocitos y macrófagos (GM-CFS).
+Luego, se reimplantan estas células en la piel o el músculo del paciente, donde empezarán a segregar citoquinas, que despiertan la atención del sistema inmunitario.
+En teoría, las células alteradas deberían instar una febril actividad de los elementos celulares inmunitarios en el mismo lugar de reimplante.
+Las células activadas, ya alertadas sobre la presencia de células tumorales, circularían por todo el organismo y atacarían a otros tumores.
+
+En algunos casos, estas vacunas tumorales genéticamente modificadas inducen la detección del cáncer por el sistema inmunitario;
+se han observado algunas respuestas clínicas llamativas.
+Con todo, la investigación clínica no ha pasado de la fase preliminar.
+En general, no se ha comparado la respuesta a estas variantes terapéuticas con lo observado tras un tratamiento tradicional sin más. 
+Las pautas de respuesta varían de un tipo de cáncer a otro y entre distintos pacientes con el mismo tipo de cáncer; 
+no son predecibles.
+
+Dicha investigación, además, presenta el inconveniente de que los pacientes abordados se encontraban en estadio de cáncer diseminado.
+A menudo, tales sujetos han recibido un tratamiento intensivo que ya ha debilitado su sistema inmunitario.
+Por tanto, aun cuando las vacunas génicas activaran la inmunidad en estos individuos, la respuesta emitida apenas si resultaría perceptible.
+Es de suponer que las vacunas génicas produzcan mayores beneficios en pacientes con cargas tumorales mínimas y una inmunidad robusta.
+Pero antes de ensayar con pacientes de este tipo, debemos esperar a que concluyan las pruebas con grupos más seriamente enfermos para establecer los riesgos asociados al tratamiento.
+El desarrollo de nuevas terapias contra el cáncer es un proceso largo y complejo.
+
+Afín a la anterior es la terapia génica que se basa en antígenos predominantes en las células cancerosas.
+En los últimos tres o cuatro años se ha avanzado bastante en la identificación de los antígenos producidos por células tumorales.
+Se han descubierto, además, los genes que determinan estos antígenos asociados a tumores;
+de manera particular, los que se manifiestan en la forma más grave de cáncer de piel, el melanoma maligno.
+Con la descripción de algunos de tales antígenos, empieza a vislumbrarse la posibilidad de sintetizar una vacuna que proteja del cáncer, de forma similar a como existen vacunas para el tétanos o la polio.
+Semejante planteamiento podría aplicarse también en el tratamiento de tumores ya existentes.
+
+Inmunización preventiva
+
+Al igual que ocurría con las vacunas mediante citoquinas, las antioncológicas basadas en antígenos requieren la transferencia de genes.
+
+Su efectividad es mayor si se administran a células de fácil acceso para el sistema inmunitario.
+A este respecto, Philip L. Felgner, de Vical en San Diego, y Jon A. Wolff, de la Universidad de Winsconsin, han observado, junto con sus respectivos equipos, que la inyección directa, en el músculo de ratones, de un fragmento de ADN que determina un antígeno exógeno provoca una potente respuesta inmunitaria frente al antígeno.
+La explicación de esta reacción no reviste mayor complejidad:
+el ADN foráneo penetra en las células musculares o en las vecinas y dirige la producción de pequeñas cantidades de la proteína exógena correspondiente. 
+Las células presentan la proteína sintetizada a los linfocitos B y T circulantes. 
+
+Estas células inmunitarias, una vez sensibilizadas, recorren luego el organismo dispuestas a atacar a las células tumorales portadoras de ese mismo antígeno.
+
+Esta estrategia básica ha revolucionado la obtención de vacunas para la prevención de muchas enfermedades infecciosas. 
+Para verificar la eficacia de una inmunización con ADN en el tratamiento del cáncer, se administran directamente los genes de los antígenos que acaben de identificarse, ya sea mediante una vacuna o partículas de adenovirus inactivadas, ya sea mediante sistemas de transporte no víricos, como el ADN desnudo.
+En la actualidad, las pruebas se realizan en pacientes con tumores muy diseminados.
+Obviamente, en estos casos la vacuna de ADN ya no está en disposición de evitar la enfermedad, pero los estudios deberán demostrar si los antígenos cumplen el requerimiento mínimo de inducir una respuesta inmunitaria en el organismo.
+Se comprobará, asimismo, si las vacunas de ADN pueden tratar tumores ya diagnosticados.
+Por ahora, dado lo avanzado de la enfermedad en los pacientes estudiados, resulta difícil interpretar los resultados obtenidos.
+
+Existe otro modelo de terapia génica, también basado en anticuerpos, que está en período de prueba en pacientes y en el laboratorio.
+Los anticuerpos presentan regiones de gran variabilidad individual que las convierten en moléculas exquisitamente específicas.
+Pueden distinguir la menor diferencia entre antígenos extraños o mutados y autoantígenos muy parecidos.
+Algunas células cancerosas presentan, en sus membranas externas, moléculas de anticuerpos específicos; así, en los linfomas de células B, encargadas de la producción de anticuerpos.
+Cada linaje o clon de células sintetiza el mismo anticuerpo, por lo que en todo cáncer que tenga su origen en estas células se podrá encontrar la misma molécula específica en la membrana.
+El anticuerpo, que actúa como un marcador molecular único, podría permitir la diferenciación de las células tumorales de otras parecidas que también sean productoras de anticuerpos, pero no tumorales.
+
+En algunos casos, los investigadores han conseguido sintetizar anticuerpos antiidiotipo, esto es, dirigidos contra los anticuerpos de las membranas de ciertas células cancerosas.
+Aunque a veces se consigan tratamientos eficaces o incluso respuestas espectaculares en pacientes sometidos a tratamiento con anticuerpos antiidiotipo, su síntesis es laboriosa y limita su empleo. 
+Las técnicas de transferencia de genes han ofrecido recientemente nuevas opciones.
+Habida cuenta de que los anticuerpos vienen determinados por genes, se han preparado vacunas antiidiotipo de ADN que incorporan el ADN que determina el marcador crítico del cáncer (el idiotipo).
+Esta secuencia de ADN se ha unido al gen de la citoquina GM-CSF.
+Hasta ahora sólo se ha experimentado en animales de laboratorio con esta vacuna reforzada, pero parece muy prometedora.
+
+Aún otra terapia reforzada, todavía en fase de estudio inicial, combina anticuerpos y linfocitos T.
+Los linfocitos T de ciertos pacientes sí son capaces de reconocer las células cancerosas, si bien sólo identifican las del propio paciente o, en una pequeña fracción de casos, las de aquellos individuos que presenten el mismo tipo de cáncer y el mismo tipo de tejido.
+Rara vez se encuentran anticuerpos humanos contra tumores.
+Por contra, si se inyectan en un ratón células tumorales humanas, su sistema inmunitario fabricará anticuerpos que reaccionarán fuertemente contra esas mismas células tumorales.
+En algunos casos los anticuerpos del ratón reaccionan in vitro uniéndose a prácticamente todas las células de un cáncer, incluso aunque se hayan tomado de individuos distintos con el mismo tipo de cáncer.
+Estos anticuerpos murinos, empero, no destruyen las células cancerosas en humanos y, en los pocos casos en que sí lo logran, la respuesta tiene corta duración: 
+el organismo produce a su vez anticuerpos que inactivan los anticuerpos de ratón.
+
+Por este motivo, los oncólogos han buscado afanosamente la manera de conjugar la selectividad de los anticuerpos anticáncer de ratón con la capacidad de aniquilación de las células T humanas.
+La técnica del ADN recombinante ofrece las herramientas precisas.
+Se han aislado a partir de células del ratón los genes que determinan los anticuerpos anticáncer humano y se han recombinado parte de aquellos con segmentos de los genes que determinan el receptor que las células T asesinas emplean para identificar a sus objetivos.
+Este receptor modificado faculta a la célula T asesina, a menudo incapaz de reconocer los tumores, para identificar lo que los anticuerpos de ratón, con menor capacidad de discriminación, ya han detectado. 
+Se ha comprobado que las células T asesinas provistas de receptores de células T quiméricos eliminan de forma harto eficaz células tumorales in vitro .
+Y se han puesto en marcha los primeros ensayos clínicos que emplean este método en el tratamiento no sólo del cáncer, sino también en infectados por el VIH, el agente etiológico del sida, y por otros patógenos.
+
+Otras terapias génicas
+
+Además de la inmunoterapia, se dispone de varias estrategias basadas en la genética con las que combatir los tumores.
+No es vano el interés puesto en la identificación de las alteraciones concretas del ADN que producen cáncer.
+Se ha establecido que ciertas mutaciones van asociadas a formas de cáncer específicas. 
+Otras mutaciones aparecen en muchas formas distintas de cáncer.
+Se diferencian los siguientes tipos de mutación:
+algunas activan ciertos genes, conocidos como oncogenes, que inducen un multiplicación descontrolada de las células;
+otras son la causa de la pérdida de los frenos fisiológicos del crecimiento celular.
+Estas últimas afectan a los genes supresores de tumores. 
+
+El gen supresor de tumores que con mayor frecuencia se encuentra alterado es el xxx , cuya producto proteico regula el ADN durante la división celular.
+Si el ADN sufre cualquier alteración, la proteína xxx puede suspender la división celular hasta que se repare el ADN o inducir el suicidio celular (apoptosis).
+Cuando se introduce una copia normal de este gen en células tumorales de un cultivo de tejido, se observa que dichas células siguen un patrón de crecimiento más regular o que inician procesos de apoptosis.
+Cualquiera de las dos circunstancias sería interesante en el tratamiento del cáncer y ello explica el empeño puesto en el desarrollo de métodos que permitan la inserción de xxx normal en tumores presentes en el organismo.
+
+Pero quedan muchas barreras por superar.
+Las técnicas actuales de inserción de un gen en un órgano o una población celular son ineficaces.
+
+Tampoco se dispone de métodos que faciliten la extensión de los efectos producidos por una inserción local a otras regiones del cuerpo, lo que limita la aplicación de las terapias génicas a tumores con localización única. 
+
+Por otra parte, se ha observado en animales una mejora significativa tras la administración de xxx , se introdujera éste en el sistema circulatorio (en complejos lipídicos que faciliten su absorción celular) o se inyectara directamente en el tumor (gracias a virus modificados que actúan como lanzaderas de los genes).
+En un ensayo clínico aún en fase inicial, se han descrito algunas regresiones locales.
+En teoría hay una limitación importante a la transferencia de genes que activen genes supresores de tumores o neutralicen oncogenes: 
+el gen corrector debe entrar en todas y cada una de las células tumorales.
+Si no se logra eso, las células sin modificar continuarán multiplicándose desenfrenadamente. 
+Con la técnica actual es imposible corregir los genes de cada célula tumoral, ni siquiera los de tumores localizados.
+Si bien los tratamientos adicionales pueden ayudar a corregir un número mayor de células tumorales, la transferencia repetida de genes vía virus modificados no se ve realizable.
+Con frecuencia, el sistema inmunitario reconoce a la segunda ocasión al virus y lo destruye antes de que pueda cumplir su cometido.
+
+Sucede en ocasiones que los efectos beneficiosos de la inserción inicial aparecen en células que no han pasado por la corrección genética.
+
+Diversos estudios de terapia génica experimental, aplicada al cáncer, informan de la aparición de un fenómeno de "solidaridad".
+Se invoca este fenómeno para explicar por qué un tratamiento es capaz de destruir un número de células mayor que el atribuible a la cantidad de células en las que se ha inducido la expresión de cierto nuevo gen.
+Los investigadores que han descrito este tipo de discrepancia en ensayos terapéuticos con xxx no son capaces de explicarla.
+En buena lógica, si los genes xxx generaran un efecto de solidaridad, ya no tendría de entrada por qué desarrollarse un cáncer.
+Este fenómeno es objeto de intensa investigación en relación con otros tratamientos, como la terapia de "suicidio génico", por la que un gen introducido en las células cancerosas las sensibiliza a alguna droga que previamente carecía de efecto anticanceroso. 
+
+En la aplicación inicial de la terapia de suicidio génico, Edward H. Oldfield, Zvi Ram y Ken Kulver y el autor introdujeron, en células tumorales del cerebro, el gen productor de quinasa de timidina (tk) de un herpesvirus. 
+En las células infectadas por el virus herpes simplex, esta enzima puede convertir el ganciclovir, un fármaco sin actividad tóxica, en un metabolito, o producto secundario, que actúa como un potente agente antivírico.
+Se observó que este mismo metabolito tóxico podía destruir células cancerosas en división y que, en algunos tumores, acababa también con las células malignas vecinas.
+Este producto ejercía su efecto de solidaridad gracias a su difusión, desde la célula en que aparecía, a través de las uniones de intervalo. (Denominadas en inglés gap junctions , estas uniones son canales intercelulares que permiten el paso de sustancias.) En el ensayo clínico original, aproximadamente una cuarta parte de los pacientes con tumores cerebrales respondieron al tratamiento.
+Los clínicos experimentan otras terapias de suicidio génico mediado por distintas substancias anticancerosas, algunas de las cuales puede que presenten el fenómeno de solidaridad.

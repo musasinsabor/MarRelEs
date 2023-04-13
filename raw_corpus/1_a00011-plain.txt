@@ -1,0 +1,256 @@
+
+Estrategias para el Futuro de la Industria del Cloro 
+
+Chris Hendriks y Demosthenes Papameletiou 
+
+Asunto: 
+
+La producción y el uso del cloro son fundamentales para la industria química, con un elevado número de compuestos clorados en el mercado, y casi el 60% de las ventas globales de productos químicos relacionado directa o indirectamente con el cloro.
+Además de su importancia económica, el cloro es, desde hace muchos años, objeto de una polémica suscitada por los posibles efectos medioambientales y sanitarios nocivos de muchos compuestos orgánicos clorados.
+Como consecuencia de estos debates, se está produciendo una tendencia mundial hacia el estudio de cuántos usos del cloro puedan ser satisfechos por sustancias alternativas.
+
+Relevancia: 
+
+Estudios recientes procedentes de fuentes autoritativas de los Estados Miembros de la UE han llegado a conclusiones importantes sobre la necesidad y factibilidad de reemplazar al cloro por sustancias alternativas en la mayoría de sus usos.
+Los resultados de estos estudios pueden tener repercusiones significativas para la industria del cloro en términos de su competitividad, y su incidencia en los entornos laboral y medioambiental, por lo cual merecen un análisis pormenorizado con respecto a su utilidad para la elaboración de política a nivel de la UE.
+El debate sobre el futuro de la industria europea del cloro se ha visto avivado por un estudio realizado por Prognos.
+Este estudio examinó la fabricación del cloro y sus usos en Alemania y descubrió que se podría eliminar el cloro elemental en más del 50% de sus aplicaciones a través de los próximos 15-20 años, por un aumento de coste de sólo un 1%.
+Otro estudio reciente efectuado por el TNO y el CML investigó la necesidad de evolucionar hacia una sociedad exenta del cloro.
+En base a estos resultados, el Ministerio Holandés del Medio Ambiente concluyó que los riesgos derivados del cloro y los compuestos clorados son en buena medida controlables a través de políticas ya implantadas.
+Por lo tanto no se recomendó una nueva política para todos los compuestos del cloro, si bien el Ministerio reconoció la necesidad de combinar las políticas existentes con actuaciones e instrumentos adicionales.
+
+Una reducción del 50% en el uso del cloro puede ser factible durante los próximos 15-20 años a un coste adicional del 1%.
+
+El crecimiento de la industria del cloro y su negativa reputación medioambiental 
+
+Desde principios de este siglo, la industria química ha crecido rápidamente sin los conocimientos científicos necesarios sobre la química medioambiental, la bioacumulación, la toxicidad de los productos químicos o cuestiones medioambientales generales tales como la destrucción de la capa de ozono y la incidencia del transporte aérea de largo recorrido.
+
+Por una parte esto ha permitido que la industria del cloro alcance su magnitud actual (véase el Cuadro 1), y por otra parte ha dado lugar a varios casos notorios donde ha habido que prohibir productos clorados de uso extendido debido a su ecotoxicidad.
+El DDT, los PCB y los CFC representan algunos de los casos que han contribuido a la mala imagen medioambiental, no sólo de la industria del cloro, sino del propio elemento.
+Al mismo tiempo, mientras que la industria del cloro afirma que los progresos científicos actuales garantizan que no se repetirán situaciones análogas, varias entidades ecológicas abogan por la gradual eliminación total del cloro.
+
+Producción mundial de cloro en kt/año: 
+
+37 en 1900; 3.000 en 1950; 37.000 en 1995.
+
+Producción europea de cloro (Federación Euro-Chlor) en kt/año: 
+
+800 en 1950; 9.000 en 1995.
+
+Uso del cloro en Europa 12.500 kt en 1995 (el 94% de esta cantidad se produjo y utilizó en 83 lugares identificados): 
+
+- 34% reciclado a partir de HCl usado (4,083 kt) CHC [2] (223 kt)
+- 66% a partir de sales de NaCl
+
+Usos del cloro en el mundo: 
+
+Tabla
+
+% del mercado [3] .
+% ritmo de crecimiento anual [4] .
+
+
+Monómero de cloruro de vinilo .
+34 .
++ 4,2.
+
+
+Fosgeno.
+6,0.
++ 2,5.
+
+
+Hipoclorito.
+2,5 .
++ 2 .
+
+
+Dióxido de Titanio .
+1,8 .
++ 1,5 .
+
+
+Cloruro de Alilo .
+2,0 .
++ 1,8 .
+
+
+Pasta y papel .
+9,0 .
+- 6,0 .
+
+
+Oxido de propileno .
+7,0 .
++ 0,8 .
+
+
+CHC (C1 y C2) .
+6,0 .
+- 4,5 .
+
+
+Clorobenceno .
+2,0 .
+- 0,8 .
+
+
+Tratamiento de Agua .
+5,4 .
++ 0,7 .
+
+
+Empleo: 
+- Europa: unos 2 millones de empleos están relacionados con la industria del cloro.
+- Alemania: unos 0,5 millones de empleos.
+- EE.UU: 1 millón de empleos aproximadamente.
+
+Facturación: 
+
+Europa: 100 mil millones de ECU al año provienen de la industria del cloro.
+
+La revisión del uso del cloro ya no queda limitada a los grupos ecológicos sino que abarca los gobiernos y las entidades internacionales Estas organizaciones han tenido tanto éxito en su campaña que estamos presenciando actuaciones mundiales dirigidas al estudio de la producción y los usos del cloro.
+Además, estas actuaciones no se limitan a las iniciativas de grupos ecológicos como Greenpeace, sino que forman el cometido de los gobiernos, entre ellos los de EE.UU., Alemania y Holanda, y cuerpos internacionales, tales como las Comisiones de Oslo y París para la Prevención de la Contaminación Marina, la Convención de Barcelona sobre el Mar Mediterráneo, la Comisión Internacional sobre la Pesca de la Ballena, la World Wilderness Conference, y la Comisión Conjunta Internacional EE.UU.-Canadá.
+
+Todas estas entidades están encargando estudios relacionados para analizar la situación actual y verificar las opciones de política.
+
+Cuestiones actuales de política y estudios relacionados 
+
+Una de las aportaciones más significativas al debate en torno al cloro en años recientes ha sido la "Campaña para la Eliminación del Cloro" de Greenpeace International.
+Reivindica representar un movimiento internacional que reclama la eliminación gradual del cloro.
+Se fundamenta en datos relacionados con unos 177 organocloros diferentes que se han encontrado en la grasa, la sangre, la lecha materna, el semen y el aliento de la población general.
+Este análisis indujo a Greenpeace a concluir que los organocloros pueden producir daños en el sistema reproductivo humano, desde la matriz hasta la adultez y advierte que "nos encontramos ante una amenaza global y persistente de contaminación que supone una exposición universal a escala de muchas generaciones".
+
+Según Greenpeace, lo fundamental del problema del cloro son los actuales procedimientos para la evaluación del riesgo y la predicción de unos niveles seguros de contaminación.
+
+Según Greenpeace, lo fundamental del problema del cloro son los actuales procedimientos para la evaluación del riesgo y la predicción de unos niveles seguros de contaminación.
+
+Greenpeace ha desempeñado un papel de gran relieve en el debate en torno al cloro en EE.UU., donde pone en tela de juicio la eficacia de las políticas e instrumentos aplicados.
+
+Sostiene que las descargas que actualmente se consideran admisibles, van acumulándose hasta alcanzar niveles inaceptables, y que la capacidad del ecosistema de asimilar incluso unas dosis muy reducidas de contaminantes, las cuales o son persistentes en el entorno natural o son tóxicas, es esencialmente nula.
+Sobre esa base, se consideran inadecuados e inherentes al problema del cloro los actuales procedimientos empleados para la evaluación del riesgo y la predicción de un nivel seguro de contaminación, basados como están en la "buena ciencia" que permite regular aisladamente los organocloros.
+Por lo tanto Greenpeace recomienda una reexaminación de cada uso del cloro dentro del marco de una estrategia de eliminación sistemática, antes que individualmente.
+
+Tras ser criticada directamente por sus prácticas de evaluación de riesgos, la EPA de EE.UU. manifestó, a principios de 1994, su intención de desarrollar una estrategia nacional para la sustitución, reducción o prohibición del uso del cloro y los compuestos clorados.
+Se han llevado a cabo acciones análogas por la Comisión Conjunta Internacional (IJC), un grupo de política medioambiental organizado por los gobiernos estadounidense y canadiense.
+La IJC enfoca su atención sobre la contaminación de las aguas de la región de Grandes Lagos, provocada en parte por las descargas de sustancias cloradas de la industria de papel y pasta papelera.
+
+En Europa, las Convenciones de Oslo y París adoptaron un acuerdo legalmente vinculante en 1992, en el que se pidió una reducción a niveles que ya no sean dañinas para el hombre o la naturaleza de las descargas y emisiones de sustancias que son tóxicas, persistentes y susceptibles a la bioacumulación, en particular las sustancias organohalogénicas.
+Una declaración ministerial fijó un objetivo de reducción para el año 2000.
+En este contexto, la Tercera Conferencia del Mar del Norte, en 1990, acordó que las plantas cloro-alcalinas deberían cumplir unas normas de baja emisión de mercurio para finales de 1996, y recomendó la eliminación total de la tecnología de las pilas de mercurio en las plantas cloroalcalinas para el año 2010.
+En la Cuarta Conferencia del Mar del Norte, celebrada en Junio de 1995, los Ministros ratificaron las metas fijadas en 1992 para el año 2000.
+
+Enmiendas recientes al 'Protocolo para la Protección del Mar Mediterráneo contra la Contaminación por Fuentes Terrestres', adoptado por la Convención de Barcelona, requieren que las Partes Contratantes eliminen, en la mayor medida posible, aportaciones de sustancias que son tóxicas, persistentes y susceptibles a la bioacumulación.
+Se da prioridad a la aldrina, la clordana, el DDT, la dieldrina, las dioxinas y las furanas, la endrina, el heptacloro, el hexaclorobenceno, el mirex, los PCB y el toxapreno.
+
+Se han realizado por la Comisión Enquete del Bundestag alemán sobre la "Protección de la Humanidad y el Medio Ambiente" discusiones sistemáticas acerca de los problemas originados por la industria del cloro en Alemania.
+Se seleccionó la industria del cloro no sólo por ser un sector clave sino también porque ha sido objeto de un acalorado debate durante muchos años.
+La Comisión identificó una necesidad fundamental de restringir los flujos de cloro a sistemas cerrados e integrados de producción y aplicación.
+Se seleccionaron para análisis pormenorizado tres áreas de producción y aplicación del cloro:
+- En el caso del cloruro de polivinilo (PVC) los miembros de la Comisión no coincidieron en todos los puntos de las estrategias de eliminación alemanas disponibles;
+- En el caso de los solventes de hidrocarburos clorados, la Comisión recomendó que se redujera al mínimo su uso mediante ciclos de tratamiento herméticos o por la vía de la sustitución;
+- En el caso del óxido de propileno (fabricado exclusivamente por el proceso de la clorhidrina en Alemania), la Comisión sugirió un examen del proceso oxiran, método de producción alternativo exento de cloro.
+
+Como conclusión interina general, la Comisión expresó su apoyo unánime a una "transformación parcial" de la química del cloro mediante el uso de tecnologías o sustancias alternativas, donde esto fuese ecológicamente necesario y económica y socialmente aceptable.
+
+En Alemania un 29% del uso del cloro puede eliminarse cambiando al proceso oxiran.
+
+En paralelo con el trabajo de la Comisión Enquete , en Alemania Prognos ha acometido un estudio más detallado en nombre del BMFT y el Ministerio de Medio Ambiente, Energía y Asuntos Federales del Land Hessen.
+
+Basado en resultados anteriores, este estudio concluyó que un 50% del PVC utilizado actualmente podría sustituirse sin aumento de coste, y un 70% por un aumento de coste muy modesto.
+En cuanto al uso del cloro en la producción del óxido de propileno, el estudio sugiere que el proceso alternativo con oxiran no sólo es viable económicamente sino que es ventajoso desde el punto de vista ecológico.
+Sólo a base de esta sustitución, el estudio Prognos estima que se puede eliminar el 29% del uso de cloro en Alemania.
+En el caso de la química del fosgeno y los policarbonatos, el estudio identificó unas oportunidades limitadas de sustitución que podrían conducir a la eliminación de un 20% del uso del cloro en esta área (un 14% del uso total del cloro).
+Por último, en cuanto a las resinas epóxicas, concluye que se puede eliminar el 60% del uso del cloro cambiando a un proceso alternativo bajo en cloro para la producción de epiclorhidrina, y a través de la sustitución de algunas de las resinas por materiales exentos de cloro.
+En total, el estudio afirma que se podría eliminar el 50% del uso del cloro en un plazo de 15-20 años por un aumento de coste de sólo el 1%.
+
+En Los Países Bajos, un estudio detallado recomendó acciones dirigidas a determinados compuestos clorados solamente ... 
+
+Otro estudio importante fue llevado a cabo recientemente por el TNO y el CML en Los Países Bajos.
+Se formuló el estudio como análisis del flujo de sustancias, abarcando un 99% de los flujos de sustancias cloradas en Países Bajos.
+Supuso la compilación de un inventario de todas las emisiones, generación de residuos, exportaciones, importaciones y transacciones económicas, así como una evaluación de su impacto medioambiental mediante el uso de fuentes de datos tales como la base de datos holandesa para el registro de emisiones, bases de datos de LCA (Life Cycle Analysis), datos industriales, etc.
+El estudio concluye que, en base a los conocimientos actuales sobre las emisiones y la evaluación toxicológica, no parece existir ningún peligro intrínseco relacionado con la cadena del cloro, pero que sí existen incertidumbres importantes merecedoras de atención.
+
+... en cuanto al PVC, las recomendaciones son moderadas, limitándose a sugerir que se preste más atención a su producción y reciclaje.
+
+En base a estos resultados, el Ministerio Holandés del Medio Ambiente optó por no introducir una política específica para los compuestos del cloro en general, por considerar que la política administrativa era suficiente para conseguir una reducción de las emisiones en las áreas donde el cloro presenta la mayor amenaza medioambiental; el cambio climático y la calidad del agua.
+Sin embargo, el Ministerio reconoció la necesidad de medidas complementarias para reducir el riesgo presentado por determinados compuestos clorados.
+Por lo tanto se tomarán medidas específicas relativas al tetracloroetileno (para limpieza en seco), el diclorobenceno (para bolas de la polilla y desodorantes de aseos), el metilcloruro (quitapinturas) y el tricloroetileno (solventes).
+
+En cuanto al uso del PVC, las recomendaciones del estudio son moderadas al sugerir que se preste atención adicional o al producto o a su reciclaje.
+También se esperan más estudios sobre la reducción de emisiones del hipoclorito, empleado en la lejía doméstica, las piscinas, las centrales eléctricas y los sistemas de refrigeración de agua industriales.
+No pudieron formularse conclusiones sobre las emisiones del 1% del uso del cloro en Los Países Bajos que no se vigila, por lo cual el estudio sugiere más investigación de los llamados "microcloros" que pudiesen formarse en pequeñas cantidades en los procesos productivos.
+Estas sustancias, que se producen en reducidas concentraciones, todavía no están abarcadas por las bases de datos de emisiones, y no se tiene una idea muy clara de su impacto medioambiental.
+Se cree que algunas de ellas son persistentes, tóxicas y susceptibles a la bioacumulación.
+
+El 'Major Accidents Hazards Bureau' (MAHB) de la Comisión Europea, el cual mantiene una base de datos dedicada llamada MARS, ha establecido un registro de accidentes importantes.
+MAHB informa que el 10% de los 230 accidentes comunicados por los Estados Miembros involucran principalmente fugas de cloro en forma pura, provenientes de instalaciones fijas, además de algunos casos relacionados con los compuestos clorados.
+
+Las estrategias y la posición de la industria: se precisan visiones a corto y largo plazo 
+
+La parte visible de los esfuerzos de la industria contribuye al debate con los grupos ecológicos y las autoridades públicas.
+La industria considera que criterios científicos bien fundamentados son un requisito indispensable para la toma de decisiones, y es reacia a aceptar interpretaciones simplistas de los acontecimientos ecotoxicológicos.
+Los ecologistas, por su parte, creen que esta actitud es un intento sistemático para frenar la acción.
+
+Una parte menos visible de la agenda de la industria, con objetivos a largo plazo, es el desarrollo de técnicas y productos alternativos que limiten o eliminen el uso del cloro o atenúen los riesgos concomitantes de su uso y eliminación final.
+Ha habido varios casos de acertada innovación en la industria y claras señales de que están menguando los mercados tradicionales del cloro, tales como los solventes clorados y el uso del cloro elemental en la industria papelera y de pasta papelera.
+
+En EE.UU. la industria del cloro respondió a la manifestación de la EPA, acerca de una estrategia enfocada para el cloro, fortaleciendo su Consejo para la Química del Cloro, concretándose posteriormente en un estudio realizado por Charles River Associates afirmando que el cloro y sus productos son indispensables para la economía estadounidense.
+
+En Alemania, la posición de la industria queda claramente reflejada en la evaluación del estudio Prognos efectuada por la Asociación de Industrias Químicas Alemanas (VCI).
+En ella se contiende que el estudio se enfoca excesivamente sobre la situación alemana aisladamente, haciendo caso omiso de la influencia del mercado global que es especialmente fuerte en el caso del cloro.
+
+Según la VCI, "la transformación de la química del cloro" sólo debería considerarse en casos de urgente necesidad ecológica o toxicológica.
+Agrega que tales casos no existen, y que el enfoque adoptado en el estudio Prognos para la evaluación ecológica y económica era inválido, y que en todo caso estaba basado en datos incompletos, erróneos y en parte no actualizados.
+En referencia a la viabilidad económica de la sustitución del método de producción con óxido de propileno por el proceso oxiran, la VCI duda que los inversores adopten esta opción, incluso en las plantas nuevas.
+Además, la VCI afirma que no se tomaron en consideración en el estudio Prognos los riesgos ecológicos del proceso oxiran.
+En cuanto al PVC, la VCI discrepa del método y los criterios aplicados por Prognos en la evaluación de las ventajas ecológicas asociadas de sustituir al PVC por otros materiales poliméricos.
+
+A nivel europeo, y en vista de las iniciativas emergentes para ir eliminando el uso del cloro, Euro Chlor, federación de los fabricantes europeos de cloro radicada en Bruselas, ha emprendido una campaña para persuadir al público que el cloro es esencial en muchas actividades humanas importantes, y que la industria ha procurado en lo posible aminorar los riesgos potenciales.
+Contiende que hay un futuro sostenible para un número de usos del cloro que no presentan ningún riesgo para el medio ambiente.
+En este contexto, la máxima prioridad de Euro Chlor es recopilar información sobre el impacto sanitario y ecológico de los productos basados en cloro.
+Se está montando una base de datos llamada el Coordinated Orbital Monitoring Programme Alarm Security System (COMPASS) para vigilar la información científica mundial sobre los productos que contienen cloro.
+
+Debe investigarse más la posibilidad de que los compuestos clorados imiten los estrógenos.
+
+Necesidades y prioridades de la I+D 
+
+Se han expresado recientemente inquietudes sobre la posibilidad de que los productos químicos presentes en el medio ambiente sean capaces de imitar la acción de las hormonas animales y humanas, los estrógenos.
+La hipótesis es que estos productos químicos pueden ligarse con los receptores de estrógeno para producir una variedad de efectos secundarios nocivos en el sistema reproductivo.
+Sin embargo, se reconoce generalmente que aun faltan unos años para que tengamos un entendimiento de las hipótesis o los mecanismos subyacentes o cualquier relación de actividad estructural asociada con el mimetismo del estrógeno.
+Euro Chlor está trabajando con CEFIC sobre esta cuestión, ya que cree que hay insuficientes pruebas científicas para demostrar un vínculo entre los compuestos clorados y cualquier anormalidad reproductiva.
+Otras áreas que exigen más investigación incluyen los problemas endocrinos asociados; la evaluación del riesgo derivado de los compuestos clorados en el agua potable; los llamados microcloros, el metabolismo de los compuestos emitidos; y la toxicidad combinada de los productos químicos.
+
+En general se prevé que constituirá un tema importante de futuros debates la necesidad de procedimientos mejorados para "la gestión del riesgo en áreas de incertidumbre" y el "análisis del ciclo de vida".
+Se considera una clara prioridad la investigación en esta campo.
+
+Conclusiones 
+
+La perfección de las herramientas existentes para la evaluación y gestión de riesgos por cierto ayudaría a resolver la polémica actual en torno al futuro de la industria del cloro.
+
+La industria defiende, con todos los conocimientos y recursos técnicos y científicos a su alcance, los principales usos tradicionales del cloro en la industria del plástico tales como en el PVC, el óxido de propileno y las resinas epóxicas.
+En estos casos, mejoras en las modernas técnicas de reciclaje e incineración sustentan la justificación de más inversiones a largo plazo a pesar del acalorado debate actual.
+
+Un Plan de Acción para el cloro en la UE ayudaría a armonizar las medidas entre los Estados Miembros y contribuiría a un diálogo más positivo con la industria.
+
+A nivel de la UE, todavía no se ha elaborado una iniciativa de política que acometa una estrategia global para el cloro.
+Sin embargo, ya que varios Estados Miembros y EE.UU. adoptan posturas de relieve sobre el cloro, sería deseable un plan de acción para la UE a fin de crear un marco en el que armonizar las medidas de los Estados Miembros, y pautas para marcar los intereses de la UE en las negociaciones internacionales.
+Además, ayudaría a la industria química a entablar un diálogo más constructivo.
+
+En cuanto a la evaluación y la gestión del riesgo de los productos químicos como tales, las herramientas principales de que dispone la UE aparecen en la Norma 793/93 (Sustancias Existentes) y los Directivos 92/32 (Sustancias Nuevas) y 76/769 (Limitación de Mercados y Usos).
+El foro apropiado para discusiones sobre la eliminación gradual o restricciones del uso de los productos, con los cambios considerables que esto supone para el mercado interno, es el Directivo 76/769.
+Al amparo de este Directivo, la Comisión está elaborando una propuesta para limitar algunos usos de los solventes clorados.
+
+La Directiva Integrado sobre la Prevención y el Control de la Contaminación (IPPC), actualmente en fase de elaboración, podría ayudar a acometer varios aspectos problemáticos del "debate del cloro", tales como la producción del cloro, el óxido de propileno y las resinas epóxicas y la incineración de los residuos.
+Esta Directiva proporciona medios adecuados para la evaluación sistemática de las rutas de producción que deberían adoptarse como BATs (Best Available Techniques - Mejores Técnicas Disponibles).
+El riguroso uso de las descripciones BAT en los futuros procedimientos de autorización a nivel de la UE propiciará la futura evolución de las tecnologías de fabricación y las capacidades asociadas con la producción y el uso del cloro hacia soluciones ecológicamente más deseables.
+
+Es esencial reconocer ya las tendencias hacia la sustitución del cloro para un análisis de las perspectivas y la competitividad de la industria química europea.
+
+Si bien no está claro todavía la aportación económica que estén dispuestos a hacer o los gobiernos o la industria hacia el esfuerzo de investigación del cloro, parece que la industria, además de sus campañas de relaciones públicas para convencer al público que los compuestos del cloro son seguros, ha comenzado a estudiar opciones de sustitución en varias áreas donde hay señales crecientes de que la sociedad no está dispuesta a aceptar la incertidumbre científica y los riesgos.
+
+[1] CHC: hidrocarburos clorados
+
+[2] previsión cumulativa para el período 1994-1999
+
+[2] previsión cumulativa para el período 1994-1999

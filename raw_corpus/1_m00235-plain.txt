@@ -1,0 +1,304 @@
+
+Problemas de la terapia génica 
+
+La idea de utilizar genes para tratar enfermedades constituye un objetivo apremiante, pero queda mucho camino que recorrer antes de alcanzar esa meta.
+
+A finales del siglo XX, los colegas de Daniel H., Burnham, arquitecto de algunos de los primeros rascacielos modernos, se mostraban escépticos ante la idea de levantar edificios que se perdiesen en las nubes.
+Según se cuenta, Burnham les animaba a rebelarse contra los «proyectos de poca monta», faltos de «magia para hacer bullir la sangre».
+Les incitaba a transgredir los límites de la arquitectura tradicional, a pensar lo inconcebible y a perder el miedo a la imaginación desbocada.
+En definitiva, a revolucionar la arquitectura.
+
+En medicina se han producido también cambios revolucionarios en los últimos siglos.
+Nuestra praxis y conocimientos deben muchísimo a la introducción de la microscopía, anestesia, vacunación, antibióticos y al desarrollo de las técnicas de trasplantes.
+La medicina se prepara ahora para acometer otro salto histórico, para entrar en una era en que se emplearán de forma rutinaria los genes en la sanación o alivio de enfermedades de todo tipo, heredadas y adquiridas.
+
+Pero ese día aún no ha llegado.
+
+Ciertos investigadores, industriales y periodistas han puesto un énfasis excesivo en las expectativas y han silenciado las dificultades o restado su importancia.
+Con semejante actuación, han sembrado la idea de que la terapia génica era ya un hecho y su aplicación generalizada algo a la vuelta de la esquina.
+Y no es verdad.
+
+En su parte teórica, la revolución de la terapia génica sí se ha producido.
+
+Siempre que se descubre un nuevo gen, la pregunta inmediata es la relativa a sus posibilidades de aplicación en el tratamiento de alguna enfermedad, aun cuando existan métodos tradicionales para hacerle frente.
+Pero la parte técnica de la revolución, su capacidad real de corregir las enfermedades, eso es harina de otro costal.
+Se han cubierto ya las primeras etapas.
+Se ha demostrado que puede conseguirse que los genes transferidos funcionen en el cuerpo humano, y lo hagan, a veces, durante años.
+Sin embargo, ningún ensayo ha logrado todavía restablecer la salud de uno solo de los más de 2000 pacientes que participan en las pruebas de terapia génica que se desarrollan por todo el mundo.
+
+Esta falta de eficacia terapéutica convincente resulta preocupante.
+Pero sería un error dudar del potencial futuro de la terapia génica.
+No se olvide que nos hallamos ante un campo muy joven.
+En los Estados Unidos, los ensayos con pacientes tienen menos de diez años.
+
+Interpretaremos con mayor veracidad esa carencia de efectos clínicos espectaculares si la consideramos reflejo de los titubeos iniciales de los investigadores en la utilización de una técnica nueva y difícil y si reconocemos que los obstáculos son mayores de lo esperado.
+
+Uno de los retos, apuntaba en 1995 un informe federal sobre la investigación en terapia génica, estriba en refinar los métodos empleados para insertar genes terapéuticos en las células.
+
+Con frecuencia, los genes que se introducen en los pacientes no llegan a un número suficiente de células adecuadas o, por razones no siempre claras, funcionan mal, cuando no dejan de hacerlo pasado un tiempo.
+En esas condiciones, un gen potencialmente beneficioso tendría pocas posibilidades de influir en el desarrollo de una enfermedad.
+
+Me limitaré a describir algunos de los principales obstáculos técnicos que impiden el éxito de la transferencia génica; expondré, asimismo, las estrategias abordadas para superar tales dificultades.
+Me ceñiré a las terapias que afectan a las células somáticas, las que no son ni espermatozoides ni óvulos. 
+De momento, las investigaciones sobre terapia génica humana han evitado las manipulaciones que pudieran afectar, de forma involuntaria quizás, a los descendientes de los individuos tratados.
+
+Para entender los obstáculos con que se enfrenta la terapia génica es preciso conocer al menos los rudimentos sobre el funcionamiento de los genes y sobre las líneas generales de la terapia génica que se pretende.
+Un gen de una célula humana es un segmento de ADN que, en la mayoría de los casos, cifra la información para fabricar una proteína específica.
+Todas las células del cuerpo portan los mismos genes en los cromosomas que están en el núcleo.
+Pero las células nerviosas, por ejemplo, no se comportan igual que las hepáticas.
+Células distintas utilizan, o expresan, subgrupos diferentes de genes y, por tanto, fabrican grupos diversos de proteínas (principales operarios celulares). 
+
+Dicho con mayor exactitud, cada célula copia sólo un grupo selecto de genes en moléculas de ARN mensajero, que son las que sirven de molde para la síntesis de proteínas. 
+
+Si un gen particular muta, su producto proteínico puede no fabricarse, funcionar poco o hacerlo de forma demasiado agresiva.
+En cualquier caso, el defecto puede alterar funciones vitales de las células y tejidos que utilizan el producto génico normal y, en consecuencia, originar alguna enfermedad.
+
+Históricamente, el tratamiento que han dado los médicos a las enfermedades debidas a mutaciones genéticas hereditarias no ha ido en el sentido de alterar los genes, sino en el de intervenir sobre las consecuencias biológicas de la mutación.
+
+Por ejemplo, en caso de fenilcetonuria, patología en la que la pérdida de un gen determina la acumulación de productos tóxicos procedentes del metabolismo de la fenilalanina, se prescriben dietas muy restrictivas, carentes de ese aminoácido.
+
+Por desgracia, la eficacia de las intervenciones no genéticas ante enfermedades hereditarias suele ser parcial.
+
+A principios de los años setenta, esa observación, sumada al conocimiento cada vez mayor del funcionamiento de los genes y al descubrimiento de los genes responsables de muchas enfermedades, indujo a pensar en las posibilidades de obtener mejores resultados atacando a las enfermedades congénitas en su origen.
+
+Entre las enfermedades genéticas investigadas recordaremos la fibrosis quística (que afecta principalmente a los pulmones), la distrofia muscular, la deficiencia en desaminasa de adenosina (que debilita el sistema inmunitario) y la hipercolesterolemia familiar (que determina una aparición temprana de aterosclerosis grave).
+
+Para sorpresa de todos, andando el tiempo se comprobó que las propias enfermedades adquiridas presentaban a menudo un componente genético que, en teoría, podría ser blanco de una estrategia genética de corrección de la enfermedad.
+
+La verdad es que más de la mitad de todos los ensayos clínicos de terapia génica que se están llevando a cabo se refieren al cáncer, que en la mayoría de los casos no es hereditario, sino consecuencia de daños genéticos acumulados desde el nacimiento.
+Otros ensayos se centran en el sida, causado por el virus de inmunodeficiencia humana ( VIH).
+
+En principio, un gen normal podría insertarse directamente en un cromosoma de una célula, donde ocupara el lugar de su versión defectuosa.
+En la práctica, sin embargo, no podemos realizar todavía en una persona semejante sustitución.
+Mas, para nuestra fortuna, no siempre se requiere tal procedimiento.
+La mayoría de los ensayos de terapia génica introducen el gen sano en un tipo celular seleccionado, para compensar la falta o mal funcionamiento de la versión endógena, o para crear una propiedad nueva.
+Muchas de las terapias génicas propuestas contra el cáncer trabajan en esa línea; se proponen que las células cancerosas fabriquen sustancias que sean tóxicas para ellas mismas, provoquen una enérgica respuesta del sistema inmunitario o corten el suministro de sangre que los tumores necesitan para seguir desarrollándose. 
+
+Algunos grupos están también ensayando estrategias para compensar mutaciones genéticas que determinan la producción de proteínas destructivas.
+Así ocurre en la terapia antisentido, planteamiento que se funda en la producción de cadenas cortas de ADN sintético que se unen a los transcritos de ARN mensajero de los genes mutantes, impidiendo, por ende, su traducción en proteínas anormales.
+Otras tácticas parecidas utilizan ribozimas, pequeñas moléculas de ARN que degradan los ARN mensajeros de los genes aberrantes.
+Un caso diferente nos lo ofrecen los genes que fabrican anticuerpos intracelulares, que bloquean la actividad de la proteína mutante.
+
+Por fin, hay estrategias terapéuticas que se basan en el diseño de moléculas híbridas de ADN y ARN que podrían dirigir la reparación del gen mutado.
+
+Contamos con dos formas principales de suministrar genes a los pacientes.
+En ambos procedimientos los genes se introducen de antemano en vectores, moléculas que transportan los genes foráneos hasta el interior de las células. 
+En el método usual, se extraen células de un tejido seleccionado del paciente, se incuban en el laboratorio con los vectores que transportan los genes y se reimplantan las células corregidas genéticamente en el paciente (terapia ex vivo ).
+En otros casos, se introducen los vectores directamente en el cuerpo, de ordinario en los tejidos que se van a tratar (terapia in vivo ).
+El objetivo último, por supuesto, es conseguir que los vectores penetren en el torrente sanguíneo o en otros sitios y encuentren su camino hacia las células deseadas, por ejemplo, órganos que son difíciles de alcanzar o depósitos cancerosos ocultos.
+No se dispone aún de ninguno de esos transportadores dirigidos para ensayarlo en pacientes, pero se progresa por días en ese sentido.
+
+En el cuerpo, ciertos genes sólo son útiles si su expresión está regulada de forma precisa. 
+Dicho de otra manera: deben producir la cantidad justa de proteína en el momento adecuado.
+No se ha alcanzado todavía ese grado de precisión en los genes foráneos introducidos en el cuerpo.
+
+Para muchos casos de terapia génica, sin embargo, no resulta imprescindible una regulación tan exquisita. 
+No siempre será obligado introducir los genes en las mismas células que los van a necesitar.
+A veces, algunos tipos celulares más accesibles (por ejemplo, el músculo o la piel) podrían convertirse en factorías de proteínas.
+
+Esas centrales liberarán las proteínas que otras células cercanas demandan o segregarán proteínas al torrente sanguíneo para su traslado hasta sitios más alejados.
+
+La clave del éxito de cualquier estrategia reside en el vector, en su capacidad de transportar genes de una forma segura y eficaz.
+Desde un principio, los virus, que son poco más que genes que se autorreplican envueltos en una cubierta de proteínas, han sido los vectores potenciales que han recabado mayor atención.
+Por una razón comprensible:
+la evolución los ha diseñado específicamente para que entren en las células y expresen allí sus genes.
+Además, podemos sustituir algunos de los genes implicados en la replicación vírica y en la virulencia por uno o más genes potencialmente terapéuticos.
+En teoría, un virus así manipulado y alterado introduciría los genes beneficiosos en las células, pero no se multiplicaría ni causaría enfermedades.
+
+Los virus más socorridos son los retrovirus, que introducen sus genes, de forma permanente, en los cromo somas de las células que invaden.
+
+Los genes integrados se copian y transmiten a todos los descendientes de esas células.
+Muchos otros tipos de virus, sin embargo, no integran su material genético en los cromo somas de sus hospedadores.
+Sus genes acostumbran comportarse en el cuerpo de una manera más fugaz, en parte porque no se replican cuando las células receptoras se dividen.
+
+Un grupo ideal de células diana para los vectores basados en retrovirus son las células madre o troncales, que persisten indefinidamente y producen también descendientes especializados.
+Las células hematopoyéticas, por ejemplo, originan todos los tipos celulares de la sangre (eritrocitos, leucocitos del sistema inmunitario, etc.) y reconstituyen la sangre cuando es necesario; también producen copias de sí mismas.
+El problema está en que resulta sumamente difícil identificar células madre humanas y modificarlas de un modo predecible y seguro.
+
+Pese a su indudable atractivo, los retrovirus, que empezaron a utilizarse como vectores a principios de los años ochenta, plantean algunos problemas.
+Son promiscuos y depositan sus genes en los cromosomas de muchos tipos celulares distintos. 
+Esta falta de especificidad en cuanto al tipo de célula hospedadora constituye un claro inconveniente contra el uso directo de esos vectores en el cuerpo humano.
+Podrían provocar que los genes foráneos penetraran en células inadecuadas, con lo que disminuiría la eficacia de incorporación en las células diana; sin mencionar, además, los efectos fisiológicos no deseados que ello comportaría. 
+Por otra parte, los retrovirus con los que se trabaja actualmente no pueden transferir genes a tipos celulares incapaces de dividirse o que lo hacen raramente (como las neuronas maduras y las células del músculo esquelético). 
+Los vectores retrovíricos en uso se integran en los cromosomas sólo cuando las membranas que rodean al núcleo de las células hospedadoras se disuelven, lo que sólo ocurre durante la división celular. 
+
+Otro problema que plantean los retrovirus es que integran su ADN al azar en el cromosoma de la célula hospedadora, en vez de hacerlo en sitios predecibles.
+Según donde se insiera, puede destrozar un gen esencial o alterarlo de suerte tal que induzca un desarrollo canceroso.
+La posibilidad de que se produzca un tumor puede ser remota, pero aun así tal riesgo no debe despreciarse.
+
+Se han registrado ciertos avances encaminados a paliar las carencias de los retrovirus en su tarea vectora de genes. 
+Así, para incrementar la especificidad y hacer que los retrovirus, una vez en el cuerpo, se dirijan a determinados tipos celulares, se investiga en la modificación de la cubierta del virus (la superficie exterior).
+Como ocurre con otros virus, los retrovirus sólo introducen su carga genética en el interior de una célula si unas proteínas de su superficie encuentran sitios específicos a los que unirse (receptores), que se hallan en la superficie celular. 
+La unión de las proteínas víricas con los receptores celulares permite que la cubierta externa del retrovirus se funda con la membrana celular y pueda así introducir genes víricos y proteínas en el interior de la célula.
+Para conseguir retrovirus más selectivos en relación con las células que invade, se pretende reemplazar o modificar las proteínas naturales de la cubierta, así como añadir nuevas proteínas o porciones de proteínas a las ya existentes.
+
+En un experimento que demostraba la viabilidad de la estrategia de sustitución, Jiing-Kuan Yee, de la Universidad de California en San Diego, sustituyó la proteína de la cubierta del virus de la leucemia de ratón por la del virus de la estomatitis vesicular humana.
+(El virus de ratón, que no causa ninguna enfermedad conocida en humanos, es el retrovirus con más posibilidades de convertirse en vector en terapia génica.) 
+El retrovirus de ratón alterado infectó células que portaban receptores para el virus de la estomatitis vesicular humana, pero dejó intactas las que portaban receptores para el propio virus de ratón.
+
+También se han cosechado importantes progresos en las investigaciones encaminadas a modificar las proteínas ya existentes en la cubierta vírica.
+El grupo encabezado por Yuet Wai Kan, de la Universidad de San Francisco, han unido una hormona proteínica a la proteína de la cubierta del virus de la leucemia de ratón.
+Esa hormona permitía al virus infectar células humanas que presentaban el receptor para esa hormona.
+
+Se confía en que, pronto, se preparen vectores retrovíricos capaces de insertar genes terapéuticos en los cromosomas de células que no se dividen.
+Inder M., Verma, Didier Trono y su equipo, del Instituto Salk, han aprovechado la capacidad que tiene el VIH (un retrovirus) para depositar sus genes en el núcleo de células del cerebro que no se dividen, sin esperar a que la membrana nuclear se disuelva durante la división celular.
+
+Sustituyeron los genes responsables de la reproducción del VIH por un gen para una proteína cuyo rastro podía seguirse bien.
+El vector trasladó luego ese gen hasta células que no se replicaban; lo hizo primero en cultivos y luego cuando se inyectó directamente en el cerebro de ratas.
+El VIH podría convertirse en vehículo eficaz si se consigue descartar totalmente la posibilidad de que los vectores manipulados se tornen patogénicos.
+Otra posible táctica consiste en transferir ciertos genes útiles del VIH, en particular los que cifran las proteínas que transportan los genes hasta el núcleo, a retrovirus que no producen enfermedades en humanos.
+
+Por último, hay quienes investigan sobre cómo recortar la aleatoriedad con que los vectores retrovíricos insertan genes en los cromosomas humanos.
+Se parte del conocimiento adquirido en las levaduras y otros organismos, donde se puede integrar genes en sitios predecibles de su ADN.
+
+Los vectores víricos, retrovíricos aparte, presentan sus propias ventajas y desventajas.
+Los que se fundan en adenovirus humanos, ubicuos, constituyen la opción alternativa a los retrovirus más acariciada, en parte por su notable seguridad.
+Lo peor que puede esperarse de las formas habituales de adenovirus es un resfriado de pecho. 
+Además, infectan fácilmente a las células humanas y, al menos inicialmente, tienden a producir elevados niveles de la proteína terapéutica.
+
+Los vectores adenovíricos, aunque introducen genes en el núcleo, no los insertan en los cromosomas.
+Se evita así la posibilidad de que se alteren genes vitales o de que coadyuven al desarrollo de un cáncer.
+Tienen en su contra que, para algunas aplicaciones, la eficacia de los genes es temporal.
+
+Puesto que el ADN acaba desapareciendo, los tratamientos de la fibrosis quística y otras enfermedades crónicas deberían repetirse con cierta periodicidad (de meses o años).
+En algunas situaciones, sin embargo, en las que una proteína sólo se necesita transitoriamente para inducir una respuesta inmunitaria al cáncer o a un patógeno, puede resultar deseable que el gen foráneo sólo se exprese durante un breve intervalo.
+Otro inconveniente, compartido con los retrovirus, es la falta de especificidad celular.
+No obstante, igual que acontece con los retrovirus, se trabaja en métodos para encarrilar los vectores adenovíricos hacia los tejidos deseados. 
+
+De momento, el principal obstáculo que se opone al uso de vectores adenovíricos en pacientes estriba en la enérgica respuesta inmunitaria que provocan.
+Tras un primer tratamiento, esos vectores podrían infectar las células apropiadas y generar grandes cantidades de las proteínas deseadas.
+
+Pero, enseguida, las defensas del hospedador se ponen en marcha, matando a las células alteradas e inactivando a sus nuevos genes.
+Una vez, alertado el sistema inmunitario contra los virus, éstos no tardan en quedar eliminados en cuanto se introducen por segunda vez.
+A ese tipo de respuestas podría atribuirse la caída de la expresión génica en muchos de los estudios de transferencia génica mediada por adenovirus realizados con pacientes.
+El conocimiento preciso de las limitaciones que presentan los adenovirus está permitiendo avanzar en el desarrollo de una nueva generación de vectores, diseñados para reducir las interferencias defensivas.
+Se han alcanzado ya algunas mejoras desechando o matando los genes adenovíricos que ejercen un mayor protagonismo en la repuesta inmunitaria.
+
+También se están estudiando las posibilidades vehiculares que ofrecen otros virus.
+Me refiero a los virus asociados con los adenovirus, los herpesvirus, alfavirus y poxvirus.
+Aunque ninguno reúne todas las perfecciones, es posible que exista alguna aplicación terapéutica para cada uno de ellos.
+Por ejemplo, el interés de los virus asociados con los adenovirus reside en que no producen enfermedades conocidas en el hombre.
+Además, sus formas naturales integran sus genes en los cromosomas humanos. 
+Pueden mostrarse útiles en algunas aplicaciones que ahora se reservan a los retrovirus; ahora bien, al ser más pequeños, presentan el inconveniente de su incapacidad para incorporar genes grandes.
+Los herpesvirus, por contra, no integran sus genes en el ADN de sus hospedadores; pero son atraídos hacia las neuronas, algunas de las cuales retienen a los virus en un estado más o menos inocuo durante toda la vida de las personas afectadas.
+
+De ahí que se haya pensado en los herpesvirus para emplearlos como vectores en las terapias de enfermedades neurológicas. 
+
+En conjunto, los vectores víricos siguen siendo muy prometedores, aunque debamos extremar las precauciones para asegurarnos de que los virus no experimentarán cambios que induzcan enfermedades.
+Esta y otras consideraciones han potenciado el desarrollo de métodos que prescinden del recurso a los virus para transferir genes terapéuticos. 
+Al igual que los virus, esos agentes sintéticos son básicamente ADN combinado con moléculas que pueden condensar el ADN, introducirlo en las células y protegerlo de su posible degradación en el interior celular. 
+Y, lo mismo que los vectores víricos, es casi seguro que se utilizarán en la práctica médica cuando logren refinarse mucho más.
+
+En el laboratorio, los genes transferidos por los vectores no víricos se integran en los cromosomas de las células receptoras; su eficacia es, sin embargo, muy baja cuando se introducen en el cuerpo.
+El que la falta de integración sea una ventaja o una desventaja dependerá, como ya hemos mencionado, de los objetivos particulares de la terapia.
+
+Se llaman liposomas unas perlas pequeñas de grasa. 
+En ellos se viene investigando desde hace casi tanto tiempo como en los retrovirus.
+Esas esferas sintéticas pueden prepararse para que encierren en su interior un plásmido, un bucle de ADN estable, que porte los genes terapéuticos. 
+La transferencia génica mediada por liposomas ("lipoplejos") es mucho menos eficaz que la transferencia mediada por virus, pero se ha desarrollado lo suficiente como para que ensayarla en tratamientos del cáncer y la fibrosis quística. 
+Mientras tanto, para resolver el problema de la eficacia, se están estudiando los efectos de la alteración de la composición química de los liposomas; de hecho, se han empezado a crear vectores que remedan a los virus en su capacidad para alcanzar dianas específicas y en su destreza para transferir genes.
+
+Otros vectores utilizan revestimientos no lipídicos para proteger el ADN.
+Algunos de esos revestimientos están formados por polímeros de aminoácidos y otras sustancias cuya función es dirigir los genes terapéuticos hacia las células adecuadas en el cuerpo y proteger a los genes de la degradación por enzimas celulares.
+Esos complejos, investigados por Max Birnstiel y Matt Cotten, del Instituto de Patología Molecular de Viena, y por David T. Curiel, de la Universidad de Alabama en Birmingham, se han comportado bien en cultivos celulares.
+Ya se están perfeccionando para su uso en animales y en pacientes.
+
+Hay quienes están experimentando con la posibilidad de la inyección directa de ADN desnudo, esto es, sin la envoltura lipídica, en los pacientes.
+
+De sus resultados iniciales se desprende que se trata de una estrategia prometedora en la inmunización contra enfermedades infecciosas e incluso contra ciertos tipos de cáncer. 
+
+También se buscan alternativas a los plásmidos. 
+En particular se están preparando cromosomas en miniatura, o cromosomas humanos artificiales, en los que se puedan incluir los genes terapéuticos.
+Esas construcciones llevan la mínima cantidad de material genético necesaria para evitar su degradación en el núcleo y su pérdida durante la división celular.
+
+Incorporan, asimismo, elementos que permiten la replicación fiel de los cromosomas artificiales cada vez que una célula se divide, igual que lo hacen los cromosomas normales.
+
+En el futuro, como ahora, los investigadores elegirán el método de transferencia génica en función de los objetivos terapéuticos.
+Si un paciente ha heredado un defecto genético y necesita un aporte continuo del producto génico normal durante toda su vida, la mejor opción puede ser un vehículo que integre de forma estable el gen terapéutico en los cromosomas el paciente. 
+En ese caso, se elegirá un retrovirus o un virus asociado a los adenovirus.
+Si sólo se necesita una actividad génica transitoria, como para estimular al sistema inmunitario contra células cancerosas o agentes infecciosos, lo más adecuado puede ser un vehículo no integrativo, como los adenovirus, liposomas o incluso el ADN desnudo.
+
+Pero, casi con toda seguridad, las herramientas del futuro no van a ser los prototipos que se están ensayando hoy en los laboratorios.
+Y no habrá una técnica ideal para cada enfermedad, sino que existirán muchas opciones.
+Los sistemas de transferencia génica ideales serán los que combinen las mejores características de diferentes vectores.
+Cada sistema se adaptará al tejido específico o tipo celular que requiera la modificación, a la duración precisa de la actividad génica y al efecto fisiológico deseado del producto génico. 
+La ciencia se afanará por desarrollar procedimientos para alterar el nivel de expresión génica a voluntad y de inactivar o eliminar los genes introducidos si la terapia ha fracasado.
+
+Pero los problemas no habrán acabado, ni siquiera cuando se consiga perfeccionar los vectores para transferir genes. 
+Sabemos, por ejemplo, que las células modifican a veces los genes foráneos y los inactivan.
+
+En ello se trabaja, pero no se ha encontrado todavía la solución.
+Tampoco conocemos cómo responderán los sistemas defensivos de los pacientes ante la presencia de una proteína procedente de un gen terapéutico. 
+Para impedir una reacción inactivante por parte del sistema inmunitario, los médicos quizá tengan que inyectar a los pacientes fármacos antirrechazo o inducir una tolerancia inmunitaria frente a la proteína foránea, realizando la terapia génica en un momento muy temprano de la vida del paciente (antes de que su sistema inmunitario haya madurado).
+
+Aunque he insistido en los obstáculos técnicos con que se enfrenta la terapia génica, no por ello dejo de ser muy optimista en cuanto a los resultados esperanzadores, que quizá pronto veamos en ciertas enfermedades.
+Nuestras herramientas mejoran rápidamente y algunos de los ensayos clínicos que se llevan a cabo están a punto de demostrar su eficacia terapéutica, incluso con las limitaciones de las técnicas actuales.
+En especial, las inmunoterapias basadas en la utilización de genes, aplicadas contra ciertas condiciones malignas, como los neuroblastomas y melanomas, parece que van a demostrar convincentemente su eficacia a la hora de reducir el desarrollo de la patología y de promover la regresión de los tumores ya formados. 
+Ello permitirá aumentar la eficacia de las terapias ya existentes.
+Pero debo insistir en que sólo con una ciencia rigurosa, estudios clínicos cuidadosamente diseñados y una más sosegada difusión de los resultados experimentales, los investigadores podrán asegurar el oportuno, ético y eficaz desarrollo de este nuevo y excitante campo de la medicina.
+
+Figura 1
+
+LA INTRODUCCIÓN DE GENES en humanos se puede llevar a cabo encarrilando directamente ( flecha naranja ) los vectores (agentes que portan los genes con capacidad terapéutica) hacia los tejidos deseados ( in vivo )
+
+No obstante, la estrategia ex vivo ( flechas azules ) es más frecuente.
+
+En ella, los médicos extraen células de un paciente, les agregan en el laboratorio el gen deseado y las vuelven a introducir en el paciente una vez corregidas genéticamente. 
+Una de las estrategias in vivo actualmente en estudio se basa en la utilización de vectores idóneos, que se inyecten en la corriente sanguínea o en otra parte y se dirijan hacia tipos celulares específicos de cualquier parte del cuerpo.
+
+Figura 2
+
+LOS VIRUS ( dibujo inferior ) introducen su material genético en las células
+
+Integren o no sus genes en el ADN de las células infectadas, enseguida comienzan a dirigir la síntesis de nuevas partículas víricas, que pueden dañar a la célula e infectar a otras.
+Para convertir un virus silvestre en un vector seguro de terapia génica, se sustituyen genes víricos por otros que determinan proteínas terapéuticas ( dibujo superior ), dejando sólo las secuencias víricas necesarias para la expresión génica.
+Tales vectores entran en las células y producen las proteínas benefactoras, pero no se multiplican.
+
+Tabla 1
+
+Algunas ventajas potenciales
+
+Retrovirus.
+Los genes se integran en los cromosomas hospedadores, ofreciendo estabilidad a largo plazo .
+Adenovirus.
+La mayoría no produce enfermedades graves; notable capacidad para albergar genes foráneos .
+Virus asociados a los adenovirus.
+Los genes se integran en los cromosomas hospedadores; no causan enfermedades conocidas en humanos.
+Liposomas.
+No portan genes víricos y, por tanto, no producen enfermedades.
+ADN «desnudo».
+Lo mismo que los liposomas; puede ser útil en vacunas.
+Algunos inconvenientes de los vectores existentes.
+Retrovirus.
+Los genes se integran aleatoriamente y pueden, pues, fragmentar genes del hospedador; muchos infectan sólo células en división.
+Adenovirus.
+Los genes pueden funcionar transitoriamente, debido a la falta de integración o a los ataques del sistema inmunitario.
+Virus asociados a los adenovirus.
+Escasa capacidad para genes foráneos .
+Liposomas.
+Transfieren genes a las células con menos eficacia que los virus.
+ADN «desnudo» .
+Ineficaz a la hora de transferir genes; inestable en la mayoría de los tejidos.
+
+
+Figura 3
+
+LOS VECTORES que se diseñan para introducir genes en las células pueden ser víricos y no víricos 
+
+Cada vector prototípico presenta ventajas e inconvenientes; se trabaja en la modificación precisa de los mismos que permita incrementar su eficacia en los pacientes.
+
+Figura 4
+
+LOS VIRUS DEBEN UNIRSE a moléculas específicas presentes en la superficie celular, o receptores, para poder atravesarla
+
+El virus de la leucemia de ratón utiliza una proteína de su cubierta para unirse a un receptor que hay en muchos tipos celulares ( izquierda ). 
+Los expertos han alterado esa proteína de la cubierta, añadiéndole nuevos componentes ( centro ) o sustituyéndola por otras ( derecha ), y han conseguido que el virus se una a células que no son las que reconoce normalmente.
+Con tácticas similares se pueden enviar otros vectores a tipos celulares específicos. 
+
+Figura 5
+
+CÉLULA DE CEREBRO HUMANO a la que se le ha introducido un vector basado en el virus VIH
+
+El vector porta un gen que determina una proteína de fácil seguimiento ( amarillo ).
+Se demuestra así que estas formas atenuadas del VIH, un retrovirus, pueden servir para introducir genes terapéuticos en las neuronas.
+Estas células, que no se dividen, son resistentes a los vectores retrovíricos tradicionales.

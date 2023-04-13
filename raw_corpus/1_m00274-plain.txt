@@ -1,0 +1,448 @@
+
+Genética de poblaciones
+
+CONCEPTOS DEL CAPÍTULO
+
+Los individuos pueden llevar sólo dos alelos diferentes de un gen dado.
+Un grupo de individuos puede llevar un gran numero de alelos diferentes, dando lagar a un reservorio de diversidad genética.
+La diversidad que tiene una población se puede medir con la ley de Hardy-Weinberg. 
+La mutación es la única fuente de variabilidad genética, y otros factores como la deriva, la migración y la selección pueden alterar la cantidad de variación genética en poblaciones.
+
+Cuando Charles Darwin publicó El origen de las especiesen 1859 después de la publicación conjunta con Alfred Russel Wallace sobre los mecanismos probables de la selección natural, establecieron los fundamentos de la interpretación moderna de la evolución.
+Aunque los organismos son capaces de reproducirse de forma exponencial, Wallace y Darwin observaron que no se lleva a cabo este potencial de crecimiento de las especies.
+Por el contrario, en la naturaleza el número de individuos de una población permanece relativamente constante.
+Por consiguiente, tanto Wallace como Darwin dedujeron que debía darse alguna forma de lucha competitiva por la supervivencia.
+Darwin observó que entre los individuos de una especie hay una variación natural; sobre esta observación basó su teoría de la selección natural:
+"... que cualquier organismo, si varía, aunque sea ligeramente, de una manera beneficiosa para el mismo... tendrá una mayor probabilidad de supervivencia". 
+Darwin incluyó en su concepto de supervivencia "no solo la vida de los individuos, sino también el éxito en dejar descendientes".
+
+Aunque Gregor Mendel estuvo familiarizado con el trabajo de Darwin, Darwin no conoció ningún mecanismo para explicar la variación morfológica que había observado.
+Sin embargo, con el desarrollo del concepto de genes y alelos, se establecieron las bases genéticas de la variación hereditaria.
+
+Cuando otros prosiguieron el estudio de la evolución, quedó claro que en este proceso, la unidad de estudio eran las poblaciones y no los individuos.
+Por consiguiente, para estudiar el papel de la genética en la evolución, fue necesario considerar las frecuencias alélicas de las poblaciones en lugar de los descendientes de cruces concretos. 
+Así surgió la disciplina de la genética de poblaciones .
+
+A principios del siglo XX una serie de investigadores, como Gudny Yule, William Castle, Godfrey Hardy y Wilhelm Weinberg, formularon los principios básicos de esta disciplina. 
+En los primeros años de la genética de poblaciones, el énfasis se centró en la teoría y en el desarrollo de modelos matemáticos para describir la estructura genética de las poblaciones.
+Entre los investigadores en este campo se incluyen a Sewall Wright, Ronald Fisher y J. B. S. Haldane.
+Siguiendo sus trabajos, investigadores de campo y de laboratorio han utilizado técnicas bioquímicas y moleculares para medir directamente la variación a los niveles proteicas y de DNA para comprobar estas teorías y modelos.
+Las frecuencias alélicas y las fuerzas que alteran estas frecuencias, como la mutación, la migración, la selección y la deriva genética al azar, se han examinado y se están examinando.
+En este capitulo consideraremos algunos aspectos generales de la genética de poblaciones y también discutiremos otras áreas de la genética relacionadas con la evolución.
+
+Poblaciones y acervos génicos 
+
+Los miembros de una especie se distribuyen a menudo en un rango geográfico amplio.
+Una población es un grupo local que pertenece a una especie, dentro de la que ocurren apareamientos real o potencialmente.
+La serie de informaciones genéticas que llevan todos los miembros que se cruzan de una población se denomina acervo génico .
+Para un locus dado, este acervo incluye todos los alelos de dicho gen que están presentes en la población.
+En genética de poblaciones la atención se centra en grupos en lugar de en individuos, y en la cuantificación de las frecuencias alélicas y genotípicas en generaciones sucesivas en lugar de en la distribución de los genotipos que aparecen en un solo cruce.
+A lo largo del capítulo se utilizará el término frecuencia alélica v se representarán las frecuencias alélicas en relación con las frecuencias genotípicas.
+Los gametos producidos en una generación dan lugar a los zigotos de la generación siguiente.
+
+Esta nueva generación tiene un acervo génico reconstituido, que puede diferir del de la generación anterior.
+
+Las poblaciones son dinámicas; pueden crecer y expansionarse o disminuir y contraerse mediante cambios en las tasas de nacimientos o fallecimientos, o por migración o por fusión con otras poblaciones.
+Esto tiene consecuencias importantes y, con el tiempo, puede dar lugar a cambios en la estructura genética de poblaciones.
+
+Cálculo de las frecuencias alélicas
+
+Un método utilizado para estudiar la estructura genética de las poblaciones es medir la frecuencia de un alelo dado.
+Esto es posible una vez que se ha establecido el modo de herencia y el número de alelos diferentes de dicho gen en la población.
+No siempre se pueden determinar directamente las frecuencias alélicas, debido a que en muchos casos sólo se pueden observar fenotipos y no genotipos.
+Sin embargo, si se consideran alelos que se expresan de un modo codominante hay una relación directa entre los fenotipos y los genotipos, teniendo cada fenotipo un único genotipo.
+Tal es el caso del grupo sanguíneo MN , que en la especie humana se hereda de manera autosómica.
+
+En este caso el gen L del cromosoma 2 tiene dos alelos, LM y LN (a menudo denominados M y N, respectivamente) [0] .
+Cada alelo controla la producción de un antígeno distinto de la superficie de los glóbulos rojos.
+
+Así, el genotipo de un individuo de una población puede ser del tipo M ( LMLM ), N ( LNLN ) o MN ( LMLN ).
+
+En la Tabla 24.1 se presentan los genotipos, fenotipos y reacciones inmunológicas del grupo sanguíneo MN .
+Debido a que son codominantes (y que los genotipos se pueden deducir de los fenotipos), se puede determinar la frecuencia de los alelos M y N en una población simplemente contando el número de individuos de cada fenotipo.
+Como ejemplo, consideremos una población de 100 individuos, de los que 36 son del tipo M, 48 del tipo MN y 16 del tipo N.
+Los 36 individuos del tipo M tienen 72 alelos M y los 49 heterozigotos MN tienen otros 48 alelos M. 
+Es decir, en la población hay 72 + 48 o 120 alelos M, de un total de 200 alelos de este locus (100 individuos, cada uno con dos alelos).
+
+Por consiguiente, la frecuencia del alelo M en esta población es 0,6 ( 120/200 = 0,6 = 60% ).
+La frecuencia del alelo no se puede estimar de manera similar ( 80/200 = 0,4 = 40% ) y es 0,4.
+
+Tabla 24.1
+
+Grupos sanguíneos MN 
+
+Genotipo.
+Tipo sanguíneo.
+Anti-M.
+Anti-N.
+
+
+LMLM .
+M.
++ .
+- .
+
+
+LMLN .
+MN .
++ .
++ .
+
+
+LNLN .
+N.
+- .
++ .
+
+
+En la Tabla 24.2 se presentan dos métodos para calcular la frecuencia de los alelos M y N en una población hipotética de 100 individuos, y en la Tabla 24.3 se da una lista de las frecuencias de los alelos M y N obtenidas realmente en varias poblaciones humanas.
+
+Tabla 24.2
+
+Métodos para determinar las frecuencias alélicas para alelos codominantes
+
+Cálculo del número de alelos .
+
+
+Genotipo/Fenotipo.
+MM .
+MN .
+NN .
+Total.
+
+
+Número de individuos.
+36.
+48.
+16.
+100.
+
+
+Número de alelos M.
+72.
+48.
+0.
+120 .
+
+
+Número de alelos N.
+0.
+48.
+32.
+80.
+
+
+Número total de alelos.
+72.
+96.
+32.
+200.
+
+
+Frecuencia de M en la población: 120/200 = 0.6 = 60%.
+
+
+Frecuencia de N en la población: 80/200 = 0.4 = 40%.
+
+
+De los genotipos .
+
+
+Genotipo/Fenotipo .
+MN .
+MN .
+NN .
+Total .
+
+
+Número de individuos.
+36.
+48.
+16.
+100.
+
+
+Frecuencia de los genotipos.
+36/100 = 0.36.
+48/100 = 0.48.
+16/100 = 0.16.
+1.00.
+
+
+Frecuencia de M en la población: 0.36 + (1/2)0.48 = 0.36 + 0.24 = 0.60 = 60%.
+
+
+Frecuencia de N en la población: 0.16 + (1/2)0.48 = 0.16 + 0.24 = 0.40 = 40%.
+
+
+Tabla 24.3
+
+Frecuencia de los alelos M Y N en distintas poblaciones
+
+Esquimales (Groenlandia).
+83.48.
+15.64.
+0.88.
+0.913.
+0.087.
+
+
+Indios de los EE.UU.
+60.00.
+35.12.
+4.88.
+0.776.
+0.224.
+
+
+Blancos de los EE.UU.
+29.16.
+49.38.
+21.26.
+0.540.
+0.460.
+
+
+Negros de los EE.UU.
+28.42.
+49.64.
+21.94.
+0.532.
+0.468.
+
+
+Ainus (Japón).
+17.86.
+50.20.
+31.94.
+0.430.
+0.570.
+
+
+Aborígenes (Australia).
+3.00.
+29.60 .
+67.40.
+0.178.
+0.822.
+
+
+Ley de Hardy-Weinberg
+
+En el caso del grupo sanguíneo MN , M y N son alelos codominantes.
+Por otro lado, si un alelo hubiera sido recesivos, los heterozigotos serían fenotípicamente idénticos a los individuos homozigotos dominantes y no se hubieran podido determinar directamente las frecuencias de los alelos.
+Sin embargo, en este caso se puede usar un modelo matemático, desarrollado independientemente por el matemático inglés Godfrey H. Hardy y el físico alemán Wilhelm Weinberg, para calcular las frecuencias alélicas.
+
+La ley de Hardy-Weinberg (LHW) es uno de los conceptos fundamentales en genética de poblaciones. 
+La LHW tiene tres propiedades importantes:
+1.' rend="bo Las frecuencias alélicas predicen las frecuencias genotípicas;
+2. en el equilibrio, las frecuencias alélicas y genotípicas no cambian de generación en generación; y
+3. el equilibrio se alcanza con una sola generación de apareamiento al azar.
+
+Suposiciones de la ley de Hardy-Weinberg
+
+La ley de Hardy-Weinberg supone las siguientes condiciones: 
+1.' rend="bo La población es infinitamente grande, que en término prácticos significa que la población es lo suficientemente grande como para que los errores de muestreo y efectos aleatorios sean despreciables. 
+2. E] apareamiento dentro de la población se da al azar.
+3. No hay ventaja selectiva de ningún genotipo; es decir, todos los genotipos producidos por el apareamiento al azar son igualmente viables y fértiles.
+4. No hay otros factores, como mutación, migración y deriva genética al azar.
+
+Suponga que en tal población ideal un locus tiene dos alelos A y a.
+La frecuencia del alelo A, tanto en óvulos como en espermatozoides, está representada por p, y la frecuencia de a en los gametos está representada por q.
+
+Debido a que la suma de p y q representa el 100 por ciento de los alelos de dicho gen en la población, p + q = 1 .
+Se puede utilizar un esquema para representar la combinación al azar de los gametos que llevan estos alelos y de los genotipos resultantes (Figura 24.1).
+
+En la combinación al azar de los gametos de la población, la probabilidad de que tanto el esperma como el óvulo tengan el alelo A es p X p = p2 .
+
+Igualmente, la probabilidad de que los gametos lleven alelos diferentes es (p x q) + (p x q) = 2pq , y la probabilidad de que se obtenga un individuo homozigoto recesivo es q x q = q2 .
+Advierta que estos términos también describen una de las características de la LHW:
+las frecuencias alélicas determinan las frecuencias genotípicas. 
+En otras palabras, mientras que el valor p, es la probabilidad de que en la fecundación ambos gametos lleven el alelo A, es también una medida de la frecuencia de los homozigotos AA en la generación siguiente.
+De modo similar, 2pq describe la frecuencia de los heterozigotos Aa y q2 es una medida de la frecuencia de los homozigotos recesivos ( aa ).
+Así, la distribución de los genotipos homozigotos y heterozigotos en la siguiente generación se puede expresar como, p2+2pq+q2= 1 (24-1) Consideremos a continuación una población en la que el 70 por ciento de los alelos de un gen dado son A, y el 30 por ciento a.
+Así, p = 0,7 y q = 0,3 , y p(0,7) + q(0,3) = 1 . 
+En la Figura 24.2 se presenta la distribución de los genotipos que se producen por apareamiento al azar.
+En la nueva generación, el 49 por ciento ( p2 ) de los individuos será homozigótico dominante, el 42 por ciento ( 2pq ) será heterozigótico y el 9 por ciento ( q2 ) será homozigótico recesivo. 
+Se puede calcular la frecuencia del alelo A en la nueva generación como p2 + 1/2 (2pq) 0,49 + 1/2 (0,42) 0,49 + 0,21 = 0,70 (24-2) .
+La frecuencia de a es q2 + 1/2 (2pq) 0,09 + 1/2 (0,42) 0,09 + 0,21 = 0,30 (24-3) .
+Ya que p + q = 1 , el valor de a se podría calcular como, q = 1 - P q = 1 - 0,70 = 0,30 (24-4) .
+Las frecuencias de A y a en la nueva generación son las mismas que en la generación anterior.
+
+Si se asumen las condiciones de Hardy-Weinberg, se pueden calcular las frecuencias alélicas y las frecuencias de otros genotipos conociendo sólo la frecuencia de un genotipo (como el del homozigoto recesivo).
+En genética humana esta relación se utiliza para calcular la frecuencia de los heterozigotos que llevan un alelo recesivo para una enfermedad genética (véase mas abajo).
+
+Se dice que una población, en la que la frecuencia de un alelo dado permanece constante de generación en generación, está en equilibrio genético .
+En este caso, las frecuencias de A y a permanecen constantes.
+
+En el ejemplo anterior hay varios puntos importantes.
+Primero, aunque los alelos hipotéticos que hemos considerado estuvieran en equilibrio, no todos los alelos de la población lo están.
+Esto es particularmente cierto cuando no se cumplen las suposiciones hechas en la ley de Hardy-Weinberg. 
+Segundo, el ejemplo ilustra por qué los caracteres dominantes no tienden a aumentar su frecuencia a lo largo de las generaciones.
+Finalmente, los ejemplos demuestran que en una población se pueden mantener el equilibrio y la variabilidad genética .
+Una vez establecida en la población, la frecuencia alélica se mantiene constante en el equilibrio - un factor importante en la evolución.
+
+Comprobación del equilibrio 
+
+La ley de Hardy-Weinberg también se puede utilizar para determinar si los genotipos de una población dada están en equilibrio.
+En una población natural, cualquiera de las condiciones de la LHW (tamaño, apareamiento al azar, ausencia de selección) puede no ser válida.
+Para hacer esto, tiene que ser posible identificar fenotípicamente a los heterozigotos.
+Si esto es posible, entonces se debe comprobar si la población cumple la relación p2 + 2pq + q = 1 .
+Si no [1] algún factor (probablemente selección, mutación, migración) está dando lugar a que las frecuencias alélicas varíen en las generaciones siguientes.
+
+La distribución de las frecuencias alélicas del grupo sanguíneo MN en los aborígenes australianos es un buen ejemplo de esta aplicación de la ley de Hardy-Weinberg.
+A partir de los valores de las frecuencias alélicas de la Tabla 24.3 (0,178 para M y 0,822 para N), se pueden calcular las frecuencias esperadas de los tipos sanguíneos M, MN y N para determinar si la población está en equilibrio:
+
+Frecuencia esperada del tipo M = p2 = (0,178)- = 0,037 = 3,2% Frecuencia esperada del tipo MN= 2pq = 2(0,178)(0,822) = 0,292 = 29,2% Frecuencia esperada del tipo N= q2 = (0,822)2 = 0,676 = 67,6% (24-5) .
+Estas frecuencias esperadas son casi idénticas a las frecuencias observadas que se presentan en la Tabla 24.3, confirmando que la población está en equilibrio. 
+Si hubiera alguna duda de sí las frecuencias observadas varían significativamente de las frecuencias esperadas, se puede realizar un análisis de ji-cuadrado (véase el Capítulo 3).
+
+Por otro lado, si la prueba de Hardy-Weinberg demuestra que la población no está en equilibrio, alguna de las condiciones necesarias no se estará cumpliendo. 
+
+Utilizando los valores de las frecuencias de M y N que se muestran en la Tabla 24.3, se puede construir una hipotética población mezclada con 500 aborígenes australianos y 500 indios americanos.
+Las frecuencias de M y N de esta hipotética población se muestran en la Tabla 24.4. 
+En tal población la frecuencia de M (p) sería, 0,315 + 1/2(0,324) = 0,477 (24-6) y la de N (q) sería, 0,361 + 1/2(0,324) = 0,523 (24-7) Si estas frecuencias alélicas provinieran de una población con apareamiento al azar, entonces se esperaría que las proporciones fenotípicas fueran MM ( p2 ), 22,8 por ciento, MN ( 2pq ), 49,8 por ciento y NN ( q2 ), 27,4 por ciento.
+Debido a que las frecuencias genotípicas esperadas no concuerdan con las observadas (y la prueba de ji cuadrado confirmaría esto [2] ), concluiríamos que la población no está en equilibrio, debido, obviamente, a la ausencia de apareamiento al azar en esta población hipotética. 
+
+Sin embargo,
+¿qué sucedería si tal población mezclada se estableciera en una isla solitaria y tuvieran lugar apareamientos al azar?
+¿Cuánto se tardaría en alcanzar el equilibrio?
+Aplicando la ecuación de Hardy- Weinberg, podemos predecir que después de una generación las frecuencias genotípicas observadas y esperadas convergirían, ilustrando la tercera característica importante de la LHW.
+Utilizando los valores de p y q que hemos calculado, y recordando que las frecuencias alélicas representan a las del conjunto global de los genes de la primera generación de la población mezclada, las frecuencias después de una generación de apareamiento al azar se muestran en la Figura 24.3.
+Podemos ver que, después de una generación, las frecuencias genotípicas observadas del 22,8 por ciento para MM(p2) , del 49,8 por ciento para MN(2pq) y del 27,4 por ciento para NN(q2) son las que se esperan en una población en equilibrio.
+Las frecuencias alélicas de M = 0,477 y de N = 0,523 también son las esperadas para una población en equilibrio.
+Sin embargo, para demostrar rigurosamente el equilibrio de la LHW , tenemos que calcular las frecuencias de los apareamientos.
+
+Tabla 24.4
+
+Frecuencias de los alelos M y N y de los genotipos en poblaciones naturales y artificiales 
+
+Población.
+MM .
+MN .
+NN .
+p.
+q.
+
+
+Aborígenes australianos.
+0.03.
+0.296.
+0.674.
+0.178.
+0.822.
+
+
+Indios americanos.
+0.60.
+0.351.
+0.049.
+0.776.
+0.224.
+
+
+Población mezclada (500 + 500):.
+
+
+Observadas.
+0.315.
+0.324.
+0.361 .
+0.477.
+0.523.
+
+
+Esperadas.
+0.228.
+0.498.
+0.274 .
+
+
+Extensiones de la ley de Hardy-Weinberg
+
+A1 considerar las frecuencias genotípicas y alélicas para loci autosómicos utilizando la ecuación de Hard-Weinberg, asumimos que la frecuencia de.] es la misma en espermatozoides y en óvulos.
+¿Qué pasa con los genes ligados al X?
+En especies que tienen dos cromosomas X, como en la especie humana y en Drosophila , las hembras llevan dos copias de todos los genes del cromosoma X mientras que los machos tienen sólo una copia de todos los genes ligados al X. Por consiguiente, los genes del cromosoma X se distribuyen desigualmente en la población, y cuando hay igual número de machos que de hembras, las hembras llevan los dos tercios de todos los genes ligados al X y los machos llevan un tercio del número total.
+¿Se puede aplicar la ley de Hardy-Weinberg para calcular las frecuencias alélicas y genotípicas en tal circunstancia?
+
+Genes ligados al X
+
+Es fácil determinar la frecuencia de los genes ligados al X en los machos.
+
+Debido a que tienen una sola copia de todos los genes de este cromosoma, el fenotipo nos revela tanto los alelos dominantes como los recesivos.
+Por consiguiente, en los machos, la frecuencia de un alelo ligado al X es la misma que la frecuencia fenotípica.
+En Europa occidental se da una forma de daltonismo ligado al X con una frecuencia del 8 por ciento en los varones ( q = 0,08 ).
+Debido a que las mujeres tienen dos dosis de todos los genes del cromosoma X, las mujeres daltónicas presentarán las frecuencias fenotípicas esperadas para dominancia completa, y se pueden calcular las frecuencias genotípicas y alélicas utilizando la ecuación típica de Hardy-Weinberg. 
+Por ejemplo, como la frecuencia del daltonismo en los varones tiene una frecuencia de 0,08, la frecuencia esperada en las hembras, en el equilibrio, será q2 , es decir, 0,0064. 
+Esto significa que en una muestra de 10.000 varones se esperaría que 800 fueran daltónicos, pero de 10.000 mujeres sólo 64 presentarán este carácter. 
+En la Tabla 24.5 se comparan los valores esperados de las frecuencias para caracteres ligados al X en varones y en mujeres.
+
+Si la frecuencia de un alelo ligado al X difiere entre varones y mujeres, entonces la población no está en equilibrio.
+En contraste con los alelos de los loci autosómicos, el equilibrio no se alcanzará en una sola generación, sino que se irá aproximando a lo largo de generaciones sucesivas.
+Debido a que los varones heredan el cromosoma X de su madre, las frecuencias alélicas en las mujeres determinarán las frecuencias en los varones de la generación siguiente.
+
+Las hijas heredarán un cromosoma X materno y otro paterno, y su frecuencia alélica será la frecuencia promedio de sus padres.
+Aun cuando las frecuencias alélicas del conjunto de la población permanezcan constantes, hay una oscilación en las frecuencias para los dos sexos en cada generación, siendo las diferencias la mitad de la generación anterior, hasta que se alcanza el equilibrio. 
+Este concepto se ilustra en la Figura 24.4 para el caso simple en donde un alelo se ha iniciado en las mujeres con una frecuencia igual a 1 y en los varones igual a 0.
+
+Tabla 24.5
+
+Frecuencia relativa esperada en machos y en hembras para caracteres ligados al X
+
+Frecuencia de machos con el carácter.
+Frecuencia esperada en las hembras.
+
+
+90/100 .
+81/100.
+
+
+50/100.
+25/100.
+
+
+10/100.
+1/100.
+
+
+1/100.
+1/10.000.
+
+
+1/1000.
+1/1.000.000.
+
+
+1/10.000.
+1/100.000.000 .
+
+
+Figura 24.1
+
+Los gametos se suponen provenientes del acervo génico para formar los genotipos de la siguiente generación
+
+En este ejemplo.
+Los machos y las hembras tienen la misma frecuencia tanto para el alelo dominante A (p) como para el alelo recesivo a (q).
+Después del cruzamiento los tres genotipos AA, Aa y aa tienen las frecuencias p2 , 2pq y q2 respectivamente.
+
+Figura 24.2
+
+En esta población, la frecuencia del alelo A es p = 0,7, y la frecuencia del alelo a es q = 0,3
+
+Utilizando la fórmula p2 + 2pq + q2 , se puede calcular la frecuencia de los genotipos de la siguiente generación como M = 0,49, Aa = 0,42 y aa = 0,09 . 
+
+Las frecuencias de A y de a permanecen constantes de generación en generación.
+
+Figura 24.3
+
+Si el apareamiento en una población, con diferencias en las frecuencias alélicas, sigue las expectativas de Hardy- Weinberg, se alcanzará el equilibrio en una sola generación
+
+Compare las frecuencias genotípicas después de una generación de apareamiento con las de la Tabla 24.4 para una población en equilibrio.
+
+[0] L se refiere a Karl Landsteiner, el genético en cuyo honor se denominó el locus
+
+[1] Toda población cumple con la relación p2 + 2pq + q2 = 1 , esté o no esté en equilibrio
+
+Como se verá más adelante cuando una población no está en equilibrio lo que no concuerda son las frecuencias observadas para cada uno de los genotipos con las correspondientes frecuencias esperadas de esos genotipos, de acuerdo con la ley de Hardy-Weinberg.
+
+[2] Por supuesto, la prueba de ji-cuadrado habría que efectuarla no con frecuencias o porcentajes, sino con valores absolutos, número de individuos observados y esperados para cada uno de los genotipos

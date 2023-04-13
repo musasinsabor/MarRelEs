@@ -1,0 +1,259 @@
+
+LA NEUROPATÍA HEREDITARIA ÓPTICA DE LEBER COMO MODELO DE ENFERMEDAD MITOCONDRIAL
+
+INTRODUCCIÓN
+
+En la evolución de la Genética como ciencia se han desarrollado una serie de preceptos iniciales que posteriormente han tenido que ser modificados o ampliados con el advenimiento de nuevos conocimientos.
+
+Así por ejemplo la clásica herencia mendeliana que fue base teórica sustentadora de la transmisión de caracteres hereditarios durante varios lustros, se hizo insuficiente para explicar numerosas heredopatías que se fueron conociendo. 
+
+Existe un grupo particular dentro de las patologías heredadas que se caracteriza por su herencia materna, o sea que aunque los pacientes afectos pueden ser de ambos sexos, siempre es la madre la que transmite los caracteres y ningún varón afecto lo hace.
+Este hecho se debe la presencia en el óvulo materno de gran número de mitocondrias con ADN mitocondrial (ADNmit.).
+El espermatozoide por su parte tiene un pequeño número de estos orgánelos que no llega al citoplasma del cigoto.
+Así la información procedente del ADN de las mitocondrias de la madre es la que se expresa en el individuo.
+En estas circunstancias las leyes de segregación enunciadas y vigentes desde hace más de dos siglos no explican el mecanismo adecuado.
+
+Desde el año 1963 se conoce de la existencia de ADN dentro de la mitocondria, sin embargo no es hasta la década de los años 70 en que "el otro genoma humano" se comienza a considerar como posible responsable de enfermedades genéticas humanas que tendrían un patrón de herencia materna .
+
+Una gran variedad de enfermedades degenerativas, que involucran cerebro, corazón, músculos, riñón, glándulas endocrinas, sistema nervioso periférico, etc., resultan de mutaciones del ADNmit.
+La primera de estas mutaciones fue descubierta en 1988 por Wallace y su equipo de trabajo y produce precisamente un fenotipo de neuropatía hereditaria óptica de Leber.
+Subsecuentes mutaciones patógenas descritas en este ADNmit. se asocian a síndromes raros como MELAS ( Mitocondrial encephalopathy lactic acidosis and stroke-like episodes ), MERRF ( Myoclonus epilepsy with ragged red fibres ), Kearns-Sayre, etc .
+
+La Neuropatía Hereditaria Óptica de Leber (NHOL) fue descrita por primera vez en 1858 por Von Graefe y fue nombrada así en reconocimiento a Theodore Leber por su investigación publicada en los Archivos Von Graefe de Oftalmología en 1871, con una descripción detallada de la enfermedad.
+
+Esencialmente esta enfermedad se caracteriza por su comienzo temprano, en la segunda o tercera década de vida como una forma de neuropatía óptica subaguda, con pérdida de la visión grave y rápida asociada a escotoma cecocentral en ambos ojos, presentando particularidades que obedecen a su mecanismo de producción mitocondrial. 
+
+En nuestro país existen antecedentes sobre el estudio de la NHOL , lo que unido a las interesantes peculiaridades de esta entidad motivan que realicemos esta revisión.
+
+Enfermedades Mitocondriales
+
+Las enfermedades mitocondriales constituyen un diverso grupo de desórdenes producidos por desarreglos genéticos, estructurales o bioquímicos de la mitocondria.
+Dado que una disfunción mitocondrial puede afectar virtualmente todos los órganos, los especialistas de diversas ramas de las Ciencias Médicas se ven en contacto con estas entidades. 
+
+El conocimiento del papel del ADNmit. en algunas enfermedades ha evolucionado rápidamente desde 1988, cuando fueron descubiertas sus primeras mutaciones.
+
+Estas fueron subsecuentemente identificadas en una variedad de enfermedades y el papel patogénico del daño acumulativo del ADNmit. ha sido explorado en muchas enfermedades comunes que se desarrollan en etapas tardías de la vida o en el proceso de crecimiento.
+
+Las mutaciones del ADNmit. se dividen en dos grandes grupos, sustitución y delección - inserción de bases .
+Estas mutaciones producen alteraciones en el producto génico ya sea por un cambio de amino ácidos (a.a.) que afectan la proteína codificada por una secuencia de este ADNmit. o por alteraciones de la síntesis de las proteínas por dañar los ARNt o ARNr .
+
+Se reporta que ninguna de las delecciones impide los orígenes de la replicación de ambas cadenas.
+Las inserciones pueden causar duplicación de varias regiones del ADNmit. .
+
+Estructura y función del ADNmit.
+
+Es esencial para entender la enfermedad mitocondrial examinar los rasgos generales del ADNmit.
+La mitocondria genera energía para la célula mediante la producción de ATP por fosforilación oxidativa.
+Este orgánelo contiene su propio ADN conocido como " el otro genoma humano ", es de doble cadena, circular, codifica para 13 subunidades proteicas de cuatro complejos bioquímicos y para 24 ARN ( los ribosomales xxx y xxx y 22 de transferencia) que se requieren para el traslado intramitocondrial de las unidades de codificación de las proteínas.
+Esta molécula tiene 16569 pares de bases y su genoma está completamente mapeado.
+En todos los genes de este ADN han sido halladas mutaciones.
+
+La mitocondria, que probablemente se desarrolló como orgánelo a partir de organismos independientes que se convirtieron en parte de la célula, es capaz de replicar, transcribir y traducir su ADN independientemente del ADN nuclear, sin embargo la función nuclear y la mitocondrial son interdependientes. 
+Por una parte el ADN nuclear codifica para subunidades proteicas de la fosforilación oxidativa y gran cantidad de componentes macromoleculares requeridos en la estructura y función mitocondrial.
+Las proteínas codificadas y el ARNmit. procedentes del núcleo deben ser importados a la mitocondria.
+Por otra parte durante la fosforilación, la energía de la célula (ATP) se obtiene mediante un gradiente electroquímico;
+este proceso depende de los ARNt mitocondriales que están codificados por el ADNmit..
+
+Existen varios rasgos del ADNmit. que pueden estar relacionados a su frecuente asociación con mutaciones y enfermedades. 
+El ADNmit. muta con 10 veces más facilidad que el nuclear y no tiene intrones, así que una mutación al azar lesiona con frecuencia una secuencia codificante.
+
+Adicionalmente, esta molécula no tiene mecanismos de reparación efectivos, ni histonas protectoras y está expuesta a los radicales libres de oxígeno liberados por la fosforilación.
+
+El ADNmit. es heredado por la vía materna y no recombina. 
+Aquí la mutación se acumula secuencialmente a través de líneas maternas.
+Cada mitocondria tiene de dos a diez ADN y cada célula tiene múltiples mitocondrias.
+Así en una célula pueden coexistir mitocondrias normales y mutantes.
+Esta condición se llama Heteroplasmia y permite que persista una mutación que de otra manera sería letal.
+Por otra parte la Homoplasmia es la presencia total de ADNmit. normal o mutado. 
+A través del proceso de segregación replicativa, las proporciones de moléculas mutantes y normales pueden ser cambiadas al segregarse a las células hijas.
+Así más que las leyes de Mendel son las de la genética poblacional las que gobiernan el ADNmit..
+
+La proporción de ADNmit. mutante requerido para que ocurra un fenotipo deletéreo se somete al "efecto umbral", que varía entre personas, entre sistemas de órganos y aún dentro de los tejidos.
+Este efecto depende del delicado balance entre el suministro oxidativo y su demanda. 
+
+Neuropatía Óptica Hereditaria de Leber (NOHL)
+
+La herencia de la NHOL es mitocondrial.
+Leber reconoció los dos hallazgos inusuales del patrón de la enfermedad, la transmisión materna y la propensión a afectar varones.
+Imai y Mariwceki sugieren en 1936 la herencia citoplasmática y Erikson en 1972 sugiere una posible mutación de ADNmit.
+En 1988 Wallace y cols. identificaron una mutación en el par de bases 11778 del ADNmit. que es exclusivo de familias con NOHL.
+
+Subsecuentemente se han reportado varias mutaciones nuevas. 
+La prevalencia de la enfermedad es aproximada a 1 en 50,000, comportándose de manera similar a la de la Atrofia Óptica Dominante (tipo Kjer).
+
+La evaluación de la patogenicidad del ADNmit. mutado en NHOL es de extrema importancia para determinar el grado de afección que produce cada mutación.
+
+Todas las mutaciones identificadas como causantes de la enfermedad son puntuales y se detectan por amplificación de la región relevante del ADNmit. y digestión con endonucleasas para las que la mutación causa pérdida o ganancia de un sitio de corte.
+
+Criterios de Patogenicidad de las mutaciones en NOV
+
+En 1995 Riordan-Eva y Harding enunciaron los siguientes criterios aplicados para establecer patogenicidad de una mutación individual:
+
+- Identificar la mutación en un número de familias conocidas de NHOL, preferiblemente de origen independiente con pedigríes grandes y bien documentados mostrando un patrón claro de transmisión materna.
+
+- Identificar la mutación exclusivamente en familias afectas y no en sujetos sanos o control o con otro tipo de neuropatía óptica.
+
+- La mutación no debe coexistir con otras mutaciones patogénicas.
+
+- La mutación debe ser heteroplásmica en algunas personas de las familias afectas, dado que la heteroplasmia no parece ser un hallazgo de polimorfismos inocuos.
+
+- La mutación debe cambiar un residuo de a.a. altamente conservado
+
+- Estos criterios no son absolutos, pero mientras más de ellos se cumplan, más certeza de patogenicidad de la mutación en estudio habrá
+
+
+De aquí surgen los conceptos de mutación primaria, secundaria e intermedia para NHOL.
+
+Las mutaciones primarias son aquellas que se han identificado solamente en familias con la enfermedad, nunca en sujetos control. 
+Existen numerosas mutaciones primarias en esta entidad. 
+El rol causal de la mutación de Wallace (A11778G), que es la más común en las familias estudiadas en Europa, Estados Unidos, Japón y Australia, fue originalmente establecido por la identificación de la mutación en dos pedigríes diferentes, una familia negra en USA y una blanca en Europa.
+La mutación no se vio en los controles y era heteroplásmica para cientos de sujetos. 
+Resultó una sustitución de una arginina altamente conservada por histidina en la NDH4 (Complejo I de la NAD deshidrogenasa) en la cadena respiratoria.
+Como la arginina y la histidina son básicas las dos el cambio es relativamente conservativo.
+
+Otras mutaciones primarias son: 3460, 14484, 4160, 4136 y 5244, todas ellas con cambios en a.a de los polipéptidos del Complejo I. La 9438 y 9804 afectan la subunidad III del citocromo C.
+
+Aproximadamente el 90% de los pacientes de Leber estudiados en el mundo tienen las mutaciones 11778, 3460 o 14484. 
+
+Las mutaciones secundarias incluyen un grupo numeroso de mutaciones identificadas en las familias NOHL y en familias control, pero con más frecuencia en las primeras.
+
+Estas mutaciones encuentran asociación con otras secundarias o con primarias, siendo difícil acceder a su significado en la producción de la enfermedad.
+Estas son: 3394, 4136, 4216, 4917, 5244, 13708, 7444, 15812. 
+Se ha sugerido que en ausencia de una primaria de las tres mayores (11778, 3460, 14484), la NOHL solamente ocurre si hay múltiples mutaciones secundarias o bien una primaria de las otras asociada a estas, entonces las secundarias afectarían las manifestaciones de la enfermedad.
+
+Una mutación intermedia es la 15257, que sustituye por asparagina el aspártico altamente conservado en apocitocromo del complejo III, frecuentemente asociada a la 13708 o la 14484. 
+Recibe su nombre del hecho de que en diversos estudios se ve asociada a alguna de las tres primarias mayores pero no tiene descrita influencia en los hallazgos clínicos de la NOHL de los pacientes.
+
+Recientemente se han descubierto nuevas mutaciones como por ejemplo una que actúa sobre el gen de la subunidad mitocondrial ND5, se localiza en la posición 13513 y es probable que sea patogénica produciendo un fenotipo solapado entre un cuadro de NHOL y uno de MELAS.
+Algunas estarían relacionadas con la enfermedad de Parkinson y otras producen cuadro clásico aislado .
+
+Distribución por sexos de la NOV
+
+La heteroplasmia ha sido implicada como la base de la penetrancia incompleta en NHOL (50% en hombres y 90% en mujeres con heteroplasmia a las mutaciones primarias).
+
+Un elemento interesante es el predominio masculino en NOHL. 
+Aún continúa inexplicado si bien existe una teoría del " gen de susceptibilidad de pérdida visual ligado al X " pero es controvertida y en muchos casos ha sido refutada al analizar los datos.
+
+Lo que sí ha sido demostrado por algunos autores es que existen diferencias entre hombres y mujeres en cuanto al curso clínico de la enfermedad.
+Se plantea una mejor tasa de recuperación para hombres, con una edad promedio de comienzo menor para las mujeres y la presencia en la mayoría de ellas de su madre afecta.
+
+Sin embargo si la edad de comienzo es temprana (primera o segunda década de vida), con independencia del sexo el pronóstico de recuperación es peor.
+
+CUADRO CLÍNICO CLÁSICO
+
+En el cuadro clínico clásico el mayor síntoma es la pérdida aguda de la visión central, bilateral. 
+Hay gran variedad de hallazgos asociados o no.
+Clásicamente la enfermedad ocurre como "trueno en cielo despejado", sin pródromos, aunque pude haber cefaleas migrañosas en el 33% de los pacientes.
+La pérdida de la visión central inicialmente es monocular, no dolorosa y se desarrolla en pocas horas o días.
+El paciente describe visión borrosa con la luz diurna que mejora a la puesta del sol, pero la curva de adaptación a la oscuridad es subnormal.
+
+Puede haber visión borrosa transitoria con ejercicio físico o con calor (signo de Uhtroff).
+Se describen también relampagueos inespecíficos de luces y colores. 
+
+La visión de colores se afecta severamente en el curso temprano de la enfermedad con discromatopsia axial adquirida al rojo y al verde.
+
+El Fondo de Ojo (F/O) descubre un disco hiperhémico de bordes irregulares e inflamación de las fibras nerviosas subyacentes.
+No hay goteo de fluoresceína en la cabeza del nervio pero sí hay microangiopatía telangectásica circumpapilar, con dilatación irregular de los capilares pre y peripapilares.
+Los grandes vasos son tortuosos. 
+Hay gran variabilidad al F/O que oscila desde la normalidad (42%) hasta neuroretinitis florida con hemorragia del disco. 
+
+En un intervalo de semanas a meses ( xxx ) ocurre lo mismo con el otro ojo.
+
+Es poco frecuente que se alargue el intervalo (reportado hasta 8 años) y mucho menos frecuente que persista monocular. 
+
+Los tests de campo visual demuestran típicamente un gran escotoma central, reflejando inclusión preferencial del paquete maculopapular.
+
+La pérdida de visión es permanente.
+La atrofia no afecta la cúpula, se desarrollará empezando por el campo temporal con gradual empeoramiento de la agudeza visual (A.V.) en los meses subsiguientes.
+El resultado final es variable, pero la estabilidad de la función visual persiste.
+Sin embargo en algunos casos hay recuperación espontánea aunque incompleta, uni o bilateral.
+
+El análisis molecular sugiere relación entre la mutación mitocondrial específica y la recuperación visual.
+La 14484 tiene mejor pronóstico en tasa de recuperación con una A.V. de 20/60 en ambos ojos en el 37% de los casos.
+La mutación 3460 tiene tasa variable pero llega al 22% de los pacientes recuperados en algún grado.
+La 11778 es la de peor pronóstico, solo un 5% de recuperación.
+
+La mejoría siempre es más probable si la pérdida de la visión no ocurre en edades tempranas. 
+El tiempo que media entre comienzo y final de recuperación es variable, puede ser de 10 o más años, siendo muy rara una recaída.
+
+Independientemente de la asociación entre algunas mutaciones y la tasa de recuperación de la A.V. se plantea que esta última sigue el curso clínico de la enfermedad sin que haya muestras evidentes de que alguna terapéutica pueda propiciar su aparición en menos tiempo.
+
+En términos de distribución en la población típicamente se afectan hombres jóvenes entre 15-35 años.
+La edad media de comienzo en hombres es de 25-34 y en mujeres de 23-26 con rangos variables.
+
+Síndrome Leber Plus
+
+Existen algunas enfermedades que con frecuencia se han visto asociadas a la NHOL.
+De este hecho surge la denominación del Síndrome Leber plus.
+
+Enfermedades asociadas
+
+- De tipo Neurológico:
+Esclerosis múltiple, encefalopatía infantil subaguda, tremor, disartria, ataxia, signos de cordón medular posterior y espasticidad.
+Etiología no bien definida.
+
+- De tipo Cardíaco:
+Síndrome de preexcitación (Long-Ganong-Levine), intervalo Q-T prolongado, combinación de Q profunda con T alta y otros.
+
+
+Asesoramiento Genético
+
+El asesoramiento genético (AG) en NHOL no es tan exacto, al igual que la transmisión de una mutación no está siempre asociada con la transmisión de la enfermedad.
+Este fenómeno es común a todas las entidades con mutaciones del ADN mitocondrial.
+
+Aunque la heteroplasmia puede ser un factor determinante en la penetrancia de la enfermedad, muchos pacientes y sus parientes no afectados en familias de Leber tienen cantidades muy elevadas de ADNmit. mutante ( xxx ) y muchos varones de riesgo permanecen no afectados en este contexto .
+
+Por esta razón el análisis del ADNmit. en parientes de riesgo no es muy útil, particularmente en varones jóvenes.
+
+El hallazgo de heteroplasmia en una mutación relevante siempre crea ansiedad familiar.
+Esto es particularmente aplicable para tener hijos, y es también una situación de difícil manejo desde el punto de vista ético que por tanto se debe analizar cuidadosamente.
+
+Aunque es posible que algunos varones afectos presenten mutaciones frescas, lo cual es sugerido por la ausencia de mutación en la madre u otros parientes de esta línea, esto solo ha sido descrito para una mutación reciente (13730) la que tiene significado patogénico incierto.
+
+No hay publicados aún datos concernientes al riesgo de recurrencia en pacientes de NHOL genéticamente definidos y no está claro como estos pueden variar según la mutación.
+Pero existen análisis preliminares de 87 pedigríes con las mutaciones 11778, 3460 y 14484 para la enfermedad tomados del Hospital Nacional de Neurología y Neurocirugía de Londres que sugiere los siguientes riesgos: 
+
+- Hermanos 34%
+- Hermanas 14%
+- Sobrinos 42%
+- Sobrinas 9%
+- Primos Hermanos 40%
+- Primas hermanas 2%
+
+Estos riesgos pueden ser modificados tomando la penetrancia en relación con la edad media de comienzo. 
+Para las tres mutaciones más importantes es de aproximadamente 20 años para varones y 28 para hembras. 
+
+Estudios para otras mutaciones (14484) muestran también una gran diferencia en el riesgo de recurrencia entre varones y hembras de diferentes grados de parentesco.
+
+Las dificultades referidas antes sobre el uso de análisis molecular de ADNmit. en parientes de riesgo, son también aplicables al diagnóstico prenatal molecular.
+Dado que no es conocido que proporción del ADNmit. mutante en vellosidades coriónicas reduce el riesgo genético, o como esta proporción puede cambiar durante el desarrollo pre y postnatal, la única opción en mujeres portadoras de este ADNmit. alterado y que deseen evitar el embarazo de alto riesgo es la del aborto de fetos varones. 
+Sin embargo sus hijas tienen también un riesgo tangible de ser afectadas, por lo que hasta el momento no es posible el control de un embarazo normal para garantizar que no haya problemas de este tipo en la descendencia.
+De forma alternativa se podrían usar técnicas de reproducción asistida, pero se trata de un campo aún por explorar en estas entidades.
+
+NHOL y estilos y hábitos de vida
+
+La existencia en los pacientes con la entidad, de hábitos tóxicos nocivos como el alcoholismo y el hábito de fumar ha propiciado estudios epidemiológicos en este sentido.
+Se sugiere que si bien estos hábitos no están presentes en muchos de los casos al debut de la enfermedad por su temprana edad de aparición y no pueden ser asociados consecuentemente con la edad de aparición, si es estadísticamente significativa su asociación con otras variables como el empeoramiento progresivo de los síntomas y la ausencia de regresión de estos.
+La explicación biológicamente plausible es que por el consumo de estos tóxicos se producen sustancias de las llamadas toxinas exógenas que son capaces de adelantar y empeorar el curso clínico de numerosas enfermedades mitocondriales al sobrecargar la función de la mitocondria.
+
+La dieta de los pacientes es otro de los tópicos de difícil valoración dada su heterogeneidad en las diversas zonas geográficas estudiadas, no obstante existe el consenso de que los alimentos ricos tiocianatos deben ser evitados en exceso y complementar la alimentación con un suplemento vitamínico que incluya la ubiquinona (coenzima Q); lo que teóricamente debería mejorar la progresión de los síntomas.
+No obstante al tratarse de un tópico poco explorado existen detractores de la utilidad de esta última terapia.
+
+ANÁLISIS MOLECULAR
+
+En cuanto al análisis molecular propiamente dicho gran cantidad de técnicas han sido usadas para estudiar mutaciones en el ADNmit entre ellas: PCR, Southern blotting y clonaje.
+En particular para la NOHL donde las mutaciones que se presentan son puntuales, con mayor predominio de las transiciones que transversiones, el procedimiento más utilizado en los ensayos de rutina para el diagnóstico es la amplificación mediante la reacción en cadena de la polimerasa (PCR) y digestión con enzimas de restricción específicas que crean un sitio nuevo o desaparecen un sitio que ya existía para la enzima en presencia de la mutación.
+Los resultados se visualizan con una electroforesis de ADN.
+
+Es llamativa una situación específica en lo referente a individuos sanos de familias con NHOL en los que los estudios moleculares arrojan homoplasmia al ADNmit. mutado sin la más leve traza de ADNmit. sano independientemente del tipo de estudio aplicado.
+Para corroborar el resultado se ha utilizado la cuantificación de heteroplasmia utilizando el SSCP ( single- strand conformation polymorphism analysis ) o un Southern Blot post PCR o bien métodos de marcaje radiactivo que sensibilicen la técnica.
+
+En consecuencia este resultado de ausencia de heteroplasmia en sangre periférica en niveles suficientemente altos para ser detectables no se explica por la sensibilidad del test, sobre todo si tenemos en cuenta la uniformidad múltiples resultados en este sentido.
+Según datos de algunos biólogos moleculares que trabajan en esta línea investigativa este es un fenómeno común y no explicado que se presenta por ejemplo en todas las familias estudiadas en Canadá a la mutación 14484 en las que se utilizó inicialmente un procedimiento rutinario y posteriormente otros de los referidos más específicos.
+
+Se han propuesto numerosas hipótesis que tratan de explicar este hallazgo pero las más aceptadas se basan en dos mecanismos diferentes.
+En uno se plantea la segregación genética al azar ocurriendo durante la ovogénesis temprana que propiciaría la aparición de líneas homoplásmicas en la descendencia de progenitoras heteroplásmicas haciendo este fenómeno común.
+En el segundo se plantea el hallazgo de una selección negativa contra células de sangre periférica mutadas en su ADNmit. en la posición 3460 que propició la disminución paulatina de la tasa de heteroplasmia a este nivel en un estudio de seis años.
+
+No podemos afirmar que en tales pacientes haya ocurrido una selección negativa contra células sanguíneas no mutadas en su ADNmit, lo que sería poco probable, pero sería provechoso en futuras investigaciones poder contar con muestras de otros tejidos del paciente, como su pelo, piel, mucosas; fluidos como la saliva y la orina o bien muestras post mortem de tejidos del nervio óptico que al ser estudiados en su conjunto brinden una información más completa del comportamiento de la heteroplasmia en estas familias.
+Tales tomas de muestras aportarían con su estudio elementos que aclararían en la NHOL un hallazgo comprobado en otras entidades como MERRF, MELAS, Kearns Sayre en los que se plantea una selección específica de tejidos como elemento modulador en la patogénesis de las mutaciones del DNAmit.. 

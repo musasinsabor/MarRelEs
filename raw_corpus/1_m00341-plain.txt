@@ -1,0 +1,1294 @@
+
+INTRODUCCIÓN
+
+La presente es una época especial para la genética médica.
+Ésta ha alcanzado un papel reconocido como disciplina central que se ocupa de la variabilidad y herencia humanas y, al mismo tiempo, ha desarrollado métodos que permiten nuevos enfoques de muchas enfermedades y promete brindar mucho más en un futuro inmediato.
+Para proporcionar a los pacientes y sus familias todo el beneficio de la expansión del conocimiento genético se requiere que los médicos y sus colegas de las áreas de la salud entiendan los principales conceptos de la genética humana, y el papel de los genes y del ambiente en el desarrollo normal y anormal, así como en la enfermedad.
+
+PAPEL DE LA GENÉTICA EN MEDICINA 
+
+El lugar de la genética dentro de la medicina no siempre resultó tan obvio como lo es hoy.
+A pesar de que su trascendencia, tanto para la base conceptual de la medicina como para la práctica clínica, ahora se reconoce por completo, no hace muchos años se creía que la genética se relacionaba con la herencia de características insignificantes, superficiales y raras, y no se había comprendido el papel fundamental del gen en los procesos básicos de la vida.
+El descubrimiento de los principios de la herencia, que realizó el monje austríaco Gregor Mendel en 1865, de hecho no recibió apenas reconocimiento por parte de los biólogos ni reconocimiento alguno de otros científicos.
+
+Por el contrario, sus informes pasaron inadvertidos en la literatura científica durante 35 años.
+Charles Darwin, cuyo gran libro El origen de las especies (publicado en 1859) subrayaba la naturaleza hereditaria de la variabilidad entre los miembros de una especie como factor importante en la evolución, no sabía, sin embargo, cómo operaba la herencia.
+En aquel momento se pensaba que la herencia implicaba mezcla de características de ambos padres, y aún se aceptaba la idea de Jean Baptiste Lamarck con respecto a la herencia de características adquiridas.
+El trabajo de Mendel podría haber clarificado el concepto de Darwin acerca del mecanismo de la herencia de la variabilidad, pero aunque Mendel conoció las ideas de Darwin, no parece que este último conociese el significado del trabajo del austríaco o acaso ni siquiera supo de su existencia.
+Francis Galton, primo de Darwin y uno de los titanes de la incipiente genética médica, también permaneció ignorante de los hallazgos de Mendel, a pesar de la relevancia de éstos en cuanto a sus propios estudios sobre «naturaleza y crianza».
+El propio Mendel, quizá desalentado por los resultados de experimentos ulteriores menos favorablemente diseñados, finalmente abandonó la investigación experimental, si bien su interés por la ciencia biológica permaneció íntegro a lo largo de su vida.
+
+Las leyes de Mendel, que constituyen la piedra angular de la ciencia genética, se derivaron de sus experimentos con guisantes de jardín.
+Mendelcruzó líneas puras que diferían en una o más características bien definidas y observó la progenie de los apareamientos al menos durante dos generaciones.
+Las leyes que extrajo de los resultados de sus experimentos pueden exponerse como sigue: 
+
+Herencia unitaria .
+Mendel demostró con gran claridad que no ocurre mezcla de características de los padres, sino que, aunque éstas no aparezcan en la primera generación de la progenie, los rasgos de los padres pueden reaparecer sin cambios en una generación ulterior.
+La enseñanza moderna de la genética recalca poco esta ley, pero en la época de Mendel este concepto era enteramente nuevo.
+El término gen para denotar la unidad de la herencia no se utilizó hasta 1909, cuando lo introdujo Wilhelm Johannsen.
+
+Segregación.
+Los dos miembros de un solo par genético, lo que hoy se conoce como alelos , no se hallan nunca en el mismo gameto, sino que siempre se separan y pasan a diferentes gametos.
+En circunstancias excepcionales, cuando esta regla se rompe y los miembros de un par cromosómico no se segregan normalmente, la consecuencia característica es anormalidad grave en la progenie.
+
+Distribución independiente .
+Los miembros de diferentes pares genéticos se distribuyen en los gametos de manera independiente unos de otros.
+En otras palabras, se produce una recombinación aleatoria de los cromosomas paterno y materno en los gametos. 
+Como después se describirá, existe una importante excepción a esta regla, que Mendel no reconoció: 
+los genes estrechamente ligados en un mismo cromosoma no se distribuyen de forma independiente, sino que tienden a permanecer juntos generación tras generación.
+
+A comienzos del siglo XX, la mayoría de los biólogos estaban preparados para ponerse al corriente de las ideas de Mendel.
+Debido a una curiosa coincidencia, tres estudiosos (Hugo De Vries en Holanda, Carl Correns en Alemania y Erick von Tschermak en Austria) redescubrieron las leyes de Mendel de modo simultáneo e independiente.
+
+El desarrollo de la genética como ciencia no se remonta a los escritos de Mendel, sino a aquellos que comunicaron el redescubrimiento.
+
+Pronto se reconoció la naturaleza universal de las leyes de Mendel.
+Ya en 1902, Archibald Garrod, quien comparte con Francis Galton el título de fundador de la genética médica, pudo comunicar la alcaptonuria como el primer ejemplo en seres humanos de lo que hoy se conoce como herencia mendeliana.
+En su articulo, Garrod reconoció generosamente su deuda con el biólogo William Bateson, quien observó el significado genético de la consanguinidad entre los padres de algunos enfermos que sufrían lo que Garrod llamó «errores congénitos del metabolismo».
+De igual manera, Bateson identificó que, si más de un miembro de la familia estaba afectado, los otros sujetos enfermos eran casi siempre hermanos del paciente estudiado, no sus padres, hijos ni otro tipo de parientes.
+Batesonreconoció este patrón, como podría esperarse si la alcaptonuria se heredara como un carácter recesivo de acuerdo con las leyes de Mendel.
+Ésta es la primera evidencia clara en la investigación del modo en que interactúan los genetistas médicos y los no médicos.
+Tal interacción ha continuado hasta el presente y ha contribuido en gran medida a la rápida expansión de este campo.
+El hallazgo de Bateson precedió a la introducción del término genética para denominar la nueva ciencia, término también acuñado por Bateson en 1906.
+
+El entendimiento creciente de la naturaleza universal de la estructura y función biológicas de los organismos vivos llevó de modo inevitable al reconocimiento del papel fundamental de los genes en los procesos vitales.
+El concepto, que se insinuó en los trabajos de Garrod, fue formulado de manera clara por Beadle y Tatum, en 1941, como la hipótesis de «un gen-una enzima», la cual ahora se conoce más comúnmente como «un gen-una proteína». 
+En la actualidad, la genética de la bioquímica humana constituye uno de los temas dominantes dentro de la genética médica.
+
+A principios de los años 40 se produjeron rápidos progresos en el análisis molecular del material genético, comenzando con el descubrimiento de que los genes se componían de ácido desoxirribonucleico (DNA).
+En 1953, James Watson y Francis Crick describieron la estructura molecular del DNA, por lo cual obtuvieron el Premio Nobel en 1962.
+Otros descubrimientos destacados de los primeros días de la genética molecular incluyen el reconocimiento de que el DNA de los genes se transcribe en ácido ribonucleico (RNA), el cual a su vez se traduce en proteína, y la dilucidación del código genético por el cual la secuencia de aminoácidos de las proteínas está registrada en el DNA.
+
+A finales de los años 50 se desarrollaron técnicas para el estudio científico de los cromosomas humanos y los investigadores comenzaron a explorar el papel de éstos en el desarrollo sexual, así como el papel de las anomalías cromosómicas como causa de alteración en el desarrollo físico y mental de problemas reproductivos.
+Aunque la citogenética del ser humano, el estudio de los cromosomas humanos, ha sido un área de intensa investigación durante muchos años, todavía existen muchos problemas desafiantes.
+
+Continúan comunicándose nuevos hallazgos significativos acerca de la estructura cromosómica normal y anormal, especialmente ahora que el análisis de cromosomas avanza en estrecha relación con el análisis molecular en el estudio del genoma humano.
+
+Desde mediados de los años 70, con la ayuda de nuevas y poderosas tecnologías para la manipulación y análisis del DNA, el campo de la genética médica se ha transformado.
+
+Hoy en día, los científicos son capaces de localizar e identificar genes que generan proteínas humanas esenciales, caracterizar sus mutaciones y captar la naturaleza de sus productos proteicas, alcanzando así un entendimiento más profundo de muchas causas de enfermedad, las cuales se comprendían poco o se ignoraban en el pasado.
+Debido a que el enfoque molecular resultó muy diferente con respecto a otros previos, y a su enorme potencial, se denominó «la nueva genética».
+En fecha más reciente.
+Los términos genética inversa y clonación posicional se han empleado para denominar la clonación de genes de función desconocida mediante técnicas de mapeo génico.
+
+Algunos de los muchos ejemplos del estudio mediante genética molecular de las enfermedades humanas se describen en capítulos ulteriores.
+
+Durante muchos años, si bien había gran interés en el mapeo de genes humanos para su localización cromosómica, el progreso fue relativamente lento.
+La dificultad más importante era la inconveniencia de usar seres humanos para el mapeo génico, debido al pequeño tamaño de las familias. el largo tiempo de generación y la imposibilidad de realizar las uniones planeadas que sí era posible emplear con organismos experimentales.
+Sin embargo, por medio del análisis citogenético y de genética molecular, junto con estudios familiares, el mapeo génico humano se ha convertido en un área de vanguardia en la investigación genética del ser humano.
+El Proyecto Genoma Humano, un proyecto internacional que se propone llevar a cabo el mapeo del genoma humano completo antes del año 2005, con seguridad constituye uno de los mayores programas de investigación genética y se espera que proporcione importantes beneficios médicos (Watson, 1990).
+
+La expansión y aplicación del conocimiento genético ya ha generado fructíferas consecuencias para la medicina clínica.
+
+Hoy en día, por lo menos una tercera parte de los pacientes en hospitales pediátricos se encuentran allí debido a trastornos genéticos.
+Ello constituye un gran cambio con respecto a los primeros años de este siglo e incluso al período previo a la era de los antibióticos. 
+Antes de la época de la inmunización, la mejora de la nutrición y los antibióticos, la mayoría de los niños hospitalizados presentaba enfermedades infecciosas o trastornos nutricionales como raquitismo.
+En la actualidad se sabe que algunos de los niños con infecciones tienen defectos genéticos que deterioran su resistencia y, al menos en países desarrollados, la mayor parte de los casos de raquitismo no se deben a desnutrición, sino a genes deletéreos.
+Los avances de la medicina clínica y quirúrgica incrementan la probabilidad de supervivencia y, por lo tanto, tienden a elevar la prevalencia de defectos genéticos.
+
+Disciplinas de la genética médica y humana
+
+La genética constituye una materia diversa que se ocupa de la variación y la herencia de todos los organismos vivos.
+Dentro de este amplio campo, la genética humana es la ciencia de la variación y la herencia en los seres humanos, y la genética médica estudia la variación genética humana de significado médico. 
+Las dos áreas se superponen de manera extensa y, de hecho, para muchos genetistas son la misma.
+
+Dentro de la genética médica y humana existen muchos campos de interés, como indican las diversas direcciones en que se ha desarrollado la genética.
+Las áreas de especialización más importantes son el estudio de cromosomas (citogenética), el estudio de la estructura y función de genes individuales (genética molecular y bioquímica), y la aplicación al diagnóstico y cuidado del enfermo (genética clínica).
+El significado literal del término clínica es junto a la cama (del griego klinikos ), y un genetista clínico es un médico genetista apropiadamente cualificado y directamente implicado en el diagnóstico de enfermedades genéticas y en el cuidado de los individuos que las sufren.
+
+Otros campos de la genética humana, como la genética poblacional, la epidemiología genética, la genética del desarrollo y la inmunogenética, también tienen relevancia médica, en especial en relación con la comprensión y prevención de la enfermedad humana. 
+
+Además de emplearse en la práctica clínica, la genética médica se aplica al cuidado de enfermos en las áreas de consejo genético, detección poblacional para identificar a individuos con riesgo de desarrollar o transmitir un trastorno genético, y diagnóstico prenatal.
+El consejo genético, que combina suministro de información de riesgo con función de apoyo, se está convirtiendo en una nueva profesión sanitaria. 
+La detección poblacional de enfermedades genéticas ha llegado a ser una importante iniciativa de salud pública. 
+El diagnóstico prenatal, que utiliza muchas especialidades clínicas y de laboratorio, además de la genética, es hoy día probablemente el área principal en la que la genética se aplica al cuidado del paciente.
+
+Aunque la genética médica se ha asociado de modo muy estrecho con la pediatría, también resulta relevante para muchas otras especialidades médicas. 
+En obstetricia, el diagnóstico prenatal de ciertos defectos genéticos se ha convertido en un componente estándar de la atención prenatal.
+En la medicina de adultos se reconoce que muchos trastornos frecuentes, como la enfermedad de las arterias coronarias, la hipertensión y la diabetes mellitus, poseen importantes componentes genéticos; asimismo se considera que la medicina preventiva puede ser mucho más eficaz si se dirige hacia grupos de alto riesgo genéticamente definidos, más que hacia la población en general. 
+Las aplicaciones en muchas otras áreas, en particular neurología, hematología y oncología, se revisan en capítulos ulteriores.
+
+Si bien gran parte de la genética médica se halla dentro de la rama principal de la medicina, la genética se diferencia de otras especialidades médicas en que a menudo se orienta a la prevención, así como al tratamiento, y en que su atención con frecuencia se dirige no sólo al paciente, sino a toda la familia.
+
+Principios éticos en genética médica
+
+Los principios de la ética médica se aplican tanto a la genética como a otras disciplinas médicas, pero algunos de los dilemas éticos que pueden surgir en la genética médica rara vez se plantean, si es que aparecen, en otras ramas de la práctica clínica. 
+Se crea un tipo de problema por la habilidad creciente de los médicos para realizar pruebas presintomáticas-esto es, identificar un gen que provoca enfermedad en un sujeto antes de que el trastorno se evidencie clínicamente-.
+Ahora, los médicos también son capaces de reconocer ciertas predisposiciones genéticas que se asocian con riesgo adicional de desarrollar una enfermedad particular; por ejemplo, saben que individuos con deficiencia hereditaria de A1-antitripsina (tabla 1-1)presentan un riesgo incrementado de enfermedad pulmonar, lo cual se acentúa especialmente en ambientes con humo. 
+
+La enfermedad de Huntington (EH), que también aparece en la tabla 1-1, es un trastorno neuropsiquiátrico que se inicia en la mitad de la vida y se hereda de un progenitor afectado con carácter autosómico dominante.
+En muchos casos, los genetistas son capaces de determinar, mucho antes de que la entidad se manifieste, si el familiar de un sujeto con EH ha heredado el gen.
+Como se describe en los capítulos 4 y 8, la prueba requiere análisis de marcadores de DNA cercanos al gen de HD, en muestras de sangre de miembros de la familia.
+Sin embargo, si ha de realizarse la prueba presintomática, el paciente debe proporcionar su consentimiento para que se informe a sus parientes acerca del diagnóstico y de las implicaciones para ellos y sus familias; asimismo, los familiares han de estar de acuerdo en brindar muestras de sangre para análisis. 
+Cada miembro tiene derecho a decidir de manera informada si participa o no en el estudio, sin coerción y después de que el médico o consejero genético le informe de modo completo acerca de las implicaciones de su decisión. 
+Los participantes tienen derecho a no saber si se hallan en riesgo y, en ciertas circunstancias, esto entra en conflicto con el derecho de otros miembros de la familia a poseer tal información. 
+La confidencialidad, principio cardinal de la ética médica, puede resultar difícil de mantener, en especial cuando se trata de pruebas presintomáticas en personas emparentadas.
+
+A los miembros de la familia que han acordado participar en la entrega de muestras de sangre quizá les resulte difícil entender por qué no tienen derecho a conocer los resultados de la prueba de los otros.
+Más aún, es posible que las pruebas proporcionen información inesperada; por ejemplo, pueden revelar casos de paternidad falsa.
+La identificación de paternidad falsa implica la pregunta adicional de si el sujeto que brindó la muestra quiere recibir dicha información, lo cual subraya el hecho de que una eventualidad de este tipo tenga que resolverse de antemano y se considere en el documento de consentimiento que cada participante debe firmar.
+Estos breves ejemplos ilustran algunas de las dificultades que se encuentran en las pruebas de predicción de enfermedad genética (Huggins y cols., 1990).
+
+CLASIFICACIÓN DE LOS TRASTORNOS GENÉTICOS
+
+En la práctica clínica, la significación principal de la genética se relaciona con su papel en la identificación de la causalidad de un gran número de trastornos.
+Prácticamente, cualquier enfermedad es el resultado de la acción combinada de genes y ambiente, pero el papel relativo del componente genético puede ser grande o pequeño.
+
+Entre los trastornos que se deben total o parcialmente a factores genéticos se reconocen tres tipos principales: 
+
+1. Trastornos monogénicos.
+2. Trastornos cromosómicos.
+3. Trastornos multifactoriales.
+
+Los trastornos monogénicos son provocados por genes mutantes.
+La mutación puede estar presente en un solo cromosoma de un par (con un alelo normal en el cromosoma homólogo) o en ambos cromosomas del par.
+En cada caso, la causa es un error único en la información genética.
+
+Por lo regular, dichos trastornos muestran patrones genealógicos obvios y característicos.
+La mayor parte de tales defectos son raros, con una frecuencia que puede ser de hasta I en 500, aunque comúnmente es menor (tabla 1-1).
+No obstante, existen muchas clases diferentes.
+Se han descrito cerca de 4.000 fenotipos monogénicos, de los cuales 3.000 constituyen trastornos genéticos (McKusick,1990), y su impacto conjunto es significativo.
+En centenares de estas enfermedades se ha reconocido el defecto bioquímico básico y, en muchas, se ha aislado y clonado el gen responsable (Beaudet y cols., 1989).
+
+Hoy se reconoce el papel de los genes mitocondriales, como el de los nucleares, como causa de enfermedades, y en muchos trastornos se ha identificado un defecto en un gen mitocondrial, incluyendo la neuropatía óptica hereditaria de Leber.
+Por consiguiente, las entidades transmitidas mitocondrialmente deben reconocerse como un tipo especial de trastorno monogénico. 
+
+Tabla 1-1
+
+Ejemplos seleccionados de trastornos genéticos destacados
+
+Transtorno.
+Características.
+Incidencia.
+Capítulos.
+
+
+Trastornos monogénicos.
+
+
+Deficiencia de adenosindesaminasa.
+Defecto enzimático autosómico recesivo que provoca inmunodeficiencia; primera alteración aprobada para terapia genética humana.
+
+
+Deficiencia de A1-antitripsina.
+Deficiencia autosómica recesiva de un inhibidor de la proteasa plasmática, que provoca una enfermedad pulmonar obstructiva en homocigotos (más grave en fumadores) y enfermedad hepática en algunos niños afectados.
+
+
+Fibrosis quística.
+Trastorno autosómico recesivo frecuente que afecta la regulación del transporte de iones a través de la membrana en células exocrinas; primer gen identificado sin conocimiento previo del producto génico o de la alteración cromosómica estructural.
+
+
+Distrofia muscular de Duchenne.
+Frecuente trastorno muscular recesivo ligado al X; el gen se identificó por la alteración cromosómica estructural sin conocimiento previo del producto proteico; el gen es muy grande y, por ello, resulta una diana frecuente de la mutación.
+
+
+Hipercolesterolemia familiar.
+Defecto autosómico dominante del receptor de lipoproteína plasmática de baja densidad (LDL); se asocia con una frecuencia incrementada de enfermedad de las arterias coronarias.
+
+
+Síndrome del X frágil.
+Forma común de retraso mental ligado al X; se relaciona con un lugar frágil en el cromosoma X; características genéticas singulares; un tercio de las mujeres portadoras presentan retraso moderado.
+
+
+Deficiencia de glucosa 6-fosfato deshidrogenasa.
+Trastorno farmacogenético ligado al X; posee muchas variantes, pero dos son frecuentes: una en el Mediterráneo y otra en África; los heterocigotos muestran, como ventaja, resistencia a la malaria.
+
+
+Hemofilia A.
+Frecuente defecto de coagulación ligado al X.
+
+
+Enfermedad de Huntington.
+Enfermedad neurodegenerativa autosómica dominante, de comienzo tardío; puede pronosticarse mediante pruebas moleculares en la etapa presintomática; primer gen que se localizó en un cromosoma por medio de análisis de ligamiento de DNA.
+
+
+Distrofia miotónica.
+Trastorno autosómico dominante de inicio y gravedad variables; efecto materno: los pacientes con patología congénita tienen siempre madres afectadas.
+
+
+Neurofibromatosis tipo 1.
+Trastorno autosómico dominante común con expresión variable, tasa elevada de mutación, riesgo de neoplasia, alta proporción de nuevas mutaciones (50 %); gen muy grande.
+
+
+Osteogénesis imperfecta.
+Grupo heterogéneo de defectos moleculares del colágeno; son los prototipos de defectos en proteínas estructurales.
+
+
+Fenilcetonuria .
+Deficiencia autosómica recesiva de la hidroxilasa de la fenilalanina, que puede causar retraso mental; es prototipo de las enfermedades que se detectan por cribado neonatal; el retraso se previene con tratamiento nutricional inmediato.
+
+
+Retinoblastoma.
+Neoplasia embrionaria de la retina, que se asocia con mutación o deleción de un par de alelos en el cromosoma 13; existen formas tanto hereditarias como esporádicas.
+
+
+Drepanocitemia .
+Defecto en un gen de la cadena p-globina de la hemoglobina; fue la primera enfermedad molecular que se identificó; es común en África; tiene una frecuencia elevada debido a que los heterocigotos presentan resistencia a la malaria .
+
+
+Enfermedad de Tay-Sachs.
+Deficiencia autosómica recesiva de hexosaminidasa A; muy común en la población de judíos ashkenazis [1] .
+
+
+Talasemia.
+Numerosos defectos génicos de la cadena de a-globina y B-globina de la hemoglobina, lo que produce desequilibrio en las cantidades relativas de las cadenas; muy frecuente en el Mediterráneo y en el sur de Asia.
+
+
+Tumor de Wilms.
+Tumor renal de la infancia que se relaciona con una delación en la región 11p13; quizá sea parte de un síndrome de genes contiguos con aniridia, trastornos genitourinarios y retraso mental (síndrome WAGR);un alelo normal participa en el desarrollo del aparato urogenital.
+
+
+Trastornos citogenéticos .
+
+
+Síndrome de Down.
+Trisomia 21, la causa más frecuente de retraso mental moderado; el riesgo se relaciona con edad avanzada de la madre .
+
+
+Trisomía 18.
+Autosoma extra con fenotipo característico de malformaciones congénitas múltiples y graves en niños nacidos vivos.
+
+
+Trisomía 13.
+Autosoma extra con fenotipo característico de malformaciones congénitas múltiples y graves en niños nacidos vivos.
+
+
+Síndrome de Klinefelter.
+Fenotipo masculino y anomalías características, generalmente asociados con cariotipo 47, XXY.
+
+
+Síndrome de Turner.
+Fenotipo femenino y anomalías características, generalmente asociados con cariotipo 45,X.
+
+
+Síndrome XXX.
+Cariotipo anormal frecuente; puede estar asociado con dificultades para el aprendizaje e infertilidad; a menudo fenotípicamente normal.
+
+
+Síndrome XYY.
+Cariotipo anormal frecuente; puede estar asociado con trastornos de la conducta; a menudo fenotípicamente normal.
+
+
+Síndrome de Prader-Willi .
+Síndrome dismórfico con obesidad y deterioro de la cognición; ejemplo de impresión genómica ( genomic imprinting ) a menudo debida a delación citogenética en la región xxx en el cromosoma heredado del padre.
+
+
+Trastornos multifactoriales .
+Malformaciones congénitas .
+
+
+Labio leporino con o sin paladar hendido .
+Labio leporino con o sin paladar hendido, unilateral o bilateral.
+
+
+Enfermedades congénitas del corazón.
+Grupo de cardiopatías congénitas, algunas en parte genéticas.
+
+
+Defectos del tubo neural.
+Anencefalia, espina bífida y otras formas menos comunes.
+
+
+Enfermedades de la edad adulta.
+Algunos tipos de cáncer .
+El papel de la herencia en muchos tipos de cáncer permanece sin comprenderse del todo, pero a menudo es de gran importancia.
+
+
+Enfermedad de las arterias coronarias.
+Trastorno con causas múltiples, incluyendo predisposición genética.
+
+
+Diabetes mellitus.
+Insuficiencia en la producción de insulina por las células B del páncreas; ciertos genes de antígenos leucocitarios humanos constituyen importantes determinantes de riesgo.
+
+
+Trastornos mitocondriales .
+
+
+Neuropatía óptica hereditaria de Leber.
+La primera enfermedad que se demostró que se debía a un defecto en el genoma mitocondrial; se hereda por la vía materna.
+
+
+[1] Judíos de Europa central y oriental no sefarditas.
+
+En los trastornos cromosómicos , el defecto no se debe a un error único en el original genético, sino a exceso o deficiencia de los genes contenidos en cromosomas enteros o sus segmentos.
+Por ejemplo, la presencia de una copia adicional de un cromosoma, el número 21, produce un trastorno específico, el síndrome de Down (tabla 1-1), aunque ningún gen individual en el cromosoma es anormal.
+Como grupo, los trastornos cromosómicos son muy comunes, afectan aproximadamente a 7 de cada 1.000 niños nacidos vivos y provocan cerca de la mitad de los abortos espontáneos en el primer trimestre del embarazo.
+
+La herencia multifactorial genera varios Trastornos del desarrollo que causan malformaciones congénitas y muchos trastornos frecuentes de la edad adulta.
+De nuevo, parece que no existe un error único en la información genética. sino más bien una combinación de pequeñas variaciones que en conjunto pueden producir un defecto grave o predisponer a éste.
+Quizá también participen los factores ambientales.
+Los trastornos multifactoriales tienden a repetirse en familias, pero no muestran los patrones genealógicos característicos de los rasgos monogénicos.
+
+¿Cómo puede reconocer un médico que un trastorno es genético?
+
+Una de las características irónicas de la enfermedad genética es que las personas afectadas casi nunca buscan a un genetista, sino más bien a un médico general.
+Debido a que los pacientes no se presentan con quejas como «¡mis genes me están matando!» o «me duelen los genes», el médico general debe reconocer que los síntomas tienen o quizá tengan una explicación genética, y ha de enviar al individuo a recibir los cuidados de un genetista.
+Así, es responsabilidad de los médicos generales reconocer los primeros signos clínicos de una entidad genética, así como preguntarse a sí mismos, de manera rutinaria, si la genética desempeña un papel en el problema. 
+Esto es lo que se entiende por enfoque genético de la medicina o «medicina genética».
+
+Si un trastorno aparece más de una vez en una familia, es posible que éste tenga una causa genética, y uno de los propósitos de este libro es describir las maneras de identificar diversos patrones de enfermedad genética en familias.
+Sin embargo, no todos los trastornos que afectan a más de un miembro en una familia son de origen genético, y no todas las entidades genéticas se presentan en más de un miembro de una familia.
+¿Cómo puede el médico reconocer que un trastorno en cierto paciente es de naturaleza genética, con todo lo que dicho reconocimiento implica para el paciente y los miembros de su familia?
+
+No existe una respuesta simple para esa pregunta.
+Una clave importante es, por supuesto, el diagnóstico. 
+Si bien muchas alteraciones genéticas requieren pruebas diagnósticas específicas, hoy en día la tarea del diagnóstico se facilita por las abundantes y excelentes descripciones de entidades genéticas en la literatura médica.
+Los sistemas informatizados también están contribuyendo al diagnóstico genético, en particular al diagnóstico de síndromes dismórficos.
+
+Con objeto de ilustrar la variedad de problemas genéticos que un médico tiene que afrontar, el recuadro anexo contiene cuatro breves historias de pacientes con trastornos genéticos relativamente comunes.
+Cada uno de los cuadros se expone con mayor detalle en otro lugar del presente libro.
+
+PATRONES DE HERENCIA MONOGÉNICA 
+
+En el capitulo 1 se denominaron y caracterizaron brevemente las tres principales categorías de trastornos genéticos monogénicos, cromosómicos y multifactoriales.
+En este capítulo se exponen con mayor detalle los patrones clásicos de transmisión de los trastornos de un solo gen y se describen algunas excepciones notables a los patrones usuales.
+
+Los rasgos monogénicos a menudo se denominan mendelianos porque, como las características de los guisantes de jardín que estudió Gregor Mendel. se segregan en las familias y, por término medio, ocurren en proporciones fijas entre la descendencia de tipos específicos de uniones.
+Los fenotipos monogénicos descritos hasta la fecha se enumeran en la obra clásica de Victor A. McKusick, Mendelian inheritance in man (9., edición., 1990), que ha resultado indispensable para los genetistas médicos durante muchos años. 
+La edición de 1990 de este libro incluye más de 4.500 loci y en muchos de éstos existe al menos una forma de mutación conocida que se asocia con un trastorno clínicamente significativo.
+Así del total estimado de 50.000 a 100.000 genes humanos, aproximadamente de un 5 a un 10% ya se han identificado.
+El ritmo de los nuevos descubrimientos es rápido y parece seguro que se acelerará debido al interés y a la actividad internacionales en la realización del mapeo e identificación de la secuencia del genoma humano completo.
+
+La variación hereditaria del genoma constituye la piedra angular de la genética humana y médica. 
+Las formas alternativas de información genética en un locas determinado se denominan alelos .
+Muchos genes tienen sólo una versión normal, denominada alelo «salvaje».
+Otros loci génicos exhiben polimorfismos (literalmente «muchas formas»), lo cual significa que en la población existen al menos dos alelos normales relativamente comunes en el locus (cap., 6).
+Además del alelo o los alelos normales, la mayor parte de loci identificados también tienen uno o más alelos raros.
+De hecho, muchos loci humanos se identificaron originalmente a través de los trastornos clínicamente significativos provocados por un raro alelo mutante.
+
+El genotipo de un individuo es su constitución genética, tanto de manera colectiva en todos los loci o, de manera más característica, en un solo locus. 
+El fenotipo constituye la expresión observable de un genotipo en forma de rasgos morfológicos, bioquímicos o moleculares.
+Por supuesto, un fenotipo puede ser normal o anormal en un cierto sujeto, pero en este libro, en el que se subrayan los trastornos de significado médico. 
+La atención se centra en fenotipos anormales, esto es, trastornos genéticos.
+
+Un trastorno monogénico es aquel que está determinado por un alelo específico en un solo locus en uno o ambos miembros de un par cromosómico.
+El alelo variante, que surgió por mutación en algún momento en el pasado reciente o lejano y casi siempre es relativamente raro, reemplaza el alelo normal de tipo «salvaje» en uno o ambos cromosomas.
+Cuando un individuo posee un par de alelos idénticos, se dice que es homocigótico (un homocigoto ); cuando los alelos son diferentes, el individuo es heterocigótico (un heterocigoto o portador).
+El término compuesto o heterocigoto compuesto se utiliza para describir un genotipo en el cual dos alelos mutantes distintos se hallan presentes, en lugar de uno normal y uno mutante.
+Dichos términos (homocigótico, heterocigótico y compuesto) pueden aplicarse a una persona o a un genotipo.
+El término mutación se utiliza en genética médica en dos sentidos: algunas veces indica un nuevo cambio genético que no se ha observado previamente en ningún pariente y en otras ocasiones señala un alelo anormal.
+
+- Varón
+- Mujer
+- Sexo no especificado
+- Número de niños con indicación de su sexo
+- Afectados
+- Heterocigotos para rasgo autosómico
+- Portador de rasgo recesivo ligado al X
+- Propositus
+- Individuo muerto
+- Muerte prenatal
+- Aborto
+- Individuo adoptado perteneciente a la misma familia
+- Individuo adoptado no perteneciente a la familia
+- Matrimonio
+- Unión extramarital
+- Divorcio
+- Unión consanguínea
+- Gemelos monocigóticos
+- Gemelos dicigóticos
+- Gemelos de cigosidad desconocida
+- Individuos numerados en la genealogía
+- El propositus es II-2
+- Sin descendencia
+
+Figura 4-1
+
+Símbolos comúnmente utilizados en las genealogías
+
+Los trastornos monogénicos se caracterizan por sus patrones de transmisión en familias.
+Para establecer dicho patrón, un primer paso habitual consiste en obtener información acerca de los antecedentes familiares del paciente y resumir los detalles en forma de una genealogía , utilizando símbolos estándar (fig., 4-1).
+Los patrones que muestran los trastornos monogénicos en las genealogías dependen principalmente de dos factores: 1) la localización cromosómica del locus génico, que puede ser autosómico (ubicado en un autosoma) o ligado al X (situado en el cromosoma X), y 2) la clase de fenotipo, que puede resultar dominante (que se expresa incluso cuando sólo un cromosoma de un par porta el alelo variante) o recesivo (que se expresa únicamente cuando ambos cromosomas de un par portan un alelo variante). 
+Así, existen sólo cuatro patrones básicos de herencia monogénica.
+
+Herencia autosómica y ligada al X
+
+La distinción entre herencia autosómica y ligada a X resulta obvia en tanto que depende sólo de la localización cromosómica del gen.
+Sin embargo, la expresión clínica de un gen anormal también depende de que éste sea autosómico o ligado a X. Existen dos consideraciones, que se exponen con más detalle posteriormente: 1) Los varones poseen únicamente un X y es por ello que se les denomina hemicigóticos con respecto a los genes ligados al X, en vez de homocigóticos o heterocigóticos; los varones 46, XY nunca son heterocigóticos para los rasgos ligados al X. 2) Para compensar el complemento doble de genes ligados al X en las mujeres, opuesto al complemento único en los varones, en las células de las mujeres únicamente se expresan los alelos de uno de los dos cromosomas X, mientras que ambos alelos de cualquier locus autosómico son activos.
+
+Herencia dominante y recesiva
+
+Por definición, un fenotipo que se expresa de la misma manera tanto en el homocigoto como en el heterocigoto es dominante , y un fenotipo que se expresa sólo en homocigotos (o, para rasgos ligados al X, hemicigotos) es recesivo .
+En genética médica, sin embargo, esta definición no es estrictamente cierta, y cualquier fenotipo que se expresa en heterocigotos se clasifica como dominante.
+Los trastornos autosómicos dominantes son típicamente más graves en homocigotos que en heterocigotos y, hasta ahora, sólo uno de tales trastornos, la enfermedad de Huntington, se sabe que es igualmente grave en ambos genotipos.
+
+Cuando la expresión del genotipo heterocigótico resulta diferente de los dos tipos homocigóticos e intermedio entre éstos, el fenotipo puede describirse con mayor precisión como incompletamente dominante o incompletamente recesivo.
+
+Si la expresión de cada alelo puede detectarse incluso en presencia del otro, los dos alelos se denominan codominantes .
+
+Cada uno de los trastornos genéticos que se mencionan en este libro como ejemplo de un principio genético se describen brevemente desde el punto de vista clínico y genético en un lugar apropiado en este texto, a menudo en un recuadro.
+Véase la tabla 1-1 y el índice para mayor información acerca de dónde hallar muchas de estas descripciones clínicas.
+
+Si se es estricto, debe aclararse que es el fenotipo, y no el alelo, el que resulta dominante o recesivo; sin embargo, los genes se clasifican como dominantes o recesivos sobre la base de su expresión fenotípica, y los términos «gen dominante» y «gen recesivo» son utilizados ampliamente, aunque de manera imprecisa.
+
+La distinción entre herencia dominante y recesiva no es absoluta; por el contrario, constituye una designación arbitraria que se basa en fenotipos clínicos que pueden no tener significación a nivel de acción génica. 
+Para loci autosómicos, cada alelo se expresa como un producto génico; en los heterocigotos, uno de los alelos puede suprimirse, o bien su producto puede resultar defectuoso y, en última instancia, no funcional, pero donde quiera que esto sea biológicamente posible, ambos alelos se expresan y el fenotipo resulta la consecuencia de la expresión combinada de ambos.
+Si bien un fenotipo recesivo se define como clínicamente indetectable en heterocigotos, machos rasgos que se clasifican como recesivos poseen de hecho manifestaciones heterocigóticas cuando se examinan a nivel celular, bioquímico o molecular.
+
+Por ejemplo, el trastorno bien conocido de la hemoglobina, la enfermedad (o anemia) drepanocítica , se hereda como una enfermedad autosómica recesiva (v., cap., II para una exposición más detallada). 
+Los pacientes con la enfermedad son homocigóticos para un alelo defectuoso en el locus de la, B-globina y, consecuentemente, producen hemoglobina anormal S (HbS) y no hemoglobina normal del adulto (HbA) en sus eritrocitos, que adquieren forma de hoz en condiciones de baja tensión de oxígeno.
+Los heterocigotos producen tanto HbA como HbS; una proporción de sus eritrocitos muestran el fenómeno drepanocítico y los sujetos padecen anemia leve.
+Así, a nivel de la síntesis de hemoglobina, el alelo normal de D-globina y el alelo defectuoso se expresan como alelos codominantes; a nivel de la función fisiológica, el alelo normal es incompletamente dominante (y el alelo anormal, recesivo de manera incompleta) y, por último, a nivel clínico, la enfermedad drepanocítica se comporta como un rasgo recesivo. 
+
+En los trastornos autosómicos dominantes, el producto del alelo normal es típicamente aquel que se requiere en cantidades normales.
+Un gen mutante que no produce proteína o genera una cantidad reducida de proteína o proteína en forma anormal origina un fenotipo anormal. 
+
+Desde un punto de vista amplio. el producto del gen normal a menudo es una proteína estructural no enzimática, como el colágeno, o bien un componente proteico de una membrana o un receptor.
+Sin embargo, hasta la fecha en la mayor parte de los trastornos autosómicos dominantes. 
+La naturaleza de la proteína defectuosa o perdida es aún completamente desconocida.
+Por el contrario, muchos de los trastornos autosómicos recesivos descritos hasta la fecha son defectos enzimáticos en los que parece existir un margen de seguridad lo bastante amplio como para permitir la función normal en heterocigotos, aunque sólo uno del par de alelos sea completamente funcional y el otro (anormal), defectuoso o no funcional.
+
+Estas consideraciones se exponen con detalle en el capítulo 19.
+
+En resumen.
+La distinción entre un alelo mutante dominante y uno recesivo es realmente simple: en el heterocigoto, con un alelo mutante y otro normal,
+¿es suficiente la cantidad residual de producto génico para realizar su función designada?
+Si la respuesta es sí, el alelo mutante (y su trastorno asociado) es recesivo.
+Si la respuesta es no, el alelo mutante (y su trastorno) es dominante.
+
+Otros factores que afectan los patrones genealógicos
+
+Si bien como regla general las genealogías de los trastornos monogénicos pueden clasificarse fácilmente como autosómicas o ligadas al X y como dominantes o recesivas, el patrón de herencia de una genealogía individual también está determinado por otros varios factores que hacen difícil la interpretación del modo de herencia.
+Especialmente con las familias de pequeño tamaño típicas de los actuales países más desarrollados, el paciente quizá resulte el único miembro afectado de la familia. y la naturaleza genética del trastorno tal vez no sea inmediatamente aparente.
+Otros aspectos que deben considerarse son la segregación al azar de genes de los padres a los hijos a través de los gametos: las mutaciones nuevas que no resultan infrecuentes en algunos tipos de enfermedad genética: las dificultades para el diagnóstico debidas a la expresión ausente o variable del gen involucrado; los posibles efectos de otros genes y del ambiente en la expresión génica: la incapacidad de los sujetos con ciertos genotipos para sobrevivir hasta el momento del nacimiento, y la falta de información precisa con respecto a la presencia del trastorno en parientes o acerca de relaciones familiares.
+
+Tal como se describe en la sección «Patrones no clásicos de expresión monogénica», varios mecanismos biológicos raros e inusuales pueden generar patrones genealógicos no clásicos.
+Ejemplos de algunas de dichas situaciones que pueden confundir los intentos para proporcionar un consejo genético preciso aparecen en los problemas al final de este capítulo.
+
+Algunas veces, un patrón genealógico simula un patrón monogénico, aunque el trastorno no posea una base monogénica.
+Es fácil confundirse en este sentido por condiciones que exhiben herencia multifactorial, por ciertos tipos de trastornos cromosómicos familiares o por efectos teratogénicos.
+Los trastornos hereditarios monogénicos pueden distinguirse de otros tipos de trastornos familiares por sus proporciones de segregación típicamente mendeliana entre parientes, así como mediante otros métodos, entre los cuales el más directo es la demostración de un defecto puntual a nivel del producto génico o a nivel del DNA que se corresponde con el fenotipo.
+
+Muchos pacientes con trastornos genéticos no tienen parientes con una afectación similar, pero incluso si un trastorno genético ocurre sólo en un miembro de un grupo familiar, es posible reconocer su origen genético. 
+Debido a la gran semejanza del fenotipo entre distintas familias con el mismo defecto, a menudo pueden utilizarse patrones de herencia bien establecidos en otras familias con el mismo trastorno como base para el diagnóstico y el consejo genético (McKusick, 1990).
+
+Heterogeneidad
+
+Cuando un trastorno genético que parece ser una entidad única se analiza meticulosamente, es frecuente hallar que resulta genéticamente heterogéneo; esto es, el trastorno incluye varios fenotipos que son similares, pero en realidad están determinados por diferentes genotipos (v., tabla 4-1 para los ejemplos).
+La heterogeneidad quizá sea el resultado de diferentes mutaciones en el mismo locus ( heterogeneidad alélica ), de mutaciones en diferentes loci ( heterogeneidad no alélica o de locus ) o de ambas.
+El reconocimiento de la heterogeneidad genética constituye un aspecto importante del diagnóstico clínico y el consejo genético.
+
+Para muchos fenotipos, el análisis genealógico por sí solo resulta suficiente para demostrar heterogeneidad genética.
+
+Por ejemplo, se sabe hace tiempo que la retinitis pigmentosa , una causa común de trastorno visual debida a degeneración retiniana que se asocia con distribución anormal del pigmento en la retina, ocurre en formas autosómicas dominantes, autosómicas recesivas y ligadas al X.
+En años recientes, se ha mostrado que la heterogeneidad resulta incluso más extensa; el análisis de DNA ha señalado que existen cuando menos dos formas ligadas al X y tres autosómicas dominantes.
+El síndrome de Ehlers-Danlos, en el que existen numerosas manifestaciones de un defecto subyacente de la estructura del colágeno, puede también presentar herencia autosómica dominante, autosómica recesiva o ligada al X, y el análisis a nivel clínico y molecular ha mostrado que hay al menos 10 tipos distintos de este trastorno.
+
+Tabla 4-1
+
+Heterogeneidad en trastornos monogénicos seleccionados
+
+Transtorno.
+Tipo de heterogeneidad.
+Comentarios.
+
+
+Enfermedad de Charcot-Marie-Tooth .
+De locus (no alélica).
+Formas AD y XR.
+
+
+Fibrosis quística.
+Alélica.
+Insuficiencia pancreática vs. suficiencia.
+
+
+Sordera recesiva congénita .
+Alélica y de locus.
+Numerosos tipos descritos.
+
+
+Distrofia muscular de Duchenne y de Becker.
+Alélica.
+Clínicamente distintas.
+
+
+Síndrome de Ehiers-Danlos.
+Alélica y de locus.
+Muchas variantes distintas.
+
+
+Homocistinuria .
+Alélica y de locus.
+Sensible a la vitamina vs. no sensible.
+
+
+Mucopolisacaridosis .
+Alélica y de locus.
+Gran heterogeneidad .
+
+
+Miotonía congénita.
+De locus.
+Formas AD y AR.
+
+
+Retinitis pigmentaria.
+De locus.
+Formas AD, AR y XR.
+
+
+Enfermedad de Tay-Sachs.
+Alélica.
+Varias formas.
+
+
+B-Talasemia.
+Alélica.
+Numerosas diferentes mutaciones en el gen de la B-globina producen el fenotipo .
+
+
+La heterogeneidad alélica es una importante causa de variación clínica.
+Muchos loci poseen más de un alelo mutante; de hecho, en un locus determinado puede haber varias o muchas mutaciones, que producen trastornos clínicamente indistinguibles o muy similares.
+En otros casos, diferentes alelos mutantes en el mismo locas generan muy distintas presentaciones clínicas. 
+Un ejemplo clásico de heterogeneidad alélica como base de heterogeneidad clínica es el trastorno autosómico recesivo denominado síndrome de Hurler , una mucopolisacaridosis que se genera por deficiencia del enzima a-L-iduronidasa .
+Un trastorno alélico más leve, el síndrome de Scheie , se origina por una mutación diferente en el mismo locus, y un fenotipo de gravedad intermedia, el síndrome de Hurler-Scheie , se observa en pacientes con genotipo compuesto (v., también tabla 12-4).
+
+A menos que tengan padres consanguíneos, es probable que muchos pacientes con trastornos autosómicos recesivos tengan genotipos compuestos más que genotipos verdaderamente homocigóticos, si bien en la mayoría de las ocasiones estos individuos se identifican como homocigotos si poseen un par de alelos anormales.
+Debido a que las diferentes combinaciones alélicas pueden tener consecuencias clínicas en cierto modo diferentes, los clínicos necesitan conocer la heterogeneidad alélica como una posible explicación de la variabilidad entre pacientes con la misma enfermedad.
+
+Magnitud de los trastornos mendelianos 
+
+Las enfermedades mendelianas conocidas exigen un alto coste en cuanto a fallos reproductivos, muerte prematura e incapacidades. 
+Estos trastornos son primariamente, aunque no de manera exclusiva, enfermedades de la edad pediátrica; menos del 10 % se desarrollan después de la pubertad, y sólo el I % ocurren después del periodo reproductivo (Costa y cols., 1985).
+Aunque individualmente son raros, como grupo generan una proporción importante de las enfermedades y muertes infantiles.
+En un estudio poblacional de más de un millón de neonatos vivos, la incidencia de trastornos monogénicos graves se estimó en 0,36 % (Baird y cols., 1988).
+En otro estudio de neonatos vivos y mortinatos, uno de cada 45 presentó algún tipo de anomalía congénita; de las anomalías, alrededor de una de cada 30 pareció ser un trastorno monogénico y alrededor de uno de cada cuatro de éstos se pensó que constituía una nueva mutación (Nelson y Holmes, 1989).
+Entre los niños hospitalizados, de un 6 a un 8 % probablemente tengan trastornos monogénicos (Beaudet y cols., 1989). 
+
+Terminología
+
+Aunque los principios de la genética médica son relativamente fáciles de entender, su poco conocida terminología quizás haga parecer la materia como inaccesible en un primer momento.
+
+Para ayudar a resolver este problema de lenguaje, algunos términos que antes no se han definido se introducen ahora y se ilustran en la genealogía de la figura 4-2.
+
+El miembro a través del cual una familia con un trastorno genético es identificada por primera vez es el propositus , o, si está afectado, también puede llamarse caso índice .
+El propositus es usualmente un paciente, pero puede ser algún otro miembro de la familia. 
+Una familia puede tener más de un propositus , si es detectada mediante más de una fuente.
+Un conjunto de hermanos y hermanas se denomina fratría .
+La primera generación de la descendencia de una pareja constituye la F1 (primera generación filial).
+Los parientes se clasifican como de primer grado (padres, hermanos y descendientes del propositus ), segundo grado (abuelos y nietos, tíos y tías, sobrinos y sobrinas, medios hermanos), tercer grado (p., ej., primos hermanos) y así sucesivamente, según el número de pasos (en otras palabras, el número de meiosis) en la genealogía entre dos familiares. 
+La descendencia de los primos hermanos son primos en segundo grado, y un niño es el sobrino en segundo grado del primo hermano de sus padres.
+Los miembros de las parejas relacionados por descendencia son consanguíneos .
+
+Si existe sólo un miembro afectado en una familia, éste se denomina caso «aislado», o si se determina que el trastorno se debe a una nueva mutación, el individuo se denomina caso «esporádico» (fig., 4-2). 
+
+Figura 4-2
+
+Relaciones dentro de un grupo familiar
+
+La flecha indica la propositus, 111-5 que representa un caso aislado de trastorno genético. 
+Ella tiene cuatro hermanos, xxx .
+Su pareja (esposo) es 111-6, y tienen tres hijos (su progenie F1).
+La propositus tiene nueve parientes de primer grado (sus padres, hermanos y descendientes), nueve parientes de segundo grado (abuelos, tíos/tías, sobrinos/sobrinas, nietos), dos de tercer grado (primos hermanos) y cuatro de cuarto grado (sobrinos segundos).
+xxx son primos segundos de xxx .
+xxx , cuyos padres son consanguíneos están doblemente emparentados con la propositus: son parientes de segundo grado a través de su padre y de cuarto grado su madre.
+
+HERRAMIENTAS DE LA GENÉTICA MOLECULAR HUMANA
+
+Uno de los objetivos principales de la moderna genética médica y humana es comprender a nivel molecular la base de las mutaciones que generan enfermedades genéticas y utilizar dicha información para mejorar los métodos de diagnóstico y tratamiento potencial de estos trastornos. 
+
+Estos estudios se basan en los conceptos de la genética molecular, que constituyen una extensión lógica de conceptos firmemente enraizados en la citogenética, la genética clínica y la genética bioquímica. 
+Como la mayor parte de los avances en el conocimiento. los de la genética molecular han recibido una considerable ayuda del desarrollo de metodologías y tecnologías que difícilmente podrían haberse imaginado en fecha tan cercana como mediados de los años 70.
+Los métodos, si no los conceptos, de la genética molecular han sido revolucionarios.
+En los últimos 15 años se han desarrollado y utilizado varias técnicas que permiten el análisis detallado de genes normales y anormales.
+La aplicación de estas técnicas ha permitido incrementar el conocimiento de los procesos moleculares a todos los niveles, del gen al organismo completo, y ha proporcionado las bases para que continúe ampliándose el acervo de procedimientos de laboratorio para la detección y diagnóstico de enfermedades genéticas.
+
+Este capítulo no intenta ser un «libro de cocina» de recetas de experimentos genéticos o métodos diagnósticos de laboratorio.
+
+Más bien sirve sólo como introducción a las técnicas que han generado y continúan produciendo los avances en la investigación de genética básica y aplicada.
+El contenido de este capitulo completa el material básico que se presentó en los capítulos 2, 3 y 4, y proporciona las bases para el entendimiento de gran parte de la información molecular contenida en los capítulos siguientes.
+Los lectores que han seguido cursos de genética molecular humana o que poseen experiencia de laboratorio en esa misma área pueden revisar superficialmente o incluso omitir la lectura de este capítulo, lo cual no interferirá con la continuidad del texto.
+Quienes consideren que el material de este capítulo es demasiado breve hallarán revisiones mucho más detalladas de las técnicas modernas, junto con referencias completas, en la bibliografía que se indica al final del capítulo.
+
+PRINCIPIOS DE LA CLONACIÓN MOLECULAR
+
+El proceso de la clonación molecular consiste en el aislamiento de una secuencia de DNA de interés y la obtención de múltiples copias de ésta en un organismo, usualmente una bacteria, que puede crecer durante largos períodos de tiempo.
+Así pueden aislarse grandes cantidades de molécula de DNA en forma pura para análisis molecular detallado (fig., 5-1).
+La capacidad de generar copias casi infinitas (clones) de una secuencia particular es la base de la tecnología de DNA recombinante y de su aplicación a la genética humana y médica.
+La denominación «DNA recombinante» se refiere a combinaciones nuevas de DNA creadas entre secuencias de DNA humanas (o de otra clase) de interés y moléculas de DNA bacteriana (o de otra clase) capaces de duplicarse indefinidamente en el laboratorio.
+Como otros muchos avances tecnológicos, éste surgió con su propia jerga, cuyo dominio puede parecer más dificultoso que los conceptos involucrados (v., recuadro).
+
+Figura 5-1
+
+El fundamento de la clonación molecular para aislar cantidades infinitas de una secuencia deseada de DNA particular en forma pura
+
+Enzimas de restricción 
+
+Uno de los avances clave en el desarrollo de la clonación molecular fue el descubrimiento, a principios de los años 70, de las endonucleasas de restricción bacterianas, enzimas que reconocen secuencias de doble cadena específicas (generalmente cortas) en el DNA y cortan éste en el lugar de reconocimiento o cerca de éste.
+Por ejemplo, la enzima de restricción EcoRI reconoce la secuencia específica de seis pares de bases xxx siempre que aparece en una molécula de DNA de doble cadena y corta el DNA en ese lugar produciendo una muesca en cada cadena entre la G y la A adyacente.
+Esto genera dos fragmentos, cada uno con un extremo de cuatro bases y una sola cadena (fig., 5-2).
+Estos extremos «pegajosos» son útiles para las subsecuentes reacciones de unión en la construcción de moléculas de DNA recombinante. 
+Otras enzimas de restricción reconocen diferentes secuencias de nucleótidos que resultan específicas para cada enzima en particular.
+Varios centenares de dichas enzimas se conocen hoy en día; algunas de las que se emplean más frecuentemente se indican en la tabla 5-1.
+La mayor parte de las enzimas de restricción poseen lugares de reconocimiento que se componen de cuatro o seis pares de bases, aunque unas cuantas poseen lugares de mayor tamaño.
+Generalmente, las secuencias son palindromos ; esto es, se leen igual 5' a 3' en ambas cadenas.
+
+La rotura de una molécula de DNA con una enzima de restricción particular «digiere» el DNA hasta formar una colección reproducible y característica de fragmentos que refleja la frecuencia y la localización de los lugares de corte específicos.
+Esta propiedad de las enzimas de restricción posee dos importantes implicaciones, fundamentales para el papel que desempeñan en la tecnología del DNA recombinante y en su aplicación a la genética médica.
+En primer lugar, la digestión de muestras de DNA genómico con, por ejemplo, la enzima EcoRI genera una colección de aproximadamente un millón de fragmento EcoRs I , cada uno con una localización particular en el genoma.
+Debido a que EcoRI corta el DNA de doble cadena de manera específica en todas y cada una de las xxx que encuentra, y debido a que incluso una modificación de una sola base en un lugar potencial de corte impide el reconocimiento y corte que realiza la enzima, dicha digestión permite examinar, en efecto, esta secuencia particular de seis nucleótidos en aproximadamente un millón de localizaciones en el genoma. 
+En promedio, una enzima con un lugar de reconocimiento de seis pares de bases debe cortar el DNA humano cada 46 pares de bases, o una vez cada 4 kb .
+Sin embargo, en realidad tales lugares no están localizados de manera aleatoria (lo que refleja las particulares composiciones y secuencias de bases de diferentes regiones del genoma) y se observan fragmentos EcoRI que presentan tamaños de unos cuantos a más de un millón de pares de bases.
+
+El lenguaje de la clonación molecular
+
+cDNA (DNA complementario): un DNA sintético copiado del RNA mensajero (mRNA) por la enzima transcriptasa inversa. 
+Se emplea para referirse tanto a una copia de una sola cadena como a su derivado de dos cadenas.
+Expresiones: «un clon de cDNA», «una biblioteca de cDNA», «aislar un cDNA».
+
+Clon/clonación: una molécula de DNA recombinante que contiene un gen u otra secuencia de DNA de interés. 
+El acto de generar dicha molécula.
+Expresiones: «aislar un clon» o «clonar un gen».
+
+Huésped: el organismo empleado para aislar y producir una molécula de DNA recombinante.
+Generalmente, una cepa de la bacteria Escherichia coli o de la levadura Saccharomyces cerevisiae.
+Expresiones:
+¿qué huésped se utilizó?
+
+Hibridación: el acto de dos moléculas de ácido nucleico complementarias de una sola cadena que forman enlaces y se convierten en una molécula de doble cadena.
+Expresiones: «la sonda se hibrida con un gen».
+
+Inserto: un fragmento de DNA humano clonado en un vector particular.
+Expresiones: «se purificó el inserto». 
+
+Biblioteca: una colección de clones recombinantes de una secuencia que sabemos que contiene el gen, el cDNA u otras secuencias de DNA de interés.
+En principio, una biblioteca puede contener todas las secuencias de DNA representadas en la célula. tejido o cromosoma originales.
+Expresiones: «una biblioteca de cDNA muscular», «una biblioteca del genoma humano».
+
+Ligamiento: el acto de formar enlaces de fosfodiéster para unir dos moléculas de DNA de doble cadena con la enzima DNA-ligasa.
+El ligamiento constituye el paso esencial en la creación de moléculas de DNA recombinante. 
+Expresiones: «los fragmentos se ligaron». 
+
+Sonda/sondar: una molécula de DNA o RNA clonada, marcada con trazador radiactivo o de otro tipo y utilizada para identificar sus secuencias complementarias por medio de hibridación molecular.
+El acto de emplear dicha molécula.
+Expresiones: «la sonda de B-globina,«sondar el DNA de un paciente».
+
+Endonucleasas de restricción (enzimas de restricción): enzimas que reconocen secuencias específicas de DNA de doble cadena y cortan el DNA en el lugar de reconocimiento o cerca de éste.
+Expresiones: «una digestión con enzima de restricción» (o solamente «una digestión de restricción») o «la enzima de restricción EcoRI» .
+
+Mancha de Southern: un filtro al que se ha transferido el DNA, a menudo después de la digestión con enzimas de restricción y electroforesis en gel para separar las moléculas de DNA por tamaño (el nombre proviene de Ed Southern, que desarrolló la técnica).
+El acto de generar dicho filtro e hibridarlo con una sonda específica. 
+Expresiones: «sondar una mancha de Souther», «realizar un southern».
+
+Vector: la molécula de DNA en la que se ha clonado el gen u otro fragmento de DNA de interés.
+Puede replicarse en un huésped particular.
+Algunos ejemplos incluyen plásmidos, bacteriófagos lambda, cósmidos y cromosomas artificiales de levadura.
+Expresiones: «un vector de clonación»,«el vector cósmido». 
+
+En segundo lugar, todas las moléculas de DNA digeridas con EcoRI , independientemente de su origen, poseen extremos pegajosos idénticos de una sola cadena, sea cual fuere la naturaleza de las secuencias de DNA que flanquean un lugar EcoRI particular.
+Así, cualesquiera de las dos moléculas de DNA que se han generado mediante digestión con EcoRI pueden unirse por interacción de sus extremos complementarios de cuatro bases, tras lo cual se forman los enlaces de fosfodiéster en cada fibra mediante una enzima denominada DNA-ligasa.
+Este paso de ligamiento crea una molécula de DNA «recombinante», en la que un extremo proviene de una fuente de DNA y el otro, de una fuente diferente (fig., 5-2).
+Muchas enzimas de restricción, como EcoRI , generan extremos cortos; otras, sin embargo, cortan ambas cadenas en el mismo lugar, lo cual genera extremos romos.
+La DNA-ligasa puede unir incluso estas moléculas.
+
+Vectores
+
+Un vector es una molécula de DNA que puede replicarse de manera autónoma en un huésped, como las celarlas bacterianas o de levadura a partir de las cuales es posible aislarlo en forma pura para el análisis.
+La clonación de fragmentos de DNA humano en un vector por medio de enzimas de restricción y DNA-ligasa (como acabamos de describir) permite la propagación del fragmento clonado con la molécula vector.
+
+Debido a que los vectores de replicación pueden generar un gran número de copias por célula, ya que los huéspedes bacterianos o de levadura pueden crecer indefinidamente en el laboratorio, es posible obtener grandes cantidades de secuencias de DNA de interés.
+Cierto número de vectores se utilizan de modo común para este propósito, cada uno con sus ventajas y limitaciones (tabla 5-2).
+
+Figura 5-2
+
+Proceso de clonación de un segmento de DNA humano (entre dos lugares EcoRI ) en un vector de clonación plásmido
+
+La abreviatura «ori», señala un origen de replicación de DNA para el plásmido replicante en células bacterianas.
+Las abreviaturas « amp » y « tetr », señalan genes bacterianos que confieren resistencia a ampicilina y tetraciclina. 
+Se muestra el crecimiento de bacterias en placas que poseen antibióticos seleccionados para aquellas células que contienen copias del plásmido, con su inserción de DNA humano clonado.
+
+Plásmidos
+
+Los plásmidos son moléculas circulares de DNA de doble cadena que se replican de modo extracromosómico en las bacterias o, menos comúnmente, en levaduras.
+Debido a que puede mantenerse un número moderado de copias de dichos plásmidos (fig., 5-1), resultan ideales para generar grandes cantidades de una secuencia de DNA clonada.
+Los plásmidos diseñados especialmente para clonación molecular son generalmente pequeños (con un tamaño de varias kilobases) y contienen un origen de replicación (para replicación en Escherichia coli o en levadura), uno o más marcadores elegidos (con frecuencia un gen que confiere resistencia a antibióticos) y uno o más lugares de restricción para la clonación de moléculas de DNA foráneo.
+En la figura 5-2 aparece un dibujo esquemático de los pasos más importantes en la clonación de DNA foráneo en el lugar EcoRI de un plásmido.
+La identificación de colonias que contienen el plásmido recombinante deseado. seguida por el crecimiento y el aislamiento del DNA del plásmido puro, permite el aislamiento de grandes cantidades del inserto clonado.
+La clonación en plásmidos constituye un procedimiento estándar para el análisis de moléculas pequeñas de DNA (tabla 5-2).
+
+Tabla 5-1
+
+Ejemplos de enzimas de restricción y sus secuencias de Reconocimiento
+
+Enzima de restricción.
+Fuente.
+Secuencia de reconocimiento.
+
+
+xxx .
+Bacillus amyloliquefaciens H .
+xxx .
+
+
+EcoR I .
+Escherichia coli xxx .
+xxx .
+
+
+HaeIII .
+Haemophilus aegyptius .
+xxx .
+
+
+xxx .
+Haemophilus influenzae Rd .
+xxx .
+
+
+xxx .
+Nocardia otitidis-cavarium .
+xxx .
+
+
+xxx .
+Staphylococcus aureus 3A .
+xxx .
+
+
+xxx .
+streptomyces stanford .
+xxx .
+
+
+Tabla 5-2
+
+Ejemplos de vectores utilizados comúnmente en clonación molecular
+
+Vector.
+Huésped.
+Tipo de clonación.
+Margen del tamaño inserto .
+
+
+Plásmidos.
+Bacteriano y de levadura.
+Genómica, cDNA.
+Usualmente xxx .
+
+
+Bacteriófago lambda.
+Bacteriano.
+Genómica, cDNA .
+Hasta xxx .
+
+
+Cósmidos .
+Bacteriano.
+Genómica.
+Hasta xxx .
+
+
+«Cromosomas artificiales» .
+De levadura.
+Genómica.
+De xxx a xxx .
+
+
+Bacteriófago lambda
+
+Otro vector a menudo utilizado es el bacteriófago lambda, un virus bacteriano con una molécula de DNA de doble cadena relativamente larga (alrededor de 45 kb ).
+Durante su crecimiento en Escherichia coli , el bacteriófago lambda se replica para producir un enorme número de virus infecciosos, lo cual al final mata las células bacterianas infectadas de esta manera y libera alrededor de un millón de bacteriófagos. 
+
+Durante esta fase infecciosa de crecimiento, aproximadamente una tercera parte del genoma de los bacteriófagos no es esencial («fragmentos internos» en fig., 5-3) y puede reemplazarse por otras secuencias de DNA; así, resulta muy apropiado para la clonación de fragmentos bastante grandes (de hasta 20 kb ) de DNA humano.
+
+Cósmidos
+
+Fragmentos aún más grandes de DNA foráneo (hasta de 50 kb ) pueden clonarse en vectores cósmidos. 
+Los cósmidos son básicamente plásmidos que emplean la habilidad de las partículas infecciosas del bacteriófago lambda para «empaquetar» de manera eficiente grandes piezas lineales de DNA e introducirlas en las células bacterianas.
+
+Después de la infección de las bacterias de manera similar a la de los virus lambda, el cósmido se vuelve a hacer circular y se replica como un plásmido grande.
+
+«Cromosomas artificiales» de levadura
+
+Para muchos procedimientos de la clonación de genes y del mapeo génico, ilustrados en el capítulo 8, resulta ventajoso aislar la porción más grande posible del DNA cromosómico humano.
+Hasta mediados de los años 8O, los vectores cósmidos representaron el vehículo más grande de clonación posible. 
+Sin embargo, en 1987, Olson y cols., desarrollaron una técnica para clonar piezas mayores de DNA en vectores que se replicaban y segregaban en el huésped Saccharomyces cerevisiae (la levadura común utilizada en panadería), así como en cromosomas de levadura lineales normales (Burke y cols., 1987).
+Estos «cromosomas artificiales» de levadura (YAC) poseen centrómeros y telómeros, como los cromosomas de levadura normales, y permiten la clonación y el aislamiento de fragmentos de DNA de hasta 1.000 kb de longitud, mucho más pequeños que un cromosoma humano normal, pero aproximadamente del mismo tamaño que un cromosoma normal de levadura. 
+
+Construcción de bibliotecas 
+
+El propósito de la clonación molecular es, por supuesto, aislar un gen particular u otra secuencia de DNA en grandes cantidades para su posterior estudio.
+Un procedimiento común para lograr esto es construir un conjunto de clones de DNA recombinante a partir de una fuente (DNA genómico o mRNA) que contenga el gen o la secuencia de interés. 
+Dicha colección de clones se denomina biblioteca , la cual, al menos teóricamente, contiene todas las secuencias que se encuentran en la fuente original. 
+A continuación debe identificarse el clon o los clones de interés de la biblioteca por medio de métodos sensitivos de valoración que permitan hallar, en algunos casos, hasta una sola copia del clon en cuestión en un conjunto de hasta 10 millones de clones.
+
+Bibliotecas genómicas
+
+Un procedimiento para construir una biblioteca de DNA genómico se muestra en la figura 5-3.
+En esta técnica, aplicada por vez primera a finales de los años 70, el DNA genómico humano es parcialmente digerido con una enzima de restricción como Sau 3A, de manera que en algunos de los lugares se produce la rotura y en otros no.
+De este modo, asumiendo la rotura aleatoria de tales lugares, es posible obtener una colección de fragmentos superpuestos de tamaño adecuado para la clonación y ligarse en los «brazos» del bacteriófago lambda preparado, de modo que los extremos Sau 3A de los fragmentos de DNA humano pueden ligarse en el vector (fig., 5-3).
+Después del empaquetamiento del cromosoma recombinante lambda en partículas del bacteriófago infeccioso, la biblioteca, que contiene un millón de fragmentos de DNA genómico o más, puede almacenarse para aislamiento futuro de muchos genes.
+Una de las primeras bibliotecas de genoma humano, construida por Maniatis y cols. (Lawn y cols., 1978), continúa utilizándose hoy en día en centenares de laboratorios de todo el mundo para el aislamiento de genes humanos.
+
+Es posible facilitar en gran medida el proceso de selección de la secuencia de interés comenzando con una biblioteca que ya se ha enriquecido para dicha secuencia, lo cual reduce de manera considerable el número total de clones recombinantes que deben evaluarse.
+Para el DNA genómico, una manera particularmente eficaz de realizar esto consiste en emplear una biblioteca que contenga sólo clones de un cromosoma humano específico.
+Así, si se quiere aislar un gen de, por ejemplo, el cromosoma 7, puede obtenerse una biblioteca específica de cromosoma que contiene clones únicamente del cromosoma 7.
+Dichas bibliotecas hoy están disponibles para todos los cromosomas individuales humanos.
+Estas bibliotecas se generan mediante clonación de DNA de cromosomas que se separan por su tamaño de todos los demás cromosomas mediante una técnica llamada clasificación cromosómica activada con fluorescencia .
+La aplicación de esta técnica particular se explica con mayor detalle en el capítulo 8.
+
+CITOGENÉTICA CLÍNICA: PRINCIPIOS GENERALES Y ANOMALÍAS AUTOSÓMICAS
+
+En 1959 se inició una nueva era en la genética médica con dos descubrimientos casi simultáneos: el hallazgo de Lejeune y cols. , de que los enfants mongoliens (niños con Mongolismo, hoy conocido como síndrome de Down o trisomía 21 ) tienen 47 cromosomas en lugar de los 46 habituales, en sus células somáticas y las primeras observaciones de Ford y cols. , así como de Jacobs y Strong, de anomalías de cromosomas sexuales en pacientes con trastornos del desarrollo sexual.
+Hoy se sabe que las anomalías cromosómicas constituyen una categoría principal de la enfermedad genética, que genera una gran proporción de todas las pérdidas reproductivas, malformaciones congénitas y retraso mental, así como desempeña un papel importante en la patogenia de la malignidad.
+Las anomalías específicas de los cromosomas generan 60 o más síndromes identificables que en conjunto son más frecuentes que todos los trastornos mendelianos monogénicos juntos.
+Se hallan en aproximadamente el 0,7 % de los recién nacidos vivos, en cerca del 2 % de todos los embarazos en mujeres con más de 35 años de edad y en el 50 % de los abortos espontáneos del primer trimestre.
+
+En este capítulo se exponen las anomalías numéricas y estructurales que se observan en los cariotipos humanos y se describen algunas de las anomalías mejor conocidas de los autosomas.
+Los cromosomas sexuales y sus anomalías se presentan en el capítulo siguiente. 
+
+Principios generales de la citogenética clínica
+
+Las anomalías de los cromosomas pueden ser numéricas o estructurales, y pueden afectar uno o más autosomas, cromosomas sexuales o ambos de manera simultánea.
+Con creces, el tipo más frecuente de anomalía cromosómica clínicamente significativo es la aneuploidía , un número anormal de cromosomas debido a un cromosoma ausente o adicional, que siempre se asocia con desarrollo anómalo físico o mental, o bien ambos.
+Las translocaciones recíprocas (intercambio de segmentos entre cromosomas no homólogos) también son relativamente frecuentes, pero generalmente no tienen ningún efecto fenotípico, si bien, como se explica más adelante, pueden constituir un riesgo incrementado asociado de descendencia anormal.
+En el recuadro se presentan las frecuencias relativas de anomalías numéricas y estructurales que se observan en abortos espontáneos, en fetos analizados con amniocentesis de madres mayores de 35 años de edad y en recién nacidos vivos.
+
+- Cariotipo anormal
+- Incidencia total
+- Porcentaje de anomalías
+- Anomalías numéricas
+- (aneuploidía, poliploidía)
+- Anomalías estructurales
+- Equilibradas
+- No equilibradas
+
+En la tabla 9-1 se indican algunas abreviaturas que se utilizan frecuentemente en las descripciones de cromosomas y sus anomalías, así como ejemplos de cariotipos anómalos.
+
+ANOMALÍAS DEL NÚMERO DE CROMOSOMAS
+
+Un complemento cromosómico es heteroploide cuando presenta cualquier número de cromosomas diferente al normal.
+Un múltiplo exacto del número haploide de cromosomas se denomina euploide , y cualquier otro número cromosómico, aneuploide .
+
+Triploidía y tetraploidía 
+
+Además del número diploide característico de las células somáticas normales, ocasionalmente se comunican otros dos complementos cromosómicos euploides, triploide y tetraploide .
+Tanto la triploidía como la tetraploidía se han observado en fetos, y unos pocos niños triploides han nacido vivos, aunque su supervivencia ha resultado breve. 
+Es probable que la triploidía ocurra por un fallo en una de las divisiones de maduración en el óvulo o, generalmente, en el espermatozoide.
+La expresión fenotípica de un cariotipo triploide depende de la fuente del conjunto cromosómico adicional.
+Los triploides con un conjunto adicional de cromosomas paternos presentan típicamente una placenta anormal y se clasifican como molas hidatiformes parciales, pero aquellos que muestran un conjunto adicional de cromosomas maternos no se clasifican de esta manera y abortan de forma espontánea en un período temprano del embarazo.
+Los tetraploides son siempre xxx o xxx lo que sugiere que la tetraploidía es causada por una incompleta división de segmentación temprana del cigoto.
+
+Aneuploidía
+
+La aneuploidía es el tipo más frecuente y clínicamente significativo de trastornos cromosómicos humanos y ocurre en al menos 3 a 4 % de todos los embarazos clínicamente reconocidos.
+Aunque por definición una persona es aneuploide si posee menos o más cromosomas que un múltiplo exacto del conjunto haploide, la mayoría de los pacientes aneuploides presentan trisomía (tres en lugar del par normal de un determinado cromosoma) o, con menos frecuencia, monosomía (un solo representante de un determinado cromosoma).
+
+Tanto la trisomía como la monosomía pueden tener consecuencias fenotípicas graves.
+
+La trisomía puede existir en cualquier cromosoma del conjunto, pero la trisomía de un cromosoma completo es raramente compatible con la vida.
+Con creces, el tipo más común de trisomía en recién nacidos vivos es la trisomía 21 (cariotipo 47, xxx o xxx ), la constitución cromosómica que se observa en el 95 % de los individuos con síndrome de Down.
+La monosomía de un cromosoma entero casi siempre es letal (una excepción importante es la monosomía para el cromosoma X que se describe en el cap. , 10).
+
+Las causas de aneuploidía no se conocen bien, pero se sabe que, cualquiera que sea el mecanismo molecular subyacente, el mecanismo cromosómico más común es la no disyunción meiótica, el fallo de la separación normal de un par de cromosomas durante una de las dos divisiones meióticas, generalmente durante la meiosis I.
+Las consecuencias de la no disyunción durante las meiosis I y II son diferentes.
+Si el error ocurre durante la meiosis I, el gameto con 24 cromosomas contiene los miembros paterno y materno del par.
+Si sucede durante la meiosis II, el gameto con el cromosoma adicional contiene ambas copias del cromosoma paterno o materno. (Sin embargo, es casi seguro que haya ocurrido la recombinación en la meiosis I precedente, lo que genera algunas diferencias genéticas entre las cromátides y, de este modo, en los cromosomas hijos correspondientes).
+
+Tabla 9-1
+
+Algunas abreviaturas utilizadas para la descripción de cromosomas y sus anomalías y ejemplos representativos
+
+Abreviatura.
+cen .
+del.
+der .
+dic .
+dup .
+fra .
+i.
+ins .
+inv .
+mar .
+mat .
+p.
+pat .
+q.
+r.
+rop .
+rob .
+t.
+ter .
+
+
+significado.
+Centrómetro .
+Deleción.
+cromosoma derivado .
+Cromosoma dicéntrico.
+Duplicación .
+Sitio frágil.
+Isocromosoma.
+Inserción.
+Inversión.
+Cromosoma marcador.
+Origen materno.
+Brazo corto del cromosoma.
+Origen paterno.
+Brazo largo del cromosoma.
+Cromosoma en anillo.
+Translocación recíproca.
+Translocación robertsoniana .
+Translocación.
+Extremo.
+Ganancia de.
+Pérdida de.
+Rotura y unión.
+Mosaicismo.
+
+
+Cuadro.
+Cariotipo de mujer normal.
+Cariotipo de varón normal.
+Mujer con síndrome del maullido de gato debido a delación de parte del brazo corto de un cromosoma 5.
+Cromosoma de translocación derivado del cromosoma 1 y que contiene el centrómero de este mismo cromosoma.
+Cromosoma de translocación que posee centrómeros de los cromosomas X e Y.
+Varón con cromosoma X frágil.
+Mujer con isocromosoma para el brazo largo del cromosoma X.
+Inversión pericéntrica del cromosoma 3.
+Mujer con un cromosoma adicional no identificado.
+Varón con cromosoma de translocación der adicional heredado de la madre.
+Mujer con cromosoma X en anillo .
+Mujer con translocación equilibrada entre los cromosomas 2 y 8, con roturas en xxx y xxx .
+Mujer con delación parcial del brazo largo desde Xq21 a Xqter (la nomenclatura muestra la porción del cromosoma que está presente).
+Mujer con trisomía 21.
+Mujer normal portadora de translocación robertsoniana entre los brazos largos de los cromosomas 14 y 21; el cariotipo carece de un cromosoma 1 4 y uno 21 normales xxx .
+Cromosoma 4 con una porción delecionada del brazo corto.
+Cromosoma 5 delecionado en un paciente con síndrome del maullido de gato, con un punto de rotura de delación en la banda xxx .
+Descripción de la porción dar xxx de xxx .
+Mujer con dos poblaciones celulares, una con cariotipo normal y otra con trisomia 8.
+
+
+Figura 9-1
+
+Placa metafásica de un paciente con trisomía 21
+
+Figura 9-2
+
+Las diferentes consecuencias de la no disyunción en la meiosis I (izquierda) y la meiosis II(derecha)
+
+Si el error ocurre en la meiosis I, los gametos contienen una forma representativa de ambos miembros del par cromosómico 21 o carecen por completo de cromosoma 21. 
+Si la no disyunción sucede en la meiosis II, los gametos anormales poseen dos copias de un cromosoma 21 parental (y ninguna copia del otro) o carecen de un cromosoma 21.
+
+Para determinar el origen parental del error y la etapa meiótica en la cual ocurrió, así como para saber si existe asociación entre la no disyunción y la recombinación, se han utilizado tanto sondas de DNA polimórfico que cubren el brazo largo del cromosoma 21 como heteromorfismos citogenéticos.
+Como se muestra en la figura 9-3, en muchos casos, los análisis de marcadores en los cromosomas de los padres y del paciente aneuploide revelan la etapa y el origen parental del error.
+
+Se han comunicado formas más complicadas de aneuploidía múltiple.
+Ocasionalmente, un gameto tiene un representante adicional de más de un cromosoma.
+La no disyunción puede ocurrir en dos divisiones meióticas sucesivas o, por azar, en ambos gametos masculino y femenino de manera simultánea, lo que produce cigotos con números cromosómicos extraños que son extremadamente raros, excepto en el caso de cromosomas sexuales.
+La no disyunción también puede ocurrir en una división mitótica después de la formación del cigoto.
+
+Si esto ocurre en una división por segmentación temprana, puede producirse un mosaicismo clínicamente significativo.
+En algunas líneas celulares malignas y algunos cultivos celulares, la no disyunción mitótica puede provocar cariotipos muy anómalos.
+
+Figura 9-3
+
+Determinación del origen de la no disyunción en la trisomía 21
+
+En esta familia, los dos cromosomas 21 de la madre pueden distinguirse por medio de un heteromorfismo cromosómico .
+Su hija, que presenta síndrome de Down, ha heredado ambos heteromorfismos, lo que demuestra que el origen de su cromosoma 21 adicional es materno.
+
+La madre y su hija son heterocigóticas para el heteromorfismo, así como para los dos polimorfismos de DNA del cromosoma 21 (loci A y B), lo que demuestra que la no disyunción ocurrió en la meiosis I materna.
+
+Algunos reordenamientos son estables y pueden pasar sin alterarse a través de la división celular, mientras que otros resultan inestables.
+Para que un reordenamiento cromosómico sea estable, debe tener elementos estructurales normales, incluyendo un solo centrómero funcional y dos telómeros.
+
+Algunos de los tipos de reordenamientos estructurales que se observan en los cromosomas humanos se ilustran en la figura 9-4.
+
+ANOMALÍAS DE LA ESTRUCTURA CROMOSÓMICA 
+
+Los reordenamientos estructurales se originan por rotura cromosómica seguida de reconstitución en una combinación anormal.
+Los reordenamientos pueden ocurrir de muchas maneras, todas las cuales son más raras que la aneuploidía. 
+
+El tipo más frecuente. una translocación equilibrada (recíproca o robertsoniana, que se abordan más adelante), está presente en cerca de I de cada 500 neonatos.
+El intercambio cromosómico ocurre espontáneamente con poca frecuencia y también puede ser inducido por agentes que generan roturas cromosómicas (clastógenos), como la radiación ionizante, algunas infecciones virales y muchas sustancias químicas.
+Al igual que las anomalías numéricas, los reordenamientos estructurales pueden estar presentes en todas las células de una persona o en forma de mosaico.
+
+Los reordenamientos estructurales se definen como equilibrados ,si los conjuntos cromosómicos tienen el complemento normal de información genética, o bien desequilibrados , si existe información adicional o perdida.
+
+Reordenamientos desequilibrados
+
+En los reordenamientos desequilibrados, es probable que el fenotipo resulte anormal debido a delación, duplicación o (en algunos casos) ambas.
+La duplicación de parte de un cromosoma es comparable con una trisomía parcial y la delación genera una monosomía parcial.
+Cualquier cambio que altere el equilibrio normal de genes funcionales puede provocar desarrollo anormal.
+
+Deleción
+
+La delación es una pérdida de un segmento cromosómico que genera desequilibrio cromosómico .
+Un portador de una delación cromosómica (con un homólogo normal y otro delecionado) es hemicigótico con respecto a la información genética existente en el segmento correspondiente del homólogo normal.
+Las consecuencias clínicas dependen del tamaño del segmento delecionado y del número y función de los genes que contiene.
+
+Una deleción puede ser terminal o intersticial. 
+Es posible que las delaciones se originen simplemente por rotura cromosómica y pérdida del segmento acéntrico. 
+En algunos casos también puede generarse una delación por recombinación desigual entre cromosomas homólogos o cromátides hermanas mal alineados (fig., 9-4 B).
+Por último, las delaciones también aparecen por segregación anormal de una translocación o una inversión equilibrada, como se describe más adelante. 
+
+Figura 9-4
+
+Reordenamientos estructurales de cromosomas, descritos en el texto
+
+A) Deleción terminal e intersticial; cada una genera un fragmento acéntrico
+B) Recombinación desigual entre segmentos de cromosomas homólogos o entre cromátides hermanas (el segmento duplicado o delecionado se indica con los corchetes) 
+C) Cromosoma en anillo con dos fragmentos acéntricos
+D) Generación de un isocromosoma para el brazo largo de un cromosoma
+E) Translocación robertsoniana entre dos cromosomas acrocéntricos
+F) Inserción de un segmento de un cromosoma en otro no homólogo
+
+Figura 9-5
+
+Demostración de delaciones cromosómicas en «síndromes de genes contiguos», mediante bandeo de alta resolución 
+
+En cada caso, el homólogo a la derecha está delecionado.
+Arriba: supresión de xxx en una copia del cromosoma 15 en el síndrome de Prader-Willi .
+Abajo: supresión del brazo corto terminal de una copia del cromosoma 17 en el síndrome de Miller-Dieker.
+Se muestran los cromosomas de dos células. 
+En ambos síndromes, la pérdida de material de un homólogo genera aneusomía segmentaria, un desequilibrio parcial de material genético.
+
+Las técnicas de bandeo de alta resolución pueden revelar delaciones que son muy pequeñas para apreciarse en placas metafásicas ordinarias.
+Para ser identificable citogenéticamente mediante bandeo de alta resolución, una delación debe comprender al menos de 2.000 a 3.000 kb , pero se han detectado algunas delaciones indetectables cariotípicamente con consecuencias fenotípicas por medio de técnicas moleculares (Ledbetter y Cavence, 1989).
+Las pequeñas delaciones dentro de genes o aquellas que se extienden a varios genes contiguos constituyen mecanismos reconocidos de mutación.
+
+Se han identificado numerosas delaciones en la investigación de pacientes dismórficos y en el diagnóstico prenatal, pero el conocimiento de los genes funcionales perdidos en los segmentos delecionados y su relación con las consecuencias fenotípicas está en extremo limitado actualmente. 
+Varios síndromes dismórficos se asocian con delaciones citogenéticamente visibles. 
+El ejemplo de los síndromes de Prader-Willi y Angelman sugiere que la impresión genómica ( genomic imprinting ), un proceso que marca los cromosomas materno y paterno de modo diferente, puede generar diferencias en la expresión fenotípica en pacientes con deleciones que parecen idénticas en extensión, pero resultan diferentes en cuanto a su origen parental.
+
+Tabla 9-2
+
+Ejemplos seleccionados de aneusomía segmentaria
+
+Transtorno.
+Deleción.
+Descripción.
+
+
+Síndrome de Langer-Giedion.
+Retraso mental, microcefalia, dismorfismo, anomalías óseas.
+
+
+Secuencia de DiGeorge.
+Ausencia de timo y paratiroides.
+
+
+Síndrome WAGR.
+Tumor de Wilms con aniridia, gonodoblastoma y retraso mental.
+
+
+Retinoblastoma.
+Neoplasia embrionaria de las células retinianas, cáncer en la infancia.
+
+
+Síndrome de Prader-Willi.
+Síndrome dismórfico.
+
+
+Síndrome de Angelman.
+Síndrome dismórfico .
+
+
+Síndrome de Miller-Dieker .
+Síndrome dismórfico grave con lisencefalia y otras malformaciones.
+
+
+Duplicaciones
+
+Las duplicaciones, como las delaciones, pueden originarse por recombinación desigual o por segregación anormal meiótica en un portador de una translocación o una inversión.
+En general, la duplicación parece ser mucho menos nociva que la delación.
+Sin embargo, como la duplicación en un gameto genera desequilibrio cromosómico y la rotura cromosómica que provoca puede alterar los genes, a menudo la duplicación produce alguna anomalía fenotípica.
+
+Si bien se han comunicado muchas duplicaciones, muy pocas se han estudiado hasta ahora y las generalizaciones con respecto a los fenotipos asociados resultan prematuras.
+
+No obstante, ciertos fenotipos parecen relacionarse con duplicaciones de regiones cromosómicas determinadas.
+
+Cromosomas en anillo
+
+Los cromosomas en anillo se forman cuando se producen dos roturas en un cromosoma y los extremos rotos de éste se reúnen en una estructura anular.
+
+Si el centrómero está dentro del anillo, al carecer de aquél los dos fragmentos dístales se pierden.
+Los cromosomas en anillo son muy raros, pero se han detectado para cada cromosoma humano.
+
+Los anillos pueden generar dificultades en la mitosis cuando las dos cromátides hermanas del cromosoma en anillo intenten separarse en la anafase.
+Es posible que se produzca rotura del anillo seguida de fusión, generándose anillos más grandes o más pequeños.
+Debido a esta inestabilidad mitótica, es frecuente encontrar cromosomas en anillo sólo en cierta proporción de células.
+
+CROMOSOMAS SEXUALES Y SUS ANOMALÍAS 
+
+Los cromosomas X e Y han atraído la atención y el interés durante mucho tiempo porque difieren entre los sexos, tienen sus propios patrones específicos de herencia y están implicados en la determinación primaria del sexo.
+Estructuralmente son muy distintos v están sujetos a formas diferentes de regulación genética, aunque se aparean en la meiosis de los varones. 
+Por todas estas razones requieren especial atención. 
+En el capítulo anterior se consideraron los principios generales de la citogenética clínica, así como las características específicas de los principales cuadros de aneuploidía autosómica.
+En este capítulo se revisan las anomalías más frecuentes de cromosomas sexuales y sus consecuencias clínicas, el estado actual del conocimiento con respecto al control de la determinación sexual y otras anomalías mendelianas de la diferenciación sexual.
+
+BASES CROMOSÓMICAS DE LA DETERMINACIÓN DEL SEXO
+
+Durante decenios se ha sabido que las células humanas de varones y mujeres tienen cromosomas sexuales diferentes y la diferencia es visible en la interfase y en la mitosis.
+
+Aunque el descubrimiento de Painter de los cromosomas sexuales humanos no pudo explotarse clínicamente en esa Época porque las técnicas citogenéticas eran inadecuadas, tras el descubrimiento de las masas de cromatina sexual ( corpúsculos de Barr ) en las células en interfase de las mujeres, pero no en las de los varones, pronto se desarrolló una técnica simple que permitió estudiar los corpúsculos de Barr en frotis bucales.
+Como resultado, muy pronto se reconoció que, aunque la mayoría de las mujeres eran «cromatín-positivas» y casi todos los varones eran «cromatín-negativos», existían algunas excepciones.
+Especialmente notable fue el hecho de que muchas mujeres infértiles de corta estatura con un trastorno conocido como síndrome de Turner no tenían corpúsculos de Barr, mientras que ciertos varones altos e infértiles con una alteración conocida como síndrome de Klinefelter sí poseían dichos corpúsculos.
+
+Poco tiempo después de ser factible el análisis citogenético, la base cromosómica de estas discrepancias se hizo evidente.
+Debido a que los hallazgos anómalos de cromatina sexual sugirieron que los síndromes de Turner y Klinefelter estaban caracterizados por constituciones de cromosomas sexuales inusuales, estos síndromes fueron dos de los primeros trastornos para los que se realizaron estudios cromosómicos. 
+Se observó que los pacientes con síndrome de Klinefelter poseían 47 cromosomas, con dos cromosomas X y uno Y, en tanto que la mayoría de los individuos con síndrome de Turner tenían sólo 45 cromosomas, con un solo cromosoma X (cariotipo 45, X).
+Pronto esos hallazgos establecieron el papel crucial del cromosoma Y en el desarrollo normal del varón.
+
+El siguiente paso en la comprensión de los cromosomas sexuales humanos fue la explicación de la cromatina sexual en términos de inactivación del X .
+A medida que se iban identificando nuevas anomalías de los cromosomas sexuales, se observó que el número de corpúsculos de Barr que se apreciaban en las células en interfase era siempre uno menos que la cantidad total de cromosomas X por célula:
+
+Tabla
+
+Fenotipo sexual.
+Cariotipo.
+Corpúsculos de Barr.
+
+
+Varón .
+xxx .
+0.
+
+
+xxx .
+1.
+
+
+xxx .
+2.
+
+
+xxx .
+3.
+
+
+Mujer.
+xxx .
+0.
+
+
+xxx .
+1.
+
+
+xxx .
+2.
+
+
+xxx .
+3.
+
+
+xxx .
+4.
+
+
+Figura 10-1
+
+Cromatina sexual (corpúsculos de Barr) en células epiteliales de mucosa bucal humana
+
+Las flechas indican la cromatina sexual cerca de la membrana nuclear en células femeninas.
+Una célula masculina (derecha) no tiene cromatina sexual. 
+
+La teoría de la inactivación del X ( hipótesis de Lyon ) asegura que un cromosoma X se inactiva en las células somáticas de mujeres normales (pero no en varones normales), con lo que se iguala la expresión de genes ligados al X en ambos sexos.
+El corpúsculo de Barr representa el cromosoma X inactivo con replicación tardía.
+
+La asincronía de replicación entre cromosomas X activos (replicación temprana) e inactivos (replicación tardía) puede reconocerse citogenéticamente mediante procedimientos de bandeo especializados, que se denominan «bandeo de replicación» (fig., 10-2).
+En pacientes con cromosomas X adicionales, cualquier cromosoma X en número superior a uno se inactiva y forma un corpúsculo de Barr (v., cuadro anterior).
+Así, todas las células somáticas diploides en mujeres y varones poseen un solo cromosoma X activo, independientemente del número total de cromosomas X o Y presentes.
+La inactivación del X y sus consecuencias se abordaron en relación con trastornos ligados al X en el capítulo 4.
+
+Aunque se han definido muchas anomalías de los cromosomas sexuales y se han descrito en detalle sus consecuencias clínicas, todavía es un misterio el papel preciso de los cromosomas sexuales en la diferenciación sexual.
+Existen excepciones, no entendidas por completo, a la regla de que las mujeres son siempre XX y los varones, siempre XY.
+Estas excepciones, que incluyen varones XX, mujeres XY y hermafroditas verdaderos XX, sugieren que el cromosoma Y completo no constituye el único determinante del sexo fenotípico.
+Actualmente se está empleando el análisis molecular para encontrar una explicación a estas combinaciones inusuales cariotipo/fenotipo, así como para identificar el gen o los genes en el cromosoma Y que determinan el sexo.
+Las discrepancias entre sexo cromosómico y sexo gonadal o fenotípico también pueden deberse a mutaciones monogénicas, algunas ligadas al X y otras autosómicas.
+
+EMBRIOLOGÍA DEL APARATO REPRODUCTOR 
+
+La embriología de los aparatos reproductores masculino y femenino se resume en la figura 10-3.
+Alrededor de la sexta semana de desarrollo en ambos sexos, las células germinales primordiales han migrado desde su localización extraembrionaria temprana hasta las crestas gonadales, en donde las rodean los cordones sexuales para formar un par de gónadas primitivas.
+Hasta este momento, la gónada en desarrollo, cromosómicamente XX o XY, es bipotencial.
+
+El concepto actual es que el desarrollo de un ovario o un testículo está determinado por la acción coordinada de una secuencia de genes que llevan a la formación del ovario, cuando no existe ningún cromosoma Y presente, o bien al desarrollo testicular, si se encuentra dicho cromosoma. 
+
+La vía de desarrollo ovárico se sigue a menos que un gen del brazo corto del cromosoma Y, designado como TDF (factor determinante del testículo), actúe como un interruptor y desvíe el desarrollo a la vía masculina.
+La búsqueda del gen principal que determina el testículo es uno de los actuales problemas de vanguardia en la genética médica, y volveremos a abordarlo más adelante.
+
+Figura 10-2
+
+Bandeo de replicación y replicación tardía del cromosoma X inactivo en linfocitos de sangre periférica de una mujer normal 46,XX (izquierda) y una mujer 47,XXX (derecha)
+
+Las regiones cromosómicas brillantes teñidas son las que se replican en etapa tardía de la fase S.
+Los cromosomas X activos (flecha pequeña) se replican sincrónicamente con el resto del cariotipo.
+Los cromosomas X inactivos (flechas grandes) se replican tardíamente. 
+
+En presencia de un cromosoma Y, el tejido medular forma testículos típicos con túbulos seminíferos y células de Leydig, que, con el estímulo de la gonadotropina coriónica humana de la placenta. pueden secretar andrógenos.
+Los espermatogonios, que derivan de las células germinales primordiales por medio de 200 o más mitosis sucesivas, forman las paredes de los túbulos seminíferos junto con las células de soporte de Sertoli.
+
+Si no se encuentra presente ningún cromosoma Y, en su ausencia la gónada forma un ovario.
+La corteza se desarrolla, la médula retrocede y los oogonios comienzan a desarrollarse dentro de los folículos.
+Los oogonios derivan de las células germinales primitivas por una serie de alrededor de 30 mitosis. muchas menos que la cantidad requerida para la espermatogénesis.
+Al final del tercer mes los oogonios comienzan la meiosis I, pero este proceso se detiene en una etapa llamada dictioteno , en la que la célula permanece hasta que se produce la ovulación muchos años después.
+La mayor parte de los oogonios degeneran después del nacimiento, y sólo alrededor de 400 maduran hasta óvulos durante los más o menos 30 años de madurez sexual de la mujer.
+
+Figura 10-3
+
+Esquema de las gónadas y los conductos genitales, como se describen en el texto
+
+Mientras las células germinales primordiales están migrando a las crestas genitales, el engrosamiento de estas crestas indica el desarrollo de los conductos genitales, el mesonéfrico (anteriormente llamado de Wolff) y el paramesonéfrico (antes denominado de Müller).
+En el varón, las células de Leydig de los testículos fetales producen andrógeno, que estimula los conductos mesonéfricos para que formen los conductos genitales masculinos, y las células de Sertoli producen una hormona que suprime la formación de los conductos paramesonéfricos.
+En la mujer (o en un embrión sin gónadas), los conductos mesonéfricos se atrofien y el conducto paramesonéfrico se desarrolla hasta constituir el sistema de conductos femeninos.
+
+En un embrión en etapa temprana, los genitales externos consisten en un tubérculo genital, protuberancias labioscrotales pareadas y pliegues uretrales pareados.
+
+Desde este estado no diferenciado, los genitales externos masculinos se desarrollan bajo la influencia de andrógenos, o, en ausencia de un testículo, se forman genitales externos femeninos, independientemente de si se encuentra presente un ovario o no.
+
+CROMOSOMA Y
+
+La estructura del cromosoma Y y su papel en el desarrollo sexual se han analizado a nivel molecular.
+En la meiosis del varón, los cromosomas X e Y normalmente se aparean por segmentos en los extremos de sus brazos cortos y ocurre recombinación en esta región .
+El segmento apareado incluye la región seudoautosómica de los cromosomas X e Y, llamada así porque las copias ligadas a X e Y de esta zona son homólogas entre sí, igual que en los pares de autosomas.
+
+El principal gen determinante del testículo 
+
+Como resultado de la recombinación en la meiosis I, las secuencias en la región seudoautosómica de los cromosomas X e Y se intercambien en condiciones normales .
+
+En raras ocasiones, sin embargo, la recombinación genética ocurre entre los brazos cortos de X e Y fuera de la región seudoautosómica.
+Este mecanismo de intercambio aberrante puede producir dos anomalías raras: varones XX y mujeres XY .
+Los varones XX son varones fenotípicos con un cariotipo 46, XX, que generalmente poseen algunas secuencias cromosómicas del Y translocadas al brazo corto del X.
+Estas secuencias no son visibles citogenéticamente, pero el análisis molecular las ha revelado.
+De forma similar, las mujeres fenotípicas con un cariotipo 46,XY han perdido la región determinante de los testículos del cromosoma Y.
+Cada uno de estos trastornos de inversión sexual sucede con una frecuencia de aproximadamente I por cada 20.000 nacimientos.
+
+Figura 10-4
+
+Esquema de la región que determina el sexo en el cromosoma Y
+
+Los reordenamientos cromosómicos en varones XX y en una mujer con una t(Y;22) han sido claves para la asignación de la región que determina el sexo en una localización cercana al extremo de la región seudoautosómica. 
+Mutaciones puntuales en el gen SRY en mujeres 46,XY proporcionan evidencia directa de que este gen puede ser el mismo que TDF.
+
+Figura 10-5
+
+Etiología del fenotipo de varón XX por intercambio aberrante entre secuencias ligadas a X e Y
+
+Los cromosomas X e Y en condiciones normales se recombinan dentro del segmento seudoautosómico en la meiosis masculina.
+Si la recombinación ocurre por debajo del limite seudoautosómico, entre las porciones específicas X e Y, las secuencias que generan la diferenciación sexual del varón pueden translocarse de Y a X.
+La fecundación con un espermatozoide que contiene uno de estos cromosomas X genera un varón XX.
+
+Se han utilizado diferentes delaciones de la región seudoautosómica y de la zona sexual específica del cromosoma Y en un esfuerzo para mapear la localización precisa de la región primaria determinante del testículo en el brazo corto del cromosoma Y.
+Examinando a un varón XX con el segmento más pequeño identificado de material cromosómico del Y y a una mujer portadora de una translocación xxx que carecía de una pequeña región Yp, xxx reconocieron una región de aproximadamente 140 kb (equivalente a sólo el 0,2 % del cromosoma Y completo) que probablemente codifique al menos parte del gen TDF.
+Las secuencias de DNA contenidas en esta región se conservan en gran medida en otros mamíferos, y se ha identificado un segmento homólogo en el cromosoma X.
+La secuencia ligada al Y se denominó ZFY porque potencialmente codifica una proteína denominada transportadora de cinc que, por analogía con otras proteínas de este tipo, se piensa que se enlaza con ácidos nucleicos en secuencias específicas y, por lo tanto, potencialmente regula la expresión génica.
+
+Inicialmente se aceptó la posibilidad de que la secuencia ZFY fuera el principal gen determinante del testículo, largo tiempo buscado, el TDF.
+Sin embargo, estudios más recientes han planteado serias dudas a esta interpretación. 
+
+La presencia de un gen homólogo ligado al X (conocido como ZFX), la ausencia de secuencias similares a ZFY en los cromosomas sexuales de los marsupiales, informes de varones XX con secuencias del cromosoma Y muy cercanas al límite de la región seudoautosómica, pero sin secuencias ZFY y la ausencia de la expresión del homólogo de ZFY de ratón en testículos embrionarios de ratones indican que ZFY y TDF son distintos y ZFY no puede inducir por sí solo la diferenciación sexual en el varón.
+Otro locus candidato, denominado «región determinante del sexo en Y» (SRY), fue identificado por xxx.
+
+Este gen se encuentra entre el límite de la región seudoautosómica y ZFY en el brazo corto del cromosoma Y, y está presente en varios varones XX o hermafroditas XX (que se describen más adelante en este capítulo) que no tienen secuencias ZFY .
+
+La delación del gen SRY (así como del gen ZFY) en mujeres con la translocación xxx antes mencionada deja abierta la pregunta de cuál (o cuáles) de estos dos genes genera masculinización.
+En fecha más reciente, sin embargo, se han encontrado tres mujeres xxx que no tenían alteraciones citológicas del cromosoma Y, pero presentaban mutaciones en la secuencia codificadora de SRY, lo que implica en gran medida a SRY en la determinación sexual del varón.
+No obstante, no es posible descartar un papel secundario para ZFY.
+De este modo, la identidad y localización precisa del verdadero gen o genes determinantes de testículos están, por establecer.
+Mientras tanto, lo hasta aquí señalado sirve como una excelente ilustración de la importancia de examinar unos cuantos pacientes inusuales, o incluso uno solo, para establecer principios científicos de extraordinario significado teórico y práctico.

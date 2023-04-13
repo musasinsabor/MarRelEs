@@ -1,0 +1,372 @@
+
+Sustitución dirigida de genes 
+
+La biología de los mamíferos está experimentando una auténtica revolución, impulsada por una nueva técnica que permite crear ratones portadores de mutaciones controlados de cualquier gen conocido. 
+
+Las células de nuestro organismo portan en el núcleo un manual de instrucciones donde se especifican sus distintas funciones.
+Aunque ese manual es el mismo para todas, cada estirpe celular-hepáticas, epidérmicas y otras- echa mano de un capítulo diferente para cumplir su propia misión.
+El manual contiene, asimismo, la información en cuya virtud un embrión unicelular, el óvulo fecundado, se convierte, primero, en feto y, luego, en bebé. 
+Y además sigue suministrando información mientras el niño madura física e intelectualmente. 
+Cada uno de nosotros es irrepetible;
+en efecto, el manual difiere ligeramente de un sujeto a otro, de suerte que en él están especificadas casi todas las características físicas y muchas de las claves del comportamiento que nos individualizan.
+
+Manual tan extraordinario se llama genoma.
+Está escrito en forma de nucleótidos, con un alfabeto de cuatro letras: adenilato ( A ), citidilato ( C ), guanilato ( G ) y timidilato ( T ).
+Igual que la secuencia de letras de una palabra determina su significado, así la secuencia de nucleótidos del ADN encierra la información.
+En cada división celular se replica el manual entero: una copia por cada célula resultante.
+En humanos y ratones, el genoma viene a constar de unos tres mil millones de nucleótidos.
+
+Con mi grupo de la Universidad de Utah he desarrollado la técnica que permite cambiar una letra una frase o varios párrafos del manual de instrucciones de las células de un ratón.
+Reescribiendo partes del texto y evaluando las consecuencias de esa alteración de las instrucciones sobre el desarrollo del múrido, o sobre su operación posterior, podemos desentrañar las peculiaridades del programa que gobierna dichos procesos.
+
+Las unidades funcionales del manual son los genes.
+Escogemos uno y cambiamos su secuencia específica de nucleótidos:
+alteraremos su función.
+
+Para mayor claridad:
+si sospecháramos la participación de cierto gen en el desarrollo cerebral, podríamos preparar embriones de ratón en los que el gen normal estuviera «fuera de combate», anulado del todo.
+Si por culpa de esa inactivación nacieran ratones con malformaciones cerebelares, sabríamos que el gen en cuestión era decisivo para la formación del cerebelo.
+El proceso mediante el cual se introducen cambios específicos en la secuencia de nucleótidos de un gen se denomina sustitución dirigida de genes (« gene targeting »).
+
+La información que se obtenga con los experimentos de sustitución génica en los ratones debiera sernos útil a los humanos, pues el 99 por ciento, y algún pico más, de los genes coinciden en ambas especies y cumplen similares cometidos.
+Esa línea de investigación en el ratón arroja luz, no sólo sobre las etapas del desarrollo embrionario humano, sino también sobre la constitución de nuestro sistema inmunitario y su intervención en la lucha contra las infecciones.
+Es de presumir que esa técnica de sustitución nos conduzca más lejos, hasta el funcionamiento del cerebro humano y la forma en que ciertos defectos génicos se traducen en enfermedad. 
+
+A propósito de esto último, se está aplicando la técnica para provocar en ratones modelos de enfermedades humanas: fibrosis quística, cáncer y aterosclerosis, por citar algunas.
+
+El entusiasmo despertado por la técnica de sustitución se alimenta con otra esperanza, la de su promesa de ahondar en el conocimiento generado por el proyecto genoma.
+Aspira esta magna empresa a establecer la secuencia nucleotídica de todos los genes que componen el genoma humano y el del ratón (unos 200.000 genes en cada caso).
+Se ha identificado sólo la función de un pequeñísimo porcentaje de genes de cada una de esas especies.
+La secuencia de nucleótidos de un gen determina los aminoácidos que deben ensartarse para formar una proteína dada. 
+(Las proteínas llevan a cabo la mayoría de las actividades celulares.)
+
+La propia secuencia de aminoácidos de una proteína suministra, a su vez, importantes pistas sobre el papel que ésta desempeña en las células: actividad enzimática, componente estructural o molécula transmisora de señales. 
+Pero la secuencia - no basta, por sí misma, para revelar las tareas realizadas por la proteína durante la vida del animal.
+
+La sustitución génica dirigida sí puede proporcionar esa información y ampliar nuestro conocimiento sobre las funciones de los genes y sus proteínas.
+
+La sustitución génica nos ofrece una nueva manera de hacer genética de mamíferos:
+la posibilidad de ver cómo intervienen los genes en los procesos biológicos.
+Los métodos clásicos de la disciplina, muy fructíferos a la hora de abordar esos procesos en organismos elementales, no acababan de adaptarse al estudio de seres de la complejidad de los mamíferos. 
+
+Para saber cómo replican su ADN bacterias y levaduras, unicelulares, basta con exponer mil millones o más a un agente químico lesivo para el ADN (un mutágeno). 
+Eligiendo la dosis adecuada del mutágeno, aseguraremos que cada individuo porte una mutación en uno o varios genes.
+A partir de esta población de bacterias o levaduras que han experimentado mutagénesis, identificaremos individuos incapaces de replicar su ADN.
+En tamaña población resulta probable hallar individuos distintos con mutaciones en cada uno de los genes necesarios para la replicación del ADN. (En la replicación del genoma bacteriano o de levaduras participan un centenar largo de genes.) 
+Una vez identificados los genes, podemos determinar su papel específico en la replicación:
+qué genes controlan la decisión de copiar el ADN y cuáles la precisión y tasa de duplicación.
+
+Planteamientos similares se han aplicado a los organismos pluricelulares.
+Los dos favoritos de los genéticos son Caenorhabditis elegans , un gusano, y Drosophila melanogaster , la mosca del vinagre.
+No obstante, incluso en estas formas sencillas de organismos pluricelulares, la identificación de todos los genes implicados en un proceso biológico es dificilísima.
+
+Varios factores explican semejante dificultad.
+Uno es el tamaño del genoma.
+El de la bacteria Escherichia coli contiene sólo 3000 genes, mientras que el de D. melanogaster tiene al menos 20.000 y el de ratón, 10 veces esa cifra.
+Cuanto mayor es el número de genes tanto mayor es la complejidad, porque aquellos forman redes interactivas más intrincadas.
+Averiguar el efecto de cualquiera de esos genes en una red tan enrevesada constituye una tarea hercúlea.
+
+Además, el mayor tamaño de los organismos pluricelulares pone límites prácticos al número de individuos que puede abarcarse en un experimento de mutagénesis. 
+No cuesta demasiado buscar tipos específicos de mutantes entre más de mil millones de bacterias o levaduras sometidas a mutagénesis.
+Pero detectarlos aunque sólo sea en 100.000 moscas constituiría un experimento de una magnitud inabordable.
+A modo de comparación, en los ratones se alcanzaría el límite práctico de detección de una mutación dada en torno a los mil animales.
+
+Al ser en su mayoría diploides los organismos pluricelulares, las dificultades logísticas para identificar y estudiar los genes se redoblan;
+ser diploides significa que sus células poseen dos copias de los genes, una heredada de la madre y otra del padre.
+A efectos de supervivencia, importa mucho tener dos copias de la mayoría de los genes. 
+Normalmente, si una copia sufre una mutación perjudicial, la otra la compensa, y así no se producen graves consecuencias. 
+
+Esta redundancia significa también que una mutación provocará defectos fisiológicos o anatómicos en el organismo sólo si las dos copias del gen están dañadas.
+Se logra este tipo de individuos cruzando parentales que tengan cada uno la mutación en una copia del gen.
+Aproximadamente una cuarta parte de la descendencia de esos cruzamientos será portadora de las dos copias defectuosas del gen.
+
+Pese a las dificultades, la identificación de mutaciones seleccionadas en animales vivos sigue siendo el mejor medio para empezar a aclarar y ordenar las etapas de todo proceso biológico. 
+Además, si queremos entender procesos que sólo ocurren en los organismos complejos, como el desencadenamiento de la respuesta inmunitaria, habrá que realizar en éstos los análisis.
+
+Esa es la razón por la que los genéticos interesados en el desarrollo, las funciones neuronales, la respuesta inmunitaria, la fisiología y las enfermedades de los mamíferos hayan empezado a trabajar con el ratón.
+Desde un punto de vista genético, este animal es un mamífero ideal.
+Pequeño y prolífico, constituye, además, un excelente referente para la mayoría de los procesos biológicos humanos.
+
+Con todo, las manipulaciones genéticas que pueden llevarse a cabo en los ratones son, comparadas con las operaciones permitidas en los organismos simples, muy limitadas.
+Para identificar ratones que han experimentado mutagénesis y son portadores de defectos en los genes que intervienen en determinados procesos, tendrían que controlarse de 10.000 a 100.000 individuos, a un costo prohibitivo.
+
+Por ello, los estudiosos se han venido ciñendo a los animales mutantes que surgían de modo espontáneo en sus colonias.
+Fruto de la tenacidad de los genéticos, se dispone hoy de una nutrida colección de ratones mutantes.
+
+Pero ni siquiera ese grupo de ratones mutantes se halla libre de inconvenientes:
+no representan una muestra aleatoria de las posibles mutaciones del genoma del ratón, sino que contiene un número desproporcionado de mutaciones que se traducen en anomalías fisiológicas 0 de comportamiento fácilmente perceptibles.
+Así, abundan las mutaciones que afectan al color del pelaje, mientras que hay pocas que influyan en las primeras etapas del desarrollo (pues suelen determinar la muerte inesperada del embrión).
+
+Por no hablar de lo costoso que resulta aislar los genes responsables de los defectos manifiestos en los ratones mutantes; tarea ésta que exige a menudo años de esfuerzo concertado.
+Podemos deducir muchas de las etapas involucradas en los fenómenos biológicos sin descubrir los genes implicados; pero sin aislarlos no hay progreso molecular:
+no se puede determinar la naturaleza de las proteínas cifradas por los genes mutados, ni identificar las células en las que dichos genes son activos.
+
+La sustitución génica dirigida permite superar tales dificultades al dejar en nuestras manos qué gen queremos alterar.
+También permite ejercer el control sobre el tipo de modificaciones introducidas en el gen, de suerte tal que la mutación puede diseñarse a medida para abordar cuestiones específicas sobre la función del gen.
+Los criterios para seleccionar el gen a matar pueden basarse en el conocimiento obtenido de la investigación en ratones y otras especies.
+Ahora resulta bastante fácil aislar una serie de genes que son activos durante la formación del corazón del ratón;
+la sustitución de genes permitiría, por tanto, determinar el papel de cada uno de esos genes en el desarrollo cardíaco.
+Por vía alternativa, podemos averiguar si existe en el ratón una serie de genes cuya función en D. melanogaster consiste en guiar el desarrollo neuronal y si cumplen una función similar.
+
+De entrada se pretende anular el gen a estudiar, para conocer las consecuencias que arrastra la ausencia del producto que dicho gen determina.
+Probablemente serán complejas y afectarán a múltiples vías metabólicas. 
+Puede comprenderse aún mejor la función del gen introduciendo mutaciones definidas, más sutiles, que incidan sólo en una de sus múltiples funciones. 
+Muy pronto, podrán ponerse los genes bajo el control de un conmutador, elemento que permitirá conectar y desconectar un gen durante el desarrollo embrionario o posnatal del ratón. 
+Supongamos, por ejemplo, un gen, hipotético, responsable de la formación y el funcionamiento de una serie de neuronas. 
+La anulación del gen determinaría la ausencia de esas neuronas durante la formación del cerebro e impediría valorar la actividad génica en el adulto.
+Si el gen estuviera bajo el control de un conmutador, éste podría dejarse conectada durante el desarrollo, y las neuronas se formarían normalmente.
+En el adulto, el conmutador se desconectaría; 
+podríamos evaluar entonces la función del gen sobre las neuronas.
+
+En los últimos 15 años la técnica de la sustitución génica dirigida ha avanzado mucho. 
+Cuando yo empecé, a finales de los años setenta, utilizaba agujas de cristal muy pequeñas para inyectar ADN directamente en el núcleo de las células de mamífero.
+Las agujas se controlaban mediante micromanipuladores hidráulicos y las dirigíamos hacia el núcleo con la ayuda de microscopios de alta resolución. 
+El procedimiento resultó de una gran eficacia. 
+Una de cada tres o cinco células recibía ADN funcional y comenzaba a dividirse y a transmitirse establemente a las células hijas.
+
+Cuando investigué el sino de esas moléculas de ADN en el interior celular, un sorprendente fenómeno llamó mi atención.
+Aunque las moléculas de ADN recién introducidas se insertaban al azar en uno de los cromosomas de la célula receptora, a veces se introducía más de una molécula en el mismo sitio y todas tenían la misma orientación.
+
+Igual que en los idiomas existe una dirección de lectura (de izquierda a derecha en español), así también en las moléculas de ADN.
+Según parecía, antes de que las células llevaran a cabo la inserción aleatoria, había algún mecanismo nuclear en virtud del cual las moléculas de ADN introducidas se engarzaban en la misma orientación.
+
+Demostramos que las células utilizaban un proceso de recombinación homóloga para conseguir tales engarces.
+La recombinación homóloga se produce sólo entre moléculas de ADN que tienen la misma secuencia de nucleótidos:
+se alinean una al lado de la otra, ambas sufren cortes y se juntan por lo extremos cortados. 
+Los empalmes se realizan con tal precisión, que no se altera la secuencia nucleotídica del sitio donde se producen dichos engarces.
+
+Esta inesperada observación revelaba que todas las células de ratón, y presumiblemente todas las de mamífero, poseían la maquinaria necesaria para llevar a cabo la recombinación homóloga.
+En aquellas fechas no había razones para sospechar que contaran con ella las células somáticas, que no están implicadas en la reproducción sexual.
+
+Comprobamos la eficacia sobresaliente del mecanismo, pues logramos microinyectar más de 100 moléculas de ADN de idéntica secuencia, que las células engarzaron en la misma orientación.
+Inmediatamente comprendí que, si aprovechábamos esta maquinaria para provocar la recombinación homóloga entre una molécula recién introducida de ADN de nuestra elección y la misma secuencia del cromosoma de una célula, podríamos reescribir a voluntad su manual de instrucciones.
+
+Entusiasmado ante esta perspectiva, en 1980 solicité una subvención para investigar la viabilidad de la técnica de sustitución génica dirigida.
+Pero el comité de expertos que revisó el proyecto lo rechazó. 
+En su opinión, la probabilidad siquiera de que la secuencia de ADN recién introducida encontrase su secuencia homóloga en los 1000 volúmenes del manual de instrucciones genéticas parecía mínima.
+
+Pese a la denegación, decidí aprovechar los fondos que recibía de otro proyecto.
+Era una empresa arriesgada.
+Si fracasaba, no dispondría de datos suficientes para solicitar la renovación de la subvención.
+La fortuna vino en mi ayuda.
+En 1984, cuando volvimos a solicitar fondos para proseguir la investigación, teníamos pruebas de la viabilidad de la sustitución génica en las células. 
+Los expertos que habían rechazado la primera propuesta demostraron ahora su buen sentido del humor.
+El informe de valoración del nuevo proyecto empezaba con la siguiente frase:
+«Nos alegramos de que no siguiese nuestros consejos».
+
+¿Cómo se efectúa la sustitución génica dirigida en las células?
+Se empieza por clonar el gen que nos interesa y propagarlo en bacterias, para así lograr una fuente pura de ADN que contiene el gen.
+A continuación, en un tubo de ensayo, se cambia la secuencia de nucleótidos del gen en función de los fines del experimento.
+Al gen alterado se le denomina vector director (« targeting vector »).
+
+Se introduce el vector en células vivas.
+Dentro del núcleo celular, forma complejo con las proteínas que constituyen la maquinaria celular de recombinación homóloga.
+Ayudado por esas proteínas, el vector busca su secuencia homóloga (el objetivo) por todo el genoma.
+Si la encuentra, se alinea junto a ella y la sustituye.
+
+Por desgracia, esta sustitución dirigida ocurre sólo en una pequeña fracción de las células tratadas.
+Lo habitual es que el vector se inserte al azar en lugares no homólogos o que ni siquiera se integre. 
+Debemos, pues, ser capaces de identificar las células en las que la sustitución ha resultado satisfactoria. 
+Aproximadamente una de cada millón de células tratadas tiene la sustitución deseada.
+
+Para simplificar la búsqueda de esas células, utilizamos dos «marcadores seleccionables», que se introducen en el vector director desde el principio.
+La inclusión de un marcador seleccionable «positivo» promueve la supervivencia y el crecimiento de las células que han incorporado el vector, ya sea donde se pretendía o en una localización aleatoria dentro del genoma.
+La inclusión del marcador seleccionable «negativo» ayuda a eliminar la mayoría de las células que han incorporado el vector en una localización aleatoria. 
+
+El marcador positivo, normalmente un gen de resistencia a neomicina ( neor ), se coloca de tal forma que quede flanqueado por secuencias de ADN también presentes en el gen diana homólogo que se desea reemplazar. 
+El marcador negativo, por lo general el gen de la quinasa de timidina ( tk., ) de un virus herpes, se fija a un extremo del vector.
+Cuando se produce recombinación homóloga, los segmentos inalterados del gen clonado, junto con el gen neo r intercalado entre ellos, sustituyen a la secuencia diana presente en el cromosoma. 
+Pero el gen tk., , situado fuera de la zona de secuencias alineadas no se integra en el cromosoma y es degradado por la célula.
+Por el contrario, cuando las células insertan aleatoriamente el vector director, lo engarzan todo, incluido el gen tk., , en el ADN.
+Si no hay integración, se pierden el vector y sus marcadores.
+
+No necesitamos examinar directamente el ADN para identificar cuál de esas posibilidades ha ocurrido.
+Nos basta con cultivar las células en un medio que contenga dos drogas: un análogo de la neomicina llamado G418 y el antiherpético ganciclovir.
+El G418 mata a las células que carecen del gen neo r protector en sus cromosomas, esto es, las que no han integrado el ADN vector.
+Pero permite sobrevivir y crecer a las células portadoras de las inserciones, ya sean aleatorias o dirigidas.
+A su vez el ganciclovir mata todas las células que tienen el gen tk., herpético, es decir, las que albergan una inserción aleatoria.
+Al final, las únicas células supervivientes vienen a ser las portadoras de la inserción dirigida (las que poseen el gen «seleccionable positivo» neo r y carecen del gen «seleccionable negativo» tk., ).
+
+En 1984 habíamos demostrado ya que era posible sustituir genes específicos en células de ratón cultivadas. 
+Estábamos preparados para ampliar la técnica al genoma de ratones vivos.
+Nos servimos de células especiales desarrolladas en 1981 por Matthews H. Kaufman y Martin J. Evans.
+Se trata de las células madre embrionarias (ME), es decir, células pluripotentes obtenidas de las primeras fases de un embrión de ratón, que pueden cultivarse indefinidamente en placas de Petri y están capacitadas para originar cualquier línea de células. 
+
+En resumen, mediante el procedimiento antes descrito, produjimos células ME con una mutación dirigida en una de las dos copias del gen elegido.
+Luego introdujimos las células ME en embriones muy jóvenes de ratón y los dejamos desarrollarse a término.
+Algunos de los ratones resultantes, cuando maduraron, produjeron esperma derivado de las células ME.
+Cruzando estos ratones con otros normales, conseguimos descendientes heterocigotos para la mutación, esto es, ratones que la portan en todas las células en una de las dos copias del gen.
+
+En casi todos los casos, esos heterocigotos estarán sanos, porque la segunda copia del gen, intacta, seguirá funcionando correctamente.
+Pero el cruzamiento de estos heterocigotos con hermanos o hermanas portadores de la misma mutación produce homocigotos: animales con la mutación dirigida en las dos copias del gen.
+Estos animales exhibirán anomalías que revelarán las funciones normales del gen sustituido en todos sus tejidos.
+
+Empezamos inyectando nuestras células ME modificadas en embriones en estado de blastocisto, que aún no se han implantado en el útero materno.
+
+Como dependíamos del color del pelaje para saber si el procedimiento marchaba de acuerdo con el plan, elegimos blastocistos que en un desarrollo normal se transformarían en crías de color diferente del encontrado en las producidas por la estirpe de ratón de la que obtuvimos las células ME.
+
+Las células madre se aislaron de un ratón marrón que portaba dos copias del gen agoutí .
+Este gen, aún cuando esté presente en una sola copia, produce colorido marrón debido a la presencia, en cada uno de los pelos, de una banda de pigmento amarillo sobre la pigmentación negra normal (la producción de los pigmentos propiamente dichos está controlada por otros genes).
+Por tanto, seleccionamos blastocistos que, de no ser tratados, se convertirían en ratones negros (los ratones son de color negro cuando el gen agoutí heredado de ambos padres es defectuoso).
+Esperamos, por fin, a que el embrión, que contenía las células ME modificadas, llegara a término en una «madre de alquiler».
+
+Si todo va bien, las células ME alteradas se reproducen repetidamente durante este tiempo, transmitiendo copias completas de todos sus genes a sus células hijas;
+éstas se mezclan con las del embrión y contribuyen a la formación de la mayoría de los tejidos del ratón.
+Por consiguiente, los recién nacidos son quimeras:
+ratones compuestos por células derivadas de las ME extrañas y de las células del embrión original.
+Las quimeras son fáciles de identificar por los amplios parches de color marrón que presentan en un pelaje negro.
+Si los animales no portaran células derivadas de las ME, serían completamente negros porque carecerían de genes agoutí funcionales.
+
+Ahora bien, con sólo mirar las quimeras no podemos determinar si las células ME dieron origen a células germinales, instrumento por el que se transmite la mutación a las generaciones futuras.
+Y esto lo averiguamos sólo al pasar a la etapa siguiente:
+la de producción de ratones heterocigotos portadores de una copia de la mutación en todas sus células.
+Para generar esos animales, cruzamos ratones quiméricos machos con hembras negras, defectivas para el gen agoutí .
+Los descendientes serán marrones si el esperma que fecundó el óvulo procede de las células ME (ya que todo ese esperma lleva el gen agoutí ).
+
+Si el esperma deriva de las células del blastocisto original (sin genes agoutí funcionales), los descendientes serán negros.
+
+Así pues, cuando vemos crías marrones, sabemos que los genes transportados por las células ME han ido a parar a esos descendientes, y ya podemos iniciar los cruzamientos entre hermanos heterocigotos para producir ratones con dos copias defectuosas del gen objetivo.
+Antes, sin embargo, debemos saber qué crías marrones son las portadoras de una copia del gen mutado.
+Esto lo conseguimos buscando la mutación por examen directo de su ADN.
+Cuando se cruzan hermanos heterocigotos, uno de cada cuatro descendientes tendrá las dos copias defectuosas del gen.
+Identificamos los homocigotos también por análisis directo de su ADN, esta vez buscando dos copias de la mutación.
+Luego, se examinan los animales para comprobar la existencia de anomalías anatómicas, fisiológicas 0 de comportamiento que puedan dar pistas sobre la función del gen alterado.
+
+Todo el procedimiento, desde la clonación de un gen hasta la producción de ratones con una mutación dirigida en ese gen, viene a durar alrededor de un año. 
+
+Laboratorios de todo el mundo aplican ahora la técnica de la sustitución génica dirigida en ratones para estudiar una amplia variedad de problemas biológicos. 
+Desde 1989 se han producido más de 250 estirpes portadoras de defectos genéticos seleccionados.
+Unos pocos ejemplos de los descubrimientos obtenidos permitirán ilustrar el tipo de información que estos animales pueden suministrar.
+
+En mi propio laboratorio hemos estado explorando las funciones de los genes homeóticos, o genes Hox .
+Estos genes son una suerte de conmutadores maestros encargados de que las diferentes partes del organismo, como las extremidades, los órganos y las partes de la cabeza, se formen en los lugares adecuados y adapten su morfología correcta.
+Los estudios sobre los genes homeóticos de Drosophila han suministrado valiosa información sobre sus actividades.
+Sin embargo, quedan por resolver muchas cuestiones.
+Por ejemplo, D. melanogaster tiene sólo ocho genes Hox , mientras que el ratón y el hombre tienen 38 cada uno.
+
+Probablemente, la expansión de la familia Hox desempeñó un papel crucial en la progresión evolutiva de invertebrados a vertebrados, aportando la maquinaria adicional necesaria para formar un cuerpo más complejo. 
+¿Qué función precisa cumplen esos 38 genes?
+
+Antes de que dispusiésemos de la técnica de sustitución génica dirigida, no había forma de responder a esa pregunta, ya que nadie había encontrado ratones o seres humanos con mutaciones en ninguno de los 38 genes Hox .
+Mis colegas y yo mismo estamos embarcados ahora en un proyecto cuyo objetivo es establecer la función de cada uno de esos genes.
+
+Más tarde intentaremos identificar cómo establecen una red interactiva para dirigir la formación de nuestro cuerpo.
+
+Dentro de ese programa, hemos descubierto que la alteración dirigida del gen Hox A-3 origina múltiples defectos.
+Los ratones que portan dos copias matadas del gen mueren al nacer por disfunción cardiovascular debida al desarrollo incompleto del corazón y los principales vasos sanguíneos que arrancan del mismo.
+Esos ratones nacen también con aberraciones en otros muchos tejidos, entre ellos el timo y el paratiroides (que faltan), la glándula tiroidea, el hueso y los cartílagos de la parte inferior de la cabeza, el tejido conectivo, el músculo y el cartílago de la faringe.
+
+Esas anomalías, aunque dispares, comparten un rasgo común:
+todos los tejidos afectados descienden de células que estaban agrupadas en un principio en una estrecha región de la parte superior del embrión en desarrollo. 
+Los rudimentos del corazón, por ejemplo, se alojan en esa región antes de alcanzar su ubicación más retrasada en el tórax.
+Parece, por tanto, que la función del gen Hox A-3 consiste en controlar la construcción de muchos de los tejidos y órganos que se originan en esa estrecha región.
+
+Inesperadamente comprobamos que el desorden producido por la desactivación del gen Hox A-3 del ratón semejaba el observado en el síndrome de Di George, una enfermedad hereditaria humana.
+El análisis cromosómico de los pacientes con ese síndrome muestra que el gen HoxA-3 humano no es el culpable; 
+las víctimas presentan daños genéticos en un cromosoma distinto del que alberga dicho gen.
+
+Ahora sabemos, sin embargo, que el gen responsable del síndrome actúa dificultando la activación del Hox A-3 o los episodios desencadenados por ese gen.
+Además, contamos ya con un modelo de la enfermedad en el ratón que acabará proporcionando pistas para su tratamiento.
+Este imprevisto beneficio resalta el valor de la investigación básica: los descubrimientos nacidos de la curiosidad suelen llevar a aplicaciones muy prácticas.
+
+Los inmunólogos se han beneficiado también de la técnica de sustitución génica.
+
+La están aplicando para acotar la responsabilidad de cada uno de los más de 50 genes que influyen en el desarrollo y el funcionamiento de las dos clases principales de células defensoras del organismo: linfocitos B y linfocitos T .
+
+Los oncólogas acuden también a ella.
+Con frecuencia se confirma que uno o más tipos de tumores comparten mutaciones en un gen concreto, cuyo papel normal, sin embargo, se desconoce.
+Su descubrimiento mediante el empleo de nuestra técnica de anulación puede ayudar a revelar cómo contribuye la forma mutante del gen al desarrollo de la neoplasia.
+
+El gen supresor tumoral p53 ofrece un ejemplo que hace al caso.
+Se entiende por genes supresores de tumores aquellos cuya inactivación contribuye al desarrollo del cáncer.
+Es posible que hasta en el 80 por ciento de todos los cánceres humanos el gen p53 esté mutado, pero hasta hace muy poco se desconocía su función normal.
+El análisis de ratones homocigotos para una mutación dirigida e n p53 indicó que probablemente este gen actúe a modo de cancerbero que impida la división de las células sanas hasta no haber reparado cualquier daño que haya podido sufrir su ADN.
+Daños infligidos a menudo a las células como consecuencia de las frecuentes agresiones ambientales a las que están sometidas.
+La pérdida de los genes p53 funcionales elimina esa salvaguarda, lo que facilita la transmisión del gen lesionado a las células hijas, donde participa en el desarrollo cancerígeno.
+
+No sólo el cáncer.
+Más de 5000 enfermedades humanas se han atribuido a defectos genéticos. 
+La identificación de los genes y las mutaciones responsables de esas enfermedades permitirá conseguir las mismas mutaciones en ratones.
+Los modelos en ratones harán posible, a su vez, la identificación detallada de los procesos que median entre el funcionamiento anómalo de un gen y la manifestación de la enfermedad.
+
+Con un mejor conocimiento de la patología molecular de la enfermedad diseñaremos terapias más eficaces. 
+Entre los modelos que se están creando ahora destacan los ratones con diferentes tipos de mutaciones en el gen de la fibrosis quística.
+
+Esta técnica genética se está empezando a emplear también en el estudio de la aterosclerosis, responsable último de accidentes cerebrovasculares y cardiopatías. 
+A diferencia de la fibrosis quística, la aterosclerosis no está causada por mutaciones en un solo gen.
+Defectos en varios genes se combinan con los factores ambientales para promover la acumulación de placas en las arterias. 
+Pero se han conseguido prometedores modelos en ratones alterando genes cuya participación en el procesamiento de los triglicéridos y el colesterol se conoce.
+Preveo también que pronto se desarrollarán modelos para la hipertensión, otra de las culpables de las enfermedades cardíacas y las apoplejías, ahora que se están identificando los genes a los que se atribuye participación en su desarrollo.
+
+Cuanto más ahondamos en la genética de las enfermedades, mayor es nuestro deseo de aplicar la terapia génica para corregir los defectos.
+De momento, las técnicas utilizadas en dicha terapia se basan en la inserción aleatoria de genes sanos en los cromosomas para compensar las versiones dañadas.
+
+Mas los genes así insertados no suelen funcionar con la eficacia de los que ocupan su lugar correcto en el cromosoma. 
+En principio, la sustitución génica dirigida puede ofrecer una solución a ese problema.
+Sin embargo, antes de que la técnica pueda utilizarse para corregir un gen defectuoso en el tejido de un paciente, habrán de obtenerse cultivos de células capaces de participar en la formación de esos tejidos en el adulto.
+Dichas células, que, como las ME de nuestros estudios, se denominan células madre, están presentes en médula ósea, hígado, pulmones, piel, intestinos y otros tejidos.
+Pero la investigación sobre cómo aislar y cultivar esas células está todavía en mantillas.
+
+Antes de vencer los obstáculos técnicos que impiden la aplicación general de nuestros métodos a la terapia génica, la sustitución génica encontrará un uso común en el estudio de la neurobiología de los mamíferos.
+Ya se han preparado ratones con mutaciones dirigidas que alteran su capacidad de aprendizaje. 
+La identificación de nuevos genes neuronales acelerará el desarrollo de esta línea de trabajo.
+
+Sustitución dirigida de genes en cultivos celulares
+
+1. Se alteran las copias de un gen ( barra de la izquierda ) en el tubo de ensayo y se prepara un vector director ( barra alargada ).
+El gen mostrado se ha inactivado por inserción del gen neo r ( verde ) en la región que cifra la proteína ( azul ).
+El gen neo r servirá de marcador para indicar que el ADN vector se ha instalado en un cromosoma.
+En un extremo del vector se ha introducido un segundo marcador: 
+el gen tk., de herpes ( rojo ).
+
+2. Vector y sus dos marcadores se introducen en células ( gris ) aisladas de un embrión de ratón.
+
+3. Se produce recombinación homóloga ( arriba ):
+el vector se alinea con el gen normal (el objetivo), ubicado en un cromosoma;
+a continuación, las regiones idénticas alineadas del vector (junto con cualquier ADN que haya intercalado entre ellas) ocupan el lugar del gen original y se produce la exclusión del marcador situado en el extremo ( rojo ).
+En muchas células, sin embargo, se produce inserción aleatoria de todo el vector (también el marcador extra) en algún cromosoma ( centro ) y en otras la integración fracasa ( abajo ).
+
+4. Para aislar las células portadoras de una mutación dirigida, se cultivan todas en un medio que contenga ciertas drogas: un análogo de la neomicina ( G418 ) y el ganciclovir.
+El G418 es letal para las células, a menos que lleven un gen neo r funcional- elimina, pues, las células en las que no se haya integrado el vector ADN ( gris ).
+El ganciclovir mata las células que tienen un gen tk., ; es decir, elimina las células portadoras de un vector integrado al azar.
+Las únicas células que sobreviven y proliferan son las que portan la inserción dirigida ( verde ).
+
+Sustitución génica dirigida en ratones
+
+1. Se aíslan células madre embrionarias (ME) ( verde, a la izquierda ) de una estirpe de ratón de color marrón y se introduce una mutación dirigida en un cromosoma ( inserto ).
+Las células ME se colocan a continuación en embriones jóvenes.
+El color del pelaje de las futuras crías sirve de guía para comprobar si las células ME han sobrevivido en el embrión.
+En general se introducen las células ME en embriones que, sin ellas, originarían ratones totalmente negros. 
+Estos embriones se obtienen a partir de una estirpe de color negro ( abajo ), carentes del gen agoutí , que produce pelo marrón, aunque esté presente en una sola copia.
+
+2. Los embriones que contienen las ME se dejan crecer a término en «madres de alquiler».
+Se examina el pelo de los recién nacidos.
+La presencia de parches marrones sobre una fondo negro manifiesta que las células ME han sobrevivido y proliferado en el animal.
+(Se llaman quimeras porque contienen células procedentes de dos estirpes de ratón.)
+Un color totalmente negro significaría que las células ME han perecido.
+
+3. Se cruzan ratones quiméricos macho con hembras negras (no agoutí ).
+Se analiza la descendencia en busca de indicadores de la mutación dirigida ( inserto verde ) en el gen deseado. 
+Los ratones negros se apartan;
+si los animales han nacido a partir de esperma procedente de células ME - y con probabilidad de portar la mutación - serían marrones.
+El examen directo de los genes de los ratones marrones revela cuál de esos animales ( recuadro ) ha heredado la mutación dirigida.
+
+4. Se cruzan machos y hembras portadores de la mutación para obtener ratones cuyas células presenten la mutación en las dos copias del gen ( inserto ), careciendo por tanto del gen funcional.
+La identificación final de esos animales ( recuadro )se realiza por análisis directo de su ADN.
+Por último, se comprueba si tienen algún defecto físico o de comportamiento.
+
+Figura 1
+
+MUTACION DIRIGIDA de un gen celular
+
+El procedimiento consiste en introducir copias mutadas del gen ( moléculas verdes y amarillas de la izquierda ) en las células y dejando que una copia ocupe el lugar del gen original ( molécula amarilla de la derecha ) en el cromosoma correspondiente. 
+Estas células alteradas permiten producir ratones con mutaciones genéticas específicas.
+La aparición de una cola curvada y problemas de equilibrio y audición en uno de los ratones ( arriba ) llevó al descubrimiento de que el gen afectado, el int-2 , participa en el desarrollo de la cola y el oído interno.
+
+Figura 2
+
+Ratón recién nacido con una mutación dirigida en las dos copias del gen Hox A-3 
+
+Su cuerpo está más curvado que el de un ratón normal.
+Muestras de tejidos de ratones mutantes (izquierda) y normales (derecha) revelan que los mutantes también carecen de timo y tienen una glándula tiroidea exageradamente empequeñecida.
+Estos y otros defectos indican que el gen Hox A- 3 es necesario para el desarrollo de los tejidos y los órganos que se originan a partir de una estrecha banda de células presentes en los embriones jóvenes.
