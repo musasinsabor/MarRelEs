@@ -1,0 +1,293 @@
+
+INFORME ESPECIAL 
+
+Windows 95 
+
+Mejores conexiones en Windows 
+
+Las comunicaciones incorporadas de Windows 95 nos hacen preguntarnos si verdaderamente necesitamos software de comunicaciones externo.
+
+PAUL KORZENIOWSKI
+
+A diferencia de sus predecesores, Windows 95 se diseñó desde el principio pensando en la informática de red y de comunicaciones.
+Este sistema operativo dispone de muchas de las funciones básicas que un usuario precisa para conectarse a servicios en línea, redes locales e Internet.
+Muchas tareas, como la transferencia de archivos, resultan ahora más sencillas y se puede pasar más fácilmente del segundo al primer plano.
+
+El sistema operativo incluye capacidades que antes sólo podían encontrarse en paquetes externos e independientes entre ellos.
+Con Windows 95, uno tiene que preguntarse si necesita un paquete de comunicaciones de terceras partes o si tendrá suficiente con HyperTerminal, Exchange, Internet Explorer, Briefcase y networking de DIAL-UP/cable directo.
+
+Festival de comunicaciones 
+
+HyperTerminal, que representa una gran mejora respeto a la pequeña aplicación Terminal de Windows 3.1, permite al usuario transmitir y recibir archivos, así como utilizar conexiones telefónicas para correo electrónico y servicios en línea simplemente haciendo clics en iconos.
+Naturalmente, hay que introducir la información necesaria para determinados servicios, si bien hay productos de terceras partes que vienen configurados y listos para utilizar tales servicios.
+
+Con Microsoft Exchange, el usuario puede visualizar un fax y definir una carátula, pero no puede previsualizar un fax antes de enviarlo (capacidad que sí se encuentra en Delrina WinFax Pro).
+
+Internet Wizard de Microsoft pasa por establecer una conexión Internet mediante Microsoft Network o bien mediante otro proveedor de servicios Internet.
+El paquete Windows 95 Plus incluye un navegador World Wide Web (Internet Explorer).
+Pero un usuario que quiera hacer algo más en Internet (por ejemplo, establecer una sesión de charla o chat ), o desee utilizar un navegador Web con más capacidades o con capacidades distintas, necesitará software externo, como Cyberjack de Delrina, que viene dentro de CommSuite.
+
+Briefcase de Windows 95 permite diseñar archivos para usar en un ordenador diferente y simplifica el proceso de actualizar con posterioridad los originales.
+Y las transferencias de archivos entre dos ordenadores se manejan mediante acceso telefónico a redes y utilidades de conexión directa por cable.
+Windows 95 incorpora un amplio soporte a actividades basadas en el teléfono mediante la telefonía API o, lo que es lo mismo, TAPI.
+
+¿Para quién? 
+
+El usuario de comunicaciones ocasional encontrará en Windows todo lo que necesite.
+Sin embargo, es probable que la persona que tenga que mantener comunicaciones descubra con frecuencia las limitaciones y los aspectos oscuros de Windows y que, por tanto, aspire a algo mejor.
+
+Para este usuario, los paquetes de comunicaciones externos son a menudo más sencillos de manejar y más fáciles de personalizar, y además soportan gamas más amplias de opciones de comunicaciones.
+
+Los tres paquetes que evaluamos en el presente artículo están diseñados para diferentes tipos de usuarios de comunicaciones.
+Cada uno de ellos contiene un conjunto de características distinto: Delrina CommSuite (Delrina es ahora una división de Symantec) intenta incluir prácticamente de todo, si bien el paquete parece destinado primordialmente a quienes tienen grandes necesidades de fax.
+LapLink 7.0 para Windows 95, de Traveling Software, está diseñado para el trabajador o ejecutivo móvil que quizás esté utilizando múltiples ordenadores y necesite transferencia de archivos a raudales y acceso remoto.
+QmodemPro para Windows 95, de Mustang Software, se asemeja más a los programas de comunicaciones que hemos visto en el pasado y parece diseñado en torno a las necesidades de aquellas personas que operan o acceden a BBS.
+A todas luces estos paquetes de comunicaciones han evolucionado desde diferentes direcciones y han evolucionado en distintos sentidos.
+
+Habida cuenta de estos conjuntos de características diferentes y de destinatarios diversos --por ejemplo, un paquete hace hincapié en el fax de sobremesa, mientras que los otros dos no disponen de esta capacidad--, hacer comparaciones de igual a igual entre los diferentes productos de comunicaciones es tan absurdo como comparar peras con manzanas.
+Además, cuando empezamos nuestra evaluación para escribir el presente artículo había sólo unos pocos productos disponibles.
+Aunque Windows 95 comenzó a comercializarse a mediados del año pasado, pocos fabricantes han portado su software de comunicaciones al nuevo sistema operativo de Microsoft.
+
+Todas éstas son aplicaciones de 32 bits, y no de 16 bits, por lo que los usuarios deberían ver mejorado el rendimiento para tareas que hacen un uso intensivo de E/S, como descargar archivos de grandes dimensiones.
+Evaluamos estos paquetes con controladores de dispositivo de 32 bits.
+Los fabricantes han aprovechado distintas características de Windows 95, como las barras de tabulación.
+En conjunto, estos productos representan un primer paso hacia la explotación del nuevo sistema operativo.
+
+En general, estas aplicaciones ofrecen una variedad de opciones.
+
+Establecer tareas de comunicaciones de rutina suele significar seguir líneas de instrucción para rellenar espacios en blanco; el proceso genera iconos que más tarde se utilizarán.
+Estas aplicaciones incluyen prestaciones de macros que permiten a los usuarios automatizar secuencias de llamada más perfeccionadas.
+
+Cibermanitas 
+
+CommSuite de Delrina reúne cuatro productos de comunicaciones diferentes en un solo paquete.
+El módulo más poderoso es WinFax Pro, para enviar y recibir faxes desde un equipo PC.
+Cyberjack presenta herramientas de acceso Internet, como software Gopher y un navegador Web.
+WinComm Pro permite a los usuarios llamar a servicios de datos en línea y a BBS.
+El módulo TalkWorks añade funcionalidad de correo de voz.
+
+CommSuite, el único producto que verdaderamente había salido al mercado en el momento en que efectuábamos nuestras pruebas, incluye el conjunto más completo de herramientas para usuarios noveles.
+Los menús de ayuda están disponibles en cualquier pantalla y se puede pulsar un icono para ver una breve descripción de cualquier función.
+Un tutorial en línea pasa revista a todos los diversos módulos y capacidades del producto.
+La documentación es detallada y fácil de seguir.
+
+El paquete soporta la barra de herramientas de Windows 95 y los usuarios avanzados pueden personalizar esta barra para automatizar tareas reiterativas.
+Echemos ahora un vistazo a los diferentes módulos que hay en CommSuite.
+
+WinFax Pro.
+Este módulo está diseñado para un uso intensivo de fax.
+Un sencillo programa de conversión pasa listines telefónicos, registros y carpetas de las primeras versiones de WinFax Pro a formatos Windows 95.
+Hay que decir que, una vez se han efectuado los cambios, estos archivos no operarán bajo Windows 3.1.
+
+El paquete simplifica el envío de faxes personalizados.
+WinFax Pro incluye cien muestras de carátula entre las que elegir o personalizar.
+La mayoría de carátulas también permiten a los usuarios incluir mensajes cortos.
+
+Habida cuenta de que muchas personas pasan faxes mediante sus sistemas de correo electrónico, el producto soporta API de mensajes (MAPI) de Microsoft.
+WinFax permite a los usuarios pasar faxes al sistema de correo Microsoft.
+Uno puede arrastrar cualquier fax y soltarlo en cualquier sobre de correo electrónico compatible con MAPI.
+Esta capacidad no está disponible con Microsoft Exchange.
+
+El registro para WinFax Pro incluye un campo que informa si un fax se entregó o no.
+Windows 95 incluye esta característica, de manera que el usuario ha de abrirse paso por un serie de mensajes crípticos simplemente para determinar si un fax se recibió.
+WinFax Pro también ofrece un enlace desde un lector de caracteres óptico (OCR) para Microsoft Exchange.
+
+Un visualizador de faxes permite al usuario limpiar los puntos oscuros que aparecen en los faxes que se reciben.
+El producto puede convertir faxes a texto con su OCR incorporado.
+Esta edición incluye una capacidad fotográfica para enviar gráficos de gran calidad en blanco y negro.
+Los usuarios tienen otras maneras de enviar documentos (por ejemplo, mediante correo electrónico), de manera que esta característica puede tener un atractivo limitado.
+
+WinFax ofrece al usuario muchas y muy diferentes opciones de planificación.
+Uno puede establecer transmisión automática de faxes por la noche, puesto que la tarifa telefónica nocturna es más barata.
+Durante un viaje, uno puede configurar faxs para que se envíen mediantes diferentes opciones de tarjeta de llamada ( calling card ).
+
+Para el usuario que tiene que enviar informes con regularidad hay una característica de evento recurrente que enviará por fax un documento en un intervalo establecido.
+La transmisión puede efectuarse un determinado día de la semana (el segundo martes de cada mes, por ejemplo) o en una fecha concreta.
+El sistema puede proporcionar registros impresos de cada transmisión de fax.
+
+TalkWorks.
+Además de envío de faxes, WinFax Pro incluye capacidades de correo oral si un sistema dispone de un módem integrado datos/fax/voz.
+Como Windows 95 soporta TAPI, TalkWorks puede discriminar llamadas que entran y pasar cada una de ellas al módulo de comunicaciones adecuado.
+De este modo, un equipo PC con tarjeta Sound Blaster puede convertirse en teléfono.
+
+Se puede configurar el sistema de correo oral para que responda una llamada después de que suene un número telefónico determinado.
+Un administrador de sistemas podría configurar las cosas de tal manera que almacene mensajes de correo oral en un solo buzón de entrada o asigne una serie de buzones de usuarios específicos.
+
+La característica de fax a petición que tiene el programa permite a los clientes entrar y solicitar que se les envíe un documento.
+Esto ha demostrado ser popular a la hora de automatizar soporte técnico y una empresa pequeña que tomara pedidos telefónicos también se podría beneficiar de esta característica.
+
+Las características de fax TalkWorks no utilizan el software Norton AntiVirus, que se puede utilizar con los otros módulos CommSuite.
+Si bien no es necesaria, esta característica podría asegurar que no se transmiten virus no deseados junto con un fax en el curso de una transferencia de archivos binaria.
+
+WinComm Pro.
+Este programa de comunicaciones de propósito general ayuda a los usuarios a conectarse a servicios en línea y sistemas BBS.
+El producto viene con macros integradas para AT'&'T Mail, BIX, GEnie, CompuServe, Delphi, MCI, Dow Jones y NewNet.
+El usuario puede hacer clic en un icono y llamar a uno de estos servicios.
+
+El software soporta RIPscrip, que proporciona una interfaz gráfica frontal a los sistemas BBS.
+En vez de responder preguntas de sí o no, el usuario trabaja con cajas de diálogo y color.
+Hay un administrador de imágenes para archivos gráficos que incluye BMP, GIF, JPEG, PCX y TIF.
+(Si uno se basa en las herramientas incorporadas de Windows 95, puede visualizar archivos BMP y PCX con Paintbrush, y archivos GIF y JPEG con Internet Explorer.
+En cambio, no se corre la misma suerte con archivos TIF.)
+Una característica muy útil llamada ZIP Manager descomprime archivos que se han descargado.
+
+Delrina incluye su propia versión del lenguaje Basic, con la que los usuarios de potencia pueden crear scripts para WinComm Pro.
+El software puede crear también un script al grabar pulsaciones de tecla (keystrokes).
+Cuando WinComm Pro descarga un programa, le pasa Norton Anti-Virus.
+
+Cyberjack.
+Este módulo constituye la más reciente incorporación al paquete CommSuite.
+Está diseñado para ayudar a navegar por Internet y ofrece conectividad a cinco tipos de servicios Internet.
+Una característica Wizard ayuda al usuario a elegir entre diferentes opciones de conexión y configuración.
+
+El navegador Web hace las cosas que hacían la mayoría de navegadores anteriores a Java.
+Tiene una bonita interfaz y las características de captura y filtrado permiten agarrar y guardar imágenes.
+¿Cómo se comporta Cyberjack al lado de Internet Explorer de Microsoft?
+Además de las capacidades básicas de exploración, Cyberjack presenta grupos de noticias, capacidades de transferencia de archivos, charla interactiva y Gopher.
+
+El componente News permite poner y leer mensajes en grupos de noticias, así como clasificar por campos y filtrar contenidos.
+La capacidad de transferencia de archivos hace posible pasar archivos entre dos ordenadores.
+
+Un usuario Cyberjack puede establecer una sesión de charla interactiva y conversar con una serie de personas.
+Un color diferente para cada foro de charla ayuda a hacer un seguimiento de quién ha dicho determinadas cosas.
+Las capacidades Gopher permiten a uno visualizar documentos de texto y permiten trabajar con múltiples carpetas de archivos.
+Cyberjack utiliza Microsoft Exchange para enviar y recibir correo electrónico Internet.
+
+Si uno simplemente quiere examinar el Web, Microsoft Explorer debería ser suficiente, especialmente la versión 2.0 mejorada, disponible en http://www.windows.microsoft.com .
+Pero, si lo que se quiere son capacidades Net más avanzadas, en tal caso uno debería probar con Cyberjack.
+
+LapLink 7.0 para Windows 95 
+
+LapLink, de Traveling Software, se hizo un nombre por ser la primer utilidad para transferir archivos entre ordenadores.
+Este herencia se pone de manifiesto en la nueva edición y se ve aumentada con control remoto y otras capacidades de comunicación.
+El producto será de utilidad para el ejecutivo móvil que a menudo trabaja mientras se desplaza y que hacer servir una amplia gama de conexiones.
+
+En MS-DOS 6.2x, Microsoft incorporó Interlink, una utilidad de transferencia de archivos que operaba de una manera muy similar a LapLink.
+Windows 95 dispone todavía de más capacidades avanzadas.
+Su conexión telefónica a redes y su conexión directa por cable le permiten una funcionalidad similar a la de LapLink.
+Además, la característica Briefcase hace más fácil mantener sincronizado un conjunto de archivos entre dos ordenadores.
+El problema es que nada de esto está muy bien explicado o descrito en el sistema de ayuda ni en la documentación, y el proceso de conseguir que funcione puede resultar frustrante.
+
+Asimismo, ambos ordenadores han de operar Windows 95.
+Si un usuario utiliza Windows 3.1 --pongamos que sea una máquina 286 que nunca podrá funcionar con 95--, se le ha acabado la suerte con el software incorporado.
+En este caso, LapLink no sólo resulta de ayuda, sino que es necesario puesto que incluye tanto versiones de 32 bits como de 16 bits.
+Asimismo, resulta mucho más fácil de configurar y de poner en marcha.
+
+Traveling Software ha renovado LapLink con el objetivo de beneficiarse del sistema operativo y de tener el aspecto de una aplicación Windows 95, con cajas de diálogo e iconos estándar en vez de menús.
+Resulta muy práctico que el software pueda sacar números telefónicos del libro de direcciones Windows 95.
+Uno puede conectarse a otras máquinas que operen aplicaciones Windows y los largos nombres de archivo de Windows 95 se verterán a formato 8.3 de DOS.
+
+Como sistema de conexión telefónica, LapLink funciona con tres servidores remotos: PPP de Shiva, LAN Rover y Windows NT Remote Access Server.
+La nueva edición permite al usuario conectarse con una red TCP/IP.
+Las versiones anteriores se centraban en el protocolo IPX de Novell.
+Este fue el único producto entre los que evaluamos que soporta conexiones sin cable.
+LapLink funciona con el protocolo AirShare Radio.
+
+LapLink también dispone de algunas capacidades de seguridad.
+
+Una característica opcional de llamada de respuesta interrumpirá una conexión que entra y luego volverá a marcar en el sistema del usuario un número de telefónico previamente asignado.
+Si bien no está hecho a prueba de megatorpes, hace más difícil a los intrusos informáticos entrar en un sistema.
+
+El producto incluye tres servicios de comunicaciones básicos: transferencia de archivos, control remoto y charla interactiva.
+La capacidad de transferencia de archivos hace posible visualizar o intercambiarlos con un PC remoto.
+La característica patentada SpeedSync que tiene LapLink descarga sólo cambios en un archivo, en vez de su contenido al completo, lo que recorta el tiempo de la operación considerablemente.
+Esto será de utilidad para personas que regularmente acceden y actualizan archivos específicos.
+
+El control remoto permite a un usuario abrir un programa que opera en un sistema remoto y transferir información entre los dos sistemas.
+Una facilidad de charla interactiva hace posible que dos usuarios conversen en línea intercambiando mensajes de texto en tiempo real.
+
+En el paquete que evaluamos no había tutorial en línea, pero el programa sí que brinda ayuda a la hora de establecer una sesión de comunicaciones.
+Esto resulta especialmente útil puesto que LapLink ofrece una variedad de opciones de conectividad: una conexión de cable, red y servicios inalámbricos.
+
+Quickstep de LapLink despeja el camino al usuario en el proceso de configurar un PC para diferentes tipos de conexión.
+La sección Tips incluye consejos y pistas para configurar un ordenador, lo que resulta muy práctico de cara a los poco experimentados.
+Uno de los consejos esboza cómo establecer un puerto paralelo, haciendo observar, por ejemplo, que los cables estándar para impresora no funcionan.
+
+Traveling Software incluye el cable paralelo especial que se necesita, más otro para conectarse a puertos serie.
+Sin embargo, un tercer cable, diseñado para acelerar la transferencia de datos entre puertos ECP/EPP, se ha de adquirir por separado.
+
+QmodemPro para Windows 95 
+
+Mustang se ha centrado en software de BBS.
+El nuevo QmodemPro para Windows 95 de esta empresa permite que un usuario configure una BBS.
+Como parte integrante de su tutorial, la empresa invita a sus compradores a acceder al sistema de tablero de anuncios de usuario que tiene la propia Mustang.
+
+El nuevo paquete gira alrededor de las capacidades de DIAL-UP y facilita las cosas a los usuarios en el proceso de configuración.
+El software incluye macros para CompuServe, MCI Mail, Delphi y Genie.
+El proceso consiste en un simple rellenado de espacios en blanco: el script contiene los números de teléfono y las contraseñas de estos sistemas.
+QmodemPro para Windows 95 viene con su propio lenguaje de scripting, que se asemeja a Basic.
+
+El paquete de comunicaciones soporta MAPI, de manera que un usuario puede desplazar texto desde una ventana hasta otro producto de correo, como Microsoft Exchange.
+El visualizador de imágenes permite trabajar con archivos gráficos en formato BMP, GIF y JPEG.
+
+Si uno proviene de una versión Windows de QmodemPro más antigua, tiene que eliminar las macros antiguas y otros datos específicos sobre dispositivos, puesto que Windows 95 es mucho más consciente del hardware que hay.
+En otras palabras, para hacer que Conectar y utilizar funcione no hay que confundir al sistema con parámetros y configuraciones para versiones más antiguas de Windows.
+
+QmodemPro incluye capacidades de encriptación incorporadas.
+
+Utiliza el algoritmo de llave pública RSA para preservar la integridad y confidencialidad de las transmisiones.
+
+El producto se basa ahora en Windows 95 en lugar de tener una opción de fax por separado, disponible en anteriores versiones de Qmodem.
+De este modo, comparte las mismas limitaciones que Windows 95.
+
+El manual de usuario de QmodemPro para Windows 95 está bien diseñado y resulta sencillo de seguir.
+Sin embargo, navegar por la ayuda en línea que tiene el producto no resultó tan fácil como con los sistemas de ayuda de los otros dos paquetes con los que hemos estado trabajando.
+En este sentido, QmodemPro para Windows 95 da por supuesto un elevado grado de comprensión por parte del usuario.
+
+¿Cuál? ¿Ninguno? 
+
+Estos tres paquetes de comunicaciones son muy distintos entre sí, lo que primordialmente refleja los muy diferentes productos DOS y Windows de sus anteriores reencarnaciones.
+Hay que mirar las necesidades que uno tiene de comunicaciones y elegir uno de estos productos de acuerdo con lo que uno haga con más frecuencia.
+
+Si el usuario utiliza Windows 95, además tendrá que pensar si necesita, o desea, alguno de estos productos.
+
+Windows 95 ofrece amplias características de telecomunicaciones para el usuario que ocasionalmente tiene que transmitir información, leer o enviar unos pocos correos electrónicos o conectarse en línea de vez en cuando.
+Los paquetes de comunicaciones de Delrina, Mustang y Traveling Software se centran en usuarios con requisitos específicos.
+Si uno no encaja bien en una de estas categorías, quizá pruebe las aplicaciones que vienen con Windows 95.
+Pronto descubrirá lo que verdaderamente necesita y esta necesidad le guiará hacia el producto de terceras partes adecuado.
+
+Paul Korzeniowski 
+( 0006841944@mcimail.com ) es articulista independiente. 
+
+Reproducido de BYTE, una publicación de McGraw-Hill, Inc.
+
+Traducción de Nicolau B, Pérez.
+
+RECUADRO:Windows TAPI 
+
+Para los desarrolladores de software de comunicaciones, Windows 95 es una palabra de cuatro letras que se escribe TAPI.
+La decisión de Microsoft de incorporar la telefonía API a su sistema operativo ha cambiado de manera esencial la manera de operar de la mayoría de programas de telecomunicaciones.
+TAPI facilita el trabajo de los desarrolladores de software de telecomunicaciones pero también les obliga a pensar en qué características son importantes y cómo implementarlas.
+
+TAPI asume muchas tareas de mantenimiento de los programas de telecomunicaciones, centralizando y estandarizándolos en el sistema operativo.
+Anteriormente, cada programa de comunicaciones había de tener sus propias rutinas de ajuste y configuración para determinar qué puerto de comunicaciones, velocidad e IRQ había que usar.
+Ahora, TAPI determina automáticamente qué módem tiene uno y configura Windows para que lo soporte.
+No importa que se trate de un módem externo, interno o de tipo PC Card.
+El sistema propiamente dicho configura muchas cosas sin la intervención del usuario.
+Actualmente, cada programa de comunicaciones simplemente interroga al sistema TAPI; el desarrollador no tiene que escribir una rutina de configuración.
+
+Scott Hunter, vicepresidente de ingeniería de Mustang Software (fabricante de Qmodem), sostiene que una de las cosas más importantes que TAPI consigue es hacer que el sistema operativo gestione los puertos de comunicaciones, lo que da como resultado que todos los programas tienen acceso a ellos.
+Antes, si uno operaba un programa de comunicaciones --por ejemplo, Procom Plus o Qmodem-, lo primero que hacía el software era abrir el puerto de comunicaciones.
+En ese estadio, cualquier otro programa quedaba excluido de ese puerto, sin que importara que en aquellos momentos se estuviera utilizando.
+Hunter afirma que ésta fue una importante razón técnica (aparte de las consideraciones de mercado) para que los programas de comunicaciones Windows añadieran capacidades de fax.
+Habida cuenta de que el puerto estaba atado de pies y manos, el usuario no podía utilizar el fax hasta que cerraba el programa o hacía servir la propia herramienta de fax del programa.
+Bajo Windows 95, varios programas de comunicaciones pueden ahora compartir el mismo puerto, con TAPI gestionando conflictos y planificando.
+
+Asimismo, TAPI centraliza lo que Windows califica de propiedades de marcación permitiendo al usuario establecer parámetros y condiciones de llamada adecuados para múltiples ubicaciones (el hogar, el trabajo, una sede remota, una habitación de hotel).
+El usuario sólo tiene que hacerlo una vez, a nivel del sistema operativo, en vez de tener que reconfigurar cada programa de comunicaciones o cada navegador Web con cada cambio de ubicación.
+
+Hay que recordar que la T de TAPI significa telefonía y esto abre considerablemente nuevas posibilidades.
+Por ejemplo, entra un fax.
+TAPI contesta el teléfono y canaliza la llamada a Microsoft Exchange.
+
+En la edición inicial de Windows 95, Exchange no soportaba esta canalización automática, pero un nuevo controlador de módem, Unimodem V (descargable desde xxx ) añade esta capacidad.
+Sin embargo, incluso sin Unimodem V, algunos programas de comunicaciones pueden permitir la canalización.
+
+Rusell Kay 
+
+
+PIES DE FOTO: 
+1 Traveling Software LapLink para Windows 95 simplifica y acelera el proceso de transferir archivos por una conexión DIAL-UP.
+2 Delrina WinFax Pro es uno de los módulos más potentes de CommuSuite y permite que enviar faxes resulte considerablemente más fácil que con Microsoft Exchange.
+3 Con QmodemPro de Mustang uno puede abrir múltiples ventanas para transferencias de archivos y diálogos en línea; asimismo puede abrir visualizadores para los archivos recibidos en una variedad de formatos.
+4 Con el módulo TalkWorks, CommSuite añade capacidad de correo oral y de respuesta al cajón de trucos del sistema del ordenador, siempre que uno tenga también una tarjeta compatible Sound Blaster y micrófonos.

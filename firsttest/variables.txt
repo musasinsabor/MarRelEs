@@ -1,0 +1,38 @@
+['más/menos']	4	4
+['especialmente/particularmente/sobre todo/ante todo/en especial/en particular/concretamente/en concreto/principalmente']	4	8
+[' forma/estado/disposición/consistencia/apariencia/aspecto/modalidad/configuración/conformación/estilo/estructura/naturaleza']	3	11
+['otro/cualquier otro/cualquier otro tipo de/demás']	2	13
+['DET definido/diferentes/muchos/varios/diversos/algunos/un gran número de/distintos/multiples/montones de/numerosos'	2	15
+['especialización/especificación/precisión/determinación']	2	17
+[' bajo']	2	19
+['como/para']	2	21
+['quién/qué/quién/dónde/Adj/ ppasado/ppresente']	1	22
+['especie/variedad/tipo/clase']	1	23
+['muy']	1	24
+['y/o']	1	25
+[' de los/de las/de todos los/de todas las']	1	26
+['incluido/teniendo en cuenta/incluso/inclusive/incluyendo/hasta/tomando en consideración']	1	27
+['excepto/salvo/a excepcion de/exceptuado/menos/a parte de/con excepción de/con exclusión de/descontando']	1	28
+ 'especialmente/particularmente/sobre todo/ante todo/en especial/en particular/concretamente/en concreto/principalmente']	1	29
+ 'que/cual/tal como']	1	30
+['entre/entre (todos/entre todos los/en el conjunto de/entre los']	1	31
+['entre los cuales/en el primer rango de']	1	32
+[' todo/toda/todos los/todas las']	1	33
+['todo/todos']	1	34
+['llamar/nombrar/calificar de/designar por/representar {con/por}/simbolizar por/(se) denominar por/nombrar por/referirse']	1	35
+['formar/representar/constituir/constituir por'	1	36
+ 'especialización/especificación/precisión/determinación']	1	37
+['llamar/nombrar/calificar de/designar por/representar {con/por}/simbolizar por/denominar por/nombrar por/referirse']	1	38
+['llamado/nombrado/calificado como/designado por/representado {con/por}/simbolizado por/denominar por/nombrado por/referido']	1	39
+['presenta/encuentra/se muestra']	1	40
+['divide/subdivide/disocia/rompe/fragmenta/descompone/comparte/separa/ofrece']	1	41
+[' bajo/en']	1	42
+['presentado/encontrado/mostrado']	1	43
+[' sub/sub-']	1	44
+[' clase/categoría/casta/grupo/división/especie/conjunto/división/variedad/raza/tipo/modelo/familia/género/colección/concepto/parte/partición']	1	45
+['bajo']	1	46
+[' presentado/dividido/encontrado/presentado/subdividido/disociado/roto/fraccionado/descompuesto/compartido/separado']	1	47
+['nombre/designación/apelación']	1	48
+['(todos) como por ejemplo/del tipo/tipo/igual/igual que']	1	49
+['es decir/a saber/o sea/en otras palabras']	1	50
+['como']	1	51

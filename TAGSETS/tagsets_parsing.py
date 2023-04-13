@@ -32,10 +32,6 @@ def get_tagsetx(lexique_path):
 def create_tagset(tagset1, tagset2):
     full_tagset1 = get_tagset(tagset1)
     full_tagset2 = get_tagset(tagset2)
-    # longest_list = max(len(full_tagset2), len(full_tagset1))
-    # print(longest_list)
-    # print(full_tagset1)
-    # print(full_tagset1)
     for i in range(0, len(full_tagset2)):
         if full_tagset2[i] in full_tagset1[i]:
             print(full_tagset2[i])

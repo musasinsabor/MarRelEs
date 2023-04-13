@@ -1,0 +1,1647 @@
+
+BASES DE LA INMUNOLOGÍA 
+
+Inmunidad innata 
+
+Se habita un mundo potencialmente hostil pleno de una asombrosa variedad de agentes infecciosos (fig. 1-1) con diversas formas, tamaños, composición y carácter subversivo, listos para utilizar al hombre como fértil santuario para propagar sus "genes egoístas" si no se hubiese desarrollado una serie de mecanismos de defensa igualmente eficaces y geniales (excepto en el caso de muchas parasitosis, en las cuales la situación puede describirse más como una tregua difícil y a menudo insatisfactoria).
+Son estos mecanismos de defensa los que pueden instaurar un estado de inmunidad ( immunitas , libre o exento de) contra la infección y cuyo estudio es el objetivo de la disciplina denominada "Inmunología".
+
+Además de factores constitucionales mal conocidos por los cuales una especie presenta susceptibilidad y otra resistencia congénitas a ciertas infecciones, se ha identificado una serie de sistemas antimicrobianos inespecíficos (p. ej.: fagocitosis) que son innatos en el sentido de que no son afectados de manera intrínseca por el contacto previo con el agente infeccioso.
+Estos sistemas serán comentados y se examinará cómo, en el estado de inmunidad adquirida específica , su eficacia puede estar muy aumentada.
+
+Barreras contra la infección 
+
+La forma más sencilla de evitar la infección es impedir que los agentes infecciosos se introduzcan en el organismo (fig. 1-2).
+La principal línea de defensa es la piel, que cuando se encuentra indemne es impermeable a la mayoría de los microorganismos; al producirse soluciones de la continuidad cutánea, como por ejemplo en las quemaduras, la infección se transforma en un problema.
+La mayor parte de las bacterias no sobrevive por mucho tiempo sobre la piel debido a la acción inhibitoria directa del ácido láctico y los ácidos grasos de las secreciones sudorípara y sebácea y el pH ácido que generan.
+Una excepción es el Staphylococcus aureus , el cual suele infectar los folículos pilosos y las glándulas, que son relativamente vulnerables.
+
+Figura 1-1
+
+La importante cantidad de agentes infecciosos con que se enfrenta el sistema inmunológico.
+
+Aunque por lo general no se clasifican de esta manera por su carencia de pared celular, se incluyen por conveniencia entre las bacterias a los micoplasmas.
+Los hongos adoptan muchas formas y se especifican valores aproximados para algunas de las morfologías más pequeñas.
+
+El moco secretado por las membranas mucosas que revisten las superficies internas del organismo actúa como barrera protectora que bloquea la adherencia de las bacterias a las células epiteliales.
+Los microbios y otras partículas extrañas atrapadas en el moco son eliminadas mediante mecanismos como el movimiento ciliar, la tos y los estornudos.
+Entre los otros factores mecánicos que contribuyen a proteger las superficies epiteliales debe incluirse también la acción higienizante de las lágrimas, la saliva y la orina.
+Muchos de los líquidos corporales secretados contienen sustancias bactericidas, como el ácido en el jugo gástrico, la espermina y el cinc en el semen, la lactoperoxidasa en la leche y la lisozima en las lágrimas, las secreciones nasales y la saliva.
+
+Un mecanismo totalmente diferente es el del antagonismo microbiano que se asocia con la flora bacteriana normal del organismo.
+Esta última inhibe la proliferación de muchas bacterias y hongos potencialmente patógenos en sitios superficiales por competencia por los alimentos esenciales o porque producen sustancias inhibitorias.
+Por ejemplo, la invasión de agentes patógenos se ve limitada por el ácido láctico producido por especies particulares de bacterias comensales que metabolizan el glucógeno secretado por el epitelio de la mucosa vaginal.
+Cuando los comensales protectores se alteran por la acción de antibióticos aumenta la susceptibilidad a infecciones por oportunistas como Candida y Clostridium difficile .
+Los microorganismos comensales del intestino también pueden producir colicinas, una clase de bactericidinas que se fijan a la superficie con carga negativa de las bacterias susceptibles e insertan un apéndice helicoidal hidrofóbico en la membrana; luego la molécula sufre una transformación para tornarse hidrofóbica y formar en la membrana un canal dependiente del voltaje que destruye a la célula por supresión del potencial energético.
+Incluso a este nivel, la supervivencia es difícil.
+
+Ante la introducción de los microorganismos intervienen dos mecanismos de defensa principales, a saber: factores químicos solubles de acción destructora, como son las enzimas bactericidas, y la fagocitosis, en la cual una célula literalmente "come" los agentes nocivos.
+
+Las células fagocíticas destruyen los microorganismos 
+
+Fagocitos "profesionales" 
+
+La fagocitosis y digestión de los microorganismos es realizada por dos tipos celulares principales identificados por Metchnikoff a fines del siglo pasado como micrófagos y macrófagos .
+
+Neutrófilo polimorfonuclear 
+
+Esta célula, la más pequeña de las dos, comparte un precursor hematopoyético común con los otros elementos formes de la sangre y es el leucocito predominante en el torrente sanguíneo.
+Se trata de una célula indivisible de vida breve con núcleo polilobulado y un conjunto de gránulos que prácticamente no se tiñen con las técnicas histológicas comunes como hematoxilina-eosina, a diferencia de lo que ocurre con los gránulos de los leucocitos eosinófilo y basófilo) (figs. 1-3 y 1-5).
+Los gránulos del neutrófilo son de tres tipos: los gránulos primarios o azurófilos que contienen mieloperoxidasa, cierta cantidad de lisozima y un tipo de proteínas catiónicas; los gránulos secundarios o "específicos" que poseen lactoferrina, lisozima y una proteína fijadora de vitamina B12; y gránulos terciarios emparentados con los lisosomas convencionales que contienen hidrolasas ácidas.
+Los abundantes depósitos de glucógeno pueden ser utilizados para la glucólisis, lo que permite a estas células funcionar en condiciones anaeróbicas.
+
+El macrófago 
+
+Estas células derivan de promonocitos de la médula ósea que, luego de su diferenciación a monocitos sanguíneos, finalmente se establecen en los tejidos como macrófagos maduros para constituir el sistema fagocítico mononuclear (fig. 1-4).
+
+Se encuentran en todo el tejido conectivo, rodean la membrana basal de los vasos sanguíneos de pequeño calibre y su concentración es particularmente grande en los pulmones (macrófagos alveolares), el hígado (células de Kupffer) y en el bazo y los ganglios linfáticos, donde se hallan estratégicamente ubicados tapizando los sinusoides para filtrar el material extraño.
+Otros ejemplos son las células mesangiales en el glomérulo renal, la microglia del sistema nervioso y los osteoclastos del tejido óseo.
+A diferencia de lo que sucede con los polimorfonucleares, los macrófagos son células de vida prolongada con un importante retículo endoplasmático rugoso y mitocondrias (fig. 1-5) y mientras que los neutrófilos proporcionan un mecanismo de defensa de gran relevancia contra las bacterias piógenas (generadoras de pus), puede decirse en general que los macrófagos se encuentran mejor adaptados para combatir aquellas bacterias (fig. 1-3g), virus y protozoarios capaces de vivir dentro de las células del huésped.
+
+Figura 1-2
+
+Las primeras líneas de la defensa contra la infección: protección en las superficies externas del organismo.
+
+Figura 1-3
+
+Células involucradas en la inmunidad innata.
+
+a) Monocito, con su núcleo en forma de herradura y un citoplasma pálido moderadamente abundante.
+
+Nótense los tres neutrófilos polimorfonucleares multilobulados y el pequeño linfocito (abajo a la izquierda).
+Coloración de Romanowsky.
+b) Dos monocitos coloreados para esterasa no específica con xxx naftil acetato.
+Nótese el citoplasma vacuolado.
+La célula pequeña con coloración focal en la parte superior es un linfocito T.
+c) Cuatro neutrófilos polimorfonucleares y un eosinófilo.
+Se observan con claridad los núcleos multilobulados y los gránulos citoplasmáticos, muy coloreados en el caso del eosinófilo.
+d) Neutrófilo polimorfonuclear con gránulos citoplasmáticos coloreados para fosfatasa alcalina.
+e) Neutrófilos en fase temprana en la médula ósea.
+Los gránulos azurófilos primarios (CP) en principio acumulados cerca del núcleo, se trasladan hacia la periferia donde se generan en el aparato de Golgi los gránulos específicos del neutrófilo a medida que la célula madura.
+El núcleo se hace lobular en forma gradual (NL).
+Giemsa.
+f) Células inflamatorias provenientes del sitio de una hemorragia cerebral se observa un gran macrófago activo en el centro con eritrocitos fagocitados y vacuolas prominentes.
+Hacia la derecha se observa un monocito con núcleo en forma de herradura y cristales citoplasmáticos de bilirrubina (hematoidina).
+
+Están claramente delineados varios neutrófilos multilobulados.
+Giemsag) Macrófagos en cultivo de monocapa luego de la fagocitosis de microbacterias (coloreados de rojo).
+Carbol-fucsina con verde de malaquita como colorante de contraste.
+h) Numerosos macrófagos alveolares de gran tamaño ubicados dentro de los espacios aéreos del pulmón.
+i) Basófilos con gránulos fuertemente coloreados comparados con un neutrófilo (parte inferior).
+j) Mastocito proveniente de la médula ósea.
+Presenta un núcleo central redondo rodeado por gránulos fuertemente coloreados.
+Se observan en la parte interior dos pequeños precursores de eritrocitos.
+
+Coloración de Romanowsky.
+k) Mastocitos tisulares de la piel coloreados con azul de toluidina.
+Los gránulos intracelulares son metacromáticos y se colorean de púrpura rojizo.
+Nótense los acúmulos relacionados con los capilares de la dermis.
+
+Fagocitosis 
+
+Antes de que pueda producirse la fagocitosis el microbio debe adherirse a la superficie del polimorfonuclear o del macrófago, un fenómeno mediado por un mecanismo de reconocimiento bastante primitivo en el que es probable que participen carbohidratos.
+Según su naturaleza, una partícula fijada a la membrana del fagocito puede iniciar la fase de ingestión al activar un sistema actomiosínico contráctil que se encarga de emitir seudópodos alrededor de la partícula en cuestión (figs. 1-6 y 17); a medida que receptores adyacentes se fijan en forme secuencial a la superficie del microbio (como si fuera un "cierre de cremallera"), la membrana plasmática del fagocito es fraccionada hasta rodear la partícula y encerrarla por completo en una vacuola (fagosoma; figs. 1-6 y 18).
+Los fenómenos siguientes se suceden rápidamente en menos de un minuto los gránulos citoplasmáticos se fusionan con el fagosoma para liberar su contenido alrededor del microorganismo aprisionado (fig. 1-8) que es sometido a toda una batería de sustancias microbicidas.
+
+Destrucción del microbio 
+
+Mecanismos oxígeno- dependientes 
+
+El invasor ve dificultada su acción en el momento en que se inicia la fagocitosis.
+Se produce un aumento extraordinario de la actividad de la vía de las hexosas monofosfato que genera NADPH, el cual se utiliza en última instancia para reducir el oxígeno molecular unido a un citocromo particular de la membrana plasmática xxx , lo que provoca un gran aumento del consumo de oxígeno.
+
+Como consecuencia, el oxígeno se convierte en anión superóxido, peróxido de hidrógeno, O2 libre y radicales hidroxilo, todos ellos poderosos agentes microbicidas.
+Además, la combinación de peróxido, mieloperoxidasa y iones haluro constituye un potente sistema halogenante capaz de destruir tanto bacterias como virus (Cuadro I - I ).
+
+Mecanismos oxígeno- independientes 
+
+También se extrae del cuadro l-l que la dismutación del superóxido consume iones hidrógeno y eleva levemente el pH de manera que se permite la función óptima de las proteínas catiónicas.
+Aunque estas proteínas aún no están bien caracterizadas, se sabe que lesionan la membrana bacteriana tanto por acción de proteinasas neutras (catepsina G) como por la transferencia directa a la superficie del microbio de una proteína que aumenta la permeabilidad bacteriana, de proteínas catiónicas de alto peso molecular y de las llamadas defensinas.
+El pH bajo, la lisozima y la lactoferrina son factores bactericidas o bacteriostáticos no dependientes del oxígeno y, en consecuencia, pueden actuar en condiciones anaeróbicas.
+
+Por último, los microorganismos muertos son digeridos por enzimas hidrolíticas y los productos de la degradación son liberados al exterior (fig. 1-7).
+
+En este momento puede considerarse muy segura la notable potencialidad antimicrobiana de las células fagocíticas.
+Pero aún existen obstáculos que deben tenerse en cuenta; el importante armamento con que cuenta el organismo resulta inútil a menos que el fagocito pueda 1) ser atraído hacia el microorganismo, 2) adherirse a Él y 3) responder mediante la activación de la membrana que inicia la fagocitosis.
+Algunas bacterias producen sustancias químicas como el péptido formil-met-leu-phe que atraen a los leucocitos, un proceso conocido como quimiotaxis; algunos microorganismos se adhieren a la superficie del fagocito y otros proporcionan de manera espontánea la señal de membrana de iniciación apropiada.
+No obstante, los prolíficos microorganismos mutan constantemente para producir nuevas especies que puedan vencer las defensas al carecer de estas propiedades.
+Ante las dudas sobre el camino a seguir, el organismo humano ha resuelto estos problemas a través de millones de años de evolución, mediante el desarrollo del sistema del complemento.
+
+El complemento facilita la fagocitosis 
+
+El complemento y su activación 
+
+Complemento es el nombre dado a un complejo grupo de unas 20 proteínas que, junto con los mecanismos de la coagulación, la fibrinolisis y la formación de quininas, constituye uno de los sistemas enzimáticos en cascada del plasma.
+Estos sistemas producen una respuesta rápida y muy amplificada a un estímulo desencadenante mediada por un fenómeno en cascada, donde el producto de una reacción es el catalizador enzimático de la siguiente.
+
+Algunos de los componentes del complemento se designan con la letra "C" seguida por un número que se relaciona más con la cronología de su descubrimiento que con su posición en la secuencia de la reacción.
+El componente más abundante y de mayor importancia es C3 con un peso molecular de 195 kDa que se encuentra en el plasma en una concentración de aproximadamente 1,2 mg/ml .
+
+Figura 1-4
+
+El sistema de fagocitos mononucleares (incluido previamente Junto a las células endoteliales y los polimorfonucleares bajo el término 'sistema reticuloendotelial" o SRE). 
+
+Los precursores promonocitos de la médula ósea se desarrollan a monocitos de la sangre circulante. que eventualmente se distribuyen en todo el organismo como macrófagos maduros ( xxx ), como se muestra.
+La otra célula fagocítica importante, el neutrófilo polimorfonuclear, está confinado en su mayor parte al torrente sanguíneo, excepto cuando es reclutado hacia los sitios de inflamación aguda.
+
+Figura 1-5
+
+Ultraestructura de las células fagocíticas.
+
+a) Neutrófilo.
+Se observan con nitidez el núcleo multilobulado y los gránulos citoplasmáticos.
+(cortesía del Dr. D McLaren)
+b) Monocito (x 10000).
+Núcleo en forma de herradura.
+Son evidentes las vesículas fagocíticas y pinocíticas.
+Los gránulos lisosomales, las mitocondrias y los perfiles aislados de retículo endoplasmático rugoso.
+
+Mecanismo de desdoblamiento del C3 
+
+En circunstancias normales, un enlace tioléster interno en el C3 se activa muy lentamente por reacción con agua o con trazas de una enzima proteolítica plasmática para formar un compuesto intermediario reactivo (el producto de desdoblamiento xxx o una molécula funcionalmente similar llamada xxx o xxx .
+En presencia de xxx , la molécula en cuestión puede formar un complejo con otro componente del complemento, el factor B, que, luego es desdoblado por una enzima plasmática normal (el factor D) para producir xxx .
+Obsérvese que por convención Un segmento de línea sobre un complejo denota actividad enzimática y que al desdoblarse un componente del complemento el producto mayor recibe en general el sufijo 'b' y el de menor tamaño adquiere el sufijo 'a'.
+
+Figura 1-6
+
+Fagocitosis y muerte de una bacteria. 
+
+Etapas 3/4, aumento respiratorio; etapa 5, lesión por acción de intermediarios oxígeno reactivos, etapas 6/7, lesión por la acción de peroxidasa, proteínas catiónicas, lisosima y lactoferrina.
+
+El xxx tiene una nueva actividad enzimática importante: es una 'convertasa del xxx ' que puede desdoblar el xxx para generar xxx y xxx .
+Se comentarán brevemente las importantes consecuencias biológicas del desdoblamiento del xxx en relación con las defensas frente a los microorganismos, pero en condiciones normales debe existir algún mecanismo que limite este proceso hasta un cierto nivel, puesto que también puede dar origen a más xxx , por lo que se trata de un circuito de retroalimentación (feedback) positivo potencialmente fuera de control (fig. 1-9).
+Como sucede con todas las cascadas con estas características aquí también existen poderosos mecanismos reguladores.
+
+El control de la concentración del xxx 
+
+En solución, la convertasa xxx es inestable y el factor B es desplazado con facilidad por otro componente, el factor H, para formar un complejo susceptible de ser afectado por el inactivador del xxx conocido como factor I (fig. 1-10; ver además pág. 240).
+El xxx inactivado ( xxx ) es biológicamente inactivo y sufre una degradación adicional por acción de las proteasas de los líquidos corporales.
+
+Figura 1-7
+
+Adherencia y fagocitosis. 
+
+a) Fagocitosis de Candida albicans por un leucocito polimorfonuclear (neutrófilo).
+La adherencia a la superficie inicia la inclusión de la partícula fúngica dentro de prolongaciones de citoplasma.
+Son abundantes los gránulos lisosomales pero escasas las mitocondrias (x 15000).
+b) Fagocitosis de C albicans por un monocito mostrando formación casi completa del fagosoma ( flecha ) alrededor de un microorganismo e ingestión total de otros dos (x 5000).
+(Gentileza del Dr. H Valdimarsson).
+
+Figura 1-8
+
+Formación de un fagolisosoma.
+
+a) Neutrófilo 30 minutos después de la ingestión de C albicans .
+El citoplasma ya está parcialmente desgranulado y se están fusionando dos gránulos lisosomales ( flechas ) con la vacuola fagocítica.
+Se evidencian dos lóbulos del núcleo (x 5000).
+B) La imagen a) con mayor aumento, donde se observan gránulos en fusión descargando su contenido dentro de la vacuola fagocítica ( flechas ). 
+(x 33000; gentileza del Dr. H Valdimarsson).
+
+Activación del mecanismo de desdoblamiento del xxx 
+
+Ciertos microorganismos pueden activar la convertasa xxx y generar grandes cantidades de productos del desdoblamiento del xxx al estabilizar la enzima sobre sus superficies (ricas en carbohidratos), protegiendo así el xxx del factor H.
+Otra proteína, la properdina, actúa sobre esta convertasa fijada y la estabiliza aun más.
+A medida que el xxx es desdoblado por la enzima fijada a la membrana bacteriana, modifica su conformación, por lo que el enlace tioléster interno potencialmente reactivo queda expuesto y se une en forma covalente a grupos hidroxilo o amino de la superficie celular microbiana (fig. 1-10).
+
+Así, cada grupo catalítico favorece el depósito de una gran cantidad de moléculas de xxx sobre el microorganismo.
+Esta serie de reacciones provocadas directamente por los microorganismos que llevan a la degradación del xxx , recibe el nombre de 'vía alterna' de la activación del complemento (fig. 1-11).
+
+Tabla 1-1
+
+Sistemas antimicrobianos en las vacuolas fagocíticas.
+
+Especies microbicidas en negrita.
+O2 -anión superóxido; xxx singulete de oxígeno (activado); OH, radical hidroxilo libre.
+
+La vía posterior al xxx 
+
+El reclutamiento de una molécula mes de xxx en el complejo enzimático xxx genera una convertasa del xxx que lo activa por una fragmentación proteolítica con la liberación de un polipéptido pequeño ( xxx ) y la permanencia de un fragmento grande ( xxx ) unido al xxx en forma laxa.
+La fijación consecuente del xxx y del xxx al xxx forma un complejo con un sitio de unión a la membrana transitorio y afinidad por la cadena peptídica xxx del xxx .
+La cadena o, del xxx se apoya en la membrana y dirige las modificaciones de la conformación del xxx que lo transforman en una molécula anfipática capaz de insertarse en la bicapa lipídica (colicinas, pág .
+
+14) y polimerizarse formando un 'complejo de ataque a la membrana' anular (MAC; figs. 1-12 y 2-3).
+Se forma así un canal que atraviesa la membrana, totalmente permeable al agua y los electrolitos por lo que, debido a la alta presión coloidosmótica intracelular, se produce un ingreso neto de xxx y agua a la célula bacteriana que con frecuencia ocasiona su lisis.
+
+El complemento posee numerosas funciones biológicas 
+
+Pueden ser agrupadas convenientemente bajo tres encabezados:
+
+Reacciones de adherencia 
+
+Las células fagocíticas poseen receptores para el xxx y el xxx que facilitan la adherencia de los microorganismos tapizados de xxx a la superficie celular (ver pág. 193).
+
+Fragmentos con actividad biológica 
+
+El xxx y el xxx , los pequeños péptidos separados de las moléculas progenitores durante la activación del complemento, poseen varias acciones importantes.
+Los dos péptidos actúan directamente sobre los fagocitos, en especial los neutrófilos, para estimular el importante aumento del consumo de oxígeno asociado con la producción de metabolitos del oxígeno y para incrementar la presencia de los receptores de superficie que reaccionan con xxx e xxx .
+Además, ambos son 'anafilotoxinas' por su capacidad de desencadenar la liberación de mediadores a partir de los mastocitos (figs. 1-3 y 1-13) y sus equivalentes de la circulación, los basófilos (fig. 1-3), un fenómeno muy importante en el tema tratado, por lo que se han incluido detalles de los mediadores y sus acciones en la fig .
+
+1-14; obsérvense en particular las propiedades quimiotácticas de estos mediadores y sus efectos sobre los vasos sanguíneos.
+El C5a es un poderoso agente quimiotáctico para los neutrófilos, capaz de actuar directamente sobre el endotelio capilar para producir vasodilatación y un aumento de la permeabilidad, un efecto que en apariencia se prolonga por acción del leucotrieno xxx liberado a partir de neutrófilos, macrófagos y mastocitos activados.
+
+Lesiones de la membrana 
+
+La inserción del complejo de ataque en la membrana de una célula puede producir la lisis celular, pero el complemento presenta una relativa ineficacia para lisar la membrana celular de las células del huésped (autólogas) debido a la presencia de proteínas de control.
+
+Figura 1-11
+
+Activación microbiana de la vía alternativa del complemento por estabilización de la enzima xxx , y su control por los factores H e I.
+
+Aunque desde el punto de vista filogenético es la vía más antigua, fue descubierta con posterioridad a otra vía que se estudiará en el próximo capítulo por lo que se la denominó "alterativa", lo cual puede llevar a confusión.
+
+Figura 1-12
+
+Vía post xxx que genera xxx y el complejo de ataque de membrana xxx ( MAC ).
+
+a) Esquema de montaje molecular.
+El cambio de conformación en la estructura de la proteína xxx que la convierte de molécula hidrofílica en anfipática (con regiones hidrofóbicas e hidrofílicas) puede ser interrumpido por un anticuerpo formado contra péptidos lineales derivados de xxx ; dado que el anticuerpo no reacciona con las formas solubles o ligadas a membrana de la molécula, debe estar detectando una estructura intermedia revelada transitoriamente en una redistribución estructural profunda.
+b) Micrografía electrónica de un complejo de membrana xxx incorporado a membranas liposomales que muestran claramente la estructura anular.
+El complejo cilíndrico se visualiza desde el costado, insertado en la membrana del liposoma de la izquierda, y desde la base en el de la derecha.
+Aunque en si es una interesante estructura, es probable que la formación del cilindro anular xxx no sea esencial para la perturbación citotóxica de la membrana de la célula blanco, puesto que esto puede obtenerse por inserción de moléculas anfipáticas de xxx en cantidades demasiado pequeñas para poder formar un MAC definido.
+(Gentileza del Prof. J Tranum-Jensen y del Dr. S Bhakdit).
+
+MOLÉCULAS QUE RECONOCEN AL ANTÍGENO 
+
+Las inmunoglobinas 
+
+La estructura básica es una unidad tetrapeptídica 
+
+La molécula de anticuerpo está compuesta por dos cadenas pesadas idénticas y dos cadenas livianas idénticas, unidas por puentes disulfuro intercatenarios (fig. 3-1).
+Estas cadenas pueden separarse por reducción de los enlaces disulfuro y acidificación.
+En el tipo de anticuerpo más abundante, la inmunoglobulina G, la región bisagra expuesta extiende su estructura debido al elevado contenido de prolina, y por lo tanto es vulnerable al ataque proteolítico; la molécula es escindida por acción de la papaína para formar dos fragmentos idénticos, cada uno con un único sitio de combinación para el antígeno (Fab; fragmento de unión con el antígeno ), y un tercer fragmento que carece de la capacidad de ligar el antígeno, denominado Fc ( fragmento cristalizable ).
+La pepsina actúa en un punto diferente y escinde el Fc del remanente de la molécula, por lo que queda un fragmento 5S grande denominado xxx , por ser divalente con respecto a la unión con el antígeno al igual que el anticuerpo original (fig. 3-2).
+
+Se demostró la localización de los sitios de combinación con el antígeno por medio de un estudio de los anticuerpos purificados formados contra un grupo dinitrofenilo (DNP) mezclado con el compuesto: xxx .
+
+Los dos grupos DNP se encuentran lo suficientemente separados entre sí como para no interferir en sus respectivas reacciones con los anticuerpos, por lo que pueden unir por sus extremos a los sitios de combinación con el antígeno de dos anticuerpos diferentes.
+Cuando se visualizan por coloración negativa al microscopio electrónico, se observa una serie de formas geométricas que representan las diferentes estructuras que pueden esperarse si una molécula con bisagra en forma de Y, con sitio de combinación en el extremo de cada brazo de la Y, intenta formar complejos con el antígeno divalente.
+Pueden distinguirse trímeros triangulares, tetrámeros cuadrados y pentámeros pentagonales (fig. 3-3).
+En la figura 3-4 se indica cómo se obtienen estas formas poliméricas.
+
+De la forma de los polímeros producidos utilizando el fragmento de pepsina xxx (fig. 3-3e) se infiere la posición del fragmento Fc, el cual no se encuentra involucrado en la combinación con el antígeno.
+
+Figura 3.1
+
+Modelo de anticuerpo con dos cadenas polipeptídicas pesadas y dos cadenas livianas unidas por medio de puentes disulfuro intercatenarios.
+
+En el diagrama el residuo amino terminal (N) se encuentra a la izquierda de cada cadena.
+
+Figura 3.2
+
+Degradación de una inmunoglobulina a sus cadenas peptídicas constituyentes y los fragmentos proteolíticos que muestra la divalencia del xxx de la pepsina para la unión con el antígeno y la univalencia del xxx de la papaína.
+
+Luego de la digestión con pepsina se forma el fragmento xxx que representa la mitad del C terminal de la región xxx y permanece unido por medio de enlaces no covalentes.
+A la porción de la cadena pesada en el fragmento xxx se la representa con el símbolo xxx .
+
+Las secuencias de aminoácidos revelan variaciones en la estructura de las inmunoglobulinas 
+
+La población de anticuerpos en cualquier individuo dado es increíblemente heterogénea, por lo tanto la determinación de las secuencias de aminoácidos no resultaba de utilidad hasta demostrar la posibilidad de obtener el producto homogéneo de un clon aislado.
+La oportunidad se presentó al estudiarse las proteínas de los mielomas .
+
+En la enfermedad humana conocida como mieloma múltiple, una célula productora de una inmunoglobulina individual particular se divide una y otra vez de la misma forma incontrolada que una célula cancerosa, Sin tener en cuenta la necesidad del huésped.
+Por ello el paciente posee enormes cantidades de células idénticas derivadas de la célula original, como si fuera un clon, y todas sintetizan la misma inmunoglobulina-la proteína M o de mieloma- que aparece en el suero, en ocasiones en muy altas concentraciones.
+Por purificación de la proteína de mieloma puede obtenerse Un preparado de inmunoglobulina de estructura exclusiva.
+También pueden obtenerse anticuerpos monoclonales por fusión de células individuales formadoras de anticuerpos con un tumor de linfocitos B, para producir un clon de células en constante división dedicado a formar ese anticuerpo (véanse figs. 2-10 y 7-11).
+
+La secuencia de varias de estas proteínas ha revelado que las porciones N-terminales tanto de las cadenas pesadas como de las cadenas livianas presenta considerable variabilidad, mientras que las partes remanentes de las cadenas son relativamente constantes y se agrupan en un número restringido de estructuras.
+Por convención se habla de regiones constantes y variables de las cadenas livianas y pesadas (fig. 3-5).
+
+Ciertas secuencias de las regiones variables muestran una notable diversidad y su análisis sistemático localiza estas secuencias hipervariables en tres segmentos sobre la cadena liviana (fig. 3-6) y en tres sobre la cadena pesada.
+
+Isotipos 
+
+En base a la estructura de las regiones constantes de las cadenas pesadas, se clasifican las inmunoglobulinas en grupos principales denominados clases que pueden subdividirse en subclases.
+En el ser humano, por ejemplo, existen cinco clases: inmunoglobulina G xxx .
+Pueden diferenciarse no sólo por sus secuencias sino también por las estructuras antigénicas a que dan origen estas secuencias.
+Así, al inyectar un conejo con proteína de mieloma xxx humana, es posible obtener un antisuero que puede ser absorbido por mezclas de mielomas de otras clases para eliminar anticuerpos de reacción cruzada, que a su vez podrán reaccionar con xxx , pero no con xxx (fig. 3.7).
+
+Dado que todas las estructuras de las regiones constantes de las cadenas pesadas ( xxx ) que dan origen a las clases y subclases se expresan juntas en el suero de un individuo normal, se denominan variantes isotípicas (cuadro 3-1).
+Del mismo modo, las regiones constantes de las cadenas livianas ( xxx ) existen en formas isotópicas denominadas xxx asociadas con todos los isotipos de cadenas pesadas.
+Como las cadenas livianas de un anticuerpo dado son idénticas, las inmunoglobulinas son xxx pero nunca mixtas (salvo que sean armadas especialmente en el laboratorio).
+Por lo tanto, la xxx existe como xxx , etcétera.
+
+Figura 3.3
+
+(a) (d) Micrografías electrónicas (x 1.000.000) de complejos formados al enfrentar los haptenos divalentes de DNP con anticuerpos anti-DNP de conejo.
+
+La "tinción negativa" con ácido fosfotúngstico es una solución electrodensa que penetra en los espacios entre las moléculas de proteína.
+Así, la proteína se visualiza como una estructura "clara" con el haz de electrones.
+El hapteno une las moléculas de anticuerpo en forma de Y para armar (a) dímeros, (b) trímeros.
+(c) tetrámeros y (d) pentámeros (véase fig. 3-4).
+La flexibilidad de la molécula en la región bisagra es evidente por la variación del ángulo de los brazos de la "Y".
+(e) Como en (b); trímeros formados utilizando el fragmento xxx del cual se han digerido las estructuras xxx por acción de la pepsina (x 500000).
+
+Puede observarse que los trímeros carecen de las proyecciones de xxx en cada ángulo evidente en (b). 
+(Según Valentine R C y Green N M &lsqb;1967&rsqb; J Mol Biol 27, 615; cortesía del Dr Green y con la autorización de Academic Press, Nueva York).
+
+Figura 3-4
+
+Tres moléculas de anticuerpo anti-DNP unidas en forma de trímero por el antígeno divalente xxx .
+
+Compárese con la figure 3-3b.
+Cuando se eliminan los fragmentos xxx por acción de la pepsina, ya no se observan piezas angulares (fig. 3-3e).
+
+Figura 3-5
+
+Variabilidad de secuencia de aminoácidos en la molécula de anticuerpo.
+
+Se utilizan los términos "región V" t "región C" para designar las regiones variable y constante, respectivamente, xxx son términos genéricos para estas regiones sobre la cadena liviana y xxx especifican regiones variable y constante sobre la cadena pesada.
+Como se determinó con anterioridad, las cadenas pesadas de cada par son idénticas, al igual que las cadenas livianas de cada par.
+
+Figura 3-6
+
+Esquema de Wu y Kabat sobre la variabilidad de aminoácidos en la región variable de las cadenas pesada y liviana de las inmunoglobulinas. 
+
+Se compara la secuencia de las cadenas de gran número de proteínas monoclonales de mieloma y se computariza la variabilidad en cada posición en función del número de aminoácidos diferentes hallados dividido por la frecuencia del aminoácido más común; es obvio que a mayor número mayor variabilidad.
+Se definen con claridad las tres regiones hipervariables (verde) en las cadenas pesada (a) y liviana (b), referidas en general como Regiones Determinantes Complementarias (Complementary Determining Regions, CDR).
+Se denominan regiones de marco a las secuencias peptídicas intervinientes.
+(Cortesía del Prof. E A Kabat).
+
+Alotipos 
+
+Este tipo de variación depende de la existencia de formas alélicas (codificadas por aleros o genes alternativos en un único locus) que proveen marcadores genéticos (cuadro 3-1).
+De manera similar a cómo los eritrocitos de individuos genéticamente diferentes pueden diferir en los términos del sistema A, B, O de grupos sanguíneos, las cadenas pesadas de xxx difieren en la expresión de sus grupos alotípicos.
+Son alotipos característicos las especificidades xxx sobre xxx marcador sobre xxx que se reconocen por la capacidad de la xxx del individuo de bloquear la aglutinación de los eritrocitos recubiertos por anti-rhesus D con el alotipo xxx en los sueros de pacientes con artritis reumatoidea que contienen los factores reumatoideos anti-xxx apropiados (fig. 3-8).
+Las diferencias alotípicas en un locus xxx determinado suelen involucrar uno a dos aminoácidos de la cadena peptídica.
+Por ejemplo, el locus xxx de la xxx (cuadro 3-1).
+Un individuo con este alotipo presenta la secuencia peptídica: xxx en cada una de sus moléculas de xxx .
+
+Otra persona, cuyo xxx fuera a-negativo presentaría la secuencia xxx , es decir, dos aminoácidos diferentes.
+Hasta el momento, se han detectado 25 grupos xxx en las cadenas pesadas xxx y tres adicionales (los grupos xxx denominados previamente grupos xxx ) en la región constante xxx .
+
+Se han encontrado marcadores alotípicos en las inmunoglobulinas de conejos y ratones utilizando reactivos preparados por inmunización de un animal por medio de un complejo inmune obtenido con anticuerpos de otro animal de la misma especie.
+Al igual que en otros sistemas alélicos, los individuos pueden ser homocigotos o heterocigotos para los genes que codifican los marcadores; éstos se expresan en forma codominante y se heredan según las leyes de Mendel.
+Por ejemplo, si se toman los alotipos xxx de las cadenas livianas de conejo: un animal con genotipo xxx expresará el alotipo xxx , mientras que un conejo con genotipo xxx derivado de padres xxx expresará el marcador xxx sobre una fracción y el xxx sobre otra fracción de sus moléculas de inmunoglobulina.
+
+Idiotipos 
+
+Según se ha visto es posible obtener anticuerpos que reconozcan variantes isotípicas y alotípicas; también es posible obtener antisueros específicos contra moléculas de anticuerpos individuales y discriminar entre un anticuerpo monoclonal y otro sin considerar las estructuras isotípicas o alotípicas (fig. 3-7).
+
+Estos antisueros definen los determinantes individuales característicos de cada anticuerpo, denominados en conjunto el idiotipo ( Kunkel y Oudin).
+No sorprende el hecho de que los determinantes idiotípicos se encuentren localizados en la porción variable del anticuerpo asociado con las regiones hipervariables (fig. 3-9).
+
+Los anti-idiotipos que reaccionan con un anticuerpo y no con otro se dice que reconocen idiotipos privados y proveen de apoyo adicional al concepto de que cada anticuerpo tiene una estructura exclusiva.
+A menudo las moléculas de anticuerpo con estructuras de aminoácidos muy similares pueden también compartir idiotipos ( p.ej. xxx y xxx en la figura 3-9) y se habla entonces de idiotipos públicos o de reacción cruzada .
+
+Los sueros anti-idiotipos proveen de reactivos útiles para demostrar la existencia de la misma región V en diferentes cadenas pesadas y en células diferentes, para la identificación de complejos inmunes específicos en el suero del paciente, para reconocer el amiloide tipo xxx en los individuos que excretan proteína de Bence-Jones, para la detección de proteína monoclonal residual luego de la terapéutica y tal vez para seleccionar linfocitos con ciertos receptores de superficie.
+El lector puede sorprenderse o no al saber que es posible obtener sueros autoanti-idiotípicos, dado que esto implica que los individuos pueden formar anticuerpos contra sus propios idiotipos.
+Esto tiene importantes consecuencias, como se verá al tratar la teoría reticular de Jerne en el capítulo 8.
+
+Figura 3-7
+
+Cómo utilizar las proteínas monoclonales del mieloma para producir anticuerpos específicos para distintas estructuras de xxx . 
+
+El conejo forma anticuerpos dirigidos contra diferentes partes del mieloma humano por xxx .
+Los anticuerpos específicos contra las partes comunes a otras clases de xxx pueden absorberse por medio de mielomas de otras clases que forman anticuerpos que reaccionan con estructuras G específicas de clase y específicas de región variable (idiotipo; Id) sobre la molécula original.
+Del mismo modo, la absorción posterior con otros mielomas xxx captarán los anticuerpos xxx específicos comunes liberando un antisuero dirigido sólo contra los determinantes idiotípicos.
+(A fin de simplificar el concepto, se han dejado de lado las subclases y los alotipos, pero el mismo principio puede extenderse a la generación de antisuero específico para estas variantes).
+El conejo produce una mezcla de anticuerpos policlonales dirigidos contra cada sitio estructural sobre el antígeno, por ejemplo se producen por clones derivados de gran variedad de células progenitores específicas para el antígeno, cada una de las cuales reacciona por estereoquímica en forma ligeramente diferente frente a la misma estructura (véase p. 72).
+
+Tabla 3-1
+
+Resumen de variantes de inmunoglobulina
+
+Figura 3-8
+
+Demostración de la especificidad alotípica sobre xxx por inhibición de la aglutinación. 
+
+Se aglutinan eritrocitos RhD recubiertos por anti-D que contiene el alotipo, por medio de un suero de artritis reumatoidea seleccionado por la capacidad del factor reumatoideo xxx de combinarse con el alotipo.
+Si el xxx agregado contiene el alotipo en cuestión, bloquea los sitios de combinación sobre RF, que ya no podrán aglutinar a los eritrocitos.
+
+Las inmunoglobulinas se pliegan en dominios globulares adecuados: a diferentes funciones 
+
+Los dominios de las inmunoglobulinas presentan una estructura característica 
+
+Además de los puentes disulfuro intercatenarios que unen las cadenas livianas y pesadas, existen uniones disulfuro internos intracatenarios que forman asas en la cadena peptídica.
+Como predijo Edelman, las asas se pliegan formando dominios globulares compactos (fig. 3-10) con una estructura proteica de lámina plegada característica.
+
+Es significativo que las secuencias hipervariables aparecen en un extremo del dominio variable donde forman parte de las asas de giro xxx y donde se acumulan una muy junto a la otra.
+
+El dominio variable liga al antígeno 
+
+Los acúmulos de asas hipervariables en los extremos de las regiones variables, donde se localiza el sitio de unión con el antígeno (figs. 3-3 y 3-4), son los candidatos obvios a actuar en el reconocimiento del antígeno (fig. 3-11); esto ha sido confirmado por análisis cristalográfico de rayos X de los complejos formados entre los Fragmentos Fab de los anticuerpos monoclonales y sus respectivos antígenos.
+Esto fue demostrado sin lugar a dudas al probar que la especificidad del antígeno de un anticuerpo monoclonal de ratón podía conferirse a una molécula de inmunoglobulina humana reemplazando las secuencias hipervariables humanas con las del ratón (véase fig. 7-12).
+La heterogeneidad secuencial de las asas hipervariables en las tres cadenas livianas y las tres cadenas pesadas garantiza una notable diversidad en la especificidad de combinación con el antígeno por medio de las variaciones de forma y naturaleza de la superficie que crean.
+Así, cada región hipervariable puede considerarse una estructura independiente que contribuye a la complementariedad del sitio de unión para el antígeno y se habla de determinantes de complementariedad .
+
+Ciertos experimentos en los que se examinó el potencial de combinación con el antígeno de cadenas aisladas sugirieron que tanto las regiones variables de las cadenas pesadas como las de las cadenas livianas contribuyen a la especificidad para el anticuerpo.
+En general, se asoció un grado variable de actividad residual con las cadenas pesadas, pero relativamente escaso con las cadenas livianas; sin embargo, al recombinarse siempre se encontró un aumento significativo en la capacidad de unión con el antígeno.
+
+Los aminoácidos asociados con el sitio de combinación pueden identificarse por medio del "marcado por afinidad".
+En esta técnica, se equipa a un hapteno (un agrupamiento químico bien definido contra el que puedan formarse anticuerpos, p.ej. 
+DNP en la figura 3-3) con una cadena lateral químicamente reactiva que formará enlaces covalentes con aminoácidos adyacentes luego de combinarse el hapteno con el anticuerpo, por lo que quedan marcados los residuos en las adyacencias del sitio de combinación.
+Una modificación introducida por Porter y col utiliza el principio de " flick-knife".
+El hapteno con una cadena lateral azídica se combina con su anticuerpo y es luego iluminado con luz ultravioleta; esto convierte a la azida en el radical nitreno reactivo que se une por enlaces covalentes con casi cualquier grupo orgánico con el que entre en contacto ( p. ej. fig. 3-12).
+
+El marcado por afinidad se une tanto a las cadenas livianas como a las pesadas en las regiones hipervariables .
+
+Figura 3-9
+
+Correlatos estructurales de idiotopes (determinantes individuales sobre un idiotipo) en anticuerpos antidextrán.
+
+Se muestran las secuencias de aminoácidos en las regiones variables de las cadenas pesadas en los anticuerpos antidextrán monoclonales del ratón.
+
+Todos los anticuerpos presentan cadenas xxx .
+Las líneas indican identidad de la secuencia de la primer proteína, xxx ; las letras (código de Dayhoff) muestran las diferencias o regiones correlacionadas con idiotopes (zonas de los recuadros centrales).
+El idiotope de reacción cruzada xxx se asocia con las estructuras de la segunda región determinante de complementariedad xxx , mientras que los idiotopes privados xxx son característicos de la región xxx en estos anticuerpos.
+La presencia de los idiotopes sobre cada molécula de anticuerpo se demuestra por reacción con antisuero específico para xxx (sobre la derecha).
+Los idiotopes de reacción cruzada también pueden estar asociados con la región xxx de otros sistemas (según J M Davie y col (1986) Ann Rev Imninol 4, 147, con autorización por Annual Reviews Inc.).
+
+Los dominios de la región constante determinan la función biológica secundaria 
+
+Las clases de anticuerpo difieren una de otra en muchos aspectos: en su vida media, su distribución en el organismo, su capacidad de fijar el complemento y su unión a los receptores xxx de la superficie celular.
+
+Dado que todas las clases presentan las mismas cadenas livianas xxx e iguales dominios de las regiones variables liviana y pesada, estas diferencias deben residir en las regiones constantes de la cadena pesada.
+
+Ha sido posible localizar estas actividades biológicas en los numerosos dominios de la cadena pesada al emplear proteínas de mieloma que presentan delaciones de dominio espontáneas, o fragmentos enzimáticos obtenidos con papaína xxx , pepsina xxx , la porción C-terminal de xxx y plasmina ( xxx de conejo carece de xxx pero retiene la mitad N-terminal de xxx ).
+Por supuesto, en la actualidad todo esto puede realizarse con proteínas obtenidas por ingeniería genética.
+
+En la figura 3-13 se presenta un modelo de la molécula de xxx , donde se indica la disposición espacial y Las interacciones de los dominios de xxx y se atribuyen las diferentes funciones biológicas a las estructuras relevantes.
+En principio, el dominio de la región V forma la unidad de reconocimiento (véase fig . 
+
+2-1) y los dominios de la región constante median las funciones biológicas secundarias.
+
+RECONOCIMIENTO DEL ANTÍGENO 
+
+Detección y aplicación 
+
+Luego de explorar la intimidad de las interacciones antígeno-anticuerpo a nivel molecular, en este capítulo se tratarán los aspectos prácticos de los métodos empleados para detectar y sacar partido del reconocimiento del antígeno.
+
+Precipitación 
+
+La clásica reacción de precipitina 
+
+Cuando se mezcla una solución de antígeno con las proporciones correctas de un antisuero potente, se forma un precipitado.
+El análisis cuantitativo de esta interacción por el método que se muestra en la figura 5-1 presenta el contenido de anticuerpo del suero inmune y además una indicación de la valencia del antígeno, es decir el número efectivo de sitios dominantes de combinación (determinantes).
+Esto puede variar mucho de acuerdo con el antígeno, su tamaño y las especies que forman el anticuerpo.
+En los antisueros hiperinmunes de conejo que contienen predominantemente anticuerpos xxx , la ovoalbúmina puede tener una valencia de 10 y la tiroglobulina humana hasta 40 determinantes en su superficie.
+
+En la curva de precipitina de la figura 5-1 puede notarse que a medida que se agrega más antígeno, se alcanza un estado óptimo, tras el cual se forma menos precipitado.
+En esta etapa se observa que el sobrenadante contiene complejos solubles del antígeno ( xxx ) y el anticuerpo ( xxx ), de composición xxx (Fig. 5-2).
+Si se agrega un gran exceso de antígeno ( xxx ; fig. 5-1) el análisis por ultracentrifugación revela que los complejos obtenidos serán en su mayor parte xxx , resultado que se atribuye directamente a los dos sitios de combinación o divalencia de la molécula de anticuerpo xxx (véase estudio E.M., fig. 3-3 y análisis Scatchard, fig. 4-8).
+Entre estos extremos el cruzamiento entre el antígeno y el anticuerpo por lo general da origen a estructuras tridimensionales reticuladas, tal como sugiere Marrack. que coalescen, en su mayoría por interacciones xxx , y forman grandes agregados que precipitan.
+A menudo los sueros contienen hasta un 10% de anticuerpos no precipitantes que son univalentes debido a la presencia asimétrica de un azúcar en una región xxx que bloquea por estereoquímica el sitio de combinación adyacente.
+
+Cuantificación por nefelometría 
+
+Los pequeños agregados que se forman cuando se mezclan soluciones diluidas de antígeno y anticuerpo crean una opacidad o turbidez mensurable a través de la dispersión de una fuente luminosa incidente (nefelometría).
+Puede obtenerse mayor sensibilidad al utilizar luz monocromática proveniente de un láser y por adición de polietilenglicol a la solución para incrementar el tamaño del agregado.
+En determinados laboratorios que cuentan con el equipamiento apropiado este método reemplaza la inmunodifusión radial simple para la estimación de inmunoglobulinas, xxx , proteína C reactiva, etcétera.
+
+Visualización de la reacción de precipitación en geles 
+
+Doble difusión de Ouchterlorny 
+
+Por este método, el antígeno y el anticuerpo ubicados en cubetas cortadas en el gel de agar difunden Uno hacia el otro y precipitan formando una línea opaca en la región donde se unen en las proporciones óptimas.
+
+Un preparado que contiene varios antígenos dará origen a líneas múltiples.
+Las relaciones inmunológicas entre dos antígenos pueden determinarse ubicando las reacciones de precipitación en cubetas adyacentes: las Líneas formadas por cada antígeno pueden confluir en su totalidad e indicar identidad inmunológica, pueden mostrar un "espolón" como es el caso de antígenos parcialmente relacionados, o pueden cruzarse, por tratarse de antígenos no relacionados (fig. 5-3).
+En la figura 5-4 se explican los orígenes de estos esquemas.
+Debe notarse que aun en el caso de líneas confluentes, esto solo indica identidad inmunológica en términos del antisuero empleado, y no necesariamente identidad molecular.
+Por ejemplo, los anticuerpos purificados del hapteno dinitrobenceno darán una línea de confluencia cuando se forman contra conjugados de dinitrofenil(DNP)-ovoalbúmina y contra DNP-albúmina sérica ubicadas en cubetas adyacentes.
+
+Cuando se enfrentan los reactivos en proporciones equilibradas, la Línea formada suele ser cóncava hacia la cubeta que contiene el reactante de mayor peso molecular, ya sea antígeno o anticuerpo.
+Esto es consecuencia de la menor velocidad de difusión de las moléculas de mayor tamaño.
+
+El método de precipitación puede hacerse más sensible al incorporar el antisuero al agar y permitir que el antígeno difunda en él (Feinberg).
+Este método de inmunodifusión radial simple se emplea para la estimación cuantitativa del antígeno.
+
+Figura 5-1
+
+Reacción cuantitativa de precipitina entre anti-ovoalbúmina de conejo y ovoalbúmina (el método clásico de Heidelberger & Kendall, de 1935).
+
+Los anticuerpos son predominantemente xxx .
+
+Cantidades crecientes de ovoalbúmina se agregan a un volumen constante del antisuero colocado en cierto número de tubos.
+Luego de la incubación se centrifugan los precipitados y se pesan.
+Cada sobrenadante es dividido en dos partes iguales: por agregado de antígeno a uno y anticuerpo al otro, se demuestra la presencia de anticuerpo o antígeno reactivos respectivamente.
+El contenido de anticuerpo del suero puede calcularse a partir del punto de equivalencia, en el cual virtualmente no hay antígeno o anticuerpo presente en el sobrenadante.
+
+Por lo tanto todo el antígeno agregado será acomplejado en el precipitado con todo el anticuerpo disponible y el contenido de anticuerpo de 0,1 ml de suero estará dado por xxx .
+El análisis del precipitado formado en presencia de un exceso de anticuerpo xxx , cuando los sitios de combinación con el antígeno están saturados por completo, da una medida de la relación molar del anticuerpo respecto del antígeno en el complejo y por lo tanto un estimado de la valencia efectiva del antígeno.
+
+Inmunodifusión radial simple (SRID) 
+
+Cuando el antígeno difunde de una cubeta al agar que contiene el antisuero convenientemente diluido, al principio se encuentra en una concentración elevada y forma complejos solubles; a medida que el antígeno difunde más, la concentración disminuye hasta alcanzar el punto en el cual los reactantes están más cerca de las proporciones óptimas y se forma un anillo de precipitado.
+
+Cuanto mayor sea la concentración del antígeno mayor será el diámetro del anillo (fig. 5-5).
+Si se incorporan por ejemplo tres patrones de concentración conocida del antígeno, puede obtenerse una curva de calibración que puede utilizarse para determinar la cantidad de antígeno que se encuentra en las muestras desconocidas estudiadas (fig. 5-6).
+Este método se emplea de rutina en la inmunología clínica, en particular en las determinaciones de inmunoglobulinas y también para sustancias tales como el tercer componente del complemento, la transferrina, la proteína C reactiva, y la proteína embrionaria, xxx fetoproteína, asociada a ciertos tumores hepáticos.
+
+Inmunoelectroforesis 
+
+Se describe el principio en la figura 5-7.
+El método tiene valor para la identificación de los antígenos por su movilidad electroforética, en particular cuando están presentes otros antígenos.
+En la inmunología clínica, esta técnica provee información semicuantitativa referente a las concentraciones de inmunoglobulina y la identificación de las proteínas de mieloma (fig. 5-8).
+
+Figura 5-2
+
+Representación en Un diagrama de los complejos formados entre un antígeno tetravalente hipotético y un anticuerpo bivalente mezclados en distintas proporciones.
+
+En la práctica, es poco probable que las valencias del antígeno estén ubicadas en un mismo plano o que estén formadas por determinantes idénticos como sugiere la figura.
+(a) Con un exceso extremo de anticuerpo. las valencias del antígeno están saturadas y la relación molar xxx se aproxima a la valencia del antígeno.
+(b) En la equivalencia se forman grandes filigranas que se agregan para formar un clásico precipitado inmunitario.
+Esta segunda agregación y subsecuente precipitación tiende a inhibirse por una elevada concentración salina.
+(c) Con un exceso extremo de antígeno con el cual las dos valencias de cada molécula de anticuerpo se satura con rapidez, tiende a predominar el complejo xxx .
+(d) Un hapteno monovalente puede fijarse pero es incapaz de formar enlaces cruzados con moléculas de anticuerpo.
+
+Figura 5-3
+
+Líneas múltiples formadas en la determinación de Ouchterlony (precipitación por doble difusión) cuando el antisuero de conejo (cubeta central) reacciona en el gel de agar con cuatro preparados de antígeno, diferentes (cubetas periféricas).
+
+Se muestran identidades nulas y parciales de antígenos, respectivamente, por entrecruzamientos y formación de espolones entre las líneas de precipitina.
+
+Figura 5-4
+
+(a) Línea de confluencia obtenida con dos antígenos que no pueden distinguirse por el antisuero utilizado.
+
+(b) Formación de espolón por tratarse de antígenos parcialmente relacionados con un determinante común x pero determinantes individuales y v z que reaccionan con una mezcla de anticuerpos dirigida contra x e y.
+El antígeno con determinantes x y z sólo puede precipitar anticuerpos dirigidos contra x.
+Los anticuerpos remanentes xxx cruzan la línea de precipitina para reaccionar con el antígeno de la cubeta adyacente que contiene determinante y dan origen a un espolón sobre la línea de precipitina.
+(c) Cruce de Líneas formadas por antígenos no relacionados.
+
+Figura 5-5
+
+Inmunodifusión radial simple: relación entre concentración de antígeno y tamaño del anillo de precipitina formado.
+
+El antígeno con mayor concentración xxx difunde más desde la cubeta antes de alcanzar el nivel que produce la precipitación con el anticuerpo en proporciones cercanas a las óptimas.
+
+Figura 5-6
+
+Medida de la concentración de xxx en suero por inmunodifusión radial simple.
+
+El diámetro de los patrones permite trazar una curva de calibración y puede determinarse la concentración de xxx del suero incógnita según: T1 - suero de paciente con mieloma xxx ; 15 mg/ml ; T2 - suero de paciente con hipogammaglobulinemia; 2.6 mg/ml ; T3 - suero normal; 9,6 mg/ml .
+(Cortesía del Dr. F C Hay).
+
+Se han desarrollado variaciones de la técnica que combinan la electroforesis con inmunoprecipitación, en las cuales el movimiento en un campo eléctrico permite que el antígeno haga contacto con el anticuerpo.
+Puede aplicarse la contrainmunoelectroforesis a antígenos que migran hacia el polo positivo del agar (fig. 5-9).
+Esta técnica cualitativa es mucho más rápida y considerablemente más sensible que la doble difusión (Ouchterlony) y se emplea en la detección del antígeno o el anticuerpo de la hepatitis B, los anticuerpos DNA en el LES (p. 285), los autoanticuerpos contra los antígenos nucleares solubles en la enfermedad mixta del tejido conectivo y las precipitinas del Aspergillus en los casos de la aspergilosis broncopulmonar alérgica.
+La electroforesis en cohete es un método cuantitativo que incluye la electroforesis del antígeno en un gel que contiene el anticuerpo.
+El arco de precipitación tiene el aspecto de un cohete cuya longitud está relacionada con la concentración de antígeno (fig. 5-10).
+Al igual que la contrainmunoelectroforesis, éste es un método rápido, aunque también el antígeno debe moverse hacia el polo positivo de la electroforesis; es por lo tanto apropiado para proteínas tales como la albúmina, la transferrina y la ceruloplasmina pero las inmunoglobulinas se cuantifican con mayor propiedad por inmunodifusión radial simple.
+Una importante variación del sistema en cohete, la inmunoelectroforesis cruzada o bidimensional de Laurell, incluye una separación electroforética preliminar de una mezcla de antígenos en una dirección perpendicular a la de la etapa final "en cohete" (fig. 5-11).
+De esta manera pueden cuantificarse cada uno de varios antígenos en una mezcla.
+Un ejemplo es la estimación del grado de conversión del tercer componente del complemento ( xxx ) a la forma inactiva xxx (véase Fig. 1-10) que puede aparecer en el suero de pacientes con LES activo o el Líquido sinovial de las articulaciones afectadas en la artritis reumatoidea activa para dar dos ejemplos (fig. 5-11b).
+En la figura 5-11c se observa con claridad la notable capacidad de la técnica para resolver una compleja mezcla de antígenos.
+
+Figura 5-8
+
+Principales clases de inmunoglobulina humana demostradas por análisis inmunoelectroforético de suero humano utilizando antisuero de conejo en la cubeta.
+
+Se indica la posición de las principales fracciones electroforéticas de globulina.
+Pueden reconocerse tres de las cinco principales clases de inmunoglobulina: inmunoglobulina xxx , inmunoglobulina xxx , e inmunoglobulina xxx .
+El arco de precipitina de la inmunoglobulina xxx se extiende desde la fuente de la región xxx hacia el rango de movilidad xxx globulina, lo que refleja la gran heterogeneidad de la población de anticuerpo en lo que respecta a composición de aminoácidos y carga neta.
+
+Precipitación indirecta de complejos 
+
+Por varias razones, el agregado de anticuerpo a un antígeno puede dar origen a Un complejo soluble Si se desea analizar el complejo para determinar los antígenos que contiene, puede captarse el complejo de la solución al cambiar su solubilidad o por agregado de un reactivo precipitante anti-inmunoglobulina como se observa en la figura 5-12.
+En la figura 5-13 se muestra un ejemplo de cómo se utiliza esta técnica para caracterizar la cadena principal de las moléculas del CMH de clase I humanas.
+
+Aglutinación por anticuerpos 
+
+Mientras que el enlace cruzado de antígenos proteicos multivalentes con anticuerpos lleva a la precipitación, el enlace cruzado de células o partículas voluminosas con anticuerpos dirigidos contra los antígenos de superficie lleva a la aglutinación.
+
+Dado que la mayor parte de las células presentan carga eléctrica, se requiere un número razonable de enlaces con el anticuerpo entre dos células antes de superar la repulsión mutua.
+Así, puede ser difícil obtener la aglutinación de células que presenten pocos determinantes a menos que se utilicen métodos especiales tales como tratamiento ulterior con un reactivo antiglobulina.
+De forma similar, la mayor avidez del anticuerpo xxx multivalente relativo a xxx (véase p. 78) hace que aquél resulte más efectivo como agente aglutinante comparando cada molécula (fig. 5-14).
+
+Figura 5-9
+
+Contrainmunoelectroforesis.
+
+El anticuerpo retrocede en el gel ante la electroforesis por endósmosis; un antígeno con carga negativa al pH utilizado se moverá hacia el polo positivo y precipitará ante el contacto con el anticuerpo.
+
+Figura 5-l0
+
+Electroforesis en cohete se realiza la electroforesis del antígeno, en este caso albúmina sérica humana, en gel que contiene el anticuerpo.
+
+La distancia desde la cubeta de origen hasta el frente del arco, en forma de cohete está relacionada con la concentración del antígeno.
+En el ejemplo la albúmina sérica humana se encuentra en concentraciones relativas de izquierda a derecha: 3,2,1.
+
+Las reacciones de aglutinación se emplean para identificar bacterias y para tipificar eritrocitos; se han empleado con leucocitos y plaquetas y aun con espermatozoides en ciertos casos de infertilidad masculina debida a aglutininas espermáticas.
+Por su sensibilidad y conveniencia se ha extendido la determinación a la identificación de anticuerpos contra antígenos solubles que han sido recubiertos artificialmente con varios tipos de partículas.
+Han sido muy utilizados los eritrocitos que pueden recubrirse con proteínas luego de modificar su superficie con ácido tánico o cloruro de cromo o por uso directo de agentes bifuncionales de entrecruzamiento como la bisdiazobencidina.
+En la actualidad se están utilizando los eritrocitos de pavo de mayor tamaño y sedimentación rápida.
+Por lo general las determinaciones se realizan en cubetas de plaquetas plásticas de aglutinación donde pueden observarse los patrones de sedimentación de las células en el fondo de la copa (fig. 5-15); esto provee un indicador más sensible que la agrumación macroscópica.
+
+Partículas inertes como la bentonita y el látex de poliestireno han sido recubiertas también con antígenos para establecer reacciones de aglutinación en particular las empleadas para detectar los factores reumatoideos (fig. 5-16).
+
+Purificación de los antígenos y los anticuerpos por cromatografía de afinidad 
+
+El principio es simple y de muy amplia difusión.
+Se fija el antígeno o el anticuerpo por sus grupos amino libres a partículas de sefarosa activadas con bromuro de cianógeno.
+Por ejemplo, puede utilizarse un anticuerpo insolubilizado para sacar por absorción a su superficie al correspondiente antígeno de la solución en que se encuentra como componente de una mezcla compleja.
+El residuo innecesario se elimina por lavado y el ligando requerido se libera del absorbente al que está unido por afinidad, por disrupción de los enlaces antígeno-anticuerpo al modificar el pH o agregar iones cuotrópicos como el tiocianato (fig. 5-17).
+Del mismo modo, puede emplearse un antígeno inmunosorbente para captar por absorción un anticuerpo de una mezcla que luego puede purificarse por efusión.
+EL efecto potencialmente lesivo del agente de efusión puede evitarse haciendo correr el antisuero por una columna de afinidad preparada para tener un enlace relativamente débil con el anticuerpo a purificar; en estas circunstancias, el anticuerpo retarda su velocidad de flujo en lugar de ligarse con firmeza.
+Si se separa en bandas discretas una mezcla proteica por método isoeléctrico, un enlace individual puede ser utilizado para purificar por afinidad anticuerpos específicos en un antisuero policlonal; esto es muy útil cuando el suministro de antígeno es limitado.
+
+RESPUESTA INMUNITARIA ADQUIRIDA 
+
+Producción de efectores 
+
+La síntesis de anticuerpos humorales 
+
+Detección y recuento de las células productoras de anticuerpo 
+
+Inmunofluorescencia 
+
+Las células que contienen anticuerpo dentro de su citoplasma pueden identificarse por medio de la técnica "sandwich" (véase fig. 5-24).
+Por ejemplo, una célula productora de anticuerpos contra el toxoide tetánico, si es tratado previamente con el antígeno se unirá al anticuerpo anti-tetánico marcado con fluoresceína y luego podrá ser visualizado a través del microscopio de fluorescencia.
+
+Técnicas de placa 
+
+Las células secretoras de anticuerpo pueden contarse por dilución en un medio en el cual el anticuerpo formado por cada célula individual produce un efecto rápidamente visible.
+En una de las técnicas más utilizadas, desarrollada a partir del método original de Jerne y Nordin, se suspenden células de un animal inmunizado con eritrocitos de carnero junto con un exceso de glóbulos rojos de carnero y complemento en una cámara poco profunda formada entre dos portaobjetos.
+Al incubar las células productoras de anticuerpo liberan sus inmunoglobulinas que recubren a los eritrocitos circundantes.
+Entonces el complemento causará la lisis de las células recubiertas y se observa una placa libre de eritrocitos alrededor de cada célula formadora de anticuerpo (fig. 7-1).
+Las placas directas obtenidas de esta manera revelan productores de xxx fundamentalmente, ya que este anticuerpo es muy hemolítico.
+Para demostrar la presencia de linfocitos sintetizadores de xxx es necesario aumentar la unión entre el complemento y el complejo eritrocito-anticuerpo xxx agregando un suero anti-xxx de conejo; así se desarrollan las placas indirectas y pueden utilizarse para hacer el recuento de las células productoras de anticuerpo en las diferentes subclases de inmunoglobulina, siempre que se cuente con el antisuero de conejo adecuado.
+El método puede extenderse a otras determinaciones si se recubre un antígeno tal como el polisacárido de neumococo sobre el glóbulo rojo, o si se acoplan grupos de haptenos a la superficie del eritrocito.
+
+En la modificación "Elispot", la suspensión de células formadoras de anticuerpo se incuba sobre un disco de antígeno inmovilizado.
+El anticuerpo secretado es capturado en su sitio y visualiza después de ser eliminadas las células, por tratamiento con anti-xxx marcado con peroxidasa, y se desarrolla el color al ser incorporado el sustrato en gel distribuido sobre el piso del disco.
+La difusión limitada del producto de la reacción de color en el gel provee de una serie de puntos macroscópicos que pueden contarse con facilidad (fig. 7-2).
+
+Síntesis de proteína 
+
+En el linfocito formador de anticuerpo normal se observa un rápido metabolismo de cadenas livianas que se encuentran en ligero exceso.
+En muchos linfocitos de mieloma ocurren controles defectuosos y puede verse un exceso de producción de cadenas livianas o aun la supresión total de la síntesis de cadenas pesadas.
+
+Pueden formarse puentes disulfuro intercatenarios mientras las cadenas pesadas aún están unidas a los ribosomas (fig. 7-3) pero la secuencia en que se generan los intermediarios varía con la naturaleza de la inmunoglobulina.
+Por medio de las técnicas de "pulso y búsqueda" con aminoácidos reactivos se determinó que la construcción tanto de las cadenas pesadas como de las livianas proceden en forma continua desde el extremo N-terminal.
+Además, el aislamiento del RNAm de cada tipo de cadena ha mostrado que presentan el tamaño adecuado para permitir la síntesis de los péptidos completos.
+Por lo tanto la evidencia confirma la tesis actual que postula que las regiones mensajeras para las regiones variables y constantes están unidas antes de salir del núcleo.
+
+Los mecanismos diferenciales de unión proveen además de una explicación racional para la coexpresión de xxx e xxx superficiales con regiones V idénticas en una misma célula (fig. 7-4), y para la variación de producción de receptor xxx ligado a membrana a xxx secretor en el linfocito formador de anticuerpo (fig. 7-5).
+
+Figura 7-1
+
+Técnica de placa de Jerne para el recuento de las células formadoras de anticuerpo (modificación de Cunningham).
+
+(a) Se muestra la técnica directa para las células que sintetizan hemolisina xxx .
+La técnica indirecta para visualizar las células productoras de hemolisinas xxx requiere del agregado de anti-xxx al sistema.
+La diferencia entre las placas obtenidas por los métodos directo e indirecto da como resultado la cantidad de placas xxx .
+El ensayo de placa inversa cuenta el total de las células productoras de xxx al capturar la inmunoglobulina secretada sobre eritrocitos recubiertos por anti-xxx .
+Pueden realizarse pruebas de placas múltiples por medio de una modificación que emplea placas de microtitulación. 
+(b) Fotografía de placas que se visualizan como zonas circulares coloreadas (algunas de ellas se han señalado con flechas) al ser iluminadas sobre fondo oscuro.
+Varían en tamaño de acuerdo con la afinidad del anticuerpo y la velocidad de la secreción por parte de la célula formadora de anticuerpo.
+(Cortesía del Sr. C Shapland, la Sra. P Hutchings y el Dr. D Male).
+
+En los linfocitos B individuales se produce cambio de clase 
+
+La síntesis de anticuerpos pertenecientes a las diferentes clases ocurre a velocidades distintas.
+Por lo general se produce una respuesta de xxx temprana que tiende a caer con rapidez.
+La síntesis de anticuerpo xxx alcanza su máximo en un período de tiempo más prolongado.
+Ante un contacto secundario con el antígeno, el curso de tiempo para la respuesta xxx es similar a la del contacto primario.
+Por el contrario, la síntesis de anticuerpos xxx se acelera con rapidez hasta alcanzar un título mucho mayor y se produce un descenso relativamente lento en los niveles séricos de anticuerpo (fig. 7-6).
+Es probable que lo mismo valga para xxx y en cierto sentido estas dos clases de inmunoglobulina proveen la principal defensa inmediata contra futuras penetraciones de antígenos extraños.
+
+Existen evidencias que sostienen que las células individuales pueden pasar de la producción de xxx a la de xxx .
+Varios días después de la inmunización con flagelos de Salmonella se demostró que linfocitos aislados captados en cultivos de microgota producían tanto anticuerpos inmovilizantes xxx como xxx .
+En otro experimento se demostró que el contacto antigénico de receptores irradiados que recibían cantidades relativamente pequeñas de células linfoides, producían focos esplénicos de células, cada uno de los cuales sintetizaba anticuerpos de diferente clase de cadena pesada con un único idiotipo.
+El idiotipo común sugiere que cada foco deriva de una única célula precursora cuya progenie puede formar anticuerpos de diferente clase.
+
+En la mayor parte de las clases la síntesis de anticuerpo muestra considerable dependencia de la cooperación T en cuanto a que las respuestas en animales T-deprimidos son notablemente deficientes; esto sucede en las respuestas de anticuerpo xxx y parte de las xxx de ratón.
+Los antígenos T-independientes tales como el activador policlonal, la endotoxina xxx , inducen la síntesis de xxx con algo de xxx .
+En apariencia, ocurre inmunopotenciación por el coadyuvante completo de Freund, una emulsión de agua en aceite que contiene antígeno en la fase acuosa y una suspensión de bacilos muertos de tuberculosis en la fase oleosa (p.
+
+222), al menos en parte por activación de los linfocitos T helper que estimulan la producción de anticuerpo en las clases T-dependientes.
+Se ha demostrado en la práctica la predicción de que la respuesta a los antígenos T-independientes (por ejemplo polisacárido de neumococo, p 120) no es potenciada por el adyuvante de Freund; además, como ya se mencionó, estos antígenos evocan en principio a los anticuerpos xxx y una memoria inmunológica mal definida, como es el caso de antígenos T-dependientes inyectados en huéspedes deficientes de linfocitos T por haber sido timectomizados al nacer.
+
+Así, al menos en roedores, el cambio de xxx a xxx y otras clases parece encontrarse sobre todo bajo control de los linfocitos T presumiblemente mediado por factores solubles como ya se sugirió con anterioridad (p. 123), aunque a menudo es difícil establecer si un agente está causando por sí mismo la variación o se trata de un promotor particularmente eficaz para el crecimiento de la clase de xxx que resulta de la variación.
+Si se examina la estimulación por LPS de pequeños linfocitos B positivos para xxx de superficie, como se vio con anterioridad, por sí solo el mitógeno no específico evoca la síntesis de xxx .
+Luego del agregado de interleuquina-4 ( IL-4 ) al sistema, aumenta la producción de xxx e xxx mientras que el interferón xxx estimula la secreción de xxx a concentraciones que inhiben los efectos de IL-4.
+La IL-5 promueve la maduración sin afectar la clase de xxx .
+El concepto de que IL-4 era un factor de variación de xxx partía fundamentalmente de resultados obtenidos con un linfoma dado, pero sin datos confirmatorios utilizando linfocitos B normales.
+Merece mayor crédito el aumento de 5-10 veces obtenido en la producción de xxx cuando se introdujo el factor transformador de crecimiento ( xxx ) en el sistema LPS y la demostración de una variación de xxx superficial negativo a positivo en las células de las placas de Peyer así tratadas.
+Es significativo que el xxx indujo la formación de transcriptos estériles compuestos por un exon 5' derivado de secuencias de línea bacteriana anteriores en la región a de variación (véase fig. 7-7) unida al gen xxx de la clase xxx .
+Los exones 5' contienen codones de detención en el marco abierto de lectura del gen xxx por lo que no pueden codificar proteínas grandes.
+En la actualidad se considera esto como una instancia de un fenómeno más general en el cual las transcripciones estériles de un gen CH están asociadas con una variación hacia esa clase (fig. 7-7).
+Tal vez estos transcriptos faciliten de alguna manera la acción de la recombinasa o reflejen un acceso facilitado para esa enzima de esa región particular de variación.
+
+Bajo la influencia de la recombinasa, un segmento de gen VDJ dado es transferido de xxx a un gen alternativo de región constante por medio de las secuencias especializadas de la región de variación (fig. 7-7) razón por la cual generará anticuerpos de la misma especificidad pero de diferente clase.
+
+Figura 7-2
+
+sistema Elispot (según la técnica ELISA) para el recuento de las células formadoras de anticuerpo. 
+
+El dibujo muestra puntos formados por células de hibridoma formando auto-anticuerpos contra la tiroglobulina revelados por anti xxx ligada a la fosfatasa alcalina (cortesía de P Hutchings).
+Se agregan cantidades crecientes de células de hibridoma en las dos cubetas superiores y en la cubeta inferior izquierda que muestran el correspondiente aumento de la cantidad de Elispots.
+La cubeta inferior derecha sirve como control y contiene un hibridoma de especificidad irrelevante.
+
+Figura 7-3
+
+Síntesis de inmunoglobulina xxx de ratón.
+
+A medida que se van completando las cadenas H, pueden formar enlaces cruzados de manera espontánea las cadenas peptídicas adyacentes por sus regiones constantes.
+Se supone que las cadenas livianas favorecen la apertura de las cadenas terminales del ribosoma al formar la molécula xxx .
+La combinación con otra cadena liviana produce la inmunoglobulina completa xxx (basado en Askonas B A ' & ' Williamson A R &lsqb;1986&rsqb; Biochem , J, 109, 637).
+El orden en que se forman los puentes disulfuro intercatenarios varía en las distintas inmunoglobulinas de acuerdo con las fuerzas relativas de los enlaces según se ha determinado por la susceptibilidad a la reducción.
+Se cree que el receptor xxx de superficie se inserta por sus secuencias hidrófobas en la membrana del retículo endoplasmático a medida que es sintetizado.
+
+Figura 7-4
+
+Los receptores xxx e xxx de la superficie de la membrana de especificidad idéntica aparecen sobre la misma célula por escisión del compuesto de transición primaria del RNA.
+
+A los efectos de simplificar el esquema se ha omitido la secuencia guía. 
+xxx intrones.
+
+Figura 7-5
+
+Mecanismos de escisión para la modificación de la membrana a la forma secretora de xxx . 
+
+La secuencia hidrófoba codificada por los exones M-M que fijan al receptor xxx a la membrana es escindida en la forma secretora (también aquí se omite la secuencia guía a los efectos de simplificar el esquema).
+
+La especificidad del anticuerpo secretado por la progenie, ¿es la misma que la de la inmunoglobulina superficial del progenitor clonal?
+
+A menudo la respuesta es sí, con frecuencia es parcial y en ocasiones es no.
+Como esto es bastante críptico, merece una revisión.
+La hipótesis de selección clonal predice una respuesta afirmativa a la pregunta dado que postula que cada linfocito está programado para producir un único anticuerpo al que ubica en su superficie como receptor para captar al antígeno, y como consecuencia el linfocito está selectivamente preparado para la formación de anticuerpo; como solo conoce la forma de producir un anticuerpo, la especificidad debería ser idéntica al receptor original de superficie.
+
+En apariencia, el concepto un linfocito-un anticuerpo es adecuado 
+
+Por medio de las técnicas de inmunofluorescencia, las moléculas de inmunoglobulina individuales pueden colorearse para las cadenas xxx , pero no para ambas, y en el conejo heterocigoto, por el marcador alotípico materno o el paterno, pero nunca para los dos en forma simultánea ( exclusión alélica ).
+Además, los tumores de células plasmáticas sólo producen una proteína de mieloma.
+Restricciones similares se aplican a la coloración de xxx de superficie sobre los linfocitos B.
+
+Figura 7-6
+
+Síntesis de clases xxx e xxx de anticuerpo en las respuestas primaria y secundaria al antígeno.
+
+La capacidad de un pequeño porcentaje de linfocitos de fijar antígenos específicos como las células de carnero (formando rosetas) o la flagelina radioactiva de Salmonella sugiere que estas inmunoglobulinas de superficie pueden comportarse como anticuerpos.
+Este enlace puede bloquearse por medio de suero anti-inmunoglobulina.
+Humphrey ha demostrado que el porcentaje de células que fijan antígeno está aumentado en animales imprimados y disminuido de animales tolerantes.
+
+Figura 7-7
+
+La modificación de clase con el fin de producir anticuerpos de especificidad idéntica pero diferente isotipo de inmunoglobulina (en el ejemplo de xxx a xxx ) se logra por un proceso mediado por una recombinasa que utiliza las secuencias especializadas de modificación y conduce a la pérdida del asa de DNA que interviene xxx .
+
+Aún no se ha establecido el papel de la transcripción de xxx que siempre acompaña a este fenómeno.
+
+Raros ejemplos de clones mutantes que expresan un gen 5 isotípico de la cadena pesada original sugieren que en ocasiones pueden ocurrir modificaciones de los genes de la región constante sobre la cromátide hermana.
+
+Cuando un antígeno soluble Como la flagelina polimerizada se une a una célula especifica provoca la formación de placas y de manto en la xxx de superficie del mismo modo que un suero anti xxx (véase p. 32).
+Si se colorean las células cubiertas por antígeno con anti-xxx fluorescente, se encuentra toda la xxx en el capuchón ( cap ) y no queda nada en el resto de la superficie del linfocito, es decir, cuando un antígeno reacciona con un linfocito, todas las moléculas de xxx en la superficie celular se combinan con el antígeno, &rsqb;o que demuestra que presentan especificidad similar.
+El mismo resultado se observa si se utiliza un anti-idiotipo para la formación del capuchón ( cap ), es decir, todas las moléculas de xxx de la superficie de un linfocito dado tienen el mismo idiotipo.
+
+El anticuerpo de superficie no parece estar relacionado con la especificidad de la inmunoglobulina secretada 
+
+Si la producción de un anticuerpo dado depende de su representación como xxx de superficie en el pool de linfocitos B sensibles al antígeno, la selección previa de linfocitos positivos y negativos para esa especificidad debería tener profundos efectos sobre la reactividad subsecuente, concepto que ha sido demostrado.
+
+La eliminación de linfocitos antígeno-específicos por reacción con sus receptores de superficie impide la capacidad posterior de esa población de responder al antígeno (fig. 7-8).
+Del mismo modo, un elevado porcentaje de linfocitos aislados en virtud de su enlace específico a un hapteno como el DNF, secretará anti-DNF cuando es estimulado bajo condiciones adecuadas in vitro .
+Puede demostrarse además que las xxx de superficie y citoplasmáticas de las células secretoras comparten un idiotipo común.
+Se colorea primero la xxx de superficie de los linfocitos vivos a 4 C con anti-idiotipo marcado con fluoresceína y luego se fija con glutaraldehído y se colorea el citoplasma de las células citocentrifugadas con anti-idiotipo conjugado con rodamina.
+Se demuestra el concepto por medio de la doble coloración.
+La pregunta inicial no puede ser contestada en forma inequívoca con la respuesta afirmativa, por causa de la mutación somática.
+
+Figura 7-8
+
+La eliminación de linfocitos con receptores de superficie para el antígeno quita la subsecuente capacidad de responder a ese antígeno.
+
+(a) Linfocitos imprimados (verde) eliminados por reacción entre la xxx de superficie de los linfocitos y el antígeno insoluble que forma la columna.
+
+Para control se emplean perlas recubiertas por ovoalbúmina.
+(b) Los linfocitos imprimados (verde) destruidos por radiación se eliminan al unirse al antígeno radiactivo con la xxx de superficie.
+
+Para control, antígeno no marcado (TGAL).
+ASB = albúmina sérica bovina; OVA = ovoalbúmina; TGAL = polilisina con cadenas laterales de polialanina que presentan puntas de tirosina y alanina ubicadas al azar.
+
+Los linfocitos B con variación de clase son sometidos a elevados índices de mutación luego de la respuesta inicial 
+
+En el capítulo 3 se planteó este concepto al tratar la generación de la diversidad.
+El índice de mutación normal de la región V es del orden de 10 5/par de bases/división celular pero aumenta hasta 10 3/par de bases/generación en linfocitos B como consecuencia de la estimulación antigénica.
+En la figura 7-9 se ilustra este proceso graficando la acumulación de mutaciones somáticas en la estructura de anticuerpo inmunodominante VH/VK durante la respuesta inmunitaria a la feniloxazolona.
+A medida que pasa el tiempo y ante estimulaciones sucesivas se observa que el índice de mutaciones aumenta en forma notable, y en este contexto es de destacar que las mutaciones que se producen dentro de las asas hipervariables determinantes de complementariedad o adyacentes a ellas, pueden dar origen a células secretoras de anticuerpo con una afinidad de combinación diferente a la de la célula madre original.
+En forma aleatoria, algunas de las células hijas muladas tendrán mayor afinidad por el antígeno, algunas presentarán la misma O menor y tal vez algunas carezcan de ella.
+En forma similar, las mutaciones en las regiones de marco pueden ser "silenciosas", o, si perturban la capacidad de la molécula de plegarse en forma adecuada, darán origen a moléculas no funcionales.
+Es importante destacar que las proporciones de linfocitos B del centro germinativo con mutaciones "silenciosas" son elevadas al comienzo de la respuesta inmunitaria pero descienden en forma notable a medida que transcurre el tiempo, lo que sugiere que la diversificación temprana es seguida por una expansión preferencial de clones que expresan las mutaciones que mejoran sus posibilidades de reaccionar y ser estimuladas por el antígeno.
+
+Afinidad de los anticuerpos 
+
+Efecto de la dosis de antígeno 
+
+Si los demás factores se mantienen, la fuerza de unión de un antígeno por el anticuerpo receptor de superficie receptor de un linfocito B estará determinada por la habitual constante de afinidad de la reacción: xxx y los reactantes se comportarán de acuerdo con la Ley de Acción de Masas (véase p. 77) Es de suponer que cuando un número adecuado de moléculas de antígeno se une a los anticuerpos receptores de la superficie celular, el linfocito será estimulado para desarrollarse a un clon productor de anticuerpo.
+
+Cuando se encuentran pequeñas cantidades de antígeno, sólo aquellos linfocitos con anticuerpos receptores de elevada afinidad serán capaces de ligar antígeno suficiente para que se produzca la estimulación, por lo que sus células hijas también producirán anticuerpo de gran afinidad.
+Si se considera la ecuación de equilibrio del antígeno-anticuerpo se verá que a medida que aumenta la concentración de antígeno, aun anticuerpos con afinidad relativamente baja ligarán más antígeno; por lo tanto, a dosis elevadas de antígeno los linfocitos con anticuerpos receptores de menor afinidad serán también estimulados, y como se advierte en la figura 7-10, éstos son más abundantes que los que poseen receptores de elevada afinidad.
+Además, es posible que las células con mayor afinidad fijen tanto antígeno que se transformen en tolerantes (véase p. 177).
+En suma, las bajas cantidades de antígeno producen anticuerpos de elevada afinidad, mientras que las concentraciones altas de antígeno darán origen a un antisuero con afinidad baja a moderada.
+
+Maduración de la afinidad 
+
+Además de ser más repentinas y más notables, las respuestas secundarias tienden a presentar mayor afinidad.
+Se cree que esta maduración de la afinidad luego de la estimulación primaria se debe a dos razones principales.
+Primero, una vez que se inicia la respuesta primaria y que la concentración del antígeno declina a niveles bajos, sólo las células con afinidad cada vez mayor podrán fijar suficiente antígeno para mantener la proliferación.
+Segundo, en esta etapa las células mutan con mucha rapidez en los centros germinativos y cualquier mutante con mayor afinidad se unirá mejor al antígeno sobre las células dendríticas foliculares y será seleccionado por su persistente expansión clonal.
+El aumento de la mutación somática que ocurre pari passu con la maduración de la afinidad coincide con este análisis y se opone al argumento que postula que los clones de alta afinidad se originan sin mutación a partir de muy pequeñas cantidades de precursores en la población preinmune.
+La modificación de la especificidad de anticuerpo por mutaciones puntuales permite la diversificación gradual sobre la cual puede actuar la selección positiva de la afinidad durante la expansión clonal; por otra parte, otros mecanismos tales como la conversión genética que produce cambios importantes, destruirán más probablemente la estructura ligadora del antígeno.
+
+Es interesante notar que las respuestas a los antígenos timo-independientes que han desarrollado poco su memoria con muy escasas mutaciones no presentan este fenómeno de maduración de la afinidad.
+En general, la capacidad de los linfocitos T helper de facilitar las respuestas ante antígenos activadores no poliméricos, no policlonales, de inducir la proliferación clonal expansiva, de efectuar la variación de clase y, por último, de generar respuestas finas con mayor afinidad han provisto al organismo de respuestas inmunitarias mayores, mejores y más flexibles.
+
+RESPUESTA INMUNITARIA ADQUIRIDA 
+
+Desarrollo 
+
+Desarrollo de los linfocitos T 
+
+La célula madre ( stem cell ) hematopoyética pluripotente da origen a los elementos figurados de la sangre 
+
+La hematopoyesis se origina en el saco vitelino en forma temprana, pero a medida que avanza la embriogénesis esta función pasa a ser realizada por el hígado fetal y finalmente por la médula ósea donde permanece durante el resto de la vida.
+Se ha demostrado que la célula madre hematopoyética que da origen a los elementos figurados de la sangre (fig. 9-1) es pluripotente, que siembra otros órganos y que se renueva a través de la creación de otras célula madre.
+Por lo tanto, un animal puede estar protegido por completo contra los efectos letales de dosis elevadas de radiación por la inyección de células de la médula ósea que puedan repoblar sus sistemas linfoides y mieloides.
+Las células madre se diferencian dentro del microambiente de células sésiles del estroma que producen diversos factores de crecimiento, como xxx , etc .
+La importancia de esta interacción entre células madre indiferenciadas y el microambiente que guía su diferenciación se demuestra con claridad por estudios realizados con ratones homocigotos para mutaciones de los loci W o SI los cuales, entre otros defectos, presentan anemia macrocítica severa.
+Los ratones W/W carecen de progenitores mieloides y pueden ser restablecidos por medio de la inyección de células madre de médula ósea normal, mientras que Sl/SI, con células madre normales pero un microambiente del estroma defectuoso, pueden corregirse por medio del trasplante de un fragmento de bazo normal (fig. 9-2).
+
+Se han realizado numerosos intentos para aislar poblaciones altamente purificadas de células madre hematopoyéticas.
+En el ratón, la célula más probable es la que presenta el siguiente fenotipo de superficie: alta expresión del CMH, baja positividad para xxx , positivo con claridad para xxx (reconocido por un anticuerpo monoclonal que reacciona con las células madre) y para la molécula de adherencia xxx , y negativo para xxx (marcadores para linfocitos B, macrófagos, granulocitos y linfocitos T citotóxicos, respectivamente).
+Los bajos niveles de expresión de xxx pueden tener implicaciones en la etiología del SIDA.
+Es notable que menos de 100 de estas células puedan prevenir la muerte de un animal irradiado con dosis letales.
+
+El timo proporciona un medio para la diferenciación de los linfocitos T 
+
+La glándula se organiza en una serie de lóbulos según agrupamientos de células epiteliales derivadas embriológicamente de un divertículo de células epiteliales del endodermo digestivo de la tercera bolsa faríngea y que forma zonas corticales y medulares bien definidas (fig. 9-3).
+Los anticuerpos monoclonales formados contra células epiteliales tímicas revelan seis patrones de tinción por inmunofluorescencia, los que muestran marcada coherencia de especie.
+Existe expresión antigénica compartida entre los epitelios subcapsular, perivascular y medular y antígenos diferentes en las células epiteliales corticales, una de las cuales es el receptor de xxx .
+Este marco celular provee el microambiente para la diferenciación de los linfocitos T y produce una serie de hormonas peptídicas de las cuales cuatro han sido bien caracterizadas y estudiadas en su secuencia: timulina, xxx y xxx limosina, y timopoyetina (y su pentapéptido activo xxx ).
+En apariencia estas hormonas son capaces de promover la aparición de marcadores de diferenciación de linfocitos T y varias funciones de linfocitos T sobre cultivos con células de médula ósea in vitro , pero aunque aparentemente actúan sobre los numerosos pasos de la diferenciación dentro del timo, aún no se cuenta con los detalles acerca de la forma en que operan y se integran in VIVO .
+
+Las grandes células epiteliales especializadas de la corteza externa se conocen como células "nodrizas" dado que cada una de ellas puede asociarse con grandes cantidades de linfocitos que parecen estar ubicadas dentro de su citoplasma.
+Las células epiteliales de la corteza profunda presentan procesos dendríticos ramificados ricos en CMH de clase II.
+Se conectan por medio de desmosomas para formar una red por la cual deben pasar los linfocitos corticales en su camino hacia la médula (fig. 9-3) Los linfocitos corticales presentan un denso empaquetamiento si se los compara con los de la médula, muchos se encuentran en división y gran número está muriendo, según se evidencia por sus núcleos picnóticos.
+En su camino hacia la médula los linfocitos pasan por un cordón de macrófagos "centinela" en la unión corticomedular.
+En la médula se encuentran numerosas células dendríticas interdigitantes derivadas de la médula ósea y las células epiteliales presentan procesos más anchos que sus contrapartidas corticales y expresan altos niveles de CMH de clases I y II.
+Agregados enredados y posiblemente degenerados de células epiteliales forman dos característicos corpúsculos de Hassall, tan conocidos por los histopatólogos.
+
+Figura 9-1
+
+Célula madre ( stem cell ) hematopoyética multipotencial y su progenie
+
+Aún resta descubrir la compleja relación que existe con el sistema nervioso: el timo presenta rica inervación con fibras adrenérgicas y colinérgicas, mientras que dos neurotransmisores oxitocina, vasopresina y neurofisina son sintetizados de forma endógena por las células epiteliales subcapsulares, perivasculares y medulares y por las células "nodrizas".
+Un estado de estrés agudo conduce a una pérdida rápida de timocitos corticales y a un incremento de las células epiteliales que expresan marcadores corticales y medulares: se cree que son células madre epiteliales intratímicas.
+La destrucción de timocitos corticales se debe, al menos en parte, a la acción citolítica de los esteroides, y la invulnerabilidad relativa de los linfocitos medulares se atribuye a que poseen una xxx hidroxil esferoide deshidrogenasa.
+La diferente naturaleza de los dos compartimientos principales de la glándula es enfatizada por la atrofia selectiva inducida por numerosos agentes: así, el blanco primario de la organotina es el timocito cortical inmaduro, la dioxina interactúa con un receptor sobre las células epiteliales corticales, mientras que el agente inmunosupresor ciclosporina A provoca atrofia de todos los elementos medulares, con lo que bloquea la diferenciación de timocitos corticales en medulares con consecuencias aún desconocidas.
+
+Figura 9-2
+
+La hematopoyesis requiere de células madre pluripotentes de médula ósea normales que se diferencien en un microambiente normal.
+
+(El locus W codifica el oncogén c-kit, un receptor de membrana para tirosina quinasa sobre la célula madre; se supone que el locus S1 codifica el ligando para este receptor).
+
+Figura 9-3
+
+Características celulares de un lóbulo tímico.
+
+En general se considera que el timo involuciona con la edad, pero esto puede ser relativo, dado que se encuentran timos relativamente grandes en autopsias de adultos, mientras que es posible que la involución de otros se deba al estrés asociado con la enfermedad previa a la muerte.
+
+Las células madre ( stem cells ) de la médula ósea se convierten en linfocitos T inmunocompetentes en el timo 
+
+La evidencia proviene de experimentos realizados sobre la reconstitución de huéspedes irradiados.
+Un animal irradiado se restablece a través de trasplantes de médula ósea con la inmediata restitución de precursores de granulocitos; en el largo plazo también se produce la reconstitución de los linfocitos T y B destruidos por la irradiación.
+Sin embargo, si el animal es timectomizado antes de la irradiación, las células de la médula ósea no reconstituyen la población de linfocitos T (fig. 9-4).
+
+En los días 11-12 de vida del embrión de ratón las células madre linfoblastoides provenientes de la médula ósea comienzan a colonizar la periferia del rudimento de timo epitelial.
+Si se elimina el timo en esta etapa y se lo incuba en cultivo orgánico se genera una amplia variedad de linfocitos T maduros.
+Esto no se observa si se cultivan timos de 10 días, lo que demuestra que los colonizadores linfoblastoides clan origen a la progenie de pequeños linfocitos inmunocompetentes.
+
+La diferenciación se acompaña de cambios en los marcadores de superficie 
+
+El protimocito que penetra en el timo atraído por la timotaxina, un factor quimiotáctico, se colorea positivamente para la enzima TdT (fig. 9-5) que se cree que está involucrada en la inserción de las secuencias de nucleótidos de la región N-terminal de los segmentos D y J de la región variable para aumentar la diversidad de los receptores de los linfocitos T (véase p. 69).
+Pronto los timocitos corticales expresan los marcadores de superficie xxx y xxx y, bajo la influencia de xxx y tal vez por compromiso de xxx con xxx sobre las células del estroma se activa el gen codificador de xxx .
+
+Esto a su vez induce la expresión del receptor de xxx completo y se inicia una masiva expansión autocrina de los timocitos corticales.
+A continuación aparecen xxx y xxx junto con xxx el invariable complejo transductor de señal del receptor del linfocito T y luego das células comienzan a expresar las cadenas variables del receptor del linfocito T. En esta etapa las células no se colorean para xxx o xxx de superficie, los marcadores de subtipos helper/inductor y citotóxico/supresor respectivamente, pero luego, las células que han reorganizado sus genes para el receptor de linfocitos xxx pasan a ser dobles positivas para xxx .
+Por último las células atraviesan &rsqb;a unión corticomedular hacia la médula donde se segregan los marcadores xxx y xxx a la vez que se diferencian en poblaciones inmunocompetentes separadas de precursores de linfocitos T helper y linfocitos T citotóxicos (fig. 9-5).
+
+Figura 9-4
+
+Maduración de células madre de médula ósea bajo la influencia del timo para transformarse en linfocitos inmunocompetentes capaces de producir reacciones inmunitarias mediadas por células.
+
+La radiación con rayos X (X) destruye la capacidad de los linfocitos de huésped de montar una respuesta inmunitaria celular pero las células madre de la médula ósea inyectada pueden transformarse en inmunocompetentes y restablecer la respuesta (1) a menos que se elimine el timo (2), en cuyo caso sólo son efectivos los linfocitos ya inmunocompetentes (3).
+Las células madre pluripotentes de médula ósea también restablecen los niveles de otros elementos figurados de la sangre (eritrocitos, plaquetas, neutrófilos, monocitos) que de otra manera descienden en forma dramática luego de la irradiación con rayos X, y este tratamiento es crucial en los casos en que la exposición accidental o terapéutica a rayos X u otros agentes anti-mitóticos lesiona las células hematopoyéticas.
+
+Aún se tienen dudas sobre la estirpe precisa de las células NK.
+Expresan los marcadores xxx que en general están restringidos a dos linfocitos T contienen receptores de xxx que inducen su proliferación y son capaces de producir xxx .
+Sus genes V para el receptor T no están reorganizados pero deben estar relacionados de alguna manera con los linfocitos T.
+
+Reorganización del receptor 
+
+La reorganización de los genes de las regiones V, D, J y C requerida para generar el receptor del linfocito T (p. 65) aún no se ha producido en &rsqb;a etapa de protimocito.
+El gen xxx para TdT y el gen activador de recombinasa se transcriben en la etapa de pre-T y alrededor del día 15, pueden detectarse células con xxx en el timo de ratón seguido alrededor del día 19 por la aparición de células xxx (fig. 9-6).
+Los ratones que expresan transgenes xxx reorganizados no reorganizan otros segmentos de genes lo que indica que una vez que la cédula expresa una combinación determinada de V, D, J suprime la reorganización de los genes xxx de la cromátide hermana (debe recordarse que cada célula contiene dos cromosomas para cada acúmulo xxx , uno proveniente de cada progenitor).
+De este modo cada célula expresa sólo un único receptor xxx y el proceso por e&rsqb; cual los genes homólogos de la cromátide hermana se suprimen se denomina exclusión alélica (véase p 176).
+Construcciones transgenéticas con xxx más cortas, que carecen de una región "silenciadora" de configuración CIS presentan una importante acción inhibidora sobre la generación de clones de linfocitos xxx mientras que aumenta la cantidad de células xxx .
+
+A diferencia de lo que ocurre en el Ser humano, en el ratón los linfocitos xxx predominan en asociación con células epiteliales.
+Una característica notable de las células que abandonan el timo fetal es la restricción de la utilización de genes V.
+Así casi toda la primera ola de células xxx fetales expresan los mismos genes V y colonizan la piel; la segunda ola utiliza la misma combinación de genes xxx pero un par xxx diferente y ellos siembran los órganos reproductores femeninos (fig. 9-7).
+En la vida adulta existe una diversidad mucho mayor de receptores debido a un alto grado de variación de la unión (véase p. 66) aunque las células intraepiteliales del intestino y las del tejido linfoide encapsulado forman dos grupos diferentes en lo que respecta al uso de genes V.
+Por otra parte los linfocitos xxx son mucho más heterogéneos en la expresión del gen V. 
+
+Los linfocitos son seleccionados en forma positiva para la restricción del CMH propio en el timo 
+
+La capacidad de los linfocitos T para reconocer péptidos antigénicos asociados con el CMH propio se desarrolla el timo.
+Si un animal xxx es sensibilizado contra un antígeno los linfocitos T imprimados pueden reconocer ese antígeno sobre células presentadoras de antígeno del haplotipo xxx , es decir, son capaces de utilizar cualquiera de dos haplotipos de los progenitores como elemento restrictivo de reconocimiento.
+Sin embargo si se utilizan células de médula ósea del xxx para reconstituir un xxx irradiado timectomizado previamente y al que se implanta un timo xxx , los linfocitos T imprimados con posterioridad solo pueden reconocer antígenos en el contexto de xxx pero no de xxx (Fig. 9-8).
+De este modo el fenotipo del timo es el que imprime la restricción xxx sobre los linfocitos T en diferenciación.
+
+En la figura 9-8 se observa que la incubación del implante de timo con desoxiguanosina, que destruye las células de estirpe de macrófagos y dendríticas, no tiene efecto en el entrenamiento linfocitario, lo que sugiere que esta función es cumplida por las células epiteliales.
+
+Estas células son ricas en moléculas del xxx de superficie y el concepto actuad sostiene que dos receptores dobles positivos ( xxx ) de los linfocitos T que cargan receptores que reconocen el CMH propio sobre las células epiteliales son seleccionadoS para diferenciarse en células positivas xxx .
+La evidencia de esto proviene de ratones transgénicos en dos cuales los genes adecuados se introducen de manera artificial en huevos fertilizadoS.
+
+Dado que se trata de un área muy activa, es interesante citar algunos ejemplos experimentales.
+
+Figura 9-5
+
+Diferenciación de linfocitos T dentro de la glándula del timo.
+
+Los números se refieren a la designación CS.
+TCR1 , receptores xxx , TCR2, receptores xxx .
+
+TdT desoxinucleotidil transferasa terminal.
+
+Un estudio muy sofisticado parte de un clon de linfocitos T citotóxicos obtenido por hembras xxx cruzadas con machos de la misma cepa.
+El clon reconoce el antígeno del macho, xxx , y se observa en asociación con las moléculas del CMH propios xxx , es decir, reacciona con el complejo xxx .
+Se introducen entonces los clones xxx que forman el receptor de linfocito T de este clon como transgenes en ratones con inmunodeficiencia combinada severa (SCID) que carecen de la capacidad para reorganizar sus propios genes receptores de región variable de Línea bacteriana; de esta forma el único receptor de linfocito T que podrá ser expresado será el del transgén, siempre que se trabaje con hembras en lugar de machos, en los cuales el clon sería eliminado por autorreactividad.
+Si las hembras SCID transgénicas contienen el haplotipo original xxx (por ejemplo híbridos xxx entre haplotipos xxx ) el receptor anti xxx estará ampliamente expresado en los linfocitos precursores citotóxicos xxx (cuadro 9-1a), mientras que las transgénicas xxx que carecen de xxx producen sólo timocitos xxx dobles sin linfocitos simples xxx .
+Así cuando las células xxx expresan su transgén TCR sólo se diferencian a linfocitos inmunocompetentes xxx si entran en contacto con células epiteliales tímicas del haplotipo de CMH reconocidas por su receptor.
+Se dice que estos timocitos de autorreconocimiento tienen selección positiva .
+
+Figura 9-6
+
+Aparición de linfocitos T positivos para receptores xxx maduros en el timo a medida que transcurre el tiempo.
+
+(Datos reproducidos de Tonegawa y col (1989) Progress in Immunology 7, 243.
+Melchers F. y (eds.) Springer Verlag, Berlin).
+
+En otro ejemplo, los genes que codifican un receptor xxx de un clon de linfocitos T helper ( xxx ) que responde a citocromo c de polilla asociado con la molécula xxx de clase II (recuérdese que xxx tiene una cadena a y una p) son transferidos a ratones xxx . xxx expresa la molécula de I-E sobre la superficie de las células presentadoras de antígeno, pero xxx no.
+
+En el estudio, la frecuencia de linfocitos xxx circulantes con el receptor xxx era 10 veces mayor en el xxx en relación con las cepas xxx , considerando nuevamente la selección positiva de timocitos dobles positivos que reconocen su propio CMH tímico.
+La selección positiva sólo ocurre en ratones manipulados para expresar I-E sobre sus células epiteliales corticales, en lugar de las medulares, lo que demuestra que este paso de la diferenciación es afectado antes de que los timocitos en desarrollo alcancen la médula.
+
+INMUNIDAD CONTRA LA INFECCIÓN 
+
+Profilaxis e inmunodeficiencia 
+
+El control de la infección se intenta por muchos caminos.
+En Gran Bretaña se ha logrado romper la cadena de infección de la rabia y la psitacosis por medio del control de la importación de perros y loros, respectivamente.
+Los avances realizados en la salud pública -agua corriente, sistemas cloacales, educación en la higiene personal- previenen la diseminación del cólera y de muchas otras enfermedades.
+Cuando fallan estas medidas, se depende de la inducción de la inmunidad.
+
+Inmunidad adquirida pasivamente 
+
+Es posible establecer una protección temporaria contra la infección por medio de la administración de anticuerpos preformados provenientes de otro individuo de la misma especie o de especies diferentes.
+A medida que los anticuerpos adquiridos se utilizan por combinación con el antígeno o son catabolizados por la vía normal, esta protección poco a poco se pierde.
+
+Las globulinas equinas que contienen anticuerpos antitoxina tetánica y antitoxina diftérica han sido utilizadas de forma extensa como profilaxis, pero en la actualidad esta práctica es más restringida debido a la complicación que representa la enfermedad del suero que se desarrolla en respuesta a la proteína extraña.
+
+Esto ocurre con mayor frecuencia en sujetos ya sensibilizados por contacto previo con la globulina equina; por lo tanto, a los individuos a quienes se les han aplicado anticuerpos antitetánicos de caballo (por ejemplo para la protección inmediata luego de sufrir una herida en espacios abiertos) se les sugiere iniciar un curso de inmunización activa a fin de obviar la necesidad de inyecciones posteriores de proteína equina en cualquier emergencia posterior.
+
+Anticuerpos cedidos por la madre 
+
+En los primeros meses de vida, mientras se está desarrollando lentamente el sistema linfoide propio del bebé, éste obtiene su protección por anticuerpos derivados de la madre y adquiridos por transferencia placentaria y absorción intestinal de las inmunoglobulinas del calostro.
+La principal inmunoglobulina de la leche es la xxx secretora que no es absorbida por el bebé pero permanece en el intestino para proteger las superficies mucosas.
+Es notable que los anticuerpos xxx estén dirigidos contra antígenos bacterianos y virales que a menudo se encuentran en el intestino, y se presume que las células productoras de xxx , en respuesta a antígenos del intestino, migran y colonizan el tejido mamario (como parte del sistema inmunitario MALT; p. 112) y los anticuerpos producidos aparecen en la leche.
+
+Concentrados de xxx globulina humana 
+
+Los preparados concentrados de xxx globulina humana de adultos resultan valiosos para modificar los efectos de la varicela y el sarampión, en particular en individuos con respuestas inmunitarias defectuosas, como los recién nacidos prematuros, los niños con inmunodeficiencia primaria o desnutrición proteica o los pacientes en tratamiento con esteroides.
+Cuando existen contactos con casos de hepatitis infecciosa y viruela también debe administrarse protección con gammaglobulina, en especial cuando en el último caso el material derive del suero de individuos vacunados unas semanas antes.
+
+Debe preferirse el uso de inmunoglobulina antitetánica humana en lugar de la equina que puede causar reacciones del suero.
+
+Los preparados aislados de xxx globulina tienden a formar pequeños agregados de forma espontánea y éstos pueden producir severas reacciones anafilácticas cuando se administran por vía intravenosa debido a su capacidad de agregar las plaquetas y de activar el complemento y generar anafilotoxinas xxx y xxx .
+Por esta razón el material siempre se inyecta por vía intramuscular.
+Existen preparados libres de agregados, y los concentrados aislados con títulos de anticuerpo elevados contra microorganismos seleccionados, como vacuna, Herpes zoster , tétanos y quizá rubéola, serían muy bienvenidos.
+Esta necesidad podría satisfacerse si se lograra producir anticuerpos monoclonales humanos a demanda.
+
+Cultivo de anticuerpos específicos 
+
+Las técnicas para producir anticuerpos monoclonales humanos con especificidades predeterminadas aún dejan mucho que desear pero mejoran de forma permanente.
+Se emplea la tecnología de DNA recombinante para obtener por ingeniería genética los anticuerpos de muy elevada afinidad.
+Se describen diferentes enfoques de la producción de anticuerpos que tienden a evitar la necesidad de la intervención de un sistema inmunitario huésped tales como las construcciones de cadena única xxx y los anticuerpos de dominio único xxx .
+Dado que estos últimos son muy pequeños se cree que podrían alcanzar los receptores celulares de los virus ubicados en el fondo de los canales proteicos inaccesibles al xxx de un anticuerpo intacto.
+
+Debería ser posible generar afinidades elevadas a partir de estos anticuerpos de dominio único y, en un experimento, las mutaciones al azar de cuatro residuos centrales del xxx de antilisozima dieron origen a un mutante, dentro de un gran número de ellos, con mayor afinidad que el original.
+
+Vacunación 
+
+Inmunidad de poblaciones 
+
+En el caso del tétanos, la inmunización activa es beneficiosa para el individuo pero no para la comunidad, dado que no elimina el microorganismo formado en las heces de los animales domésticos y que persiste en el suelo bajo la forma de esporos resistentes.
+Cuando una enfermedad depende de la transmisión humana la inmunidad de sólo una proporción de la población puede ayudar a toda la comunidad si conlleva a un descenso del índice de reproducción (es decir, de la cantidad de casos producidos por cada individuo infectado) a un valor menor de uno; en estas circunstancias la enfermedad desaparecerá, como lo atestigua, por ejemplo, la desaparición de la difteria en comunidades en las cuales alrededor del 75% de los niños han sido inmunizados (Fig.
+
+11-1).
+Por el contrario, se han observado brotes focales de poliomielitis en comunidades que se oponen a la inmunización por razones religiosas.
+
+Figura 11-1
+
+Notificación de la difteria en Inglaterra y Gales por población de 100000 personas que muestra un espectacular descenso luego de la inmunización.
+
+(Reproducción de Immunisation por G Dick, 1978, Update Books; con autorización del autor y los editores).
+
+Consideraciones estratégicas 
+
+EL objeto de la vacunación consiste en brindar inmunidad efectiva por medio del establecimiento de niveles adecuados de anticuerpo y una población imprimada de linfocitos que puedan expandirse con rapidez ante un contacto renovado con el antígeno y así proveer de protección contra la infección.
+En ocasiones como ocurre con la poliomielitis, se requiere un titulo sanguíneo elevado de anticuerpo; en enfermedades micobacterianas tales como la TBC resulta más efectiva una inmunidad mediada por células activadora de macrófagos, mientras que en el caso de la infección por virus influenza es probable que desempeñen un papel importante los linfocitos T citotóxicos.
+El sitio de la respuesta inmunitaria evocada por la vacunación también puede ser importante.
+Por ejemplo, en el cólera los anticuerpos deben localizarse en la luz del intestino para inhibir la adherencia y la colonización de la pared intestinal.
+
+La erradicación del agente infeccioso no siempre es la meta más práctica.
+En el caso del paludismo, la forma hematógena libera moléculas que desencadenan TNF y otras citoquinas provenientes de monocitos y la secreción de estos mediadores es responsable de los efectos desagradables de la enfermedad.
+Por lo tanto, una respuesta de anticuerpos dirigida hacia estos antígenos liberados con epitopes de estructura conservada puede representar una estrategia más realista que intentar atrapar al mismo parásito más evasivo captador de antígeno.
+En estas condiciones puede ser más aceptable la convivencia con el parásito.
+
+Además de la capacidad de engendrar inmunidad efectiva deben satisfacerse ciertas condiciones mundanas, pero igualmente cruciales, al buscar una vacuna exitosa.
+
+Los antígenos deben poder obtenerse con facilidad, el preparado debe ser estable en condiciones climáticas extremas, de preferencia sin requerir refrigeración y la vacuna debe ser económica y por cierto, segura.
+Es obvio que el primer contacto con el antígeno durante la vacunación no debe ser lesivo y la maniobra intenta evitar los efectos patógenos de la infección mientras se mantienen los inmunógenos protectores.
+
+Microorganismos muertos como vacunas 
+
+La forma más simple de destruir la capacidad de los microorganismos de causar la enfermedad manteniendo su constitución antigénica es prevenir su replicación matándolos de manera adecuada.
+Los helmintos parasitarios, y en menor grado los protozoarios son muy difíciles de criar a granel a fin de manufacturar vacunas con microorganismos muertos.
+Este problema no se plantea con muchas bacterias y virus y, en estos casos, los microorganismos inactivados por lo general han dado origen a antígenos seguros para la inmunización.
+
+Ejemplos de ello son las vacunas contra la liebre tifoidea (en combinación con las relativamente inefectivas paratifoideas A y B), el cólera y la poliomielitis con virus muertos (Salk).
+El éxito de la vacuna Salk fue oscurecido en parte por un ligero aumento en la incidencia de decesos por poliomielitis en 1960-61 (fig. 11-2), aunque en la actualidad este hecho ha sido atribuido a la pobre antigenicidad de una de las tres cepas diferentes de virus utilizados, y las vacunas de hoy son mucho más potentes.
+Deben adoptarse medidas para asegurar que no se destruyan antígenos protectores importantes en el proceso de inactivación.
+Durante la producción de una vacuna temprana con virus muertos contra el sarampión se inactivó el antígeno de fusión que permite la diseminación celular del virus; como consecuencia de ello se obtuvo inmunidad incompleta, por lo que el individuo era susceptible al desarrollo de complicaciones inmunopatológicas ante la infección natural posterior.
+Los peligros de la inmunidad incompleta son especialmente preocupantes en sitios en los que el sarampión es endémico y la respuesta inmunitaria está debilitada por la desnutrición proteica.
+
+Dado que la corrección amplia de esta deficiencia en la dieta es poco probable en un futuro cercano, debe considerarse si la estimulación no específica por acción de drogas inmunopotenciadoras u hormonas símicas en el momento de la vacunación podría brindar una solución factible.
+
+Esta propuesta de suplementar una respuesta inmunitaria adaptativa deficiente con algún tratamiento sinérgico ha aparecido en otros contextos.
+Así, el antibiótico polimixina B es demasiado tóxico para su uso normal; sin embargo, si se eliminan ciertos grupos terminales, la molécula pierde su toxicidad pero aún retiene su capacidad de actuar sobre la pared exterior de las bacterias gramnegativas, por lo que permite que anticuerpos potencialmente líticos y el complemento lleguen hasta las membranas internas de la bacteria, de otro modo inaccesibles.
+Otro fenómeno curioso que puede ser explotado es la observación de que la ameba Entamoeba histolytica , resistente a la lisis por acción del anticuerpo y el complemento, presenta una susceptibilidad muy aumentada si se trata con un inhibidor proteico no tóxico en otros aspectos.
+
+Los microorganismos vivos atenuados presentan muchas ventajas como vacunas 
+
+El objetivo de la atenuación es producir un microorganismo modificado que simule el comportamiento natural del microbio original sin causar enfermedad significativa.
+En muchos casos la inmunidad conferida por vacunas con gérmenes muertos, incluso cuando son administradas con un adyuvante (véase más adelante), a menudo es inferior a la que resulta de la infección por microorganismos vivos.
+Esto en parte se debe a que la replicación de los microorganismos vivos confronta al huésped con una dosis mayor y más sostenida del antígeno y a que, con los virus brotantes, se requieren células infectadas para el establecimiento de una buena memoria de linfocitos T citotóxicos.
+Otra ventaja significativa de la utilización de microorganismos vivos es que la respuesta inmunitaria se produce en su mayor parte en el sitio de la infección natural.
+Esto es bien ilustrado por la respuesta de xxx nasofaríngea ante la inmunización con vacuna contra la poliomielitis.
+A diferencia de la poca efectividad de la inyección parenteral de vacuna con gérmenes muertos, la administración intranasal provocó una buena respuesta local de anticuerpos; empero, mientras que ésta declinaba luego de transcurridos unos 2 meses, la inmunización oral con virus vivos atenuados estableció un nivel de anticuerpos xxx persistentemente elevado (fig. 11-3).
+
+Figura 11-2
+
+Notificación de parálisis por poliomielitis en Inglaterra y Gales que muestra los efectos beneficiosos de la inmunización comunitaria con vacunas de virus muertos y vivos.
+
+(Reproducida de Immunisation por G Dick, 1978, Update Books con autorización del autor y los editores).
+
+Métodos clásicos de atenuación 
+
+El objetivo de la atenuación. la producción de un microorganismo capaz de causar sólo una forma muy leve de la enfermedad natural, puede obtenerse también utilizando cepas que son virulentas para otras especies pero avirulentas para el ser humano.
+El mejor ejemplo de esto lo constituye la notable demostración de Jenner de que la viruela vacuna protegía contra la viruela humana.
+Desde entonces, un esfuerzo global realizado por la Organización Mundial de la Salud combinando vacunación amplia y métodos selectivos de control epidemiológico. ha erradicado la enfermedad humana.
+
+Figura 11-3
+
+Respuesta local de xxx a la vacuna contra la poliomielitis.
+
+La síntesis local del anticuerpo secretor está confinada a los sitios anatómicos específicos que han sido estimulados de manera directa por contacto con el antígeno.
+Datos obtenidos de Ogra P L y col &lsqb;1975&rsqb;.
+En Viral Immunology and Immunopathology , p 67.
+Notkins A L &lsqb;comp&rsqb; .
+Academic Press, Nueva York).
+
+La atenuación en sí puede obtenerse por medio de la modificación de las condiciones en las cuales crece el microorganismo.
+Pasteur logró la producción de formas vivas avirulentas de bacilos del cólera y del ántrax en pollos por medio de artificios tales como cultivos a mayor temperatura y bajo condiciones de anaerobiosis, y pudo conferir inmunidad por infección con microorganismos atenuados.
+Una cepa virulenta de Mycobacterium tuberculosis se atenuó por casualidad en 1908, cuando Calmette y Guérin, del Instituto Pasteur en Lille, agregaron bilis al medio de cultivo con la finalidad de obtener un crecimiento disperso.
+Después de 13 años de cultivo en medios que contenían bilis la cepa permanecía atenuada y se utilizó con éxito en la vacunación de niños contra la tuberculosis.
+El mismo microorganismo, BCG (Bacilo, Calmette, Guérin), se utiliza ampliamente hoy en día para la inmunización de individuos tuberculina-negativos; además, confiere un grado razonable de protección contra el Mycobacterium leprae siempre que la respuesta a los antígenos de reacción cruzada del grupo y no haya sido subvertida por exposición a especies supresoras de microbacterias en el medio local.
+La atenuación por adaptación al frío del virus influenza y otros virus respiratorios parece promisoria; dos microorganismos pueden crecer a temperaturas menores (32-34.º C) en el tracto respiratorio superior, pero no producen enfermedad clínica por su incapacidad de replicarse en el tracto respiratorio inferior (37.º C).
+
+Atenuación por tecnología de DNA recombinante 
+
+La recombinación genética se está usando para desarrollar varias cepas atenuadas de virus tales como el de la influenza con virulencia menor en el hombre y algunos con mayor índice de multiplicación en huevos (lo que permite que las nuevas cepas endémicas de la influenza se adapten para la rápida producción de vacuna).
+El potencial es muy importante.
+
+Es probable que el tropismo de los microorganismos atenuados hacia el sitio en que ocurre la infección natural se explote en un futuro cercano para establecer inmunidad intestinal contra la fiebre tifoidea y el cólera utilizando formas atenuadas de cepas de Salmonella y de Vibrio cholerae en las cuales los genes de virulencia se hayan identificado y modificado por ingeniería genética.
+
+Vectores microbianos para otros genes 
+
+Un subterfugio ingenioso consiste en utilizar un virus como transportador de genes provenientes de otro virus en particular uno que no pueda cultivarse con éxito, o que sea potencialmente peligroso.
+Virus con DNA grandes tales como el de la vacuna pueden actuar como transportadores de uno o mas genes extraños al mismo tiempo que retienen su infectividad para animales y células cultivadas.
+Las proteínas codificadas por estos genes se expresan de manera adecuada con respecto a la glucosilación y la secreción y se procesan por presentación del CMH por las células infectadas, lo que da origen a reacciones efectivas de inmunidad mediada por células y humoral.
+Un ejemplo de una construcción en la cual la vacuna es un vector para un gen extraño insertado se describe en la figura 11-4.
+
+Una amplia variedad de genes ha sido expresada por medio de vectores de virus de la vacuna y se ha demostrado que los productos de los genes codificadores de las proteínas de la cubierta virar. como la hemaglutinina del virus influenza, la glucoprotema del virus de la estomatitis vesicular, la xxx del HIV-I y la glucoproteína D del virus del herpes simple, podían ser procesados de forma correcta e insertados en la membrana plasmática de células infectadas.
+El antígeno de superficie de la hepatitis (HBsAg) fue secretado por células infectadas por virus de vacuna recombinantes bajo la forma característica de partículas de 22 nm .
+
+Esto representa un importante enfoque del problema y ha sido posible proteger a chimpancés contra los efectos clínicos del virus de la hepatitis B, mientras que ratones inoculados con la hemaglutinina recombinante de la influenza generaron linfocitos T citotóxicos y resultaron protegidos contra infecciones por virus influenza.
+Se obtuvieron títulos espectaculares de anticuerpos neutralizantes por medio de una recombinación con el gen codificador de la glucoproteína del virus de la rabia y protegieron a los animales contra los efectos intracerebrales severos.
+Ha sido posible incluso crear un vector con dos inserciones.
+
+Ningún sistema está libre de inconvenientes y algunos recombinantes crecen poco in vivo .
+Además, los individuos inmunodeficientes tienen dificultades para eliminar los virus, aunque la resistencia de ratones desnudos carentes de linfocitos T a 10 8 unidades formadoras de colonias de vacunas recombinantes que expresan el gen IL-2 sugiere la posibilidad de que exista una solución al problema.
+También se presenta la objeción de que una vacuna virar que produce efectos colaterales ocasionales pero severos no debería utilizarse en un mundo libre de viruela.
+Es posible que se desarrollen cepas menos virulentas, pero en todo caso el tema en cuestión es si la vacuna recombinante causa más problemas que la enfermedad para la cual se busca la vacuna.
+Por supuesto, no existen problemas en su uso veterinariO y se han obtenido resultados excelentes en ganado vacuno.
+
+Aunque se basen en los mismos principios que los utilizados para el virus de la vacuna, es posible que sea más fácil aceptar virus híbridos de la poliomielitis como vacunas potenciales, y genes del HIV, del virus de la hepatitis A y de la enfermedad del pie y la boca han sido insertados en el genoma del virus de la poliomielitis y se demostró que producen anticuerpos neutralizantes.
+
+Figura 11-4
+
+Construcción de recombinantes de virus de la vacuna que expresan un gen extraño.
+
+El gen en cuestión, por ejemplo el codificador del antígeno de superficie de la hepatitis xxx , se inserta primero en un vector adecuado para que se ubique en las adyacencias de un promotor de vacuna y flanqueando las secuencias de DNA de la vacuna (en este caso la timidina quinasa-TK ) que determina el sitio de recombinación con el virus.
+Se replica el plásmido y luego se utiliza para transfectar células que se infectan simultáneamente con vacuna.
+La recombinación homóloga inserta el promotor más el gen extraño en el genoma viral y el recombinante resultante TK es seleccionado por siembra en placas virales resistentes a 5-bromodesoxiuridina (BUdR).
+TK no es esencial para el crecimiento virar.
+(Reproducida de B Moss &lsqb;1985&rsqb; Immunology Today 6, 243, con autorización).
+
+Se ha pensado en utilizar BCG como vehículo de los antígenos requeridos para evocar la inmunidad de linfocitos T mediada por xxx .
+El microorganismo es avirulento, presenta baja frecuencia de complicaciones serias, puede administrarse en cualquier momento después del nacimiento, posee fuertes propiedades adyuvantes, confiere IMC de larga duración luego de una única inyección y es muy económico.
+El desarrollo de vectores de dos vías que pueden replicarse en E. coli como plásmidos y en microbacterias como fagos ha permitido que se introduzca DNA extraño en cepas de vacuna de M. smegmatis y de BCG.
+Se han creado grandes expectativas en este campo: la incorporación de un gen de resistencia a la kanamicina dentro del plásmido proporciona un marcador selectivo para la bacteria transformada, mientras que la inclusión de una secuencia de señal permite la secreción de una proteína recombinante.
+
+Es posible que la vía oral de vacunación pueda aplicarse no sólo al establecimiento de inmunidad en la mucosa del estómago sino también para proveer protección sistémica.
+Por ejemplo, Salmonella typhimurium no sólo invade la mucosa que tapiza el intestino sino que también infecta células del sistema de fagocitos mononucleares en todo el organismo, por lo que estimula la producción de anticuerpos humorales y secretores además de inmunidad mediada por células.
+
+Puede lograrse que la Salmonella atenuada exprese proteínas de Shigella , cólera, paludismo, esporozoítos, etc., y es muy posible que puedan considerarse vacunas orales en potencia.
+Así, la construcción antigénica del circunsporozoíto administrada por vía oral a ratones inhibe el desarrollo del parásito en sus etapas hepáticas; dado que esto se produjo en ausencia de anticuerpo, se considera posible que la IMC resulte efectiva.
+
+Restricciones en el uso de vacunas atenuadas 
+
+Las vacunas atenuadas contra la poliomielitis (Sabin), el sarampión y la rubéola han obtenido aceptación general.
+Sin embargo, con ciertas vacunas existe un riesgo muy pequeño, aunque real, de que se desarrollen complicaciones tales como la encefalitis que puede aparecer después de la inmunización contra el sarampión; no obstante, debe considerarse que la infección natural conlleva un riesgo de encefalitis mucho mayor (c 1:2.000).
+Si se utilizan vacunas de virus vivos existe cierta posibilidad de que el ácido nucleico pueda ser incorporado al genoma del huésped o de que haya reversión a una forma virulenta, aunque esto es poco probable si la cepa atenuada contiene varias mutaciones.
+
+Otra desventaja de las cepas atenuadas es la dificultad y el costo que implica mantener condiciones adecuadas de almacenamiento en Frío, sobre todo en lugares aislados.
+
+En enfermedades tales como la hepatitis virar y el cáncer los peligros asociados con las vacunas de virus vivos hacen impensable su uso.
+Nunca se subrayará lo suficiente que los riesgos de complicación deben sopesarse contra el riesgo esperado de contraer la enfermedad con sus propias complicaciones.
+Cuando éstas son mínimas puede preferirse evitar una vacunación general y confiar en un curso natural apoyado, en caso necesario, por inmunización pasiva en las localidades situadas alrededor de los brotes aislados de la enfermedad infecciosa.
+
+Es importante reconocer a los niños con inmunodeficiencia antes de inyectar microorganismos vivos; un niño con reactividad disminuida de linfocitos T puede ser superado por el BCG y morir.
+Tal vez esto sea poco probable. pero se dice que en un país en particular no existían adultos con deficiencia de células T.
+¿Cuál es la razón?
+Todos los niños habían sido inmunizados con BCG vivos como parte de un programa de salud comunitario.
+Aún queda por determinar hasta qué punto los niños con deficiencias parciales se encuentran en situación de riesgo.
+Se desaconseja además, administrar vacunas de virus vivos a pacientes en tratamiento con esteroides, agentes inmunosupresores o radioterapia y quienes padezcan enfermedades malignas tales como linfomas y leucemia; deben incluirse también las mujeres embarazadas por la vulnerabilidad del feto.
+
+En un capítulo anterior se trató la influencia desviatoria del anticuerpo xxx derivado de la madre.
+La inyección de anticuerpo xxx (monoclonal) preformado en el momento de la inmunización con una vacuna contra el paludismo parece haber superado este inconveniente en ratones jóvenes, pero aún queda por determinar si esto puede transformarse en una estrategia práctica.
+Los resultados preliminares sugieren que los niños de 4-6 meses de edad pueden ser o convertirse por inhalación de vacuna contra el sarampión en aerosol, que se presume que evita el anticuerpo materno; esto tendrá singular importancia en zonas endémicas para el sarampión, donde se requieren condiciones muy precisas con inmunización convencional a medida que desaparece el anticuerpo adquirido de forma pasiva.
+
+TRASPLANTES 
+
+Rechazo de los injertos 
+
+Durante mucho tiempo, uno de los objetivos de la medicina fue el reemplazo de los órganos enfermos por un trasplante de tejido sano, que se vio frustrado en gran parte por la reacción del organismo que rechazaba los implantes provenientes de otros individuos.
+Antes de tratar la naturaleza y las implicaciones de este fenómeno de rechazo, es útil definir los términos utilizados en los trasplantes entre individuos y especies: 
+
+Autotrasplante o autoinjerto : tejido reimplantado en el donante original.
+
+Isotrasplante o isoinjerto: implante entre individuos singeneicos (es decir de constitución genética idéntica) tales como los gemelos idénticos o ratones de la misma cepa pura.
+
+Alotrasplante o aloinjerto (término antiguo, homotrasplante): implante entre individuos alogénicos (es decir, miembros de la misma especie pero diferente constitución genética), por ejemplo de hombre a hombre y de una cepa de ratón a otra.
+
+Xenotrasplante o xeroinjerto (heterotrasplante): implante entre individuos xenogénicos (es decir, individuos de diferente especie), por ejemplo de cerdo a ser humano.
+
+Se ha estudiado con mayor intensidad la reacción de alotrasplante, aunque en algún momento se espera poder utilizar otras especies.
+El procedimiento más frecuente de alotrasplante es probablemente la transfusión sanguínea, en la cual son bien conocidas las desafortunadas consecuencias de la incompatibilidad.
+Se ha analizado con atención el rechazo de implantes sólidos tales como la piel y conviene describir la secuencia de procesos.
+Por ejemplo, en ratones, el aloimplante de piel se asienta y se vasculariza en pocos días.
+Entre el tercero y el noveno día disminuye en forma gradual la circulación y se incrementa la infiltración del lecho del implante con linfocitos y monocitos, pero muy pocas células plasmáticas.
+Comienza a verse a simple vista la necrosis y al cabo de uno o dos días se escara el implante por completo (fig. 13-1).
+
+Indicios de que el rechazo es inmunológico 
+
+Reacciones de primero y segundo tipo 
+
+Si la reacción tiene una base inmunológica, debería esperarse que el segundo contacto con el antígeno represente un proceso más explosivo que el primero y sin duda el rechazo de un segundo implante proveniente del mismo donante está muy acelerado.
+La vascularización inicial es pobre y puede no producirse.
+Se observa una invasión muy rápida por leucocitos polimorfonucleares y células linfoides con inclusión de las células plasmáticas.
+Transcurridos tres o cuatro días se observa trombosis y destrucción celular aguda.
+
+Figura 13-1
+
+Rechazo de injerto de piel CBA por ratón de cepa A.
+
+(a) 10 días después del trasplante áreas descoloridas producidas por destrucción del epitelio y deshidratación de la dermis expuesta. 
+(b) 13 días después del injerto: la superficie costrosa indica destrucción total del injerto.
+(Cortesía del Prof. L Brent).
+
+Figura 13-2
+
+El rechazo del injerto induce memoria que es específica y puede ser transferida por los linfocitos T
+
+En el experimento 1, un receptor de cepa A de linfocitos T provenientes de otro ratón de cepa A que había rechazado un injerto de cepa B, dará rechazo acelerado (es decir de 2º tipo) de un injerto B.
+Los experimentos 2 y 3 muestran la especificidad del fenómeno respecto al tercero de cepa C, no relacionado desde el punto de vista genético.
+
+Especificidad 
+
+No todos los aloinjertos subsecuentes sufren el rechazo de segundo tipo sino sólo los derivados del donante original o de una cepa relacionada.
+Los injertos de donantes no relacionados se rechazan igual que los rechazos de primer tipo.
+
+Papel del linfocito 
+
+Los animales timectomizados al nacer presentan dificultad para rechazar los injertos de piel pero su capacidad se restablece por inyección de linfocitos provenientes de un donante normal singénico lo que sugiere que están involucrados los linfocitos T.
+El receptor de linfocitos T provenientes de un donante que ya ha rechazado un injerto producirá un rechazo acelerado de otro posterior del mismo tipo (fig. 13-2) lo que demuestra que las células linfoides están imprimadas y retienen la memoria del primer contacto con los antígenos del injerto.
+
+Figura 13-3
+
+Herencia de genes que controlan los antígenos de trasplante.
+
+A representa un gen que expresa el antígeno A y B el correspondiente gen alélico, en el mismo locus genético.
+
+Las cepas puras son homocigotos para A/A y B/B, respectivamente.
+Dado que los genes son co-dominantes, un animal con genoma A/B expresará ambos antígenos, se hará tolerante a ellos y por lo tanto aceptará injertos de donantes A o B.
+La ilustración muestra que para cada gen que controla una especificidad de antígeno de trasplante tres cuartos de la generación F2 aceptará un injerto de piel de un progenitor.
+Para n genes la fracción es (3/4)".
+Si los animales F1 A/B vuelven a cruzarse con un progenitor A/A, la mitad de la progenie será A/A y la mitad A/B; sólo éste último aceptará injertos B. 
+
+Producción de anticuerpos 
+
+Luego del rechazo pueden reconocerse anticuerpos humorales con especificidad para el donante del injerto.
+
+Se positivizan las pruebas de hemaglutinación en los ratones, donde los eritrocitos transportan antígenos de trasplante; en el ser humano se detectan linfocitotoxinas.
+A menudo una prueba en placa de Jerne que utiliza timocitos de la cepa del donante en lugar de eritrocitos de carnero demuestra la presencia de células formadoras de anticuerpo en los tejidos linfoides de animales trasplantados.
+
+Control genético de los antígenos de trasplante 
+
+La especificidad de los antígenos involucrados en el rechazo del trasplante se encuentra bajo control genético.
+Individuos idénticos desde el punto de vista genético tales como ratones de una cepa pura o gemelos univitelinos presentan antígenos de trasplante idénticos y los trasplantes pueden intercambiarse entre ellos con entera libertad.
+La segregación mendeliana de los genes que controlan a estos antígenos se ha dilucidado por medio de experimentos de entrecruzamiento entre ratones de diferentes cepas puras.
+Dado que estos ratones se aparean dentro de una cepa determinada y siempre aceptan injertos provenientes de sus semejantes deben ser homocigotas para los genes de trasplante.
+Si se consideran dos de estas cepas A y B con genes alélicos que difieren en un locus en cada caso los genes materno y paterno serán idénticos con constitución genética de por ejemplo A/A y B/B respectivamente (por convención, los genes se expresan en letra itálica y los antígenos que codifican en letras de tipo normal).
+Por cruzamiento de las cepas A y B se obtiene una primera generación (F1) de constitución A/B.
+Todos los ratones F1 aceptarán injertos de alguno de los progenitores lo que demuestra que son tolerantes para A y B. Si se entrecruza la generación F1 debería esperarse una distribución promedio de genotipos para la F2 del tipo de la que se presenta en la figura 13-3; sólo 1 de 4 carecería de genes A y por lo tanto rechazaría injertos de A por falta de tolerancia, y 1 de 4 rechazaría injertos de B por la misma razón.
+Por lo tanto para cada locus 3 de 4 miembros de &rsqb;a generación F2 aceptará los injertos provenientes de las cepas progenitoras.
+Si se extiende el análisis y en lugar de un locus con un par de genes alélicos hubieran loci la fracción de los miembros de la generación F2 que aceptará los injertos provenientes de las cepas progenitores será de (3/4)n.
+De esta manera puede obtenerse un número estimado de la cantidad de loci que controlan los antígenos de trasplante.
+
+En el ratón se han establecido unos 40 de tales loci, pero como se vio con anterioridad predomina el locus complejo denominado xxx en el sentido que controla los antígenos de trasplante fuertes que provocan reacciones intensas de alotrasplante, y en capítulos previos se ha estudiado con detalle la estructura (véase fig. 3-18, p 60) y la biología de este sitio principal de histocompatibilidad .
+Los antígenos no xxx o menores de trasplante tales como el xxx masculino son reconocidos como péptidos procesados asociados con las moléculas del CMH sobre la superficie celular por los linfocitos T pero no en forma inmediata por los linfocitos B.
+No debe confundirse el término "menor" con que estos antígenos no dan origen a serios problemas de rechazo, aunque con mayor lentitud que el CMH.
+
+Otras consecuencias de la incompatibilidad xxx 
+
+Las diferencias del CMH de clase II producen una reacción linfocitaria mixta (RLM) 
+
+Cuando los linfocitos provenientes de cepas de ratones con haplotipo clase II diferente se cultivan juntos, se produce la transformación y la mitosis de las células blásticas (RML), y los linfocitos T de cada población linfocitaria reaccionan contra los determinantes del CMH de clase II en la superficie de la otra población.
+Para obtener la "RLM de una vía", los linfocitos estimuladores se transforman en incapaces de responder por tratamiento con mitomicina C o por rayos X, y luego se agregan a los linfocitos capaces de responder provenientes del otro donante.
+Las células que responden pertenecen sobre todo a una población de linfocitos T xxx positivos y son estimulados por los determinantes de clase II presentes en la mayoría de los linfocitos B, los macrófagos y en especial sobre las células dendríticas presentadoras de antígeno.
+Por lo tanto, la RML es inhibida por antisueros contra los determinantes de clase II sobre las células estimuladoras.
+
+Linfólisis mediada por células (LMC) 
+
+La inclusión de los antígenos del CMH de clase II en el proceso de provocación del rechazo del trasplante ha despertado un interés renovado por el descubrimiento del fenómeno de LMC desarrollado como posible prueba de histocompatibilidad.
+Se ilustra el principio en la figura 13-4.
+En suma, las células capaces de generar respuesta activada por la RLM inducida por clase II contribuyen a la generación de linfocitos T citotóxicos dirigidos contra los determinantes xxx ; en esencia, el reconocimiento de las moléculas de clase II ayuda a generar electores contra las moléculas de clase II, de alguna manera recuerda al sistema hapteno-transportador en lo referido a la colaboración, donde clase II equivale al transportador y clase I equivale al hapteno (véase p. 120).
+
+Reacción de injerto versus huésped (i.v.h.) 
+
+Cuando se transfieren linfocitos T competentes desde un donante a un receptor incapaz de rechazarlos, las células trasplantadas sobreviven y tienen tiempo para reconocer a los antígenos del huésped y generan una respuesta inmunitaria contra ellas.
+En lugar de la reacción normal del trasplante establecida desde el huésped contra el injerto, se produce la reacción inversa, denominada de injerto contra huésped (i.v.h.).
+
+En el roedor joven puede producirse inhibición del crecimiento (enanismo), aumento de tamaño del bazo y anemia hemolítica (debida a la producción de anticuerpos contra los eritrocitos).
+En el ser humano, se observa fiebre, anemia, pérdida ponderal, prurito, diarrea y esplenomegalia, y se cree que los principales mediadores de la patología son las citoquinas, en especial TNF.
+
+Cuanto más fuerte sea la diferencia del antígeno de trasplante, más severa será la reacción.
+
+Cuando el donante y el receptor difieren en los locus xxx o xxx , las consecuencias pueden ser fatales, aunque debe tenerse en cuenta que las reacciones contra antígenos de trasplante dominantes menores, o la combinación de algunos de ellos, pueden ser también ser difíciles de controlar.
+
+Figura 13-4
+
+Linfólisis mediada por células la generación de linfocitos T xxx citotóxicos para trasplantes xxx .
+
+Los linfocitos T helper responden a xxx sobre las células de trasplante por proliferación (reacción linfocitaria mixta) y tienen entonces capacidad para ayudar a que se transformen en efectores citotóxicos a los precursores de linfocitos T específicos para los antígenos xxx y xxx del trasplante.
+
+En la figura 13-5 se ilustran dos situaciones posibles que conducen a reacciones i.v.h..
+En el ser humano ésta puede originarse en sujetos enérgicos desde el punto de vista inmunitario que reciben trasplantes de médula ósea, p. ej. por inmunodeficiencia combinada (p.
+
+227), por aplasta de eritrocitos luego de accidentes con irradiación o como una posible forma de terapéutica del cáncer.
+Los linfocitos T competentes de la sangre o presentes en órganos trasplantados a pacientes inmunosuprimidos pueden generar reacciones i.v.h.: del mismo modo las células maternas pueden atravesar la placenta, aunque en este caso aún no se dispone de evidencias referidas a enfermedades causadas por este mecanismo en el ser humano.
+
+Mecanismos del rechazo de los injertos 
+
+Rechazo mediado por linfocitos 
+
+Gran parte de los trabajos realizados sobre rechazo de aloinjertos han estudiado trasplantes de piel o tumores sólidos debido a que su destino puede seguirse con relativa facilidad.
+En estos casos poco se aporta al concepto de que los anticuerpos humorales son el instrumento de destrucción del injerto aunque, como se verá más adelante, esto no siempre ocurre con trasplantes de otros órganos, tales como el riñón.
+
+Mientras que la transferencia pasiva de suero proveniente de un animal que ha rechazado un injerto de piel por lo general no acelera el rechazo de un trasplante similar en el animal receptor, la inyección de células linfoides (en particular pequeños linfocitos recirculantes) es efectiva en acortar la supervivencia del implante (véase fig. 13-2).
+
+Figura 13-5
+
+Reacción de injerto vs. huésped.
+
+Cuando se inoculan linfocitos T competentes en un huésped incapaz de reaccionar contra ellos las células injertadas pueden reaccionar contra los antígenos localizados sobre las células del huésped a las que reconocen como extrañas.
+La reacción que sucede puede ser fatal.
+Dos de las muchas situaciones posibles se ilustran: (a) el híbrido AB recibe células de un progenitor (BB) que son toleradas pero reacciona contra el antígeno en las células huésped; (b) un receptor AA irradiado con rayos X cuya inmunidad ha sido restablecida con linfocitos BB no puede reaccionar contra el trasplante y se produce una reacción i.v.h.
+
+Sería consistente la existencia de un papel importante de las células Iinfoides en el rechazo de primer tipo con la histología de la reacción temprana que muestra infiltración por células mononucleadas con muy pocos polimorfonucleares o células plasmáticas (fig. 13-6).
+El dramático efecto de la timectomía neonatal sobre la prolongación de los Implantes de piel, como ya se mencionó, y la larga supervivencia de los trasplantes en niños con deficiencias tímicas implican la acción de los linfocitos T en estas reacciones.
+En el pollo, el rechazo del homoimplante y la reactividad i.v.h. están influenciadas por la timectomía neonatal pero no por la bursectomía.
+Se han obtenido evidencias más directas de estudios in vitro que muestran que los linfocitos T obtenidos de ratones que rechazan un aloinjerto son capaces de matar células blanco portadoras de los antígenos del injerto in vitro .
+
+Trabajos recientes referidos a la importancia de las células xxx murinas y xxx humanas como efectoras han generado dudas, tal vez en forma equívoca, sobre el papel de los Linfocitos citotóxicos en el rechazo de trasplantes in vivo ; aunque en ocasiones las células xxx tienen potencial citotóxico para los blancos de clase II, en general están asociadas a la actividad adyuvante, en este caso en particular para los precursores de linfocitos T citotóxicos, y con la producción de linfoquinas que median las reacciones de hipersensibilidad retardada.
+El interrogante que se presenta es si actúan para estimular el acceso de linfocitos T citotóxicos a sus blancos.
+Se sabe que el xxx produce una regulación ascendente de la expresión del antígeno sobre la célula blanco del trasplante para aumentar su vulnerabilidad para los linfocitos citotóxicos xxx .
+
+Figura 13-6
+
+Rechazo agudo temprano de aloinjerto renal humano 10 días después del trasplante, que muestra infiltración celular densa del intersticio por células mononucleadas (coloración con pironina) (Cortesía del Prof. K Porter).
+
+Los individuos normales presentan una frecuencia muy elevada de células alorreactivas (es decir células que reaccionan con aloinjertos) que se cree es responsable de la intensidad del rechazo de CMH incompatible.
+Cabe preguntarse si estos linfocitos T alorreactivos sólo reconocen las moléculas de CMH o responden a CMH extraños asociados con diferentes péptidos derivados de las proteínas citoplasmáticas del injerto por los procesamientos normales.
+En apariencia ocurre que dos linfocitos T citotóxicos alorreactivos específicos para xxx expresados sobre el tumor murino xxx son incapaces de lisar células humanas transfectadas y capaces de expresar las moléculas xxx a menos que se agregue al sistema un extracto de proteínas citoplasmáticas xxx clivadas a péptidos por bromuro de cianógeno.
+Por lo tanto, los auto-péptidos expresados con el CMH de clase I son responsables del alorreconocimiento.
+
+El papel de los anticuerpos humorales 
+
+Durante mucho tiempo se ha sabido que células alogénicas aisladas tales como los linfocitos pueden ser destruidas por reacciones citotóxicas (tipo 11) que involucran anticuerpos humorales.
+Sin embargo, aunque la experiencia previa con implantes de piel y de tumores sólidos sugiere que no son fácilmente susceptibles a la acción de anticuerpos citotóxicos, en la actualidad queda claro que esto no es aplicable a todos los tipos de trasplante de órganos.
+Se ilustra mejor este concepto si se consideran las diferentes formas por las cuales pueden ser rechazados los aloinjertos de riñón.
+
+Rechazo hiperagudo en los minutos posteriores al trasplante: se caracteriza por la sedimentación de eritrocitos y microtrombos en el glomérulo, ocurre en individuos con anticuerpos humorales preexistentes ya sea por incompatibilidad de grupo sanguíneo o por presensibilización al CMH de clase I por transfusión sanguínea.
+
+Rechazo agudo temprano se produce hasta 10 días después del trasplante, y se caracteriza por presentar un infiltrado celular denso (fig. 13-6) y ruptura de los capilares peritubulares; se asemeja a una reacción de hipersensibilidad celular que involucra a los linfocitos T, compuestos probablemente por el ataque de citotóxicos xxx sobre las células del injerto cuya expresión de antígeno CMH ha sido regulada en forma ascendente por interferón xxx .
+
+Rechazo agudo tardío que aparece del día 11 en adelante en pacientes suprimidos por prednisona y azatioprina, es causado probablemente por la unión de inmunoglobulina (anticuerpo) y complemento a las arteriolas y capilares glomerulares donde pueden visualizarse por técnicas de inmunofluorescencia.
+Estos depósitos de inmunoglobulina sobre las paredes vasculares inducen la agregación plaquetaria en los capilares glomerulares que conduce a la insuficiencia renal aguda (fig. 13-7).
+También debe considerarse la posibilidad de la producción de lesiones a las células recubiertas por anticuerpos a través de citotoxicidad celular dependiente de anticuerpo.
+
+Figura 13-7
+
+Rechazo tardío agudo de alotrasplante renal humano que muestra agregación plaquetaria en un capilar glomerular inducido por depósito de anticuerpo sobre la pared vascular (micrografía electrónica) (Cortesía del Prof. K Porter) 
+
+Rechazo tardío y retardo asociado a depósitos subendoteliales de inmunoglobulina y xxx sobre las membranas basales glomerulares que en ocasiones pueden ser una expresión de un trastorno subyacente por complejo inmune (que en principio requeriría el trasplante) o si no de formación de complejo con antígenos solubles derivados del riñón trasplantado.
+
+Por lo tanto, la complejidad de la acción y la interacción de los factores celulares y humorales en el rechazo del trasplante es considerable; en la figura 13-8 se intenta resumir los mecanismos involucrados postulados.
+
+En determinadas circunstancias los anticuerpos pueden proteger un trasplante de la destrucción, este fenómeno importante de estimulación será considerado más adelante.
+
+ENFERMEDADES AUTOINMUNES 
+
+Patogenia, diagnóstico y tratamiento 
+
+Mecanismos patogénicos de las enfermedades autoinmunes 
+
+Se mencionó que a pesar de ciertas excepciones como por ejemplo el infarto de miocardio o la lesión testicular, la liberación traumática de constituyentes orgánicos en general no genera la formación de anticuerpos.
+La destrucción de tejido tiroideo por dosis terapéuticas de lodo radiactivo no inicia autoinmunidad tiroidea, ni las lesiones hepáticas de la cirrosis alcohólica resultan en la síntesis de anticuerpos mitocondriales, para dar dos ejemplos.
+A continuación se tratará la evidencia que lleva en forma directa a preguntar si la autoinmunidad, cualquiera sea su origen, juega un papel patogénico fundamental en la producción de lesiones tisulares en el grupo de enfermedades denominadas "autoinmunes".
+
+Efectos de los anticuerpos humorales 
+
+Sangre 
+
+Los anticuerpos eritrocitarios juegan un papel en la destrucción de los glóbulos rojos en la anemia hemolítica autoinmune.
+Los eritrocitos normales recubiertos por anticuerpo eluido de eritrocitos Coombs-positivos presentan una vida media reducida luego de ser reinyectados en el sujeto normal.
+Los anticuerpos plaquetarios son responsables en apariencia de la púrpura trombocitopénica idiopática (PTI).
+Cuando se administra xxx proveniente del suero de un paciente a un individuo normal provoca la depresión del recuento de plaquetas y puede captarse el principio activo por absorción sobre plaquetas.
+La trombocitopenia neonatal transitoria que puede observarse en lactantes hijos de madres con PTI se explica si se considera el pasaje transplacentario de anticuerpos xxx a la criatura.
+
+Algunos niños con inmunodeficiencia asociada a recuentos muy bajos de glóbulos blancos presentan un factor linfocitotóxico sérico que requiere al complemento para su activación.
+La linfopenia que se observa en pacientes con LES y artritis reumatoidea también puede ser un resultado directo del anticuerpo, dado que se ha informado la existencia de anticuerpos no aglutinantes recubriendo los leucocitos en estos casos.
+
+Tiroides 
+
+Anticuerpos citotóxicos 
+
+El suero de pacientes con enfermedad de Hashimoto es citotóxico para células tiroideas humanas cultivadas en monocapa luego de la dispersión con tripsina.
+Esta es una clásica reacción de anticuerpo mediada por complemento dirigida contra un antígeno de superficie celular idéntico al antígeno de peroxidasa tiroidea revelado por coloración intracitoplasmática de secciones de tiroides con sueros de pacientes con enfermedad de Hashimoto.
+Es curioso que este antígeno sólo se expresa en la porción apical de las células foliculares en contacto con el coloide por lo que en condiciones normales no resulta accesible al anticuerpo circulante.
+
+Esto explica por qué fragmentos simples de tiroides con folículos intactos no se ven afectados por la incubación en presencia de un medio que contiene anticuerpo citotóxico y complemento, y además por qué no hay evidencia de niños nacidos de madres enfermas de Hashimoto con función tiroidea defectuosa a pesar de la presencia de anticuerpo en su suero.
+Sin embargo, pueden detectarse anticuerpos en la superficie interior de los folículos tiroideos en tejidos tomados de pacientes con tiroiditis autoinmune, y parece ser necesario postular que sólo se produce la lesión tiroidea cuando hay colaboración con otros factores tales como depósito de inmunocomplejos, efectores de linfocitos T sensibilizados o mecanismos que generan una reversión de la polaridad de las células epiteliales.
+
+Anticuerpos estimulantes del tiroides 
+
+Bajo ciertas circunstancias, los anticuerpos contra la superficie de una célula pueden estimular más que destruir (véase sensibilidad tipo V: Cap. 10).
+Esto parece ocurrir en la tirotoxicosis (enfermedad de Graves o de Basedow).
+Por mucho tiempo se ha contado con evidencias indirectas que sugieren la existencia de un enlace entre procesos autoinmunes y esta enfermedad: se detectan anticuerpos tiroideos en hasta el 85% de pacientes tirotóxicos y por histología se determina que la mayoría de las glándulas eliminadas por cirugía muestran grados variables de tiroiditis y formación local de anticuerpos además de la característica hiperplasia de células acinares; se encuentra tirotoxicosis con indebida frecuencia en familias de pacientes con tiroiditis de Hashimoto; existe una asociación con autoinmunidad gástrica resultante en un 30% de pacientes con anticuerpos gástricos y hasta un 10% con anemia perniciosa.
+El enlace directo se obtuvo con el descubrimiento de Adams y Purves sobre la actividad estimuladora del tiroides en el suero de pacientes tirotóxicos.
+Por medio de un nuevo bioensayo encontraron que el suero produce una estimulación de la glándula tiroides en el animal receptor de curso considerablemente prolongado comparado con el de la hormona estimulante del tiroides fisiológico (TSH) de la hipófisis; además se demostró que esto se debía a la presencia de anticuerpos estimulantes del tiroides (en inglés TSAb).
+Estos anticuerpos son capaces de bloquear la unión de TSH a las membranas tiroideas y parecen actuar de igual manera que TSH, se cree que por estimulación de receptores idénticos (véase fig. 12-20).
+Ambos operan a través del sistema de la adenil ciclasa según indica el efecto potenciador de la teofilina, y producen cambios similares en la morfología ultraestructural de la célula tiroidea, pero es un "experimento de transferencia pasiva" de aparición natural que liga a TSAb en forma más directa con la patogenia de la enfermedad de Graves.
+Cuando TSAb proveniente de una madre tirotóxica atraviesa la placenta se asocia con la producción de hipertiroidismo neonatal (fig. 15-1), que se resuelve luego de unas pocas semanas, a medida que es catabolizada la xxx materna.
+
+Existe una buena correlación entre el título de TSAb y la severidad del hipertiroidismo.
+Dado que TSAb actúa con independencia del eje hipofisario-tiroideo, la captación de lodo por la glándula no es afectada por la administración de tiroxina o triiodotironina, mientras que en condiciones normales esto causaría inhibición por retroalimentación y supresión de la captación; en esto se basa una importante prueba diagnóstica para la tirotoxicosis.
+
+Existen razones para creer que el aumento de tamaño del tiroides en este trastorno se debe a la acción de anticuerpos que reaccionan con un receptor de "crecimiento" y estimulan directamente la división celular a diferencia de la hiperactividad metabólica, (fig. 15-2a).
+Por el contrario, los sueros de pacientes con mixedema primario contienen anticuerpos capaces de bloquear la acción mitógena de la TSH (fig. 15-2b) por lo cual previenen la regeneración de folículos característica del bocio aumentado de tamaño de la enfermedad de Hashimoto.
+Puede establecerse entonces que existe considerable diversidad en la respuesta autoinmune contra el tiroides que lleva a la destrucción de tejido, la estimulación metabólica, la promoción del crecimiento o la inhibición mitótica que en combinaciones diferentes son responsables de la variedad de formas en las cuales se presenta la enfermedad tiroidea autoinmune (fig. 15-3).
+
+Estómago 
+
+Los auto-anticuerpos contra el factor intrínseco, un producto de secreción de la mucosa gástrica se demostraron primero en pacientes con anemia perniciosa por administración oral de factor intrínseco, vitamina B12 y el suero de un paciente con esa enfermedad.
+Se demostró que el suero prevenía la mediación del factor intrínseco en la absorción de B12 por el organismo, y por estudios posteriores se determinó que el principio activo era un anticuerpo.
+En apariencia, los anticuerpos circulantes no son capaces de neutralizar la actividad fisiológica del factor intrínseco; un paciente inmunizado por vía parenteral con factor intrínseco de cerdo en adyuvante completo de Freund presentó niveles elevados de anticuerpos séricos y buenas respuestas cutáneas celulares pero aún absorbía bien B12, cuando era alimentado con factor intrínseco de cerdo.
+Estos datos implican que los anticuerpos tienen que encontrarse dentro de la luz del tracto gastrointestinal para presentar efectividad biológica, y pueden identificarse en el jugo gástrico de estos pacientes, sintetizados por células plasmáticas en las lesiones de gastritis.
+
+Mientras que no se dispone de evidencias de que los anticuerpos capaces de bloquear el receptor de gastrina en las células parietales puedan provocar destrucción tisular, se postula que contribuyen a la hipocloridia y la acloridia que se observan en la anemia perniciosa y la gastritis atrófica, en especial cuando quedan células parietales residuales en la mucosa gástrica.
+Se piensa que algunos casos de úlcera gástrica pueden ser el resultado de la estimulación de la secreción ácida por activación a través de anticuerpos de los receptores de histamina, y se espera que estudios futuros avalen esta postura.
+
+Figura 15-1
+
+Tirotoxicosis neonatal
+
+(a) Los auto-anticuerpos que estimulan el tiroides por los receptores de TSH son xxx y atraviesan la placenta. 
+(b) Por lo tanto, la madre tirotóxica da a luz un bebé con hiperactividad tiroidea que evoluciona favorablemente en forma espontánea a medida que cataboliza la xxx materna. 
+(Fotografía cedida por el Dr. A MacGregor).
+
+Figura 15-2
+
+Auto-anticuerpos que afectan el crecimiento del tiroides.
+
+(a) Anticuerpos estimulantes en la enfermedad de Graves con bocio y en bocio coloidal autoinmune que se determinan por el incremento de las células que entran en la fase de síntesis (S) de DNA del ciclo celular en fragmentos de tiroides tratados con xxx del suero del paciente.
+Los valores de p se relacionan con diferencias entre los valores obtenidos y la xxx normal.
+(b) Anticuerpos bloqueantes en mixedema primario revelados por la capacidad que posee la xxx del paciente para inhibir la estimulación del crecimiento producida por FSH.
+Cada punto representa el valor para el suero de un paciente.
+(Datos de Drexhage H A, Bottazzo, G F, Doniach D, Bitensky L y Chayen J &lsqb;1980&rsqb; Lancet ii , 287 y de &lsqb;1981&rsqb; Nature 289, 594).
+
+Esperma 
+
+En algunos varones infértiles, los anticuerpos aglutinantes producen la agregación de los espermatozoides e interfieren en su penetración al moco cervical.
+
+Figura 15-3
+
+Relaciones de diferentes respuestas auto-alérgicas con el espectro circular de los trastornos tiroideos autoinmunes.
+
+Las respuestas que incluyen tiroglobulina y el antígeno microvelloso de superficie microsomal de peroxidasa tiroidea conduce a la destrucción tisular mientras que otros auto-anticuerpos pueden estimular o bloquear la actividad metabólica o la división de las células tiroideas.
+Algunos investigadores escoceses utilizan el término "Hashitoxicosis" para describir una glándula con tiroiditis de Hashimoto y tirotoxicosis simultáneas (cortesía del Prof. D Doniach y del Dr. G F Bottazzo).
+
+Membrana basal glomerular ( mbg ) 
+
+En el caso de la enfermedad inmunitaria renal los modelos experimentales precedieron al descubrimiento de lesiones paralelas en el ser humano.
+La inyección de preparados xxx heterólogos de reacción cruzada en adyuvante completo de Freund produce glomerulonefritis en ovejas y otros modelos animales de experimentación.
+
+Pueden captarse los anticuerpos anti-xxx por coloración por inmunofluorescencia de biopsias provenientes de animales nefríticos con anti-xxx .
+Los anticuerpos son absorbidos en su mayor parte, si no todos, por el riñón in vivo pero aparecen en el suero con la nefrectomía y pueden transferir en forma pasiva la enfermedad a otro animal de la misma especie.
+
+Una situación análoga se produce en el hombre en ciertos casos de glomerulonefritis, en particular los asociados con hemorragia pulmonar (síndrome de Goodpasture).
+La biopsia renal del paciente muestra depósito lineal de xxx y xxx a lo largo de la membrana basal de dos capilares glomerulares (fig. 12-13a).
+Luego de la nefrectomía, pueden detectarse anticuerpos anti-xxx en el suero.
+Lerner y col eluyeron el anticuerpo xxx de un riñón enfermo y lo inyectaron en un mono ardilla.
+El anticuerpo se fijó con rapidez a la xxx del animal receptor y produjo una nefritis fatal (fig. 15-4).
+De allí se sacaron las conclusiones referidas a que la lesión en el ser humano es el resultado directo del ataque de la xxx por estos anticuerpos fijadores de complemento.
+Las alteraciones pulmonares que se observan en el síndrome de Goodpasture se atribuyen a reacciones cruzadas con algunos de los anticuerpos anti-xxx .
+
+Músculo 
+
+La debilidad muscular transitoria que se observa en una proporción de bebés nacidos de madres con miastenia gravis recuerda la trombocitopenia neonatal y el hipotiroidismo y sin duda es compatible con el pasaje transplacentario de una xxx capaz de inhibir la transmisión neuromuscular.
+Este concepto está avalado por los consistentes hallazgos de anticuerpos anti-receptores musculares para acetilcolina en pacientes con miastenia y la depleción de estos receptores en las placas motoras terminales.
+Además, pueden inducirse los síntomas de miastenia en animales por inyección de anticuerpos monoclonales contra los receptores de acetilcolina o por inmunización activa con los mismos receptores purificados.
+Sin embargo, la mayoría de los bebés con madres miasténicas no presentan trastorno muscular y se infiere que se protegen a sí mismos por producción de anticuerpos dirigidos contra los idiotipos de los auto-anticuerpos maternos.
+
+El cuadro 15-1 resume estos efectos patógenos directos sobre los auto-anticuerpos humorales.
+
+Figura 15-4
+
+Transferencia pasiva de glomerulonefritis a un mono ardilla por inyección de anticuerpos anti-membrana basal glomerular ( anti-xxx aislados por elución ácida del riñón de un paciente con síndrome de Goodpasture (según Lerner R A, Glascock R J y Dixon F J &lsqb;1967&rsqb; J Exp Med 126, 989).
+
+Efecto de los complejos 
+
+Lupus eritematoso sistémico (LES) 
+
+En los sitios en los cuales se forman auto-anticuerpos contra componentes solubles de acceso permanente. es posible que se formen complejos que pueden dar origen a lesiones similares a las que ocurren en la enfermedad del suero, en especial cuando defectos de los componentes tempranos clásicos del complemento previenen una depuración efectiva (véase p. 247).
+En el LES, los complejos de DNA y otros antígenos nucleares, junto a las inmunoglobulinas y el complemento pueden ser detectados por coloración inmunofluorescente de biopsias de riñón provenientes de pacientes con disfunción renal evidente.
+
+El patrón de coloración con anti-xxx o anti-xxx fluorescente es punteado o moteado (fig. 12-13b), en marcado contraste con el patrón lineal producido por los anticuerpos anti-xxx en el síndrome de Goodpasture (fig. 12-13a; p. 264).
+Los compleJos crecen en tamaño y se transforman en grandes agregados visibles con el microscopio electrónico como cúmulos amorfos sobre la cara epitelial de la membrana basal glomerular (fig. 15-5).
+Durante la fase activa de la enfermedad disminuyen los niveles séricos del complemento a medida que se ven afectados los componentes por los agregados inmunes en el riñón y la circulación.
+
+No han tenido mucho éxito los intentos efectuados para detectar auto-antígenos en los complejos circulantes; por lo general la mayor parte de los constituyentes identificables son inmunoglobulinas y componentes del complemento.
+Si bien en forma negativa, esto constituye una evidencia consecuente con la posibilidad de que los anti-idiotipos pudieran perpetuar un estado autoinmunitario una vez iniciado (es decir, actúa como auto-antígeno sustituto) y genera complejos circulantes idiotipo-anti-idiotipo.
+
+Tabla 15-1
+
+Efectos patogénicos directos de los anticuerpos humorales
+
+Estudios por inmunofluorescencia realizados sobre biopsias de piel de pacientes con la enfermedad relacionada lupus eritematoso discoide también revelan la presencia de inmunocomplejos.
+
+Artritis reumatoidea 
+
+Evidencias morfológicas de actividad inmunitaria 
+
+Los cambios articulares en la artritis reumatoidea se producen en esencia por crecimiento maligno de las células sinoviales formando un pannus que recubre y destruye al cartílago y al hueso (fig. 15-6a-f).
+La membrana sinovial que rodea y mantiene el espacio articular se transforma en intensamente celular como consecuencia de una considerable hiperreactividad inmunitaria que se evidencia por la presencia de grandes cantidades de linfocitos T, en su mayor parte xxx en distintas etapas de activación, por lo general asociados a células dendríticas y macrófagos; con frecuencia se observan cúmulos de células plasináticas y en ocasiones se encuentran folículos secundarios con centros germinativos, como si la sinovial se hubiera transformado en un ganglio linfático activo (fig. 15-6g, h e i).
+Se ha estimado que la síntesis de inmunoglobulinas por parte del tejido sinovial es similar al de un ganglio linfático estimulado.
+Existe expresión diseminada de HLA-DR (clase II): son positivos los linfocitos T y B, las células dendríticas y de recubrimiento sinovial y los macrófagos, lo cual indica una acción activa (fig. 15-6k).
+Se postula que esta importante reactividad inmunitaria provee de un intenso estímulo a las células de recubrimiento sinovial que sufren transformación a pannus invasivo, el cual provoca erosión articular por liberación de mediadores destructivos.
+
+¿Qué provoca esta actividad inmunitaria?
+
+Desde el punto de vista del linfocito T, aún no se han identificado antígenos convencionales.
+Ciertos informes refieren el aislamiento de líneas de linfocitos T provenientes de las articulaciones que son conducidos por líneas de linfocitos B transformadas por virus EB, derivados de la misma población linfocitaria.
+Esto sugiere quizá cuatro posibilidades principales para las especificidades de la línea de linfocitos T: idiotipo anti-linfocito B, y CMH de clase II autorreactivo ya sea solo o asociado con proteína EBV o proteínas de estrés (shock térmico) procesadas.
+La síntesis de estas últimas aumenta en respuesta a insultos externos tales como aumento de la temperatura, infección viral, estimulación de citoquinas, o aun los procesos activos intraarticulares.
+Si bien no será difícil determinar estas cuestiones, hasta el momento no se dispone de la información requerida.
+Queda la posibilidad de que existan cantidades significativas de linfocitos T que reaccionan con determinantes autólogos de clase II portadores de péptidos derivados de proteínas de estrés.
+
+Auto-sensibilización de xxx 
+
+Si se considera el mecanismo explicado en la figura 14-10 (p. 296), estos linfocitos T podrían estimular a los linfocitos B articulares para que expresen los péptidos de proteína de estrés que han reaccionado con auto-antígenos portadores de determinantes repetidos; en particular, en el contexto de la artritis reumatoidea, éstas podrían ser las regiones xxx múltiples de xxx dentro de un complejo inmune soluble.
+Esto llevaría a la síntesis de auto-anticuerpos contra la región xxx de xxx conocida como anti-globulinas o factores reumatoideos.
+Son el sello distintivo de la enfermedad, y se demuestran en casi todos los pacientes con artritis reumatoidea.
+La mayoría tiene antiglobulinas xxx que reaccionan en las clásicas pruebas de aglutinación de látex y de eritrocitos de carnero (cuadro 14-2: nota 7), y tanto ellos como los pacientes "sero-negativos" que no reaccionan con estas pruebas se ha demostrado que poseen títulos elevados de antiglobulinas xxx detectables por inmunoensayo de fase sólida (véase p. 97; fig. 15-7).
+
+Figura 15-5
+
+Biopsia renal de un paciente con LES con glomerulonefritis severa por inmunocomplejos y proteinuria.
+
+La micrografía electrónica muestra engrosamiento irregular de las paredes capilares glomerulares por complejos subepiteliales (a) y subendoliales (b).
+La región mesangial muestra abundantes complejos (probablemente fagocitados)(cortesía del Dr. A Leatham).
+
+Dado que la auto-sensibilización contra xxx es una característica casi universal de la enfermedad, la mayor parte de las células plasmáticas sinoviales deberían sintetizar anti-globulinas.
+Pero en realidad sólo una cantidad relativamente menor de las células plasmáticas (10-20%) fijan xxx marcado con fluoresceína, ya sea como material agregado por calor (fig. 15-6j) o como inmunocomplejos (el factor reumatoideo es un anticuerpo con baja afinidad y sólo se observa un buen enlace cuando se utiliza xxx multivalente como antígeno).
+Sin embargo, debe considerarse una característica particular y exclusiva de las antiglobulinas xxx dado que ambas son antígeno y anticuerpo al mismo tiempo, tienen capacidad de auto-asociación (fig. 15-8b) y de esta forma se esconden la mayoría de las valencias libres de la antiglobulina.
+
+Munthe y Natvig supusieron que la destrucción de las regiones xxx por acción de la pepsina liberaría estos sitios de unión ocultos (fig. 15-8c), y observaron que hasta el 40-70% de las células plasmáticas de la sinovial presentaban especificidad anti-xxx luego del tratamiento con esta enzima.
+
+Los agregados de xxx , presumiblemente producto de estas células plasmáticas, pueden detectarse con regularidad en los tejidos sinoviales y en el líquido articular donde dan origen a típicas reacciones inflamatorias agudas con exudados líquidos.
+Al ser analizados se determina que están compuestos casi con exclusividad por inmunoglobulinas y complemento mientras que una proporción importante de la xxx se encuentra presente como antiglobulina auto-asociada, según puede observarse al ligarlo a un inmunoabsorbente xxx luego del tratamiento con pepsina.
+
+Glucosilación anormal 
+
+Uno de los acontecimientos más recientes en el estudio de la artritis reumatoidea ha sido el descubrimiento de que la xxx de los pacientes presenta glucosilación anormal.
+Los dos dominios xxx de la región xxx están separados (véase p. 52) por dos azúcares unidos por asparagina con la estructura general que se muestra en la figura 15-9a.
+Los brazos 1,3 de cada azúcar proveen un puente entre los dominios mientras que los azúcares 1,6 están dirigidos hacia la superficie proteica donde está ubicada la terminal ácido siálico-galactosa en una cavidad especial similar a la lectina (fig. 15-9b y c).
+
+Algunas cadenas terminan en N-acetil-glucosamina y carecen de los azúcares terminales ácido siálico-galactosa.
+En individuos normales, alrededor del 14% de los grupos azúcar xxx de xxx carecen de la galactosa terminal en ambas cadenas.
+Lo extraordinario radica en que el porcentaje de azúcares que carecen por completo de galactosa en la xxx de los pacientes con artritis reumatoidea siempre es mayor que en los controles v puede alcanzar el 60% (fig. 15-10).
+1 El xxx puede tener auto-antigenicidad aumentada.
+2 Los complejos xxx autoasociados (fig. 15-8) se mantendrían unidos con mayor fuerza si las terminales de ácido siálico-galactosa del azúcar xxx de uno de los xxx coincide con la cavidad de lectina del xxx que queda vacante por la falta de galactosa en el azúcar xxx . 
+
+
+Producción de daño tisular 
+
+Según se explica en el epígrafe de la figura 15-8, los complejos pueden estabilizarse por medio de las moléculas de enlace xxx multivalentes, el factor reumatoideo xxx y xxx , y cuando se encuentran en el espacio articular pueden iniciar una reacción de Arthus que lleva a un influjo de polimorfonucleares con los cuales reaccionan con el fin de liberar enzimas lisosomales. 
+Éstas incluyen proteinasas neutras y colagenasa capaces de dañar al cartílago articular por degradación de proteoglucanos y fibrillas de colágeno.
+Si los complejos están adheridos al cartílago se produce mayor daño dado que los polimorfonucleares se fijan pero son incapaces de fagocitarlo ("fagocitosis frustrada"); en consecuencia se liberan las hidrolasas lisosomales hacia el exterior de la célula, al espacio entre la célula y el cartílago, donde están protegidas de los inhibidores de enzimas tales como la xxx macroglobulina.
+
+Los agregados también pueden estimular las células similares a los macrófagos del recubrimiento sinovial, ya sea en forma directa por sus receptores de superficie o en forma indirecta por fagocitosis y resistencia a la digestión intracelular.
+La liberación de linfoquinas tales como xxx y xxx de los linfocitos T activados provee de estimuladores más potentes de los macrófagos.
+
+Las células sinoviales activadas crecen como pannus maligno (cobertura) por encima del cartílago (fig. 15-7d) y en el margen de este tejido de granulación en crecimiento puede observarse degradación (fig. 15-7e), casi con certeza producto de la liberación de enzimas, de intermediarios de oxígeno reactivo y en especial de interleuquina-1 , xxx .
+Los macrófagos activa dos también secretan activadores de plasminógeno, y la plasmina formada como consecuencia, activa una colagenasa latente producida por las células sinoviales.
+
+Puede producirse sensibilización al colágeno parcialmente degradado y esto puede conducir de manera secundaria a la amplificación de la lesión.
+Los productos secretados por el macrófago estimulado son capaces de activar a los condrocitos y así exacerbar la degradación del cartílago y a los osteoclastos para aumentar la resorción ósea que es una complicación adicional de la enfermedad severa.
+Los nódulos subcutáneos son granulomas (fig. 15-6m y n) formados posiblemente por producción local de antiglobulinas insolubles auto-asociadas.
+
+Figura 15-6
+
+Artritis reumatoidea (AR).
+
+(a) Manos de un paciente con AR crónica que muestran las clásicas deformidades en cuello de cisne.
+(b) Representación en diagrama de una articulación diartródica que muestra erosiones óseas y cartilaginosas por debajo del pannus derivado de la membrana sinovial.
+(c) Articulación interfalángica proximal que muestra marcada erosión ósea v erosión marginal del cartílago.
+(d) Pannus temprano de tejido de granulación que crece sobre la rótula. 
+(e) Histología del pannus que muestra clara erosión del hueso y el cartílago en el margen celular. 
+(f) Histología del pannus coloreado para esterase no específica de macrófagos; nótense los largos procesos dendríticos coloreados.
+(g) Células inflamatorias crónicas en las capas más profundas de la sinovia en AR.
+(h) Una sinovia hipervellosa con folículos secundarios bien formados con centros germinativos (se visualizan rara vez). 
+(i) Vista con gran aumento de una zona sinovial enferma que muestra colecciones de células plasmáticas clásicas.
+(j) Células plasmáticas aisladas del tejido sinovial de un paciente coloreado al mismo tiempo para xxx (con xxx marcado con fluoresceína) y factor reumatoideo (con xxx agregado marcado con rodamina).
+Dos de las cuatro células plasmáticas positivas para xxx parecen sintetizar factores reumatoideos.
+(k) Sinovial reumatoidea que muestra grandes cantidades de células coloreadas con anti xxx ( anti-clase II).
+(l) Sinovial reumatoidea que muestra células accesorias positivas para clase II (verde) en íntimo contacto con linfocitos T xxx positivos (naranja). 
+(m) Grandes nódulos reumatoideos en el antebrazo.
+(n) Aspecto granulomatoso del nódulo reumatoideo con zonas necróticas centrales rodeadas por células epitelioides, macrófagos y linfocitos diseminados.
+A menudo se demuestra la presencia de células plasmáticas productoras de factor reumatoideo y es posible que la lesión represente una respuesta a la formación de complejos insolubles anti-xxx .
+( Cedido gentilmente por Dr. D Isenberg).
+
+Fig. 15-7.
+Antiglobulinas xxx e xxx determinadas por radioensayo en tubo en pacientes con artritis reumatoidea seropositiva (o) y seronegativa.
+
+Las líneas punteadas indican los límites de confianza del 95% (media + 2 DS) del grupo normal.
+(De Nineham L, Hay F C y Roitt I M &lsqb;1976&rsqb; J Clin Path, 29, 1121).
+
+Figura 15-8
+
+Complejos auto-asociados de antiglobulinas xxx y la exposición de sitios de unión escondidos por la pepsina.
+
+Aunque de baja afinidad relativa, la fuerza del enlace es incrementada por el efecto bonificador de adosamiento mutuo y, además, estos complejos en la articulación pueden ser estabilizados por inmunoglobulina xxx las cuales tienen sitios polivalentes de enlace para xxx .
+
+Figura 15-9
+
+Los azúcares xxx y su papel en la formación de puentes entre los dominios xxx .
+
+(a) Estructura típica de cada azúcar ligado a N.
+Algunas cadenas carecen de galactosa-ácido siálico terminal.
+(b) Posición de las cadenas de azúcar en los dominios xxx .
+(c) Estructura de las regiones xxx y la asociación entre galactosa-ácido siálico terminal en el brazo 1,6 y la superficie proteica.
+Los brazos 1,3, uno de los cuales debe carecer de galactosa, forman un puente entre los dos dominios.
+( xxx N-acetilglucosamina; Man, manosa; Gal, galactosa; xxx , ácido siálico; Fuc, fucosa).
+
+La reumatología se vio estimulada por el descubrir miento hecho hace unos pocos años de que una elevada proporción de pacientes con artritis reumatoidea presentan títulos altos de anticuerpos circulantes contra un antígeno nuclear que se encuentra en el virus EB transformado pero que está ausente en los linfocitos normales.
+Esto condujo al hallazgo de que los linfocitos T de estos pacientes son deficientes en el control mediado por interferón de la transformación por virus EB de los linfocitos B.
+Si bien es poco probable que esto signifique un papel etiológico principal para la infección por virus EB, podría representar una alteración regulatoria básica que resulte en un manejo defectuoso de algún microorganismo iniciador y es posible que permita la emergencia de linfocitos T autorreactivos.
+En la figura 15-11 se muestra una revisión de la patogenia y la etiología de la enfermedad, pero debe recordarse que hay muchas otras hipótesis posibles, que incluyen reacciones cruzadas entre microorganismos e xxx y la generación de anti-xxx de linfocitos T, responsables del desarrollo de la auto-sensibilización de xxx .
+
+Vasculitis sistémica 
+
+Estos trastornos se han ligado por tradición a la patogenia mediada por inmunocomplejos pero en realidad aún se desconocen los verdaderos factores causales de las lesiones vasculares.
+Con frecuencia se asocian a la presencia de anticuerpos circulantes contra componentes del gránulo polimorfonuclear primario, una serina proteasa III en el caso de la granulomatosis de Wegener y una mieloperoxidasa en algunos pacientes con poliarteritis nodosa.

@@ -1,0 +1,552 @@
+
+TRATAMIENTO DE LA ENFERMEDAD GENÉTICA 
+
+En las próximas décadas, el impacto de la biología molecular y la ingeniería proteica en el tratamiento de la enfermedad genética puede ser tan grande como el que produjeron los polimorfismos de DNA y la clonación posicional en la genética médica general durante la década anterior.
+En este capítulo se revisan las terapias estándar empleadas en el tratamiento de la enfermedad genética y se delinean algunas de las nuevas estrategias que pueden utilizarse en el futuro.
+En particular se subrayan las terapias que reflejan el enfoque genético en medicina.
+Como con toda terapia, el objetivo de tratar una enfermedad genética es eliminar o reducir los efectos del trastorno.
+No sólo en el paciente, sino también en su familia.
+Además. 
+La familia debe ser informada sobre los riesgos de que la enfermedad ocurra en otros miembros.
+Esta última responsabilidad, el consejo genético, constituye un componente principal del tratamiento de trastornos hereditarios y se aborda en el capítulo 18.
+El tratamiento de muchas enfermedades monogénicas consistirá finalmente en la terapia de transferencia génica, siempre que sea posible realizar el procedimiento con seguridad y efectividad.
+Sin embargo, incluso cuando puedan transferirse copias de un gen normal al paciente para realizar una curación permanente, la familia necesitará consejo genético, pruebas de portador y diagnóstico prenatal, en muchos casos a lo largo de varias generaciones.
+Actualmente es posible en algunos casos reemplazar la proteína defectuosa, mejorar su función o reducir las consecuencias de su Deficiencia.
+Se han publicado varias revisiones excelentes del tratamiento de la enfermedad genética, incluidas las de Valle (1987), Beaudet y cols. (1989), Rosenberg (1990) y Desnick 1991).
+
+ESTADO ACTUAL DEL TRATAMIENTO DE LA ENFERMEDAD GENÉTICA
+
+Enfermedades multifactoriales
+
+Para la mayor parte de las enfermedades multifactoriales, los componentes genético y ambiental de la etiología se comprenden de manera deficiente.
+Sin embargo, cuando se reconoce una contribución ambiental, se dispone de una oportunidad para intervenir efectivamente, porque la exposición al factor ambiental a menudo puede modificarse.
+Así, el tabaquismo constituye un factor ambiental que todos los pacientes con enfisema deben evitar.
+Al menos un mecanismo por el que el humo de los cigarrillos genera enfisema se ha revelado con el estudio de la deficiencia de xxx -antitripsina, xxx ; un trastorno monogénico. 
+Como se describió en el capítulo anterior, el humo del cigarrillo oxida el residuo de metionina fundamental en el lugar activo de la xxx , xxx , lo que reduce 2.000 veces su capacidad para inhibir la elastasa. 
+De este modo, el tabaquismo produce una pérdida sustancial adquirida de la función de xxx . 
+
+La impresión general de que las enfermedades genéticas son invariablemente difíciles de tratar es desmentida por los datos sobre trastornos de herencia multifactorial en neonatos que pueden curarse con cirugía, una forma de modificación Fenotípica.
+Estas alteraciones incluyen cardiopatías congénitas.
+Labio leporino y paladar hendido, y estenosis pilórica.
+Estas tres anomalías estructurales afectan a cerca del 1,5% de todos los recién nacidos vivos, lo que constituye aproximadamente el 30 % de todos los recién nacidos con enfermedad genética.
+En alrededor de la mitad de estos pacientes, las entidades son curables mediante una sola operación.
+Es posible curar al menos del 10 al 15 % de los niños con un trastorno genéticamente determinado.
+Sin embargo, el tratamiento de la enfermedad heredada casi nunca resulta tan beneficioso, aunque con frecuencia mejora la calidad de vida.
+
+Para trastornos multifactoriales que de modo característico se presentan en la adolescencia o la vida adulta, como la hipertensión esencial, la diabetes, la enfermedad de arteras coronarlas, la esquizofrenia y otras psicosis principales las imperfecciones del tratamiento reflejan la ignorancia de la etiología. 
+
+Enfermedades monogénicas
+
+El tratamiento de las enfermedades monogénicas es muy deficiente hasta el momento.
+Un estudio reciente de 351 trastornos mostró que con la terapia actual la duración de la vida puede hacerse normal sólo en alrededor del 15% de las alteraciones monogénicas' la capacidad reproductiva en el 11% y de la adaptación social en el 6%.
+No obstante, el análisis indicó que el éxito del tratamiento es mayor para trastornos en los que el defecto bioquímico básico se conoce (fig. 13- 1).
+Incluso en este grupo favorecido, sin embargo, la terapia fue completamente correctiva de la disfunción fenotípica sólo en el 12%, lo fue parcialmente en el 40 % y no produjo ningún efecto en el resto.
+Así, la investigación para averiguar la base genética y bioquímica de la enfermedad hereditaria tiene un impacto en el paciente, aunque incluso en trastornos bioquímicamente definidos el tratamiento actual no restablece la salud normal en la gran mayoría de los pacientes.
+
+
+El actual estado insatisfactorio del tratamiento de la enfermedad genética se debe a numerosos factores' incluyendo los tres siguientes:
+1 El locus mutante es desconocido en más del 80 % de las enfermedades genéticas y el conocimiento de la fisiopatología en los trastornos en los que se conoce el gen afectado o la anomalía bioquímica es inadecuado. 
+En la fenilcetonuria ( PKU ), por ejemplo, a pesar de los años de estudio, todavía no se conocen los mecanismos por los que la elevación de la fenilalanina deteriora el desarrollo y la función cerebrales.
+Para enfermedades como la fibrosis quística y la distrofia muscular de Duchenne, en las que la proteína afectada se ha identificado recientemente, se requiere mucho trabajo antes de que se determine la función normal del polipéptido y se comprenda por completo el proceso de la enfermedad
+
+2 Algunas mutaciones actúan en un momento temprano del desarrollo o causan patología irreversible antes de que se diagnostiquen. 
+Estos problemas pueden anticiparse en algunos casos si existen antecedentes familiares de enfermedad genética o si el cribado de portadores identifica parejas en riesgo.
+En este último caso, el tratamiento prenatal algunas veces es posible para alteraciones médicas y quirúrgicas.
+
+3 Con frecuencia, los casos iniciales de una enfermedad por diagnosticar están gravemente afectados y muchas veces son menos susceptibles al tratamiento que aquellos con expresión más leve.
+En estos últimos, la proteína mutante puede retener alguna función residual que puede incrementarse mediante una de varias estrategias, como se describe más adelante.
+
+
+Figura 1
+
+Efecto del tratamiento de enfermedades genéticas en tres manifestaciones de la enfermedad. 
+
+Aunque la respuesta al tratamiento es pobre tanto en enfermedades de causa desconocida como en las que se conoce el defecto bioquímico, los resultados son mejores en este último grupo.
+
+CONSIDERACIONES ESPECIALES SOBRE EL TRATAMIENTO DE LA ENFERMEDAD GENÉTICA
+
+Necesidad de valoración a largo plazo del tratamiento
+
+En la enfermedad genética, quizá más que en otras áreas de la medicina, un tratamiento en un principio juzgado como eficaz puede finalmente resultar imperfecto. 
+Existen al menos tres facetas en este problema.
+En primer lugar, un tratamiento en principio eficaz puede mostrar en observaciones a más largo plazo ciertas insuficiencias sutiles.
+Así, aunque los niños con PKU bien tratados no presentan un retraso grave y tienen cocientes intelectuales normales o casi normales (v. más adelante).
+A menudo manifiestan trastornos de aprendizaje sutiles y anomalías del comportamiento que deterioran sus resultados académicos.
+De manera similar, en pacientes con galactosemia se han reconocido anomalías del aprendizaje semejantes a las que se observan en individuos con PKU tratados.
+
+En segundo lugar, tras el tratamiento eficaz de los cambios patológicos en un órgano pueden surgir problemas inesperados en tejidos que previamente no se identificaron como implicados clínicamente, ya que los pacientes no sobreviven lo suficiente.
+Por ejemplo. a pesar de un tratamiento adecuado, la mayoría de las mujeres con galactosemia presentan insuficiencia ovárica que parece causada por una toxicidad continua producida por galactosa.
+La detección de manifestaciones tardías puede requerir muchos años de observación después de la terapia inicial.
+Otra enfermedad que ilustra este fenómeno es la cistinosis , que se debe a acumulación de cistina en el lisosoma por un defecto en su segregación.
+El almacenamiento de cistina provoca inicialmente insuficiencia renal.
+Sin embargo, a medida que los pacientes que reciben trasplantes renales crecen, se genera la morbididad por hipotiroidismo, enfermedad de los islotes que causa diabetes y varias anomalías neurológicas Un último ejemplo lo proporcionan las mutaciones en el gen del retinoblastoma (v. cap. 16).
+Los pacientes tratados con éxito por tumor ocular en los primeros años de vida presentan un riesgo incrementado de desarrollar un cáncer independiente, un osteosarcoma, después de la primera década.
+Por lo tanto, irónicamente, un tratamiento que prolonga con éxito la vida proporciona una nueva oportunidad para la expresión clínica del defecto básico, en particular en condiciones en las que el gen mutante se expresa normalmente en muchos tejidos, proporcionando así más dianas potenciales para el desarrollo de la patología.
+
+En tercer lugar, una terapia que no produce problemas a corto plazo puede inducir serios efectos secundarios a largo plazo.
+Por ejemplo, la administración del factor de coagulación en la hemofilia genera algunas veces la formación de anticuerpos para la proteína suministrada, y la transfusión sanguínea en la talasemia causa invariablemente una sobrecarga de hierro que puede ser tratada, pero con dificultad.
+
+Heterogeneidad genética y tratamiento 
+
+El tratamiento óptimo de defectos monogénicos a menudo requiere un grado inusual de precisión diagnóstica, a nivel de la molécula afectada.
+Como se señaló repetidamente en capítulos anteriores, la heterogeneidad genética (heterogeneidad alélica o de locas) constituye una característica común de las enfermedades genéticas. 
+Para un tratamiento adecuado, con frecuencia resulta fundamental no sólo tratar una anomalía bioquímica que a veces puede ser secundarla, como las señaladas en la tabla 12-9, sino identificar con precisión el defecto bioquímico básico.
+Por ejemplo, las anomalías de la fenilalanín-hidroxilasa y de las enzimas del metabolismo de la biopterina producen hiperfenilalaninemia, pero el tratamiento de los dos tipos de defectos es muy diferente.
+Incluso las mutaciones alélicas pueden requerir tratamientos distintos: la talasemia y la enfermedad drepanocítica, dos trastornos de la B-globina clínicamente diferentes, ilustran este concepto.
+
+El estudio de las variantes alélicas de los defectos enzimáticos ha mostrado que los alelos que retienen pequeñas cantidades de actividad enzimática residual casi siempre causan una enfermedad mucho menos grave que los alelos nulos. 
+La diferencia entre pacientes con PKU clásica (prácticamente sin actividad enzimática residual) y los que presentan hiperfenilalaninemia benigna (con alrededor del 5 % de actividad) ilustra este principio.
+El corolario de esta observación es que el tratamiento efectivo de PKU clásica mediante transferencia génica o enzimática requerirá la administración de sólo pequeñas cantidades de fenilalanín-hidroxilasa.
+
+La heterogeneidad alélica tiene implicaciones adicionales para la terapia.
+Algunos alelos producen menos cantidad de una proteína que, sin embargo, tiene función residual.
+Las Estrategias diseñadas para incrementar la expresión o la estabilidad de la proteína parcialmente funcional pueden resultar eficaces para corregir el defecto bioquímico. 
+En contraste, no resulta efectivo incrementar la cantidad de una proteína mutante sin función residual.
+De hecho, la expresión aumentada de una proteína mutante sin función puede ser deletérea, porque es posible que ejerza un efecto dominante negativo si interactúa con el producto del alelo normal o con otras proteínas deteriorando su función.
+Esta consideración también es importante en los procedimientos de transferencia de un gen normal a un paciente con una enfermedad genética. 
+Por ejemplo, en la osteogénesis imperfecta, los pacientes con alelos nulos pueden ser más fáciles de tratar mediante transferencia génica que los que producen cadenas de colágeno cualitativamente anormales que reducen la contribución efectiva del gen transferido.
+
+ESTRATEGIAS DE TRATAMIENTO
+
+La enfermedad genética puede tratarse a muchos niveles, en los diferentes pasos desde el gen mutante.
+En el resto de este capítulo se describe el fundamento utilizado o propuesto para el tratamiento en cada uno de estos niveles.
+En general, las enfermedades ya descritas en este libro se emplean como ejemplos, aunque también se presentan nuevos trastornos cuando es necesario para ilustrar un enfoque específico. 
+Ninguno de los tratamientos actuales son por necesidad mutuamente excluyentes, aunque la terapia de transferencia génica eficaz hará superfluas otras terapias.
+El tratamiento «a nivel del fenotipo clínico» constituye una categoría que intenta incluir todos los tipos de intervenciones médicas o quirúrgicas que no son específicos del tratamiento de la enfermedad genética.
+Con frecuencia, ésta es la única terapia disponible y, en algunos casos, puede ser todo lo que se requiere, como en el caso, por ejemplo, de algunas malformaciones corregibles. 
+Por último, debe subrayarse mucho la importancia de educar quirúrgicamente al paciente -no sólo lograr que comprenda la enfermedad.
+Sus implicaciones genéticas y el tratamiento, sino también asegurar su conformidad con una terapia que puede resultar incómoda y durar toda la vida.
+
+Figura 2
+
+Diversos niveles de tratamiento relevantes para la enfermedad genética, con las Estrategias correspondientes empleadas en cada nivel
+
+Tabla 2
+
+Nivel de intervención Estrategia terapéutica
+
+Nivel de intervención.
+Estrategia terapéutica.
+
+
+Gen Mutable.
+Modificación del genotipo somático (trasplante; terapia de transferencia génica en el futuro cercano) .
+Modulación farmacológica de la expresión génica.
+
+
+mRNA mutante.
+
+
+Proteína mutante.
+Sustitución proteica .
+Incremento de la función proteica residual .
+
+
+Disfunción metabólica o bioquímica de otro tipo.
+Compensación especifica de enfermedad (dietaria o farmacológica en pacientes seleccionados).
+
+
+Fenotipo clínico .
+Intervención médica o quirúrgica;educación del enfermo.
+
+
+La Familia.
+Consejo genético; detección sistemática de portadores; diagnóstico presintomático.
+
+
+Tratamiento de anomalías metabólicas
+
+El procedimiento específico más eficaz para el tratamiento de la enfermedad genética ha sido a nivel de la anomalía metabólica.
+De hecho, este concepto es familiar para quienes están al tanto de las necesidades de compensación dietética por la incapacidad de los seres humanos y otros primates superiores para sintetizar el ácido ascórbico (vitamina C).
+Las estrategias principales empleadas para manipular el metabolismo en el tratamiento de errores congénitos se indican en la tabla 13-1.
+La necesidad de evitar ciertos fármacos y sustancias químicas en pacientes con enfermedades farmacogenéticas, como la deficiencia de glucosa -6- fosfato-deshidrogenasa, se describe en el capítulo 12.
+
+Tabla 1
+
+Tratamiento de la enfermedad genética mediante manipulación metabólica
+
+Tipo de intervención metabólica.
+Sustancia o técnica.
+Ejemplo.
+
+
+Anulación.
+Fármacos antipalúdicos .
+Deficiencia de G6PD.
+Isoniacida.
+Acetiladores lentos.
+
+
+Restricción dietaria.
+Fenilalanina.
+PKU .
+Galactosa.
+
+
+Galactosemia.
+
+
+Sustitución.
+Tiroxina.
+Hipotiroidismo congénito.
+Biotina.
+Deficiencia de biotinidasa.
+
+
+Desviación.
+Benzoato de sodio.
+Trastornos del ciclo de la urea .
+Resinas orales.
+Hipercolesterolemia familiar .
+
+
+Inhibición.
+Lovastatina .
+Hipercolesterolemia familiar.
+
+
+Depleción.
+Terapia de cambio plasmático .
+Hipercolesterolemia familiar.
+
+
+Restricción dietética
+
+La restricción dietética es uno de los métodos más antiguos y más efectivos para tratar la enfermedad genética.
+Su ventaja es que puede resultar muy eficaz:
+su inconveniente es que generalmente requiere cumplimiento de por vida. con una dietética restringida y a menudo artificial.
+Esta obligación dietética es molesta para la familia tanto como para el enfermo en especial en la adolescencia.
+Muchas de las enfermedades que es posible tratar de esta manera comprenden vías catabólicas de aminoácidos y. por consiguiente, generalmente es necesaria una severa restricción de proteína dietaria.
+Sin embargo, los nutrientes esenciales como los aminoácidos no pueden eliminarse por completo:
+su ingestión debe ser la suficiente para cubrir las necesidades anabólicas. 
+Los individuos con defectos enzimáticos leves (p. ej. , los alelos mutantes <<de mala calidad>>) pueden tolerar mayor cantidad del compuesto agresor, por lo que la dieta está menos restringida y el cumplimiento puede ser mejor.
+En otros casos, el precursor dietario del sustrato agresor no es un nutriente esencial (p. ej., la galactosa) y es posible eliminarlo por completo de la dieta.
+En la actualidad hay más de 24 enfermedades que comprenden otros tantos loci que se tratan de esta manera.
+
+Una dieta restringida de fenilalanina evita en gran medida el daño neurológico en la PKU clásica .
+Los niños fenilcetonúricos son normales al nacimiento, porque la enzima materna los protege durante la vida prenatal.
+Los resultados del tratamiento son mejores cuando el diagnóstico se realiza poco tiempo después del nacimiento y el tratamiento se comienza con rapidez.
+Si el niño recibe una dieta normal en los primeros meses de vida, se produce retraso mental irreversible:
+el grado de déficit intelectual se relaciona directamente con la demora en el inicio de la dieta baja en fenilalanina.
+El estado mental normal de pacientes con hiperfenilalaninemia benigna demuestra que el tratamiento efectivo de la PKU clásica puede realizarse si los niveles de fenilalanina se mantienen por debajo de aproximadamente 0,7 mmol.
+Sin esta guía natural se hubieran requerido muchos estudios clínicos para establecer un nivel plasmático de fenilalanina «seguro» en la enfermedad clásica.
+Hoy se recomienda que los pacientes con PKU se mantengan con una dieta baja de fenilalanina durante toda su vida, ya que se desarrollan anomalías neurológicas y de conducta en muchos de ellos (aunque no en todos) si la dieta se interrumpe.
+Sin embargo, incluso en pacientes que se han tratado a lo largo de toda su vida, hoy se sabe que, aun cuando su cociente intelectual es normal o casi normal, existen déficit neuropsicológicos (p. ej., incapacidades conceptuales, espaciovisuales y de lenguaje), si bien el tratamiento produce resultados muy superiores a lo que ocurre sin éste.
+
+Sustitución
+
+El suministro de metabolitos esenciales, cofactores u hormonas cuya Deficiencia se debe a una enfermedad genética es conceptualmente simple y con frecuencia lo es también su aplicación.
+Algunos de los defectos monogénicos tratados con mayor éxito pertenecen a esta categoría. 
+Un ejemplo importante es el hipotiroidismo congénito causado por diversos defectos (10 a 15 % de los cuales son genéticos) en la formación de la glándula tiroides o su producto principal, la tiroxina. 
+Debido a que el hipotiroidismo congénito es frecuente (alrededor de 1/4.000 neonatos) y a que el tratamiento puede prevenir el retraso mental asociado, muchos países realizan un cribado neonatal, de manera que la administración de tiroxina puede iniciarse inmediatamente después del nacimiento para prevenir los graves defectos intelectuales que de otro modo son inevitables.
+En la deficiencia de biotinidasa , la enzimopatía impide la recuperación de biotina a partir de proteínas que la contienen, evitando así el reciclaje de este cofactor enzimático.
+La administración de grandes cantidades de biotina resulta completamente correctiva si se suministran antes de que se desarrollen graves secuelas neurológicas.
+
+GENÉTICA DEL CÁNCER
+
+El cáncer es uno de los problemas más frecuentes y graves de la medicina clínica.
+Las estadísticas muestran que alguna forma de esta enfermedad afecta a más de una tercera parte de la población, provoca más del 20% de todas las muertes y, en países desarrollados, genera más del 10% del coste total de la atención médica.
+
+El cáncer no es una sola enfermedad, sino un nombre aplicado a una gran variedad de tumores malignos que se forman por el mismo proceso básico de crecimiento descontrolado. 
+La proliferación celular genera una masa (neoplasia o tumor) que invade tejidos vecinos (de ahí el nombre de cáncer que significa cangrejo) y puede producir también metástasis en layares más distantes.
+El crecimiento es autónomo, crecientemente maligno, y si no se trata, invariablemente fatal.
+El diagnóstico y tratamiento precoces son vitales, y la identificación de personas con riesgo incrementado de cáncer antes del desarrollo de la enfermedad constituye un objetivo importante de la investigación en esta área.
+
+Un tumor está compuesto de un parénquima de células proliferativas, con una estroma de tejido conectivo y vasos sanguíneos.
+Existen tres formas principales, sarcomas , en los que el tumor se ha formado en el tejido mesenquimatoso: carcinomas , que se originan en el tejido epitelial, y enfermedades malignas hematopoyéticas y linfoides , como la leucemia y los linfomas.
+Dentro de los grupos principales, los tumores se clasifican por su lugar, tipo de tejido y grado de malignidad.
+La mayor parte de los cánceres son trastornos de la época tardía de la vida, pero algunos son característicos de la infancia o pueden mostrar un grado mayor de malignidad si ocurren en personas jóvenes. 
+
+NATURALEZA GENÉTICA DEL CÁNCER 
+
+El concepto de cáncer como una enfermedad genética es relativamente nuevo.
+Quizás el 5% de todos los cánceres parecen seguir un patrón familiar; en la mayor parte, sin embargo, la herencia parece desempeñar un papel pequeño o nulo.
+No obstante, machos cánceres, como otras enfermedades que muestran características de herencia multifactorial, poseen un importante componente genético en cuanto a que ciertas personas son más susceptibles de desenrollar una malignidad particular como resultado de defectos genéticos que predisponen a cáncer.
+Además, es evidente que prácticamente todo cáncer es esencialmente -incluso en ausencia de componentes heredados aparentes- el resultado de mutaciones en células somáticas y su progresión también implica la expresión de una serie de genes. 
+
+En el pasado, los virus y la exposición a agentes ambientales como la radiación ionizante se señalaron como causas de la mayor parte de los cánceres.
+Hoy se reconoce que la causa de base es la mutación génica y. cuando participan agentes carcinógenos, operan produciendo mutación.
+Las mutaciones que provocan cáncer afectan los genes responsables de la proliferación celular, el desarrollo de las células y otras actividades celulares fundamentales.
+Cuando la regulación normal está alterada, se inicia el crecimiento descontrolado y se desarrolla un tumor maligno.
+
+La comprensión de la base genética del cáncer que ha comenzado a surgir después de muchas décadas de investigación se ha producido en gran medida por la aplicación de la genética molecular al análisis de varias formas de enfermedad maligna.
+Como ocurre a menudo en la genética médica, lo anormal ha proporcionado datos con respecto a lo normal:
+aprender lo que está mal en el cáncer también ha ayudado a clarificar el control genético de muchos aspectos del crecimiento celular normal.
+
+El campo de la genética del cáncer es uno de los de mayor movimiento en la biología y medicina actuales, y la comprensión de los mecanismos del cáncer se está incrementando con rapidez.
+Aunque aún queda mucho por aprender, están comenzando a aparecer los contornos de una hipótesis unificadora.
+En este capítulo se considera el estado actual del conocimiento de la base genética del cáncer incluyendo el papel de genes específicos como causa de cánceres tanto hereditarios como esporádicos.
+
+Naturaleza clónica del cáncer 
+
+Existen firmes pruebas de que un tumor es un clon de células derivadas de una sola célula ancestral, en la que ha ocurrido el evento iniciador (una mutación somática).
+La naturaleza clónica de los tumores se conoce desde hace muchos años.
+La prueba original se obtuvo del estudio de tumores en mujeres heterocigotas para la enzima ligada al X glucosa -6- fosfato-deshidrogenasa (GóPD).
+Como se señaló previamente, debido a la inactivación del X, sólo uno del par de alelos ligados al X en una mujer heterocigota se expresa en una célula somática. 
+Las líneas celulares derivadas de tumores en estas mujeres expresaron uno u otro alelo de GóPD, pero no ambos, lo que indicó que cada tumor había crecido a partir de una sola célula.
+Los reordenamientos cromosómicos característicos en muchos tipos de cáncer, como las translocaciones que se observan en el linfoma de Burkitt y en la leucemia mieloide crónica (que se describe más adelante), también indican que estas enfermedades malignas tienen origen en una sola célula.
+
+DOS CLASES DE GENES DE CÁNCER 
+
+Los genes que provocan cáncer son de dos tipos distintos: oncogenes y genes supresores de tumor .
+Ambos tipos tienen efectos opuestos en la carcinogénesis. 
+Los oncogenes facilitan la transformación maligna, mientras que los genes supresores de tumor, como su nombre indica, bloquean el desarrollo del tumor reculando los genes que participan en el crecimiento celular.
+
+Figura 1
+
+Esquema general de los mecanismos de oncogénesis por activación y mutación de protooncogén o pérdida de genes supresores de tumor
+
+El crecimiento y proliferación celulares son estimulados por los productos de protooncogenes y se encuentran bajo el control negativo de genes supresores de tumor que evitan el hipercrecimiento.
+La acción de los oncogenes es dominante y requiere sólo una mutación simple, lo que provoca crecimiento celular descontrolado.
+La acción de los genes supresores de tumor es recesiva; cuando ambos alelos están matados o se pierden, el crecimiento celular no está regulado y genera formación de tumor.
+
+Oncogenes
+
+Los oncogenes son genes que afectan el crecimiento y desarrollo celular normal.
+Si un oncogén está alterado o sobreexpresado, a causa de una mutación en el gen mismo o por una alteración del control externo, la célula en la que ocurre el cambio puede sufrir crecimiento descontrolado y finalmente convertirse en maligna.
+La mayor parte de los oncogenes son formas mutadas («activadas») de genes normales, denominadas protooncogenes , que participan en el control de la proliferación y diferenciación celular.
+
+Los oncogenes pueden identificarse experimentalmente en estudios de transferencia de DNA por su capacidad para transformar una línea celular de ratón no oncogénica en cultivo para que genere focos de células con propiedades oncogénicas.
+Hasta la fecha se han identificado más de 50 oncogenes humanos (y. por lo tanto, sus protooncogenes normales), sobre todo gracias a los estudios de transfección de DNA con DNA genómico de tumores humanos.
+
+Es digno de medición que muchos de los oncogenes identificados en tumores humanos (pero no todos) han llegado a relacionarse con oncogenes víricos previamente aislados de virus tumorales de RNA.
+La demostración de que la información genética de un virus podía cambiar una célula normal en maligna estableció la posibilidad de que los cenes actuaran como controladores centrales de la conversión maligna.
+Los virus de RNA conocidos como retrovirus poseen la propiedad singular de transcribir RNA en DNA, utilizando la enzima transcriptasa inversa.
+El DNA vírico puede entonces integrarse en el DNA cromosómico del huésped y expresarse. 
+Cuando se caracterizó el llamado oncogén xxx (secuencias transformadoras del virus del sarcoma de Rous), se halló que éste no era un verdadero gen vírico, sino un gen huésped que había sido recogido por un ancestro del virus a través de un proceso denominado transducción . 
+El gen huésped equivalente fue el primer protooncogén que se reconoció.
+Ahora, como se mencionó antes, se sabe que muchos protooncogenes están relacionados con virus tumorales de RNA específicos.
+(A diferencia de los oncogenes de retrovirus, los oncogenes de virus tumorales de DNA, como el virus de simio xxx y el virus del polioma, no son protooncogenes transducidos, sino genes víricos.)
+Los protooncogenes han permanecido muy conservados en la evolución; por ejemplo, el protooncogén xxx (denominado así debido a que se identificó originalmente en el virus del sarcoma de la rata de Harvey) y su proteína correspondiente se han encontrado en organismos tan alejados en la escala de la evolución como los seres humanos y las levaduras, lo cual sugiere que estas proteínas poseen papeles biológicos esenciales.
+Los diferentes papeles de las distintas clases de protooncogenes en la regulación del crecimiento se ilustran en la figura 2.
+
+Tabla 1
+<head type=main rend= "bo">Ejemplos seleccionados de oncogenes
+
+Oncogén.
+Fuente.
+localización del protooncogén en el mapa.
+Propiedad bioquímica .
+
+
+Proteínas de transducción de señal.
+
+
+Virus de la leucemia marina de Abelson.
+Virus del sarcoma de Roas (pollo).
+Carcinoma de colon humano.
+Virus del sarcoma de la rata de Harvey.
+Varios tumores humanos (neuroblastomas) .
+
+
+Proteínas nucleares de ligamiento de DNA.
+
+
+Sarcoma del pollo.
+Neuroblastoma humano.
+
+
+Factores de crecimiento secretados.
+
+
+Virus del sarcoma del simio .
+
+
+Receptores de superficie celular del factor de crecimiento.
+
+
+Eritroblastosis en aves.
+
+
+Enlaza DNA.
+
+
+Desconocida.
+
+
+Cadena B del factor de crecimiento derivado de plaquetas (PDGF).
+
+
+Receptor de esteroides.
+
+
+Figura 2
+
+Transducción de señal y regulación de crecimiento por productos de protooncogenes, que se clasifican por su localización y función en la célula
+
+La desregulación de un protooncogén puede provocar transformación maligna
+1 Factores de crecimiento secretados, como el EGF (factor de crecimiento embrionario) y el PDGF (factor de crecimiento derivado de plaquetas)
+2 Receptores específicos para los factores de crecimiento secretados
+3 Proteínas de transducción de señal citoplasmáticas como xxx y xxx , que son cinasas proteicas y proteínas de ligamiento de GTP
+4 Proteínas nucleares como xxx interactúan con genes mediante enlace con DNA
+
+Activación del protooncogén 
+
+Un importante hallazgo relacionado con los protooncogenes surgió del análisis molecular de un oncogén ras derivado de una línea celular de carcinoma de vejiga.
+El oncogén y su contrapartida, el protooncogén, diferían sólo en un par de bases.
+La alteración, una mutación puntual en una célula somática del tumor, propició la síntesis de un producto génico anormal que pudo estimular el crecimiento de la línea celular y convertirla en un tumor.
+Los oncogenes tienen un efecto dominante a nivel celular es decir, cuando se activan, un solo alelo mutante es suficiente para cambiar el fenotipo de una célula de normal a maligno. 
+Las mutaciones puntuales ras se observan en muchos tumores, y experimentalmente se ha mostrado que los genes ras constituyen la diana de carcinógenos conocidos' un hallazgo que apoya el papel de los genes r as matados en el desarrollo de muchos cánceres.
+
+La mutación estructural es sólo uno de los varios mecanismos que pueden inducir activación de protooncogenes (tabla 16-2).
+Las translocaciones cromosómicas son un mecanismo frecuente para la activación de un protooncogén en diversos cánceres.
+En la leucemia mieloide crónica (LMC), que se expone con más detalle en una sección posterior, la expresión incrementada y la transformación maligna se relacionan con la translocación del protooncogén abl de su posición normal en el cromosoma 9 al punto de rotura en el cromosoma 22 en una célula madre hematopoyética. 
+La translocación 9; 22 contribuye directamente al desarrollo del fenotipo maligno y también resulta un buen indicador diagnóstico de la LMC, al igual que lo son otras translocaciones características en otros tipos específicos de cáncer.
+
+Los cambios citogenéticos son típicos del cáncer y mucho más frecuentes en estadios tardíos o más malignos o invasivos que en estadios tempranos del desarrollo tumoral.
+Hasta ahora, la mayor parte de los estudios citogenéticos de la progresión del tumor se han relacionado con las leucemias.
+En la LMC, por ejemplo, en la etapa de crisis de blasto, pueden existir varias anomalías citogenéticas adicionales, incluyendo cambios numéricos o estructurales, como una segunda copia del cromosoma 9;22 translocado o un isocromosoma para 17 q.
+En las etapas avanzadas de otras formas de leucemia, las translocaciones son frecuentes.
+Un aspecto de la investigación del cáncer es la definición citogenética y molecular de estas anomalías, muchas de las cuales ya se sabe que están relacionadas con protooncogenes y posiblemente permiten el incremento de la expresión de éstos.
+
+Otro mecanismo importante para la sobreexpresión es la amplificación génica , un proceso raro o inexistente en las células normales, pero que algunas veces resulta frecuente en las células cancerosas.
+Los segmentos amplificados de DNA a menudo se detectan como dos tipos de cambio citogenético, diminutos dobles (cromosomas accesorios muy pequeños) y regiones homogéneamente tenidas (HSR), que no se bandean de forma normal y contienen múltiples copias amplificadas de un segmento particular de DNA.
+Aún no se entiende cómo y por qué se producen los diminutos dobles y la HSR, pero se sabe que las regiones amplificadas incluyen copias adicionales de protooncogenes con efectos en el crecimiento celular.
+Por ejemplo, el protooncogén xxx está amplificado más de 200 veces en el 40% de los neuroblastomas.
+Se considera que este fenómeno se relaciona con la progresión del tumor. 
+
+Necesidad de más de un gen activado 
+
+Un aspecto importante del inicio y progresión de la carcinogénesis por protooncogenes activados es que la mutación de un solo gen parece incapaz de provocar la transformación: más bien, parece que se requieren genes separados con efectos complementarios.
+Aunque aquí no se describen los detalles de los experimentos que demuestran que las células normales requieren cooperación entre diferentes oncogenes activados para que se produzca transformación, la conclusión es importante:
+la transformación maligna constituye un proceso de eventos múltiples que no se logra con un solo paso.
+
+Tabla 2
+
+Mecanismos de activación de protooncogenes
+
+Mecanismo.
+Tipo de gen activado.
+Resultado.
+
+
+Mutación reguladora.
+
+
+Mutación estructural.
+
+
+Translocación, inserción retrovírica, amplificación génica .
+
+
+Genes del factor de crecimiento.
+
+
+Receptores del factor de crecimiento, proteínas transductoras de señal.
+
+
+Oncogenes nucleares.
+
+
+Expresión o secreción incrementadas.
+
+
+Permite autonomía de expresión.
+
+
+Sobreexpresión.
+
+
+Tabla 3
+
+Translocaciones cromosómicas características en enfermedades malignas humanas seleccionadas
+
+Neoplasia.
+Translocación cromosómica .
+Casos(%).
+Protooncogén afectado.
+
+
+Linfoma de Burkitt.
+
+
+Leucemia mieloide crónica .
+
+
+Leucemia linfocítica aguda.
+
+
+Leucemia linfoblástica aguda.
+
+
+Leucemia promielocítica aguda.
+
+
+Leucemia linfocítica crónica.
+
+
+Linfoma folicular.
+
+
+Genes supresores de tumor
+
+Mientras los productos de protooncogenes promueven el crecimiento, los de los genes supresores de tumor normalmente bloquean el crecimiento anormal y la transformación maligna, y contribuyen al proceso maligno sólo cuando se pierde la función de ambos alelos.
+En otras palabras, en contraste con las mutaciones en protooncogenes, que son dominantes en su acción. 
+Las mutaciones en los genes supresores de tumor son recesivas. 
+
+Origen de «dos impactos» del cáncer
+
+En la década de los años sesenta, DeMars propuso la existencia de mutaciones recesivas que generaban cáncer. 
+Este autor sugirió que algunas formas de cáncer podían iniciarse cuando una célula en un individuo heterocigótico para una mutación recesiva en la línea germinal sufría una segunda mutación somática, convirtiendo la célula en homocigota y generando un tumor.
+Esta hipótesis de «dos» impactos, fue ampliada por Knudson (1971), quien propuso que algunas formas de cáncer como el retinoblastoma , que ocurren tanto hereditaria como esporádicamente, podían explicarse sobre la base de que en la forma hereditaria la primera mutación se transporta en la línea germinal mientras que en la forma esporádica ambas mutaciones son somáticas y ocurren en la misma célula somática. 
+Hoy se reconocen los genes normales como genes supresores de tumor, que desempeñan papeles reguladores en la proliferación, diferenciación y otras funciones celulares básicas. 
+La inactivación de genes supresores de tumor por mutación o algún otro mecanismo produce pérdida de regulación y, por tanto, resulta oncogénica. 
+
+Genes supresores de tumor en muchas formas de cáncer
+
+Como se describe con detalle más adelante.
+Los genes supresores de tumor se han implicado en varias formas mendelianas graves de cáncer, incluidos el retinoblastoma, el tumor de Wilms, la poliposis familiar, la neurofibromatosis tipo I y la rara forma de cáncer familiar conocida como síndrome de Li-Fraumeni.
+Si bien en cada uno de estos trastornos la herencia autosómica dominante es la regla o al menos se observa en cierta proporción de casos, se requiere la pérdida o alteración de ambas copias del gen supresor de tumor para el desarrollo tumoral.
+La explicación de esta aparente paradoja es que una sola copia funcional de un gen supresor de tumor es suficiente para proporcionar un fenotipo celular normal; sin embargo, una célula en la que una copia ya está alterada o perdida, por mutación en la línea germinal o somática, perderá su capacidad de suprimir el desarrollo tumoral si por casualidad sufre una mutación somática en el alelo restante.
+Debido a que los tumores son clónicos por naturaleza, este evento puede provocar un tumor. incluso si sucede sólo en una de las numerosas células de un tejido.
+
+La importancia de los genes supresores de tumor no se limita a las formas autosómicas dominantes de cáncer. 
+Como se describe posteriormente, los genes supresores de tumor también participan en la progresión de varias formas de cáncer frecuente no hereditario, como el cáncer colorrectal.
+
+Progresión tumoral por evolución clónica
+
+El esquema recién delineado, donde el desarrollo de enfermedad maligna sólo requiere la activación de un protooncogén o la pérdida de función de ambos alelos de un gen supresor de tumor, está muy simplificado.
+Por el contrario, la formación de tumor constituye un proceso de múltiples etapas que incluye una sucesión de cambios genéticos en la población celular del tumor en desarrollo.
+
+Uno de los hallazgos sorprendentes con respecto a la progresión tumoral es que la pérdida o inactivación del mismo gen puede contribuir al desarrollo de varios cánceres diferentes frecuentes.
+Por ejemplo, el gen p53 en el brazo corto del cromosoma 17 falta o es anormal en células de cánceres esporádicos de pulmón y mama.
+El gen del retinoblastoma es defectuoso o falta en casi todos los casos de carcinoma de células pequeñas del pulmón y en muchos otros cases de cáncer pulmonar, pero no en cánceres como el de colon.
+Aunque aún no está clara la sucesión completa de cambios genéticos secundarios y su papel en la progresión tumoral, es obvio que se requieren varias mutaciones en diferentes loci para que un tumor alcance su potencial completo de malignidad.
+
+Se han aislado los productos de varios genes supresores de tumor.
+Debido a que los genes supresores de tumor y sus productos son por naturaleza protectores frente al cáncer, se espera que su comprensión finalmente lleve a mejorar métodos de terapia anticancerosa.
+
+Tabla 4
+
+Productos de genes supresores de tumor seleccionados
+
+Gen supresor de tumor.
+Producto génico y funciones posibles.
+
+
+Trastornos en que el gen está afectado.
+
+
+Familiares .
+Esporádicos.
+
+
+Retinoblastoma .
+Carcinomas pulmonares de células pequeñas, cánceres pulmonares.
+
+
+Tumor de Wilms .
+Cáncer pulmonar.
+
+
+Síndrome de Li-Fraumeni.
+Cáncer pulmonar, cáncer de mama.
+
+
+Neurofibromatosis tipo 1.
+Desconocido.
+
+
+Desconocido .
+Cáncer colorrectal.
+

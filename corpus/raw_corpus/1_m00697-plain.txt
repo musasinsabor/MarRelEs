@@ -1,0 +1,213 @@
+
+Fármacos contra virus
+
+En la lucha contra los virus disponemos ya de un buen armamentario de medicinas eficaces y de otras en fase de desarrollo.
+La investigación en genomas víricos acelera el progreso.
+
+A mediados de los años ochenta, cuando se cobró conciencia de que un virus cruel producía una nueva enfermedad, el sida, las estanterías de las farmacias estaban repletas de medicamentos capaces de enfrentarse a las infecciones bacterianas; 
+para las enfermedades víricas, sólo había unas cuantas vacunas.
+Pero las cosas han dado un vuelco radical.
+Contamos con numerosos tratamientos antivíricos, incluidas varias vacunas nuevas;
+muchos más se encuentran en vías de desarrollo.
+Si medio siglo atrás los antibióticos vivieron su edad de oro, se abre ahora una etapa de esplendor para los antivíricos. 
+
+Esta riqueza brota de varias fuentes.
+Los laboratorios farmacéuticos destacarían la adquisición de técnicas refinadas para descubrir todo tipo de medicinas. 
+Al propio tiempo, los esfuerzos empeñados en la búsqueda de terapias eficaces contra el sida han sugerido vías posibles de lucha no sólo contra el agente responsable de esta enfermedad, el VIH, sino contra otros virus también.
+
+Ha entrado con fuerza una disciplina quizá desconocida por el público, pero muy valiosa:
+la genómica vírica, que descifra la secuencia de letras , o ácidos nucleicos, que componen el texto genético de un virus, donde reside la clave para fabricar sus propias proteínas.
+A su vez, estas proteínas sirven de elementos estructurales y constituyentes operativos del virus y controlan su proceder.
+Con la secuencia completa del genoma, o incluso parcial del mismo, nos viene dada importante información sobre la infección vírica y sobre las etapas del proceso vulnerables para el ataque médico. 
+El genoma completo de cualquier virus puede secuenciarse en días, lo que permite observar con una rapidez sin precedentes sus puntos débiles.
+
+La mayoría de los antivíricos aprobados están dirigidos contra el VIH, los virus del herpes (responsables de patologías muy dispares, desde las molestias de un resfriado a una encefalitis) y los virus de las hepatitis B y C (ambos pueden causar cáncer de hígado).
+El VIH y estas formas de hepatitis seguirán siendo, sin duda, objeto de atención preferente por parte de la investigación durante algún tiempo;
+tomadas en su conjunto, estas enfermedades afectan a millones de personas en todo el mundo. 
+Los biólogos, sin embargo, se afanan también en la lucha contra otras enfermedades víricas.
+Aunque no voy a detenerme en todos los tipos de fármacos antivíricos, espero ofrecer una idea de los avances extraordinarios que debemos a la genómica y otras técnicas refinadas. 
+
+Búsqueda de fármacos
+
+Los primeros fármacos antivíricos (contra el herpes, sobre todo), aparecidos en los años sesenta, surgieron de los métodos tradicionales empleados para el descubrimiento de nuevos medicamentos.
+Los virus, de estructura elemental, constan de genes y quizás algunas enzimas (catalizadores biológicos) encerrados en una cápside proteica, a veces rodeada por una envoltura lipídica. 
+Semejante disposición requiere que los virus se repliquen en el interior de las células.
+Por eso, los investigadores infectaban células, las cultivaban en un medio apropiado y exponían los cultivos a agentes químicos que inhibieran las actividades víricas conocidas entonces.
+Aquellos agentes químicos que reducían la cantidad de virus en el cultivo se reservaban para ensayos ulteriores.
+Pero ese enfoque experimental, que procedía por aciertos y fracasos, aportaba escasa información sobre otras actividades víricas dignas de ataque, con el bloqueo consiguiente de otros empeños por desarrollar fármacos más eficaces o menos lesivos en sus efectos secundarios.
+
+Con la genómica se saltó esa barrera.
+Convertida en trampolín para el descubrimiento de objetivos nuevos en que centrar el ataque, ha abierto el camino para el desarrollo de fármacos antivíricos muy diversos. 
+Con su ayuda se ha identificado la mayoría de los objetivos seleccionados en los virus desde los años ochenta.
+(El término no se acuñó hasta finales de ese decenio, bastante después de que se desarrollaran algunos de los fármacos antivíricos hoy día disponibles.)
+Descifrada la secuencia del virus de interés, se coteja con las ya identificadas en otros organismos, incluidos otros virus, para así averiguar su segmentación en genes.
+Las ristras de nucleótidos de la secuencia que se parezcan a genes conocidos en otros organismos constituirán probablemente genes en el virus y darán lugar a proteínas con estructuras similares.
+Una vez localizados los genes de un virus, pueden abordarse las funciones de las proteínas correspondientes y construir así un mapa de los pasos moleculares a través de los cuales el virus de interés se asienta y prospera en el organismo.
+
+En ese mapa pueden aparecer resaltadas las proteínas - y los dominios en esas proteínas - que sería bueno inutilizar.
+En general, los investigadores se inclinan por los objetivos cuya alteración mine la actividad del virus.
+También optan por centrar su atención sobre dominios proteicos con escaso parecido con los del hombre, y evitar así un posible daño en las células sanas y otros efectos secundarios intolerables.
+No desdeñan los dominios proteicos que compartan básicamente todas las cepas importantes del virus, de suerte que el fármaco abarque, en su eficacia, el arco más amplio posible de las variantes víricas.
+
+Supongamos que se ha identificado un objetivo vírico. 
+Podemos entonces recurrir a varias técnicas para crear el fármaco correspondiente, capaz de anularlo.
+Podemos apelar a la ingeniería genética estándar (introducida en los años setenta) para producir copias de una proteína seleccionada y usarla después en el desarrollo de un fármaco.
+Se inserta el gen correspondiente en bacterias u otros tipos de células, que sintetizan copias innúmeras de la proteína codificada.
+Las moléculas de proteína resultantes pueden constituir la base de pruebas de muestreo:
+sólo las moléculas que se unan a ellas recibirán una atención ulterior.
+
+Podríamos seguir otra vía, la de analizar la estructura tridimensional de un dominio proteico y diseñar fármacos que se acoplaran de manera precisa a esa región; 
+por ejemplo, construir un compuesto que inhibiera el centro activo de una enzima crucial para la reproducción del virus.
+Y cabe también combinar los métodos de muestreo antiguos con los más recientes basados en la estructura.
+
+De la aplicación de técnicas avanzadas en la industria farmacéutica se han extraído ideas para desarmar al virus en cualquiera de las etapas de su ciclo biológico.
+Aunque las estrategias reproductivas difieren de forma sutil de una especie vírica a otra, en general las etapas de la replicación de los virus comprenden la unión a las células del huésped, la liberación de los genes víricos en el interior de las células, la replicación de todos los genes víricos y sus proteínas (con la ayuda de la maquinaria celular para producir las propias proteínas), la agrupación de los componentes en hordas de partículas víricas y la migración de éstas para comenzar un nuevo ciclo en otras células.
+
+El momento ideal para atentar contra el virus es al comienzo de la infección, antes de que haya tenido tiempo de diseminarse por el organismo y provocar los primeros síntomas.
+Las vacunas actúan en ese instante preciso, al estimular el sistema inmunitario para que destruya el agente patógeno en cuanto se ha introducido en el organismo.
+A lo largo de su historia, las vacunas han ofrecido ese incentivo al inocular una versión debilitada o muerta del agente infeccioso, incapaz de alcanzar un número suficiente de réplicas para causar la enfermedad.
+En las vacunas subunitarias hallan éstas su opción alternativa más frecuente. 
+Contienen fragmentos del patógeno.
+
+Tales trozos, incapaces de producir la infección, pueden inducir una respuesta inmunitaria protectora si se seleccionan cuidadosamente.
+
+Para la hepatitis B se consiguió una primera vacuna subunitaria tras aislar el virus del plasma sanguíneo de personas infectadas y purificar las proteínas deseadas. 
+Hoy la vacuna subunitaria para la hepatitis B se obtiene por ingeniería genética.
+Se utiliza el gen de una proteína específica de la hepatitis B para fabricar copias puras de la proteína.
+Con la ayuda de la genómica se desarrollan ahora vacunas adicionales para el dengue, el herpes genital y la fiebre hemorrágica, a menudo mortal, causada por el virus de Ebola.
+
+En curso de investigación se encuentran también vacunas para prevenir o tratar el sida.
+Pero los genes de su agente, el VIH, mutan con suma rapidez y se diversifican en numerosas cepas víricas.
+Una vacuna que induzca una reacción contra ciertas cepas podría carecer de efecto contra otras.
+Al comparar los genomas de diversas cepas de VIH, podríamos hallar secuencias compartidas por la mayoría y aplicar éstas a la síntesis de fragmentos proteicos víricos puros, que, una vez obtenidos, podrían someterse a prueba y ver si inducen protección inmunitaria frente a las cepas existentes.
+Podrían diseñarse, asimismo, vacunas contra ciertas regiones de cepas prominentes.
+
+Impedir la entrada
+
+El tratamiento adquiere particular interés cuando no existe la vacuna idónea.
+Los antivíricos curan a algunos pacientes, si bien en su mayoría se limitan a reducir la gravedad o duración de la infección vírica.
+Un grupo de estas terapias frena la actividad del virus al impedir la entrada en un determinado tipo celular. 
+
+Bajo el término entrada se amparan varios pasos, que comienzan con el anclaje del virus en un sitio de enlace, o receptor, de la célula huésped y terminan con la degradación de la cápside proteica en el interior de la célula, donde se liberan los genes del virus.
+La entrada de los virus que portan una envoltura complementaria requiere un paso más.
+Antes de que se produzca la eliminación de la cápside, han de fundir la envoltura adicional con la membrana celular o con la membrana de la vesícula que lo introduzca en el interior de la célula.
+
+Se trabaja en posibles fármacos inhibidores de la entrada del VIH en las células.
+El examen atento de la interacción entre VIH y su huésped favorito (leucocitos de la sangre, las llamadas células T coadyuvantes) nos indica que el virus ancla las moléculas CD4 y CCR5 en dichas células.
+Aunque el bloqueo de CD4 no ha conseguido evitar que el VIH penetre en las células, el bloqueo del CCR5 podría conseguirlo.
+
+De los cuatro antigripales iniciales, la amantidina y la rimantidina interrumpen otras partes del proceso de entrada. 
+Los farmacólogos hallaron los compuestos al realizar un muestreo de productos químicos con capacidad potencial para bloquear la replicación del virus;
+más tarde se demostró que inhibirían la fusión y el desprendimiento de la cápside.
+Con ayuda de la información genómica se buscan también inhibidores de la fusión para el virus respiratorio sincitial (agente de complicaciones pulmonares en niños prematuros), los de la hepatitis B y C, y VIH.
+
+Muchos resfriados podrán pronto controlarse con otro bloqueador de la entrada, el pleconaril.
+Las comparaciones genómicas y estructurales han demostrado que muchas cepas comparten cierto bolsillo de la superficie de los rinovirus (responsables de la mayoría de los resfriados).
+El pleconaril se acopla a este bolsillo e inhibe la eliminación de la cápside vírica.
+Por lo que parece, el fármaco en cuestión actúa además contra los enterovirus, que causan diarrea, meningitis, conjuntivitis y encefalitis. 
+
+Copia y replicación
+
+Numerosos antivíricos comercializados, y otros en estudio, operan en la fase ulterior al desprendimiento de la cápside, cuando el genoma vírico, sea de ADN o de ARN, se libera para copiar y dirigir la síntesis de proteínas víricas.
+Varios de los agentes que inhiben la replicación del genoma remedan a nucleósidos o nucleótidos.
+Las enzimas que copian el ADN o el ARN incorporan tales análogos en las hebras nacientes. 
+Y son precisamente esas imitaciones las que impiden que las enzimas añadan nuevos bloques a la cadena;
+se aborta así la replicación del virus.
+
+El aciclovir, el primer fármaco antivírico de probada eficacia y escasa toxicidad, constituye un análogo nucleosídico.
+Se descubrió tras un muestreo de compuestos seleccionados por su capacidad obstructiva de la replicación del virus del herpes simple.
+Se prescribe para el herpes genital;
+moléculas con él emparentadas se indican contra otras infecciones herpéticas, como el zoster causado por la varicela y la inflamación de la retina que produce el citomegalovirus.
+
+El primer fármaco aprobado para su uso contra el VIH, la zidovudina (AZT), es otro análogo nucleosídico. 
+Ideado como anticancerígeno, pronto se advirtió que obstruía la actividad de la transcriptasa inversa, una enzima que el VIH utiliza para copiar en ADN su genoma de ARN.
+Si este paso se realiza con éxito, otras enzimas del VIH unen el ADN en los cromosomas de la célula invadida, y allí el ADN integrado dirigirá la reproducción del virus.
+
+El AZT puede acarrear efectos secundarios graves; anemia, por ejemplo.
+
+No obstante, la investigación sobre la secuencia del gen de la enzima de la transcriptasa inversa ha permitido sintetizar otros análogos nucleosídicos menos tóxicos. 
+De éstos, la lamivudina ha recibido aprobación oficial para la hepatitis B, que aplica la transcriptasa inversa para convertir copias de ARN obtenidas del ADN genómico en nuevo ADN.
+Tras rigurosos análisis de la transcriptasa inversa del VIH se han logrado versiones mejoradas de una clase de inhibidores de dicha enzima que no mimetizan a los nucleósidos. 
+
+La genómica ha puesto al descubierto nuevas posibilidades, objetivos potenciales contra los cuales intervenir para suspender la replicación del VIH.
+Citemos la ARNasa H, una parte de la transcriptasa inversa que separa, del ARN, el ADN recién acuñado;
+también, el centro activo de la integrasa, una enzima que agrega el ADN sintetizado al ADN cromosómico de la célula infectada.
+En voluntarios infectados por el VIH se está sometiendo a prueba un inhibidor de la integrasa.
+
+Inhibición de la síntesis de proteínas 
+
+Todos los virus tienen, en algún momento de su ciclo biológico, que transcribir genes en hileras de ARN mensajero. 
+La célula huésped las traduce en síntesis de proteínas.
+Se trabaja en diversos fármacos destinados a entorpecer la etapa de la transcripción:
+se pretende que eviten la unión entre los factores de transcripción y ADN vírico, de la que resulta la producción de ARN mensajero.
+
+La genómica ha contribuido a identificar los objetivos de muchos de estos agentes.
+Además, ha promovido la confección de un nuevo tipo de fármaco: la molécula antisentido.
+Si la genómica demuestra que se requiere una determinada proteína para un virus, los farmacólogos pueden detener su síntesis recubriendo parte del molde de ARN con un fragmento de ADN diseñado a propósito y que se una firmemente a la secuencia de ARN seleccionada.
+Se dispensa ya un medicamento antisentido, el fomivirsen, para tratar las infecciones oculares producidas por el citomegalovirus en sidosos.
+Y hay en vías de desarrollo agentes antisentido dirigidos contra otras enfermedades víricas; 
+uno de ellos bloquea la producción de la proteína Tat del VIH, que éste necesita para la transcripción de otros genes del virus.
+
+Se parte del genoma vírico para identificar los puntos del ARN por donde las ribozimas puedan cortar. 
+(Las ribozimas son formas enzimáticas de ARN.) 
+Está en fase de prueba una ribozima en pacientes con hepatitis C; y, menos avanzados, estudios de ribozimas contra el VIH.
+Algunos de estos proyectos recurren a la terapia génica, en virtud de la cual se introducen genes especialmente diseñados en células que luego producirán las ribozimas.
+Otros tipos de terapia génica en relación con el VIH van encaminados a la producción de anticuerpos que buscan objetivos en las células infectadas, así como proteínas que se encadenan a secuencias génicas del virus en el interior celular.
+
+Dentro de la célula algunos virus producen una cadena proteica que debe seccionarse para obtener proteínas funcionales. 
+El VIH es uno de estos virus;
+una proteasa, la enzima que lleva a cabo esos cortes.
+Cuando en el curso de la investigación sobre el VIH se advirtió la presencia de esta actividad, los farmacólogos sumaron la proteasa a sus objetivos potenciales.
+Así, a finales de los años noventa aparecieron los primeros inhibidores potentes de la proteasa gracias a la ayuda de un estudio estructural exhaustivo por ordenador.
+
+Aunque los inhibidores disponibles pueden causar efectos secundarios perturbadores (acumulación de grasa en zonas indebidas), prolongan la salud general y la vida en muchos enfermos, si se toman en combinación con otros fármacos antivíricos contra el VIH.
+Una nueva generación de inhibidores de la proteasa está en marcha.
+
+Bloqueo de la migración vírica 
+
+Aun cuando genomas y proteínas víricos se reproduzcan en el interior celular, carecerán de eficacia patógena mientras no formen nuevas partículas víricas, dotadas de potencia suficiente para escapar de la célula y emigrar hacia otras.
+El zanamivir y el oseltamivir, indicados contra la gripe, intervienen en esa fase.
+Desde hace tiempo se sabe que la neuraminidasa, molécula que aparece en la superficie de los dos tipos principales de gripe (A y B), facilita la huida de las partículas víricas de las células que las producen.
+Por comparación genómica se descubrió la similaridad del sitio activo de la neuraminidasa entre las diversas cepas gripales; 
+por investigación estructural se llegó a la creación de fármacos eficaces contra dicho centro.
+Los demás medicamentos antigripales actúan contra el tipo A. 
+Reforzando la respuesta inmunitaria del paciente se evita también la migración celular de los virus. 
+Unas respuestas son generales;
+ocurre tal cuando los fármacos frenan la propagación de distintas clases de invasores, en vez de concentrarse sobre un patógeno determinado.
+Los interferones, por ejemplo, que participan en esa batalla inmunitaria, inhiben la síntesis proteica y otros aspectos de la replicación vírica en las células infectadas.
+En concreto, el interferón alfa constituye un elemento importante de la terapia contra las hepatitis B y C. 
+(En el caso de la hepatitis C se indica junto con ribavirina, un fármaco más antiguo.) 
+Se investigan otros interferones.
+
+Entre las respuestas inmunitarias específicas mencionaremos la producción de anticuerpos estándar, que reconocen fragmentos de una proteína de la superficie del virus invasor, se enlazan con la proteína y señalizan el virus para su ulterior destrucción por otros componentes del sistema inmunitario.
+En cuanto se dispone de la secuencia génica que cifra la proteína de superficie del virus, pueden crearse anticuerpos puros, monoclonales, contra determinadas regiones del polipéptido en cuestión. 
+Se expende ya en botica un anticuerpo monoclonal para prevenir el virus sincitial respiratorio en niños expuestos a la infección;
+se está ensayando otro en pacientes que sufren hepatitis B.
+A través de la comparación entre genomas víricos y humanos se ha sugerido una nueva estrategia antivírica.
+Numerosos virus fabrican proteínas que parecen moléculas implicadas en la respuesta inmunitaria.
+Algunas de tales versiones víricas desarman las defensas y salvan de la destrucción al virus. 
+Los fármacos dirigidos contra esas proteínas miméticas que facilitan la huida podrían restablecer la integridad de las respuestas inmunitarias y acelerar la recuperación del organismo que sufre infecciones víricas.
+Se están investigando posibles agentes sanadores.
+
+Virus resistentes
+
+La búsqueda de fármacos antivíricos se ha convertido en una guerra sin cuartel.
+Los farmacólogos han de enfrentarse con la posibilidad de que los virus desarrollen resistencia o insensibilidad a muchos de los medicamentos, especialmente cuando se administran durante períodos prolongados, como ocurre en el sida y en bastantes casos de hepatitis B y C, enfermedades crónicas.
+Cada medicina prescrita hoy contra el VIH encuentra alguna cepa resistente;
+a menudo esa misma cepa es resistente a otros fármacos.
+Tal resistencia surge de la tendencia de los virus - en particular de los virus ARN, sobre todo el VIH - a mutar muy deprisa.
+Si una mutación capacita a la cepa para vencer algún obstáculo que impide su reproducción (un fármaco, por ejemplo), esa variante vírica prosperará pese a la barrera interpuesta.
+
+Para mantener a raya la resistencia hasta que se encuentren vacunas eficaces, habrá que idear nuevos fármacos. 
+Cuando surjan mutantes resistentes a un medicamento, la lectura del texto genético puede revelar el lugar del genoma del virus donde se ha producido la mutación y sugerir el modo en que esa mutación socava la interacción entre la proteína del virus afectada y el fármaco. 
+A través de tal información el farmacólogo proseguirá la búsqueda de nuevas estructuras medicamentosas u otros medios encaminados a mantener la eficacia de la medicina a pesar de la mutación.
+
+Se investiga en fármacos nuevos basados en la capacidad para combatir cepas resistentes a otros medicamentos.
+Recientemente, los laboratorios DuPont optaron por el DPC 083, un nuevo inhibidor, no nucleosídico, de la transcriptasa inversa, para el desarrollo de fármacos encaminados a vencer la resistencia a otros inhibidores.
+Los investigadores examinaron las mutaciones del gen de la transcriptasa inversa que causaba la resistencia.
+Después estudiaron modelos con el ordenador para crear compuestos potenciales que inhibieran la enzima transcriptasa inversa, pese a las mutaciones. 
+Recurrieron luego a la ingeniería genética para producir virus que sintetizaran las enzimas mutadas, y seleccionaron el compuesto más adecuado para limitar la reproducción de aquellos virus.
+El fármaco se encuentra ahora en fase de prueba y evaluación en enfermos de sida.
+
+Quizá tardemos algún tiempo antes de que todas las infecciones víricas graves puedan prevenirse con vacunas o tratarse eficazmente con un fármaco.
+Pero la secuenciación reciente del genoma humano, aunque provisional, ha de permitirnos descubrir un grupo nuevo de proteínas que estimulen la producción de anticuerpos antivíricos o que potencien otras partes del sistema inmunitario contra los virus.

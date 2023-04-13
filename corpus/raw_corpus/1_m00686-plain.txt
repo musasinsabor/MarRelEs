@@ -1,0 +1,152 @@
+
+La proteómica en el horizonte
+
+Avanzado ya el estado de desarrollo de la genómica, la ciencia se apresta a catalogar las proteínas de nuestro organismo y a descubrir su mutua interrelación.
+El progreso de la proteómica habrá de contribuir a la aparición de fármacos nuevos más eficaces. 
+
+El genoma humano pronto saldrá del primer plano. 
+La investigación se concentra ahora en el proteoma, el conjunto de las proteínas elaboradas por las células y los tejidos de nuestro cuerpo.
+El genoma -información genética completa del organismo- sólo ofrece las recetas para sintetizar proteínas.
+Estas son los verdaderos ladrillos y la argamasa con que se fabrican las células; 
+asumen, además, la mayor parte del trabajo.
+Y son las proteínas las que diferencian los diversos tipos de células.
+Aunque todas las células compartan esencialmente el mismo genoma, pueden tener distintos genes en actividad y, por tanto, elaborar diferentes proteínas; 
+del mismo modo, las células enfermas a menudo sintetizan proteínas que no se encuentran en células sanas, y viceversa.
+
+Se comprende, pues, el nuevo afán por catalogar todas las proteínas humanas y descubrir sus interacciones mutuas.
+Con ello se pretende diseñar fármacos mejores y con menos efectos secundarios.
+
+Alcanzar esa meta no será un juego de niños. 
+El estudio de las proteínas entraña más dificultades que el de los genes.
+Las empresas del ramo siguen esforzándose en aportar a esta tarea las técnicas e instrumentos más perfeccionados.
+Sin embargo, la carrera ya ha comenzado:
+al menos una compañía promete descifrar de aquí a tres años el proteoma humano, paso importante para configurar la multitud de interacciones que existen entre las proteínas individuales.
+Mientras tanto, por ceñirnos a los Estados Unidos, hay programas federales que subvencionan investigaciones académicas sobre los proteomas de las células cancerosas y del suero, residuo líquido de la sangre humana al coagularse.
+
+Se han logrado ya avances importantes.
+En enero dos equipos de investigadores anunciaron haber cartografiado las interacciones de todas las proteínas de la levadura del pan, modelo socorrido para el estudio de la biología celular.
+Otros comunicaron en febrero haber preparado, mediante técnicas proteómicas, una prueba segura para la detección precoz del cáncer de ovario. 
+
+La proteómica va a provocar una gran actividad comercial. 
+El análisis de inversiones realizado por Frost & Sullivan estima que el mercado mundial de instrumentos, suministros y servicios de proteómica llegará en 2005 a 6360 millones de euros, habiendo partido de 795 millones nada más en 1999, y sin incluir ahí los beneficios generados por los fármacos y diagnósticos desarrollados por efecto de las técnicas proteómicas.
+La proteómica también puede ser vital para el futuro de la industria farmacéutica.
+El ramo invirtió 34.000 millones de euros en investigación y desarrollo durante 2000, pero sólo se aprobaron 30 fármacos en ese año. 
+
+Del genoma al proteoma
+
+El término "proteoma" fue acuñado en 1994 por Marc R. Wilkins, de Proteome Systems en Sydney, para designar la totalidad de proteínas codificadas por un genoma.
+La exacta definición de "proteómica" varía según los autores, pero suele admitirse que engloba tres actividades principales: la identificación de todas las proteínas sintetizadas por una célula, tejido u organismo; la determinación del modo en que interaccionan estas proteínas para formar redes semejantes a circuitos eléctricos, y el trazado de las estructuras tridimensionales precisas de las proteínas como medio para encontrar su talón de Aquiles, es decir, dónde puedan ser desactivadas o activadas por la acción de fármacos.
+
+Estas tareas tal vez parezcan sencillas.
+Cuando se anunció la práctica terminación del Proyecto Genoma Humano daba la impresión de que, al conocer la secuencia de los aproximadamente 3000 millones de letras de código o pares de bases de ADN presentes en el genoma humano -y sobre todo las secuencias concretas de las unidades codificadoras de proteínas (los genes)- se llegaría a comprender las proteínas en sí mismas.
+Mas, por desgracia, el proteoma es mucho más complicado que el genoma.
+
+El "alfabeto" del ADN consta de cuatro bases químicas denominadas por sus letras iniciales: adenina (A), citosina (C), guanina (G) y timina (T).
+Las proteínas, por el contrario, están formadas por 20 bloques constructivos llamados aminoácidos.
+Los genes especifican qué aminoácidos han de agruparse para constituir una determinada proteína.
+Pero aun conociendo la secuencia de aminoácidos de una proteína, de ello no se deduce necesariamente cuál es su función ni con qué proteínas se vincula. 
+Tampoco puede predecirse su estructura tridimensional con absoluta certeza.
+A diferencia de los genes, que son lineales, las proteínas se pliegan y adoptan formas que a veces se apartan de lo esperado.
+
+Por si fuera poco, las células suelen modificar las proteínas añadiéndoles azúcares, lípidos o ambos, de maneras también difíciles de prever.
+Para producir una proteína cifrada por un gen recién descubierto no basta con ensamblar las cadenas de aminoácidos en el orden que impone el gen;
+a menudo es preciso cerciorarse de que se incorporan las adecuadas modificaciones de lípidos y azúcares.
+Y para determinar el comportamiento de una proteína, se ha de tener en cuenta que algunas proteínas se disuelven en agua, mientras que otras normalmente sólo actúan en medios lipídicos o tienen regiones que están imbricadas en membranas celulares rellenas de grasa.
+
+Pero no termina ahí la complejidad.
+Aunque suele admitirse que el genoma contiene del orden de 40.000 genes, lo cierto es que una célula típica elabora cientos de miles de proteínas distintas.
+La cabal comprensión del proteoma exige aprender las características de todas esas proteínas.
+No basta con manejar los datos obtenidos del Proyecto Genoma Humano, que finalmente echan por tierra el viejo dogma de que un gen codifica una sola proteína; 
+está claro que puede dar origen a una multitud de proteínas diferentes.
+
+Pese a lo complicado del asunto, la investigación se muestra optimista.
+Aunque desconocemos del 30 al 50 por ciento de las proteínas humanas, contamos con medios para identificar con bastante rapidez las que componen nuestro organismo.
+
+Proceso fabril de las proteínas
+
+Cuando se quiere descubrir las proteínas presentes en células o tejidos seleccionados, suele recurrirse a dos técnicas: la electroforesis en gel bidimensional y la espectrometría de masas.
+En geles de dos dimensiones se añade una mezcla de proteínas al borde del gel fino que separa las proteínas en una dirección en razón de su tamaño y en la dirección perpendicular en razón de su carga electroquímica. 
+Al venir la proteína caracterizada por su tamaño y su carga, a cada proteína corresponderá un punto discreto en el gel.
+Podemos recortar de los geles puntos individuales para identificar, mediante otras técnicas, las proteínas que contienen.
+Y comparando las configuraciones de puntos que presentan los geles obtenidos de dos tejidos diferentes pueden buscarse proteínas que fabrique un tejido, pero no el otro.
+
+La espectrometría de masas emplea imanes o campos eléctricos para discernir las proteínas con arreglo a las masas de sus átomos constitutivos.
+Los resultados aparecen representados en crestas de un gráfico.
+Sin embargo, ni la técnica del gel bidimensional ni la espectrometría de masas son soluciones ideales.
+Los geles son especialmente difíciles de manejar y no pueden distinguir las proteínas muy grandes ni las muy pequeñas, ni las que sobresalen a través de membranas; 
+la espectrometría de masas es muy cara y a veces falla en la detección de proteínas raras.
+
+Pese a todo, varias empresas preparan versiones refinadas de estos métodos para utilizarlos en procedimientos industriales, que recuerdan las que hicieron posible el Proyecto Genoma Humano. 
+La pieza fundamental del proyecto fue el ABI 3700, el secuenciador de ADN desarrollado por Applied Biosystems.
+En enero, presentó Applied Biosystems su analizador proteómico 4700, a la par que anunciaba un acuerdo con Perkin Elmer y Millipore sobre la producción de un sistema automatizado para tratamiento y análisis de geles bidimensionales.
+Se espera que la automatización permita realizar en días lo que antes necesitaba meses o años.
+Pero queda por ver si estos nuevos sistemas van a ser estándares de la proteómica.
+La materia es demasiado vasta para que se imponga un solo sistema o método de trabajo. 
+
+Entretanto, las empresas Myriad Genetics, GeneProt, Large Scale Biology y MDS Proteomics se han incorporado a este campo con plantas proteómicas de diseño propio, algunas de las cuales utilizan técnicas robóticas tomadas de la industria de automoción.
+El año pasado Myriad anunció que se había aliado con Hitachi y Oracle en una operación de 210 millones de euros para descifrar en tres años el proteoma humano completo, programa que se ha iniciado oficialmente en enero de este año. 
+Celera, por su parte, ha asignado cerca de 1140 millones de euros a sus trabajos en proteómica.
+
+Los críticos de estos grandes proyectos aducen que no hay un proteoma humano único:
+como ejemplo, el páncreas produce un conjunto de proteínas muy diferente del que elabora el cerebro.
+Existen, además, numerosas variables (la simple ingesta reciente de un vaso de vino) capaces de afectar los tipos de proteínas que genera el organismo.
+Cada estado -salud más o menos buena, mayor o menor cantidad de fármaco- crea un proteoma diferente. 
+
+En resumen, la enumeración de las proteínas humanas lleva a extremos insospechados.
+Para comprender su actuación en el organismo y poder desarrollar fármacos útiles, es preciso conocer cómo varían las proporciones de proteínas de un tipo de célula a otro y en el interior de una misma célula.
+Necesitamos saber, asimismo, de qué manera colaboran las proteínas en las diversas actividades de una célula.
+
+Escuchando en la red
+
+La compañía de Moran se ha concentrado en esta última tarea: examinar cómo se engarzan entre sí las proteínas para formar cadenas de reacciones bioquímicas o construir máquinas moleculares como el huso, la que parte en dos la célula en el momento de la división celular.
+"Las proteínas se ensamblan en redes", afirma Moran.
+"Si sólo pudiéramos hacer una pregunta sobre una proteína, sería con qué otras proteínas interacciona."
+
+En un estudio reciente, científicos de MDS Proteomics y la Universidad de Toronto -junto con los de un grupo independiente de Cellzome y del Laboratorio Europeo de Biología Molecular- presentaban una nueva estrategia para localizar cientos de interacciones proteínicas en la levadura.
+Su enfoque consiste en juntar a los centenares de genes de levadura escogidos unos fragmentos de ADN que codifiquen "etiquetas" adhesivas.
+De este modo pueden aislarse las proteínas elaboradas por los genes modificados, unidas a cualesquiera proteínas que se les hayan pegado, sin más que triturar la levadura y hacer pasar la lechada resultante por una columna de perlas microscópicas que sólo puedan unirse a las etiquetas adhesivas.
+Tras haber procesado los complejos de proteínas en un espectrómetro de masas y analizado los resultados, se descubrió que más del 90 por ciento de los complejos aislados contenían proteínas de función desconocida.
+Y más aún, hasta el 80 por ciento de las proteínas interaccionaban al menos con otra proteína, lo que muestra la complejidad de la red bioquímica intracelular.
+
+MDS Proteomics proyecta ahora aplicar esta técnica al proteoma humano.
+Dado que el proteoma de la levadura se completó en unas pocas semanas, la compañía apuesta por conseguir de aquí a un año una instantánea inicial del proteoma de una célula humana.
+No está claro, sin embargo, qué tipo de célula humana van a estudiar ni en qué condiciones.
+
+En los Estados Unidos el sector público presta también atención a la proteómica.
+Se ha concedido a Samir M. Hanash, de la Universidad de Michigan, la dirección de la Organización del Proteoma Humano (HUPO), que coordina los proyectos de proteoma en el sector público.
+(El Proyecto Genoma Humano coordinó a los laboratorios académicos que descifraban el genoma humano.)
+Uno de los primeros objetivos de la HUPO será determinar las proteínas presentes en el suero sanguíneo.
+
+El Instituto Nacional del Cáncer (NCI) y la Agencia de Alimentación y Farmacia (FDA) trabajan en el desarrollo, por medios proteómicos, de tratamientos anticancerígenos mejor dirigidos y diagnósticos más certeros.
+En el programa, anunciado en julio de 2001, se analizarán células tumorales de distintos pacientes para obtener una lista de proteínas presentes en células cancerosas mas no en células sanas.
+Asimismo, buscarán "marcadores" de proteínas que se correlacionen con los cánceres más agresivos, con el refinamiento consiguiente de las pruebas diagnósticas.
+
+Junto con otros investigadores, Emanuel Petricoin, codirector del programa NCI/FDA, acaba de demostrar las interesantes perspectivas de la aplicación de la proteómica al diagnóstico de tumores.
+En un trabajo aparecido en febrero explicaba que podían compararse las configuraciones de proteínas presentes en el suero sanguíneo de pacientes afectadas o no por cáncer de ovario.
+Resultado de esta comparación fue la identificación correcta de las 50 mujeres que sufrían cáncer de ovario, sin dejar ni una;
+no tuvo más fallo que dar tres falsos positivos entre las mujeres que no sufrían cáncer.
+
+La catalogación y la cartografía de las interacciones entre proteínas suponen las dos terceras partes de la proteómica;
+igual importancia reviste la determinación de las formas de las proteínas.
+La técnica clásica es la cristalografía por rayos X, en la cual se purifican las proteínas, se las hace crecer en cristales y se bombardean luego los cristales con rayos X.
+Analizando cómo rebotan los rayos X en los átomos componentes de una proteína, se infiere el ensamblaje de la misma y su estructura tridimensional.
+
+Las formas que han de venir
+
+La cristalografía de rayos X fue en un tiempo una industria muy restringida, que exigía el acceso al haz de rayos X de un sincrotrón.
+Estos enormes anillos, a veces de kilómetros de diámetro, se han venido utilizado históricamente para acelerar las partículas atómicas.
+En el curso de ese proceso se producen los rayos X.
+Pero hoy día los avances técnicos en el dominio de los láseres de rayos X han posibilitado la aparición de aparatos de sobremesa, idóneos para laboratorios.
+
+Dos compañías -Syrrx y Structural GenomiX (SGX)- han llevado la cristalografía por rayos X al terreno industrial.
+A semejanza de las compañías que automatizaron el proceso de descubrimiento de las proteínas, Syrrx se ha inspirado en técnicas de la automoción. 
+Hasta el punto de haber traído a su planta de San Diego consultores de General Motors para automatizar su planta de 7800 metros cuadrados, en la que todo -desde la purificación de la proteína hasta la cristalización- se realiza sobre una cadena de montaje.
+Además de sus propios láseres de rayos X, la compañía dispone de un trayecto de haz reservado en la Fuente Luminosa Avanzada del Laboratorio Lawrence en Berkeley.
+Structural GenomiX tiene un acuerdo semejante con la Fuente Fotónica Avanzada del Laboratorio Nacional Argonne, donde ha construido un trayecto de haz.
+
+Esta información estructural podría ser objeto de protección.
+La compañía inglesa Oxford GlycoSciences aduce que puede reclamar patente sobre una porción notable del genoma y el proteoma humano utilizando datos proteómicos.
+En diciembre pasado la compañía presentó solicitudes de patente para 4000 proteínas humanas, lo que podría trastornar la definición de propiedad intelectual en biotécnica.
+En otros tiempos, las empresas buscaban patentar secuencias de ADN y la única proteína que supuestamente iban éstas a codificar.
+Pero como un mismo gen puede elaborar toda una serie de proteínas, tal vez tendrían más valor las reivindicaciones basadas en las propias proteínas y ofrecerían además un camino para esquivar las patentes de secuencias de ADN en poder de la competencia.
+Si esto fuera así, los tribunales serían un terreno de liza más en el que los genes tendrán que dejar paso a las proteínas.

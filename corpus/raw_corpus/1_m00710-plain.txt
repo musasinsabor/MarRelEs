@@ -1,0 +1,282 @@
+
+Desarme de los virus de la gripe
+
+Pronto contaremos con medicinas que tratarán la gripe mediante la detención de la replicación vírica en los tejidos, fármacos que podrían desempeñar funciones preventivas.
+
+No es raro que una cepa insólita de virus de la gripe comience a pasar, de repente, de un sujeto a otro.
+Por su propio carácter insólito, son contadas, si alguna, las personas que han desarrollado inmunidad adquirida en exposiciones anteriores; hasta los vacunados carecen de defensas efectivas.
+Las vacunas contra la gripe protegen de variantes del virus que los expertos suponen que serán activas en una estación dada, pero no de otras variantes inesperadas. 
+Al no encontrar nada que le ponga freno, la nueva cepa se disemina intacta, sembrando enfermedad y muerte por todo el planeta.
+
+La peor pandemia (epidemia mundial) que se recuerda es la de 1918.
+Mató a más de veinte millones de personas, en algunos casos pocas horas después de manifestarse los primeros síntomas.
+Al desastre, desencadenado por el virus de la "gripe española", siguieron en 1957 una epidemia de "gripe asiática", la gripe de Hong Kong en 1968 y la "gripe rusa" en 1977. (Los nombres reflejan la impresión popular sobre los lugares donde se inició la pandemia, aunque ahora se sospeche que los cuatro episodios y, posiblemente, la mayoría de los demás se originaron en China). 
+
+Los expertos en salud pública advierten de que en cualquier momento puede aparecer otra pandemia y que ésta podría ser tan peligrosa como el episodio de 1918. En 1997 se detectaron en Hong Kong 18 casos de una variante letal de virus de la gripe que terminó con la vida de seis de ellos, en lo que se temió fuera el principio de la siguiente ola.
+Las autoridades regionales consiguieron controlar el problema con rapidez.
+Detectaron la fuente de contagio -pollos, patos y gansos infectados- y sacrificaron toda la población aviar de Hong Kong.
+
+La próxima vez puede que la humanidad no tenga tanta suerte.
+Si una cepa tan letal como la de Hong Kong se diseminara por nuestras comunidades densamente pobladas, un 30% de la humanidad podría morir -por acción directa del virus o por infecciones bacterianas secundarias- antes de que diera tiempo a desarrollar una vacuna con la que proteger a los que inicialmente se hubieran salvado.
+Se necesitan unos seis meses para desarrollar una vacuna contra una variante cualquiera de virus de la gripe, probar su seguridad y distribuirla, demasiado tiempo para una pandemia que se extiende con tanta rapidez.
+
+Si la temida pandemia tarda aún otro año o incluso más en aparecer, puede que ya se disponga de nuevos métodos para evitar tanta enfermedad y muerte. 
+A finales de este año y después de superar extensos ensayos clínicos, se podría aprobar la comercialización de dos fármacos como nuevas armas contra la gripe.
+Los agentes zanamivir (Relenza) y GS 4104 son prometedores en la prevención de la gripe y en la reducción de la duración y severidad de los síntomas en personas que empiezan el tratamiento cuando ya están enfermas.
+
+A diferencia de las vacunas, que estimulan el sistema inmunitario para que impida que los virus ganen pie en el organismo, y a diferencia de los remedios caseros habituales, que suavizan los síntomas pero que no tienen efecto sobre la infección, estos fármacos han sido diseñados para atacar directamente al virus.
+Mediante el bloqueo de la acción de la neuraminidasa, una enzima vírica decisiva, reducen notablemente la proliferación del virus en el organismo.
+Otros inhibidores de neuraminidasa se encuentran también en estudio, aunque no se ha llegado a la fase de ensayo clínico. 
+
+Ya existen en el mercado dos fármacos, amantadina y rimantadina, con acción contra los virus de la gripe. 
+Pero estos dos agentes, cuyo modo de acción se sustenta en mecanismos distintos, presentan graves inconvenientes. 
+Pueden causar confusión y otros efectos secundarios neurológicos y no son eficaces contra una de las dos clases principales de virus, el tipo B, que afectan a los humanos.
+Aún más, los virus de la gripe parecen desarrollar sin mayor dificultad resistencia contra estos fármacos. 
+Así, los individuos que en las primeras fases de una epidemia han recibido este tratamiento pueden transmitir versiones del virus resistentes a la medicación.
+Este problema es especialmente acuciante en las comunidades cerradas, como las casas de convalecencia y residencias de ancianos. 
+
+La historia de cómo se desarrollaron estos nuevos fármacos es una maravillosa combinación de suerte y lógica.
+El desciframiento en 1983 de la estructura tridimensional de la neuraminidasa es el punto de partida más inmediato.
+Pero fue una serie anterior de descubrimientos la que permitió que los científicos identificaran una parte específica de la molécula de neuraminidasa como un talón de Aquiles en todas las variantes de virus de la gripe, una debilidad que fármacos bien construidos podrían explotar.
+
+Una de esas líneas de investigación puso al descubierto propiedades esenciales de los virus de la gripe y de sus estrategias de pervivencia.
+Saben los biólogos que los virus son, a grande rasgos, genes envueltos en proteínas que protegen esos mismos genes o que participan en la replicación vírica en el organismo.
+A veces, como en el caso del virus de la gripe, estos constituyentes están también ceñidos por una membrana lipídica.
+Las enfermedades causadas por virus suelen comenzar con la invasión de tipos celulares seleccionados, en cuyo interior el virus se replica antes de salir al exterior para infectar otras células. 
+Los síntomas se deben a la alteración de la función de las células colonizadas, secundaria a la proliferación vírica, y a los esfuerzos del sistema inmunitario por contener la infección, que producen inflamación, fiebre y dolores sistémicos.
+
+Las cepas que colonizan humanos revelan especial afinidad por las células epiteliales que tapizan el tracto respiratorio. 
+Si la infección tiene éxito, en uno o en un par de días aparecerán los síntomas clásicos de nariz tapada, mucosidad abundante, tos seca, estornudos, fiebre, dolores, cansancio agudo y pérdida del apetito.
+Las descripciones históricas basadas en síntomas indican que las epidemias de gripe han azotado a la humanidad desde antes del siglo V a.C.
+
+En 1933 se aisló la primera cepa de virus de la gripe a partir de un humano.
+Desde entonces, se sabe que los virus gripales pertenecen a dos tipos básicos -A y B- que se diferencian en ciertas proteínas internas.
+No parece que un tercer tipo (C) cause enfermedad grave.
+
+Los virólogos clasifican las variantes del tipo A según dos proteínas de superficie que sobresalen en espícula, la hemaglutinina y la neuraminidasa (enzima diana de los nuevos fármacos).
+En cuanto proteínas son cadenas de aminoácidos plegadas.
+Todas las variantes de hemaglutinina adoptan esencialmente la misma conformación tridimensional y todas las variantes de neuraminidasa presentan una morfología característica.
+Pero dentro de cada grupo, la secuencia de aminoácidos constituyentes de una proteína puede variar mucho.
+Hasta ahora se han identificado en el virus de tipo A quince subtipos de hemaglutinina y nueve de neuraminidasa;
+las variantes se denominan según las moléculas de hemaglutinina y de neuraminidasa que presenten: H1N1 , H1N2 , H2N2 , etc.
+
+Los virus de tipo B, mucho más uniformes, portan una sola variante de hemaglutinina y otra de neuraminidasa, si bien la secuencia de aminoácidos también varía de una cepa B a otra.
+Cada subtipo A se presenta en formas levemente diferentes.
+
+Los tipos A y B no sólo divergen en sus características químicas.
+Discrepan también en el alcance de su actividad.
+El tipo B, que infecta exclusivamente a humanos, suele causar epidemias regionales, no pandemias.
+Por contra, la gripe de tipo A afecta a humanos, cerdos, caballos, focas, ballenas y aves, aunque no todas las cepas infectan a todas las especies.
+Sólo se han identificado cuatro subtipos que provoquen enfermedad en humanos: los responsables de las pandemias sufridas en nuestro siglo.
+
+A pesar de las diferencias, ambos tipos de virus desarrollan el mismo ciclo biológico.
+Para que una copia o partícula de virus entre en la célula, la hemaglutinina vírica debe enlazarse con el ácido siálico, molécula glicosada de la superficie celular.
+Una vez introducido, el virus queda inicialmente secuestrado en una especie de burbuja.
+Pronto se liberan sus genes, constituidos por cadenas de ARN, y las proteínas internas, listos para llegar al núcleo celular.
+
+Allí, algunas proteínas víricas comienzan a replicar las cadenas de ARN vírico y a sintetizar ARN mensajero, una forma de ácido nucleico que lee y traduce a proteínas la maquinaria celular encargada de la síntesis de proteínas.
+Las nuevas moléculas sintetizadas, proteínas y ácidos nucleicos, se unen y crean una partícula vírica nueva antes de salir al exterior. 
+
+Desafortunadamente para el virus, las partículas emergentes permanecen recubiertas por ácido siálico, sustancia de la superficie celular en que se anclan los virus gripales.
+Si el ácido siálico persistiera en el virus y en la superficie de la célula destinada a la replicación vírica, la hemaglutinina de las partículas recién formadas se enlazaría al ácido siálico, provocando que las partículas víricas se agolparan sobre la célula, como insectos pegados en el atrapamoscas. No podrían alcanzar nuevas células.
+
+Pero el virus guarda un as en la manga.
+La moléculas de neuraminidasa de las partículas víricas recién formadas seccionan las moléculas de ácido siálico. 
+En otras palabras, las espículas de neuraminidasa disuelven el "pegamento" de ácido siálico y dejan libertad de movimientos a las partículas.
+La enzima facilita también el desplazamiento del virus por el moco que hay entre las células de las vías aéreas. 
+
+Hacia 1960 se sabía ya que el fármaco que bloqueara cualquier etapa del proceso de replicación impediría que el virus causara enfermedad o permitiría controlar una infección activa.
+Pero se desconocía cómo llevar la idea a la práctica.
+Conscientes de que el virus de la gripe crecía en el interior de las células cuya maquinaria empleaba para fabricar sus proteínas víricas, los biólogos temían que los agentes destructores del virus afectaran de paso a las células sanas.
+
+Continuó la investigación sobre las razones por las que algunas cepas producían epidemias locales y otras desataban terribles pandemias.
+Se llegó a la determinación de que, para ser útil contra la gripe, el fármaco debía hallarse capacitado para atacar a todas las variantes del virus, incluidas las que se ignora si provocan enfermedad en humanos.
+
+Una cepa de virus de la gripe puede desendenar una epidemia, local o global, sólo en el caso de que las personas expuestas carezcan de inmunidad adecuada.
+Cuando alguien contrae la gripe, su sistema inmunitario produce anticuerpos, moléculas que reconocen segmentos específicos de hemaglutinina y neuraminidasa de la superficie del virus.
+Si ese sujeto sufre una nueva exposición a la misma cepa, los anticuerpos (sobre todo los dirigidos contra la hemaglutinina) bloquearán prestamente al virus e impedirán que siga infectando. 
+
+Si el virus no cambiara nunca, como sucede con el virus del sarampión o el de las paperas, los anticuerpos producidos durante la infección o en respuesta a una vacuna proporcionarían inmunidad permanente.
+Pero los virus de la gripe están en transformación incesante.
+Por tanto, los anticuerpos producidos un año resultan de nula o escasa eficacia si en la siguiente estación de gripe se enfrentan a otras variantes del virus.
+La cuantía del cambio determina, en buena medida, si una epidemia queda controlada o se propaga sin freno.
+
+Los virus de la gripe se van modificando a través de la ruta de la "deriva" antigénica, una revisión gradual de la secuencia de aminoácidos de una proteína (antígeno) capaz de desencadenar una respuesta inmunitaria. 
+Estas alteraciones aparecen por pequeñas mutaciones en el gen de la proteína.
+Unas veces, la mutación comporta cambios sutiles en la estabilidad o en la actividad de una proteína.
+Otras, atenta contra la proteína y dificulta la viabilidad del virus.
+Pero puede también reforzar la pervivencia, mediante la reconfiguración de un sitio de la hemaglutinina que hasta entonces era reconocido por un anticuerpo.
+
+Cuando los genes y las proteínas de hemaglutinina o neuraminidasa han acumulado alteración tras alteración, se tornan punto menos que irreconocibles para la mayoría de los anticuerpos.
+Se desencadena así una nueva epidemia, cuya extensión se detiene cuando encuentra grupos humanos cuyo sistema inmunitario ya se había enfrentado a algunas de tales alteraciones.
+
+Según parece, el tipo B no conoce otra vía de modificación que la deriva antigénica.
+Evoluciona gradualmente en su huésped humano para ocultar su naturaleza al repertorio inmunitario de una población. 
+Las cepas del tipo A pueden sufrir, por contra, cambios más drásticos.
+Esas variaciones mayores se compendian en el "desplazamiento" antigénico, capaz por sí solo de desatar una pandemia.
+
+Cuando se presenta un desplazamiento antigénico, las cepas desarrollan espículas de hemaglutinina nuevas; a veces, con una molécula incluida de neuraminidasa con la que la mayoría de las personas no han tenido nunca contacto.
+De ese modo, el virus elude el repertorio antigénico entero de todas las poblaciones del mundo y desencadena una pandemia. 
+Con la facilidad de transporte intercontinental, un viajero puede diseminar un virus peligroso e inédito, de una parte a otra de la tierra, en un solo día.
+
+Un cambio tan drástico no puede resultar de una simple mutación genética.
+El proceso mejor estudiado de desplazamiento antigénico se basa en la coincidencia de dos cepas víricas en una célula huésped. 
+De esa guisa, los genes empaquetados en las nuevas partículas de virus (y sus correspondientes proteínas) provienen en parte de una cepa y en parte de otra.
+Cabe semejante reordenación genética porque el genoma de los virus de la gripe consta de ocho cadenas discretas de ARN (cada una de ellas determina una o dos proteínas).
+Estas cadenas se pueden mezclar y complementar cuando se forman nuevas partículas de virus A en células dualmente infectadas. 
+Hay, en efecto, virus de la gripe que infectan a personas y a cerdos; si un cerdo se viera infectado por un virus humano y una cepa que infecta sólo a aves, el cerdo podría terminar por producir una cepa híbrida, igual en todo al virus humano menos en presentar una molécula de hemaglutinina propia del virus aviar.
+
+Pero el desplazamiento antigénico acontece, asimismo, cuando un virus gripal de animales, incapaz hasta entonces de producir infección en humanos, de pronto se vuelve virulento para las personas.
+
+Nadie sabe qué clase de desplazamiento antigénico desencadenó la pandemia de gripe española de 1918, causada por el subtipo H1N1 de virus de la gripe A.
+Se ha comprobado que la reordenación genómica fue responsable de las pandemias de la gripe asiática de 1957 y de la gripe de Hong Kong de 1968, causadas respectivamente por H2N2 y H3N2. 
+Algunos estudios sugieren que las aves acuáticas pudieron aportar genes poco frecuentes y que los cerdos sirvieron probablemente de banco de mezcla.
+Este papel de los cerdos explicaría por qué las pandemias acostumbran brotar en China: millones de aves, cerdos y personas viven en estrecha relación.
+
+H5N1 , el virus que mató seis personas en Hong Kong en 1997, no había emergido, sin embargo, de ninguna reordenación genómica.
+Pasó directamente de las aves al hombre.
+Pero H5N1 no pudo transmitirse de un humano a otro.
+Si se le hubiera dado tiempo suficiente para adquirir, por mutación o reordenación, esa capacidad, quizás habría escapado en seguida a todo control.
+
+El toque de alerta de 1997 ha convencido a los expertos en salud pública de que no basta con seguir el curso de la gripe en humanos, cosa que ya se viene haciendo.
+Hay que vigilar también los casos que se dan en aves migratorias. 
+Es probable que estas aves sirvan de reservorio de cepas del tipo A de año en año, que luego se diseminan a las aves domésticas y a otras especies.
+La rápida identificación de cepas animales con potencial de dañar a las personas podría ayudar a evitar un desastre de salud pública.
+
+El incidente de Hong Kong ha avivado el interés por estudiar la naturaleza de la "barrera de las especies", que impide que muchas cepas de la gripe puedan pasar de un animal a otro.
+Si se conociera mejor ese obstáculo, podrían sellarse los huecos por donde se cuelan cepas animales para infectar al hombre.
+
+Del estudio sobre biología de la gripe acometido a principios de los ochenta se desprendía que el fármaco ideal debería bloquear la actividad de alguna molécula relacionada con el ciclo reproductor del virus mediante la ocupación de un sitio "conservado" de la molécula efectora.
+La medicina tendría que hacer blanco en una región cuya secuencia de aminoácidos persistiera constante en todas las cepas.
+Actuaría así contra cualquier virus de la gripe que apareciera en personas, incluidos los transmitidos directamente por animales.
+
+El trabajo estructural que permitió desarrollar los inhibidores de la neuraminidasa surgió a raíz de un descubrimiento accidental.
+A finales de los setenta, uno de nosotros (Laver) se aprestaba a determinar si la espícula N2 del virus que había causado la pandemia gripal de Hong Kong de 1968 (H3N2) procedía de la cepa responsable de la pandemia de gripe asiática de 1957 (H2N2) ; se proponía, pues, comparar la secuencia de aminoácidos de las moléculas.
+Aisló y concentró las cabezas, esto es, los dominios que emergen de la superficie del virus.
+
+Cuando Laver liberó de los virus purificados las cabezas de neuraminidasa y las concentró en una centrífuga, halló que el amasijo de material resultante no era amorfo como suele suceder con las proteínas.
+Observó cristales, distribuciones ordenadas de moléculas, esenciales para descifrar la estructura tridimensional de proteínas grandes.
+En concreto, la inesperada producción de cristales de neuraminidasa implicaba que se podría descifrar la estructura de la neuraminidasa.
+
+Eso mismo es lo que el grupo de Peter Colman, de la Organización de Investigación Científica e Industrial Commonwealth (CSIRO) de Australia, realizó en 1983.
+El trabajo reveló que las espículas de neuraminidasa de los virus de la gripe constaban de 4 monómeros, moléculas idénticas entre sí.
+El tetrámero resultante se asemejaba a cuatro globos colocados encima de un eje.
+El eje, único, penetraba la membrana vírica y los globos sobresalían.
+El grupo de Colman no tardó en descubrir que cada monómero de neuraminidasa mostraba una hendidura central profunda en su superficie.
+
+Se observó que, si bien las moléculas de neuraminidasa podían diferir en la secuencia de aminoácido concreta, todas las versiones conocidas, tanto del tipo A como del B, presentaban una similitud impresionante.
+Los aminoácidos que tapizaban la pared de la hendidura eran invariantes.
+
+Cuando alguna parte de una molécula se resiste al cambio, el motivo habitual es que se trata de componentes esenciales para la función de la molécula.
+En este caso, la uniformidad apuntaba a que la hendidura formaba el sitio activo de la neuraminidasa que rompía el ácido siálico y que los aminoácidos conservados de la hendidura eran imprescindibles para ejecutar la acción catalítica.
+El trabajo posterior confirmó estas hipótesis.
+
+Dado que los virus de la gripe no pueden diseminarse de una célula a otra sin la acción de la neuraminidasa, los nuevos descubrimientos implicaban que un fármaco capaz de ocupar y bloquear el sitio activo podría inhibir la neuraminidasa en todas las versiones del virus de la gripe.
+Esto es, la "llave" serviría de cura universal para la gripe.
+
+Persiguiendo idea tan sugestiva, el grupo de Colman identificó los aminoácidos del sitio activo que establecen contacto con el ácido siálico.
+También determinó qué aminoácidos de la hendidura no se unían al ácido siálico, pero podían servir de anclaje al fármaco.
+Observó, por ejemplo, que la hendidura tenía tres aminoácidos con carga positiva que se enlazaba con firmeza a un grupo carboxilato del ácido siálico con carga negativa.
+
+Había, además, en el fondo de la hendidura una bolsa donde se alojaban dos aminoácidos de glutamato con carga negativa que no entraban en contacto con el ácido siálico, aunque estaban presentes en todas las neuraminidasas examinadas.
+Un grupo hidroxilo (OH) del ácido siálico apuntaba hacia esa bolsa suplementaria, sin llegar a alcanzarla. 
+
+Estas características sugerían que, si se cambiaba el grupo OH por un grupo atómico grande, con carga positiva, se podría obtener un derivado que se uniera firmemente.
+El grupo positivo se acomodaría quizás en la bolsa suplementaria de la base del sitio activo; se anclaría en los grupos glutamato de la bolsa dotada de carga negativa y sin emplear hasta entonces.
+
+Después de varios intentos, en 1993 Mark von Itzstein y su equipo, de la Universidad Monash de Melbourne, hallaron que, si se cambiaba el grupo OH del ácido siálico por un grupo guanidina, grande y dotado de carga positiva, se obtenía un inhibidor de las neuraminidasas gripales potentísimo. 
+El inhibidor no ejercía apenas efecto sobre enzimas afines sintetizadas por bacterias y mamíferos, señal de que el compuesto no lesionaría las células humanas. 
+
+Los estudios en animales y los ensayos preliminares en humanos revelaron que la sustancia, el zanamivir, prevenía los síntomas gripales en individuos que luego resultaron infectados por el virus y que remitía la gravedad de los síntomas en quienes tomaron el preparado después de infectarse.
+Este no se administra en pastilla, sino inhalado por la nariz o la boca hacia el sistema respiratorio. 
+
+El grupo guanidina, gracias al cual el zanamivir constituye un óptimo inhibidor, impide que se tome en pastilla.
+Los fármacos ingeridos han de cruzar las células que tapizan el intestino y alcanzar el torrente sanguíneo, para distribuirse por otras partes del cuerpo.
+Pero a las moléculas dotadas de carga les cuesta atravesar las membranas celulares, lipídicas y permeables sobre todo a sustancias sin carga.
+
+La inhalación es la forma habitual de administración de medicinas que han de operar en el tracto respiratorio.
+Glaxo Wellcome, de Stebenage, inició más pruebas en humanos con zanamivir.
+Algunos pacientes, sin embargo, preferían la pastilla.
+Por eso, Gilead Sciences, de Foster City, se alió con F. Hofman-La Roche, de Basilea, para fabricar un inhibidor de neuraminidasa que se administrara por vía oral.
+Además, si el fármaco circula por la sangre podría combatir cualquier virus de la gripe virulento que infectara células fuera del tracto respiratorio.
+
+Tras sintetizar y someter a ensayo varios compuestos, Gileat y F. Hoffman-La Roche se concentraron en GS4071, tan potente como zanamivir.
+Del análisis estructural se desprendía que tenía también un grupo principal de unión a la neuraminidasa que se encontraba en el zanamivir:
+un grupo carboxilato dotado de carga negativa que se unía a los aminoácidos con carga positiva del sitio activo de la enzima.
+Además, la interacción entre GS4071 y el sitio activo inducía la rotación de un aminoácido de la hendidura y creaba una bolsa hidrofóbica nueva.
+Esta bolsa repelente del agua servía de anclaje para un componente hidrofóbico similar (una cadena de átomos de carbono e hidrógeno) del fármaco. 
+
+La sustancia funcionó bien en el tubo de ensayo. 
+No dañaba las células sanas.
+Pero fracasó en una prueba crucial:
+el grupo carboxilato negativo le impedía atravesar el intestino de los animales y llegar a la sangre.
+Mas bastó un pequeño reajuste -se recubrió el grupo negativo- para solucionar el problema.
+La forma con envoltura GS4104 arribaba sin problemas a la circulación y se liberaba de su envoltura en la sangre y el hígado.
+Convertido de nuevo en su forma original (GS4071) inhibía la actividad de la neuraminidasa y vedaba la diseminación del virus en el tracto respiratorio de los animales de ensayo.
+Lo mismo que el zanamivir, dio muestras de funcionar bien en humanos. 
+
+Los informes del último otoño sobre los exhaustivos ensayos clínicos controlados en torno a zanamivir y GS 4104 confirmaron y extendieron los descubrimientos iniciales.
+Si se inicia el tratamiento con zanamivir o la forma ingerida GS4104 , día y medio después del inicio de los síntomas, el tiempo que la gente se encuentra enferma se reduce en un 30% (uno y medio a tres días). 
+Los compuestos también reducen la gravedad de los síntomas.
+Un ensayo con GS4104 , por ejemplo, indicó que los diarios de valoración de los pacientes mostraban que los síntomas eran entre un 25% y un 60% más suaves que en los pacientes que tomaron placebo.
+Además, los fármacos disminuyen el riesgo de infecciones bacterianas secundarias -así, la bronquitis-, potencialmente letales, en un 50% o más.
+Estas complicaciones son una causa muy importante de muertes por gripe, sobre todo entre los ancianos y las personas con enfermedades concomitantes. 
+
+Cierto estudio restringido de zanamivir manifiesta que la forma inyectable del fármaco también es eficaz. 
+Son a su vez prometedoras las investigaciones en el terreno de la prevención.
+Cuando se probó el zanamivir, el 6% de los que no lo tomaron, por sólo el 2% de los que lo tomaron, contrajeron la gripe.
+GS4104 produce resultados similares.
+Hasta la fecha ninguno de los dos fármacos ha producido efectos secundarios graves.
+
+A partir de estos estudios Glaxo Wellcome ha solicitado autorización para comercializar la forma inhalada de zanamivir en Australia, Europa, Canadá y los EE.UU.
+Se espera que Gilead y F. Hoffman-La Roche hagan lo mismo con el GS4104 en EE.UU. y Europa a lo largo del año en curso.
+Otros inhibidores de la neuraminidasa desarrollados por BioCryst Pharmaceuticals de Birmingham han funcionado en estudios con animales y se ha autorizado a Johnson & Johnson para un posterior desarrollo.
+
+Para el observador ocasional, el recortar pocos días la duración de la gripe puede parecerle un triunfo menor. 
+Pero se trata de algo más profundo de lo que sugiere a simple vista.
+La fatiga y otras incomodidades que se sufren durante los últimos días de la gripe resultan, sobre todo, de la actividad residual del sistema inmunitario, tras la eliminación del organismo de la mayoría de los virus.
+Los fármacos antigripales no pueden afectar esta actividad, pero al obstruir la replicación vírica los compuestos sí pueden recortar la duración y aligerar la gravedad de la parte inicial, la más desagradable de un episodio de gripe.
+
+Cuanto antes se empiece el tratamiento, mejores resultados se cosecharán, en parte porque el organismo albergará una cantidad de virus menor y más domeñable y porque los fármacos no pueden curar las lesiones que el virus inflige a los tejidos antes de que se inicie la terapia.
+De la combinación de tales observaciones con la investigación desarrollada en el campo de la prevención se infiere que la mejor forma de usar tales fármacos puede ser en conjunción con pruebas instantáneas que detecten la presencia de una infección incipiente antes de que la persona desarrolle síntomas.
+No es disparatado pensar que, en un futuro cercano, las personas podrían aplicarse, cada mañana, una tirita de papel de prueba de detección del virus de la gripe en la lengua.
+Si la tira cambia de color, se sabrá que nuestro organismo aloja ya al virus de la gripe y que hay que comenzar a tomar un fármaco antigripal para controlar los síntomas.
+Existen protocolos de detección precoz en el consultorio médico y se está avanzando en adaptarlo a su empleo domiciliario.
+
+Estos fármacos funcionan sólo ante virus de gripe.
+Importa, pues, determinar si una persona ha contraído la gripe y no un simple resfriado u otra enfermedad, para evitar el desperdicio de emplearlas en combatir resfriados, causados por otros tipos de virus, alergias o infecciones bacterianas que producen síntomas pseudogripales.
+
+Aunque los agentes bloqueantes de neuraminidasa han generado enorme expectación, quedan cuestiones pendientes.
+Por lógica, la inhibición de la replicación vírica y la reducción de las complicaciones secundarias deberían salvar vidas, pero no sabemos todavía si el fármaco realmente evita muertes.
+
+Aún más, las drogas que los humanos empleamos contra virus y bacterias acostumbran terminar superadas por las resistencias.
+En su lucha por la supervivencia, estos microorganismos desarrollan variantes en las que se altera la diana del fármaco, para hacerla irreconocible y poder escapar a los efectos del fármaco.
+La amantadina y la rimantadina son algunos ejemplos de fármacos contra los que se han desarrollado resistencias.
+¿Existen razones para pensar que los nuevos fármacos antigripales no terminen igual?
+
+Las hay.
+Se ha intentado producir en el laboratorio cepas de virus de la gripe resistentes al zanamivir y al GS4104 . 
+Hasta ahora sólo han tenido un éxito limitado. 
+Algunas cepas ganaron resistencia, como se predecía, alterando los aminoácidos del sitio activo de la neuraminidasa, pero estos cambios hicieron tambalear la estabilidad de la enzima o su actividad normal, lo que nos adelanta las dificultades que rodearían a la pervivencia del virus en el organismo. 
+
+Otras cepas no basaron su estrategia de resistencia en modificaciones de la neuraminidasa, sino en cambios químicos en la hemaglutinina.
+Recuérdese que el virus de la gripe necesita la neuraminidasa para romper el ácido siálico de la superficie de nuevas partículas víricas al objeto de que la hemaglutinina no quede pegada al ácido siálico de las partículas vecinas y se evite así la diseminación hacia otras células.
+El cambio en la hemaglutinina redujo su afinidad por el ácido siálico, obviando la necesidad de que interviniera la neuraminidasa.
+Aunque apareció en células de cultivo, el segundo grupo de mutantes no mostró resistencia a los fármacos en animales.
+Cabe imaginar que el enlace maltrecho de la hemaglutinina y el ácido siálico redujo la infectividad de las cepas al debilitar su capacidad de anclarse en las células.
+
+La investigación no se detiene en los fármacos bloqueantes de la neuraminidasa.
+Desde hace tiempo se sueña, sin éxito, con fármacos cuya diana fuera el sitio de unión de la hemaglutinina con el ácido siálico.
+La eficacia de la amantadina y de la rimantadina se descubrió antes de conocer su mecanismo de acción. 
+Ahora se sabe que interfieren la actividad de M2, proteína vírica que funciona como un canal iónico.
+La inhibición de M2 explica por qué los fármacos no ejercen efecto sobre el tipo B de la gripe:
+estos virus carecen de moléculas M2.
+A la par que se avanza en la investigación de nuevos fármacos, se intenta mejorar las vacunas contra la gripe.
+
+Entre una pandemia y otra menudean epidemias circunscritas importantes.
+En 1994, según el Centro de Control y Prevención de Enfermedades de los EE.UU., se estimó que 90 millones de norteamericanos, alrededor del 35% de la población, contrajo la gripe.
+En conjunto, estas personas pasaron 170 millones de días en cama y perdieron 69,3 millones de días de trabajo.
+Sólo en ese país la gripe afecta de un 10 a un 20% de la población cada año y causa alrededor de 20.000 muertes por complicaciones relacionadas con la gripe.
+
+Estas cifras, como las asociadas con las pandemias, es probable que disminuyan en los próximos años cuando se disponga de los nuevos fármacos antigripales y de vacunas que tengan una mayor difusión y se fabriquen con mayor rapidez.
+La sociedad puede acercarse a una era en que la especie humana le gane la partida al temido virus de la gripe. 

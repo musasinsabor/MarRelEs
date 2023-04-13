@@ -1,0 +1,327 @@
+
+Mecanismo molecular del control génico 
+
+Las actividades de nuestros genes están rigurosamente reguladas por elaborados complejos de proteínas que se ensamblan en el ADN .
+Cualquier perturbación en el proceso de ensamblado puede ser causa de enfermedades.
+
+El asma, el cáncer, las cardiopatías, los trastornos inmunitarios y las infecciones víricas son enfermedades que, a primera vista, tienen poco en común. 
+
+Sólo a primera vista.
+En última instancia todas se producen por defecto o por exceso de una o varias proteínas, que son las moléculas que llevan a cabo la mayoría de las reacciones que se producen en el cuerpo.
+Esta circunstancia ha dado un empuje definitivo a las investigaciones que tienen como objetivo el conocimiento y la manipulación de la maquinaria que regula un paso esencial en la síntesis de proteínas: la transcripción de los genes.
+Para sintetizar una proteína, el gen que especifica su composición debe transcribirse, copiarse, de ADN en moléculas de ARN mensajero, que posteriormente sirven de molde para la síntesis proteica. 
+
+Mucho antes de que la terapia se convirtiera en objetivo, la transcripción había cautivado el interés de los científicos que buscaban desentrañar los mecanismos que regulan este proceso, en la esperanza de que aclarase algunos puntos del misterio de la vida.
+Todas las células del cuerpo portan el mismo genoma, esto es, los aproximadamente xxx genes que constituyen el patrimonio genético de un ser humano.
+¿Cómo a partir de una célula, el huevo fecundado, se origina esa miríada de tipos celulares, cada uno de los cuales utiliza una porción diferente del total de genes para producir mezclas diferentes de proteínas? 
+Y una vez formado el cuerpo,
+¿cómo consiguen las células aumentar y disminuir las cantidades de proteínas que fabrican, en respuesta a sus propias necesidades y las del organismo en general?
+
+Para responder a estas preguntas y diseñar drogas capaces de modular la transcripción, había que conocer el funcionamiento de la maquinaria que controla la lectura del código genético en la célula humana. 
+Tras 25 años de investigaciones, la estructura global de este aparato empieza a vislumbrarse con nitidez.
+Los trabajos de mi laboratorio, en la Universidad de California en Berkeley, y de otras instituciones, han revelado que una parte de la maquinaria que dirige la transcripción de la mayoría, si no todos, los genes humanos, consta de unas 50 proteínas distintas.
+Esas proteínas deben ensamblarse en un apretado complejo con el ADN , antes de que una enzima especial, la polimerasa de ARN, pueda empezar a copiar el ADN en ARN mensajero. 
+Todos esos componentes se pueden ya mezclar en el tubo de ensayo para conseguir una maquinaria transcripcional operativa. 
+Existen, además, otras proteínas que se encajan en determinados sitios de esta compleja maquinaria, y la «programan», indicando qué genes hay que transcribir y con qué celeridad.
+Los puntos cruciales de tales instrucciones también empiezan a revelársenos. 
+
+A finales de los setenta, empezamos, en Berkeley, a trabajar con genes humanos.
+
+En esa época se sabia muy poco sobre la maquinaria transcripcional de nuestras células.
+Pero ya se tenia una visión bastante clara de la transcripción en procariotas (bacterias y otros organismos unicelulares primitivos que carecen de núcleo definido).
+Estos conocimientos adquiridos facilitaron bastante los estudios con células humanas y otros eucariotas (nucleados), y ayudaron a definir características de la transcripción extrapolables a la mayoría de los organismos.
+
+Las investigaciones con bacterias demostraron que los genes están divididos en dos regiones principales, de función distinta.
+Una de ellas, la región cifrada, determina el orden que deben seguir los aminoácidos para formar una proteína.
+
+Ese orden viene dictado por la secuencia de nucleótidos presente en una de las cadenas de la doble hélice de ADN .
+Los nucleótidos se distinguen unos de otros por la base nitrogenada que portan: adenina ( A ), timina ( T ), citosina ( C )o guanina ( G ).
+La otra región del gen cumple una función reguladora:
+controla el ritmo con el que la polimerasa de ARN debe transcribir la región cifrada en ARN mensajero.
+
+En bacterias, como en la mayoría de los procariotas, la región reguladora, denominada promotor, reside en un tramo de nucleótidos localizados a corta distancia (a menudo sólo 10 nucleótidos) curso arriba del sitio donde comienza la región cifrada.
+Para que la transcripción se produzca de forma adecuada y eficaz, la polimerasa de ARN debe unirse al promotor.
+Una vez allí, se desliza hacia el inicio de la región cifrada, desde donde viaja sobre el ADN , como un tren sobre la vía, construyendo una réplica en ARN de la secuencia cifrada.
+
+Salvo en los genes muy largos, el número de moléculas de ARN que se fabrican en un momento dado depende principalmente del ritmo con el que la polimerasa de ARN se une al promotor e inicia la transcripción. 
+
+Pero la polimerasa de ARN es una molécula muy promiscua, incapaz de distinguir entre un promotor y otra secuencia de ADN .
+Para que la enzima se dirija hacia los promotores de genes específicos, las bacterias producen ciertas proteínas, los factores sigma, que se unen a la polimerasa de ARN .
+Los complejos resultantes reconocen secuencias de nucleótidos especificas en el promotor, y se unen a ellas.
+De ese modo, los factores sigma programan la polimerasa de ARN y consiguen que ésta se engarce sólo en secuencias promotoras. 
+
+Los factores sigma desempeñan, por tanto, un papel decisivo en la activación diferencial de los genes bacterianos. 
+Sabedores de ello, cuando nos decidimos a investigar el aparato transcripcional humano, empezamos por buscar moléculas similares a las sigma en las células humanas.
+Pero no valoramos suficientemente el nivel de complejidad hacia el que había evolucionado la maquinaria encargada de extraer la información genética de nuestros genomas.
+Pronto fuimos conscientes de la posible ausencia de factores sigma humanos, o de que, si existían, no tenían por qué tener la misma forma que los bacterianos.
+
+Si no existen factores sigma simples en eucariotas,
+¿cómo aseguran estas células que la polimerasa de ARN transcriba los genes correctos, en el momento adecuado y con el ritmo preciso?
+La respuesta empezó a perfilarse una vez que conocimos el insólito diseño de los genes eucariotas.
+
+En 1983, se sabía ya que todos los eucariotas, desde las unicelulares levaduras hasta los más complejos organismos pluricelulares, portan tres tipos de secuencias discretas de nucleótidos, necesarias para que la polimerasa de ARN inicie la transcripción.
+Una de esas secuencias, normalmente muy próxima a la región cifrada, opera como un promotor bacteriano.
+
+Es el centro del promotor, sitio a partir del cual la polimerasa comienza su tarea.
+Muchos genes tienen centros promotores de ese tipo.
+
+Walter Schaffner, Steven Lanier McKnight y otros identificaron, además, unos elementos reguladores nuevos, los intensificadores ( enhancers ), que estimulan la transcripción.
+Estas secuencias pueden encontrarse a miles de nucleótidos curso arriba o abajo del centro promotor.
+Estudios posteriores revelaron la existencia de silenciadores, que son secuencias que inhiben la transcripción y que, de nuevo, pueden encontrarse a grandes distancias del centro promotor.
+
+Para entendernos, si el centro promotor fuese el encendido de un coche, los intensificadores serían el acelerador y los silenciadores los frenos.
+Los genes eucariotas pueden contar con varios intensificadores y silenciadores; dos genes distintos pueden compartir idénticos elementos intensificadores o silenciadores.
+
+Pero no existen dos genes que posean la misma combinación de intensificadores y silenciadores.
+Así, las células controlan la transcripción de cada gen individualmente. 
+
+El descubrimiento de esos elementos llevó a dos conclusiones relacionadas y sorprendentes.
+Era evidente que los intensificadores y silenciadores no podían, por sí solos, controlar la actividad de la polimerasa de ARN .
+
+Más bien parecían ser los sitios de «anclaje» de una familia de proteínas.
+Las proteínas que se uniesen a intensificadores y silenciadores, que ahora se denominan activadores y represores, respectivamente, enviarían a la polimerasa de ARN mensajes de estimulación o represión, directa o indirectamente (es decir, pisarían el acelerador o el freno).
+En buena lógica, el ritmo de transcripción de un gen dependería, pues, de la actividad conjunta de todas las proteínas - o factores de transcripción- unidas a los diversos elementos reguladores. 
+
+Se trataba de explicar por qué las proteínas que se unen a secuencias de ADN situadas muy lejos del centro promotor de un gen podían influir en la transcripción de dicho gen.
+Lo mismo que otros laboratorios, abordamos el problema intentando aislar factores de transcripción humanos; hasta entonces no se había aislado ninguno (salvo la propia polimerasa de ARN ).
+Suponíamos que una vez que hubiésemos purificado algunos de esos factores, podríamos adentrarnos en las claves de su funcionamiento.
+
+Puesto que muchas proteínas que se unen al ADN no intervienen en la lectura de los genes, el de buscar factores de transcripción por el criterio de pescar proteínas nucleares capaces de unirse al ADN tampoco era el procedimiento más adecuado.
+Mi grupo adoptó una estrategia más selectiva, buscando proteínas que in vitro se uniesen al ADN y estimulasen la transcripción. 
+
+En 1982, William S., Dynan determinó que un componente de cierta mezcla de proteínas nucleares cumplía todos los requisitos de un factor transcripcional.
+
+Se unía a un elemento regulador común a ciertos genes, denominado bloque GC por su abundancia en esos nucleótidos.
+Lo más importante, no obstante, era que, cuando se añadía a una preparación de proteínas nucleares, entre ellas la polimerasa de ARN , la sustancia sólo estimulaba la transcripción de genes que portaban bloques GC .
+Habíamos, pues, identificado el primer factor transcripcional humano capaz de reconocer una secuencia reguladora específica.
+
+Lo llamamos SP1 ( specific protein 1 ).
+
+Nos pusimos a purificar la molécula.
+Había que vencer una dificultad característica:
+los factores de transcripción se dan en pequeñísimas cantidades dentro de la célula; por lo común, un factor particular puede representar la cienmilésima parte del total de proteínas de una célula humana.
+
+En 1985, James T., Kadonaga encontró una forma de salvar esa dificultad técnica, introduciendo una poderosa herramienta, que se utiliza desde entonces para purificar incontables factores de transcripción y otras proteínas de unión a ADN , que normalmente se hallan en cantidades ínfimas.
+
+Como Sp1 reconocía bloques GC selectivamente, Kadonaga sintetizó moléculas de ADN que sólo contenían secuencias de ese tipo, y las «pegó» por procedimientos químicos a unas bolitas sólidas.
+A continuación, pasó una mezcla compleja de proteínas nucleares humanas por el ADN , sabedor de que sólo la Sp1 quedaría unida a dicho ADN .
+Y de esa forma, separando las proteínas que se habían quedado pegadas al ADN sintético, purificó la proteína Sp1 .
+
+Los estudios realizados por el grupo de Mark Ptashne nos han mostrado que los reguladores transcripcionales bacterianos son proteínas modulares, en las que regiones diferenciales realizan tareas distintas.
+En cuanto conocimos la secuencia de aminoácidos de Sp1 , nos aprestamos a buscar esos módulos; observamos que al menos había dos interesantes.
+
+Un extremo de la molécula contenía una región capaz de plegarse formando tres dedos de cinc, que son estructuras en las que cierta parte de la proteína se pliega alrededor de un tomo de cinc.
+Esos dedos constituyen los «garfios» que utilizan muchas proteínas activadoras para unirse al ADN .
+Sp1 era la segunda proteína en la que se encontraban esos motivos.
+El equipo de Aaron Klug había descubierto, muy poco tiempo antes, dedos de cinc en un factor de transcripción de rana.
+
+El otro extremo de Sp1 contenía un dominio formado por dos segmentos discretos, ricos en el aminoácido glutamina.
+
+Sospechábamos, fundados en un importante descubrimiento, que esa región intervenía en la transcripción. 
+En experimentos in vitro , las moléculas Sp1 mutantes que carecían de ese dominio se trababan perfectamente con el ADN , pero no estimulaban la transcripción génica.
+Tal hallazgo indicaba que Sp1 no afectaba a la transcripción en virtud de la simple unión al ADN ; el segmento rico en glutaminas, ahora denominado activador, interaccionaba con alguna otra parte de la maquinaria transcripcional.
+Pero, ¿qué parte?
+
+En 1988, cuando iniciamos la búsqueda de la diana de Sp1 , ya sospechábamos dónde podría encontrarse.
+Íbamos conociendo mejor el complejo transcripcional basal, una parte del cual parecía el objetivo verosímil.
+
+A mediados de los ochenta, el grupo de Robert G., Roeder demostró que la polimerasa de ARN no podía transcribir genes eucariotas si previamente no se habían ensamblado en el centro promotor otros factores de transcripción, ahora llamados factores basales.
+Durante ese decenio, el laboratorio de Roeder y otros habían identificado al menos seis de esos factores esenciales: xxx .
+
+En el tubo de ensayo, esta colección de factores permitía a la polimerasa transcribir el gen correspondiente a un ritmo basal, bajo e invariante, pero sin posibilidad de modulación.
+Cuando mi grupo mezcló los componentes del complejo (incluyendo la polimerasa de ARN ) con un gen que tenía un bloque GC , obteníamos un nivel de transcripción bajo y constante.
+Sólo si añadíamos Sp1 a la mezcla observábamos un notable incremento de la transcripción.
+
+A finales de los ochenta ya se sabía que las células humanas alojaban al menos dos tipos de factores de transcripción. 
+Los factores basales se requieren para la iniciación de la transcripción en todos los genes; otras proteínas - activadores y represores- dictan el ritmo de inicio de la transcripción por el complejo basal.
+A genes diferentes les corresponden controles por combinaciones distintas de activadores y represores. 
+Nos parece, sin embargo, que, in vivo , es muy raro que el complejo basal se ensamble espontáneamente.
+La mayoría de las veces las células dependen de activadores para iniciar su ensamblado. 
+
+Los resultados sugerían que el dominio de Sp1 rico en glutaminas estimulaba la transcripción interaccionando con un factor basal.
+En particular, sospechábamos que Sp1 entraba en contacto con el factor D , y facilitaba su unión al promotor.
+Nos centramos en esa subunidad porque Phillip A., Sharp y Stephen Buratowski habían demostrado que dicho factor llegaba al centro promotor antes que los demás factores basales y permitía el ensamblado de la maquinaria basal.
+En realidad, el factor D es el único componente basal capaz de reconocer ADN .
+Se une selectivamente a una secuencia denominada bloque TATA , que hay en los centros promotores de muchos genes eucariotas.
+
+Para seguir nuestra hipótesis, necesitábamos ahondar en la composición del factor D , que creíamos se trataba de una proteína solitaria.
+No éramos los únicos interesados en desentrañar su estructura.
+
+Comenzó la carrera hacia la purificación del factor.
+Su aislamiento a partir de células humanas resultó más difícil de lo previsto. 
+Muchos grupos probaron suerte con las levaduras.
+Por fin, en 1989, varios laboratorios, independientemente, consiguieron aislar una proteína de levaduras con las propiedades esperadas para el factor D. 
+La proteína, conocida como TBP (de TATA binding protein ) reconocía al bloque TATA , se unía a él selectivamente y determinaba un nivel bajo de transcripción cuando se unía al centro promotor mediante la polimerasa de ARN y otros componentes de la maquinaria basal.
+
+Convencidos de que la proteína TBP era el propio factor D , nos dispusimos a comprobarlo.
+Confirmado ello con los experimentos que realizamos, había que determinar exactamente qué regiones de la TBP interaccionaban con Sp1 y otros reguladores.
+Muy pronto nos hallaríamos a medio camino entre la frustración y la gloria.
+
+B., Franklin Pugh utilizó moléculas purificadas de proteína TBP , en vez de las preparaciones de factor D sin purificar.
+Comprobó que la sustitución no distorsionaba la transcripción basal.
+Sin embargo, para nuestra sorpresa y consternación, también comprobó que Sp1 dejaba de activar la maquinaria basal.
+Había que concluir, por tanto, que el factor D y la proteína TBP no eran equivalentes; el factor D constaba de proteína TBP y otras subunidades. (Hoy sabemos que muchos factores de transcripción contienen más de una proteína).
+Según todos los indicios, esas subunidades no se necesitaban para las operaciones que realizaba la maquinaria basal, pero eran esenciales para que los activadores regulasen tales mecanismos.
+
+En otras palabras, esos componentes adicionales no eran activadores, pues no se unían a secuencias especificas de ADN .
+Ni tampoco eran factores basales, ya que en su ausencia se alcanzaban niveles bajos y no regulados de transcripción.
+Parecían constituir una tercera clase de factor transcripcional, denominados hoy coactivadores.
+Más tarde, propusimos que los coactivadores, y no la proteína TBP , eran las dianas de los dominios de unión a proteínas de los activadores.
+Sospechábamos que los activadores tendrían que unirse a coactivadores específicos para acelerar el ritmo de activación de la polimerasa de ARN por el complejo basal.
+
+Pensábamos que debía ser así porque no cabía imaginar que una sola proteína ( TBP ) tuviera suficientes sitios de unión como para acomodar a todos los activadores fabricados por las células humanas.
+Pero si los coactivadores ligados a la TBP presentasen muchos dominios de unión, sumados todos ellos podrían proporcionar los sitios de anclaje necesarios para transmitir los mensajes de los cientos o miles de activadores a la maquinaria de transcripción.
+
+A Pugh se le ocurrió la idea de que los coactivadores podían funcionar como tales moléculas adaptadoras. 
+Sus datos me convencieron de la verosimilitud de su hipótesis, aunque no todos en nuestro laboratorio pensaban lo mismo.
+Nuestras reuniones semanales de principios de los noventa fueron testigos habituales de acaloradas discusiones.
+No era raro que, cuando se presentaba a otros investigadores del campo el concepto de coactivador, también se mostrasen escépticos. 
+Esta reacción a un resultado inesperado y complicado quedaba probablemente justificada, ya que nuestros datos no eran incuestionables.
+
+Ni siquiera hablamos conseguido todavía aislar un solo coactivador.
+
+Para terminar de convencernos de que estábamos en lo cierto, debíamos diseñar un procedimiento experimental que estableciese sin ambigüedades que los coactivadores existían y operaban como los transmisores que habíamos imaginado.
+
+Los dos años siguientes a la propuesta de la hipótesis del coactivador por Pugh los dedicamos a purificar un complejo intacto y funcional que contuviese la TBP y todos los demás constituyentes asociados al factor D.
+Atravesamos momentos amargos, en los que parecía que la más que impopular hipótesis del coactivador podía basarse en errores de nuestra propia investigación.
+
+Pero el descubrimiento llegó.
+En 1991, Brian D., Dynlacht, Timothy Hoey, Naoko Tanese y Robert Weinzierl, de nuestro laboratorio, encontraron una forma ingeniosa de aislar copias puras del factor D .
+Posteriores análisis bioquímicos revelaron que, además de la TBP , la unidad completa incluía 8 proteínas hasta entonces desconocidas. 
+Puesto que carecíamos todavía de pruebas de que esas proteínas operasen como coactivadores, las denominamos genéricamente TAF , o factores asociados a la TBP .
+
+Nos convencimos de que los TAF enviaban señales moleculares desde los activadores hasta el aparato transcripcional basal después de separar las proteínas del TBP y hacer otros experimentos.
+En ese contexto, demostramos que, en mezclas de activador Sp1 , factores basales y polimerasa de ARN, sólo se estimulaba la producción de ARN mensajero de un gen que contenía un bloque GC cuando también se añadían los TAF .
+Posteriormente, Jin-Long Chen mezcló en un tubo de ensayo TBP purificada, los ocho TAF aislados, un gen humano y el resto de la maquinaria basal de transcripción.
+El conjunto de proteínas se ensamblaba en el gen y respondía ante diversos tipos de proteínas activadores.
+Al poco tiempo, demostramos que esos activadores actuaban uniéndose directamente a ciertos TAF .
+En conjunto, los coactivadores del factor D vienen a constituir una suerte de unidad central de procesamiento que integra señales reguladoras emitidas por activadores que están unidos al ADN .
+
+Los complejos formados por activadores, coactivadores y maquinaria basal representan el equivalente humano de los factores sigma.
+Además, atraen a la polimerasa hacia genes específicos y con un ritmo muy concreto.
+En cierto modo, los complejos pueden considerarse factores sigma formados por muchas subunidades.
+Pruebas recientes abonan la posibilidad de que nos hallemos ante una forma universal de regulación génica en eucariotas.
+Esos estudios confirman que en levaduras también existen coactivadores y que el factor D consta de muchas subunidades en hongos, igual que en el hombre.
+
+Sin embargo, aunque los resultados sean satisfactorios, no acaban de explicar de qué manera la unión de los activadores a los intensificadores y a los coactivadores influye en el ritmo de transcripción de los genes in vivo por parte de la polimerasa de ARN .
+Puede que la unión de los activadores a los intensificadores haga que el ADN se pliegue de forma que acerque a los intensificadores entre sí y a éstos con el centro promotor.
+Esta disposición puede facilitar que los activadores (solos o en concierto con otros) se acoplen con los coactivadores y determinen así el anclaje del factor D en el promotor. 
+Ello posibilitaría, a su vez, el ensamblado de todo el complejo basal.
+La formación de este complejo podría cambiar la configuración del ADN subyacente y hacer que la polimerasa de ARN avance hacia la región cifrada que debe transcribir. 
+
+Sobre el funcionamiento de los represores sabemos menos. 
+No obstante, muchos pensamos que los represores podrían también unirse a veces a los coactivadores.
+
+Esta unión inhibiría la transcripción, impidiendo que los activadores se engarcen en los sitios habituales sobre los coactivadores.
+En otras ocasiones, los represores podrían «puentear» la maquinaria basal, bloqueando la transcripción al impedir que los activadores conecten con los intensificadores.
+
+Pese a las lagunas en el razonamiento, podemos ya esbozar una respuesta a la pregunta de por qué células distintas fabrican mezclas diferentes de proteínas durante el desarrollo embrionario y en los organismos maduros.
+Para que un gen se transcriba a un ritmo mensurable se necesita la presencia de los activadores adecuados y que éstos eludan el efecto inhibidor de los represores.
+Las células fabrican proteínas diferentes porque portan mezclas distintas de activadores y represores.
+La pregunta a plantear ahora es cómo decide la célula qué factores transcripcionales debe producir en primer lugar.
+Pero ésa es otra historia en la que también se están ya consiguiendo algunos progresos.
+
+¿Cómo podemos aprovechar estos nuevos conocimientos sobre la regulación génica para desarrollar medicamentos que combatan enfermedades graves motivadas por la transcripción excesiva o inadecuada de un gen?
+En teoría, impidiendo que los activadores correspondientes se unan a los intensificadores o coactivadores se debería poder disminuir un ritmo de transcripción excesivo.
+Por su parte, estabilizando la maquinaria transcripcional de un gen deberíamos poder contrarrestar una indeseada transcripción débil. 
+
+El bloqueo podría conseguirse colocando un «tapón» molecular en un activador, para impedir que interaccione con un coactivador, o atrayendo al activador hacia un señuelo que imite al coactivador.
+La estabilización de un complejo podría conseguirse desplegando moléculas que refuercen las interacciones entre activadores y ADN , o entre activadores y coactivadores.
+Se trata de estrategias todavía lejanas, pero quizá resulte interesante considerar una muestra de sus posible aplicaciones. 
+
+Tomemos, por ejemplo, el virus de la inmunodeficiencia humana ( VIH ), la causa del sida.
+Para reproducirse en células humanas, el VIH necesita un factor de transcripción propio, denominado TAT , que estimule la transcripción de los genes víricos.
+Si hubiese algún agente inhibidor que reconociese el TAT , e ignorase a los factores de transcripción humanos, se podría detener la replicación del virus sin afectar la producción de proteínas del paciente. 
+
+A la inversa, el tratamiento de algunas enfermedades, por ejemplo la hipercolesterolemia, podría basarse en la estimulación de la transcripción de ciertos genes.
+La hipercolesterolemia incrementa el riesgo de cardiopatías.
+
+El colesterol se acumula en la sangre hasta niveles destructivos cuando la proteína de baja densidad ( LDL ), el colesterol malo, no se elimina bien.
+En teoría, la enfermedad podría corregirse activando la transcripción del gen para el receptor de la LDL en células hepáticas.
+Este receptor ayuda a limpiar la sangre de LDL.
+
+Esperamos que muy pronto se compruebe la viabilidad de la idea:
+Michael S., Brown y Joseph L., Goldstein están estudiando a fondo los componentes moleculares de la transcripción del gen del receptor.
+
+Hasta hace muy poco, nadie había dedicado mucho esfuerzo a buscar moléculas pequeñas, productos naturales o cualquier otro compuesto capaz de modular la transcripción. 
+A pesar de ello, existen en el mercado varios medicamentos, encontrados por azar, que actúan alterando la actividad transcripcional.
+Uno de ellos, el RU486 (la píldora abortiva), reprime la función de ciertos receptores de esteroides, una clase de activadores que dirigen el desarrollo embrionario.
+De forma similar, el inmunosupresor ciclosporina y la xxx bloquean la transcripción de un gen cuyo producto proteínico es necesario para ciertas células del sistema inmune.
+Estas drogas, no obstante, actúan indirectamente.
+Activan una enzima que impide el funcionamiento de un factor de transcripción sobre ese gen.
+
+Con el tiempo se Irán identificando las combinaciones exactas de factores transcripcionales que regulan la expresión de genes concretos.
+Y los diseñadores de medicamentos utilizarán probablemente esa información para desarrollar sofisticados compuestos capaces de combatir distintas enfermedades. 
+
+Figura 1
+
+MAQUINARIA MOLECULAR que regula la actividad de los genes que cifran proteínas
+
+Consta de una docena larga de factores de transcripción ( formas en color ).
+Estas subunidades se presentan en las diferentes etapas ( numeradas ) del ensamblado sobre un gen.
+Cada subunidad puede, a su vez, estar formada por muchas proteínas.
+El complejo final (4) controla el ritmo con el que la polimerasa de ARN incoa una de las etapas cruciales de la síntesis de proteínas (5): la transcripción, o copiado, del ADN en ARN mensajero ( rojo ).
+
+Figura 2
+
+DOS MOLÉCULAS de proteína activadora Sp1 (par de esferas punteadas, unidas a unas secuencias intensificadoras, los bloques GC (regiones de color púrpura) 
+
+La unión se lleva a cabo mediante dedos de cinc; los puntos de contacto con el ADN están resaltados por semiesferas de color naranja.
+Una vez unida al ADN , Sp1 Utiliza una región rica en glutamina ( color marrón, en el esquema ) para transmitir señales activadores de la transcripción a un coactivador específico ( figura verde ).
+
+Figura 3
+
+MUTUA COMUNICACIÓN ENTRE LOS ACTIVADORES, amén de la señalada con el ADN o con los coactivadores; se demostró en un experimento con Sp1
+
+En la micrografía se muestran copias de la proteína ( manchas oscuras ) unidas al ADN por bloques GC situados en los extremos de la molécula.
+Una vez allí, entrarán en mutuo contacto y darán origen a un bucle de ADN ( abajo ).
+
+Figura 4
+
+LA PROTEÍNA que se une a TATA ( azul ) es una molécula en forma de silla de montar, casi simétrica
+
+Su cara inferior monta sobre el ADN ( amarillo ) y parece que lo dobla. 
+Este pliegue puede facilitar el ensamblado del complejo que inicia la transcripción.
+Se admite que los coactivadores, no ilustrados aquí, se unen a la cara superior. 
+
+Figura 5
+
+CÉLULAS CULTIVADAS ( izquierda ), que detienen su proliferación y mueren ( derecha ) cuando se bloquea la síntesis de un coactivador
+
+La muerte se debe a que no pueden producir proteínas necesarias para su supervivencia.
+Este y otros descubrimientos similares indican que los coactivadores son esenciales para la transcripción de la mayoría de los genes, o tal vez de todos.
+
+Figura 6
+
+UNA DE LAS MUJERES MÁS ALTAS DEL MUNDO mide casi xxx metros
+
+La raíz de la alteración reside en su hipófisis, que produce un exceso de hormona de crecimiento. 
+Los investigadores esperan tratar ésta y otras muchas enfermedades incrementando o disminuyendo la transcripción de genes específicos.
+
+Anatomía del mecanismo de transcripción 
+
+El aparato molecular que controla la transcripción en las células humanas consta de cuatro tipos de componentes. 
+Los factores basales ( figuras azules, abajo ), designados con una sola letra, son esenciales para la transcripción, pero no pueden incrementar o disminuir su ritmo, tarea que está encomendada a moléculas reguladoras:
+activadores ( rojo ) o represores ( gris ), que pueden variar de un gen a otro.
+Los activadores, y posiblemente también los represores, se comunican con los factores basales a través de los coactivadores ( verde ), proteínas que forman un apretado complejo con las proteínas de unión a TATA ( TBP ).
+La TBP es el primer factor basal que se asienta en el centro promotor, zona de la región reguladora de los genes.
+Los coactivadores se designan de acuerdo con sus pesos moleculares (en kilodalton).
+
+ACTIVADORES
+
+Estas proteínas se unen a los genes en unos sitos denominados intensificadores.
+
+Los activadores participan en la decisión sobre los genes a expresar y estimulan el ritmo de transcripción. 
+
+REPRESORES
+
+Estas proteínas se unen a grupos específicos de genes en sitios denominados silenciadores.
+Impiden el funcionamiento de los activadores, disminuyendo el ritmo de la transcripción.
+
+COACTIVADORES
+
+Estas moléculas «adaptadoras» integran señales de los activadores, quizá también de los represores, y transmiten los mensajes a los factores basales. 
+
+FACTORES BASALES
+
+En respuesta a órdenes recibidas de los activadores, estos factores colocan la polimerasa de ARN en el comienzo de la región cifrada de un gen y envían la enzima a realizar su trabajo.

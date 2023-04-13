@@ -1,0 +1,447 @@
+
+Ensayo aleatorio y controlado con placebo del ritonavir en la enfermedad por VH-1 avanzada
+
+Introducción
+
+La zidovudina fue el primer tratamiento antirretroviral con el que se demostró una reducción significativa de la tasa de mortalidad debida al sida en un ensayo controlado con placebo en pacientes con enfermedad por el VIH-1 avanzada. 
+Otros ensayos clínicos controlados con placebo posteriores han puesto de manifiesto su eficacia clínica en la prevención de las infecciones oportunistas menores en los pacientes con una inmunodeficiencia moderada y en los que presentan una infección por VIH-1 primaria.
+En comparación con la monoterapia con zidovudina, otros análogos de los nucleósidos (solos o en combinación con zidovudina) han retardado la aparición de la progresión de la enfermedad por VIH-1 o la muerte en los pacientes con una inmunodeficiencia moderada en ensayos clínicos relativamente largos, en especial como tratamiento inicial.
+
+El ritonavir ( Norvir, Abbott Laboratories, IL, EE.UU.) es un inhibidor específico y potente de la aspartil proteasa del VII-1.
+El fármaco tiene una biodisponibilidad oral elevada y una semivida plasmática prolongada, que permite su administración dos veces al día.
+En comparación con los análogos de los nucleósidos, el ritonavir tiene un efecto más potente y mantenido sobre la viremia plasmática, las cargas de infección celular por VIH-1 y los subgrupos de inmunofenotipos linfocitarios.
+En ensayos clínicos sobre el VIH-1, algunas respuestas de marcadores indirectos predicen la eficacia clínica del fármaco.
+
+Sin embargo, -no está clara -su utilidad en la valoración del tratamiento- con inhibidores de la proteasa.
+En consecuencia, este estudio se diseñó como un ensayo clínico simple y a gran escala para investigar rápidamente, en una subpoblación específica de pacientes con enfermedad por VIH-1 (recuentos de linfocitos CD4 xxx ) la seguridad y eficacia clínica del ritonavir.
+Estos resultados podrían ser generalizables a una población más amplia.
+
+Métodos
+
+El objetivo principal de este ensayo multicéntrico, controlado con placebo, doble ciego y aleatorio, fue determinar la eficacia del ritonavir en solución de administración oral (600 mg dos veces al día), para reducir la tasa de mortalidad o de cualquier enfermedad especificada definitoria de sida nueva o recidivante, en una población de adultos infectados por el VIH-1 que presentaban recuentos de linfocitos CD4 de xxx o inferiores, permitiendo al mismo tiempo el empleo simultáneo de tratamientos anti-VIH-1 autorizados. 
+Los objetivos secundarios fueron evaluar el efecto del ritonavir sobre los recuentos de linfocitos CD4 y CD8 y las concentraciones plasmáticas de ARN del VIH-1 ( Roche Amplicor límite de detección, 200 copias/ml ).
+La respuesta de la viremia plasmática se estudió en un subgrupo de pacientes (los primeros 159 a los que se incluyó en la distribución aleatoria con concentraciones basales de ARN de VIH1 en plasma superiores a 15.000 copias/ml [subgrupo de actividad antiviral]). 
+El protocolo del estudio fue aprobado por los organismos reguladores apropiados y por los comités de revisión de los centros participantes.
+
+Pacientes
+
+Los participantes en el estudio dieron su consentimiento informado por escrito antes de que se les incluyera en las técnicas de selección para el mismo.
+Los participantes elegibles debían tener como mínimo 12 años de edad, una prueba de anticuerpos sé ricos confirmada para el VIH-1, un recuento de linfocitos CD4 de xxx o inferior y haber recibido al menos 9 meses de tratamiento con al menos un nucleósido aprobado (zidovudina, zalcitabina, didanosina o estavudina).
+
+Además, los participantes debían haber recibido al menos 6 semanas de tratamiento estable con una puntuación de Karnofsky de más de 70.
+Los criterios de exclusión fueron la participación previa en este estudio o en otro estudio sobre un inhibidor de la proteasa del VIH-1, la enfermedad aguda, las anomalías hematológicas o bioquímicas predefinidas, el tratamiento actual con más de 2 inhibidores nucleósidos de la transcriptasa inversa, el consumo de drogas ilegales o fármacos experimentales, el tratamiento con fármacos contraindicados específicos, el embarazo y la lactancia materna.
+
+Objetivos
+
+El objetivo principal a valorar fue el tiempo transcurrido hasta la aparición de cualquier nueva enfermedad definitoria de sida o hasta la muerte no precedida por un episodio definitorio de sida.
+Se consideró que era un nuevo episodio definitorio de sida cualquier enfermedad clínica especificada por los Centers for Disease Control and Prevention de los EE.UU.
+Las recidivas de neumocistosis, candidiasis esofágica o úlcera herpética crónica se incluyeron también en el objetivo principal de valoración, pero no se consideraron en cambio, así las recidivas o progresiones de otros acontecimientos.
+Un objetivo secundario de valoración, que se analizó por separado, fue la muerte por cualquier causa.
+Cada episodio notificado como enfermedad correspondiente al objetivo de valoración era evaluado por 2 revisores independientes (DWC y SK) que no conocían la asignación de los tratamientos y que utilizaron unos criterios diagnósticos predefinidos.
+Se exigió la documentación original para mantener un alto grado de confianza clínica a la hora de confirmar cada uno de los episodios como correspondientes al objetivo clínico.
+
+Asignación aleatoria
+
+A los pacientes elegibles se les asignó aleatoriamente la administración de ritonavir (600 mg en una solución líquida de administración oral dos veces al día) o un placebo indiferenciable (solución liquida- de administración oral dos veces al día) mediante un esquema generado por ordenador (preparado por Abbott Laboratories).
+La asignación se realizó en bloques de 4 pacientes, estratificados según la región geográfica (Norteamérica, Europa y Australia):
+Se garantizó el ocultamiento de la asignación mediante el empleo de un sistema de respuesta de voz automatizado.
+
+Técnicas
+
+Los pacientes que dieron su consentimiento informado fueron objeto de un examen de selección mediante una historia clínica completa y una revisión de las medicaciones simultáneas, una exploración física completa, un electrocardiograma, una radiografía de tórax, un recuento de linfocitos CD4 y CD8 y análisis hematológicos y bioquímicos estándar, a lo largo de un período de 28 días antes de la asignación aleatoria del tratamiento.
+Los recuentos basales de linfocitos CD4 y CD8 y las concentraciones plasmáticas de ARN del VIH-1 se definieron con la media de dos determinaciones efectuadas durante los 10 días previos a la distribución aleatoria. 
+Tras ésta, se repitieron la valoración de la historia clínica, la exploración física, los análisis de laboratorio para la detección de efectos tóxicos y marcadores indirectos, y las comprobaciones del cumplimiento del tratamiento (mediante el recuento de la cantidad de medicación, en estudio restante) a intervalos semanales durante el primer mes, cada 2 semanas durante los 2 meses siguientes y una vez al mes a partir de entonces.
+La evaluación se repitió al suspender la medicación en estudio.
+Todos los análisis de carácter hematológico y bioquímico se llevaron a cabo en laboratorios centrales.
+
+Tratamiento y seguimiento
+
+Hubo tres períodos de estudio del tratamiento farmacológico con la medición en estudio y tratamiento anti-VIH-1 simultáneo. 
+Durante las primeras 16 semanas, los pacientes recibieron la medicación en estudio con enmascaramiento y el tratamiento anti-VIH-1 banal simultáneo que no podía modificarse según el protocolo (a menos que hubiera de ser interrumpido por intolerancia a éste).
+
+Durante el segundo período, desde 16 semanas después de la asignación aleatoria hasta la administración de ritonavir en diseño abierto a todos los pacientes después de que se hubiera alcanzado el objetivo principal del estudio, los pacientes que presentaron un episodio definitorio de sida confirmado durante el primer o el segundo períodos fueron tratados con ritonavir en diseño abierto.
+
+Los pacientes que no experimentaron ningún episodio definitorio de sida durante estos dos periodos continuaron con la medicación en estudio enmascarada.
+Además, durante el segundo período, los médicos pudieron modificar la pauta de tratamiento simultáneo de hasta 2 nucleósidos autorizados mediante la inclusión de lamivudina, que se comercializó durante el estudio. 
+En el tercer período, tras haberse alcanzado el objetivo principal, se ofreció a todos los pacientes la administración de ritonavir en diseño abierto fuera cual fuera su estado respecto a la enfermedad.
+Los pacientes que suspendieron la medicación en estudio enmascarada continuaron con las visitas programadas durante todo el ensayo. 
+
+Episodios adversos
+
+Los episodios adversos se definieron como cualquier alteración de un signo o síntoma clínico, o anomalía de laboratorio significativa, excluyendo los trastornos asociados a la propia infección por el VIH-1.
+Todos los episodios adversos fueron evaluados en cuanto a su gravedad y relación con el fármaco en estudio.
+
+Análisis estadístico 
+
+Los cálculos del tamaño muestral se basaron en la estimación de que la tasa anual de progresión de la enfermedad o de muerte sería de un 40%.
+Partimos del supuesto de que hasta en un 10% de los pacientes se perdería el control evolutivo antes de que se produjera un episodio definitorio de sida, y establecimos el objetivo de una potencia estadística del 80% para detectar una reducción del 33% en la proporción de riesgos.
+Con la inclusión rápida de los 350 pacientes que se calculó que eran necesarios por grupo de tratamiento, el análisis final de progresión de la enfermedad o muerte se planificó inicialmente para el momento en que 191 pacientes hubieran experimentado episodios de este tipo.
+Sin embargo, dado que la incorporación fue más rápida de lo previsto, se aumentó el tamaño muestral hasta unos 500 pacientes por grupo de tratamiento, con un análisis final dé progresión de la enfermedad o muerte tras haber alcanzado el mismo umbral de número de episodios.
+
+Todos los análisis se llevaron a cabo según intención de tratar, con pruebas bilaterales y un grado de significación estadística de 0,05.
+Los cálculos se llevaron a cabo con el programa informático SAS (versión 6, cuarta edición).
+El tiempo transcurrido hasta la progresión de la enfermedad o la muerte, así como el tiempo transcurrido hasta la muerte por cualquier causa, se analizaron con un modelo de riesgos proporcionales de Cox estratificado según la región geográfica. 
+Las comparaciones entre los grupos se realizaron con la prueba de rangos logarítmicos.
+Además, se utilizaron curvas de Kaplan-Meier sin estratificación para presentar estos datos.
+Se puso a prueba la suposición de una proporción dé riesgos constante a lo largo del tiempo, mediante el cálculo del logaritmo negativo de las estimaciones de Kaplan-Meier para el paralelismo intergrupos dentro de cada región geográfica.
+Se clasificó también a los pacientes según los datos demográficos basales (media de todos los valores para el recuento de linfocitos CD4 obtenido en un plazo de 10 días antes de la asignación aleatoria y número de análogos de nucleósidos tomados en la situación basal).
+A continuación examinamos la posible interacción entre el grupo de asignación de tratamiento y el estado basal mediante una prueba de proporción de probabilidad comparando modelos de riesgos proporcionales con término de interacción y sin él.
+
+Los informes sobre las muertes se enviaron a un comité de vigilancia de seguridad independiente (RW, RP y DD).
+El protocolo especificaba que debía aplicarse la regla de detención de 0'Brien Fleming para la interrupción prematura del estudio como consecuencia de las muertes.
+Se realizaron dos análisis preliminares antes del final de la parte de diseño doble ciego del estudio (basados en los resultados del análisis del tiempo hasta la progresión de la enfermedad o la muerte).
+
+Resultados
+
+Se seleccionó a los pacientes para el estudio entre abril y julio de 1995.
+Se examinó a un total de 1.716 pacientes, de los que 626 fueron excluidos (fig. 1).
+
+De los 1.090 pacientes incluidos en la distribución aleatoria (543 en el grupo de ritonavir y 547 en el grupo de placebo), dos de cada grupo no llegaron a recibir ninguna medicación del ensayo.
+Estos pacientes fueron incluidos en el análisis principal según intención de tratar, pero se les excluyó del análisis de episodios adversos atribuibles a los fármacos en estudio.
+
+Los pacientes (tabla 1) se incorporaron al estudio en 67 centros de Australia (42 pacientes), Europa (238 pacientes) y Norteamérica (810 pacientes).
+Un 97% de los pacientes del grupo de ritonavir y un 95% de los del grupo placebo habían sufrido uno o varios trastornos asociados al VIH-1 antes del inicio del estudio.
+
+Los episodios relacionados con el VIII-1 más frecuentes registrados antes del estudio fueron la candidiasis oral (64%), la infección por herpes simple (28%) o por herpes zoster (28%), la leucoplasia vellosa (27%), la neuropatía periférica (26%), la linfadenopatía generalizada persistente (25%), la diarrea (20%) y la neumonía por Pneumocystis carinii (25%).
+
+Sin embargo, no existían diferencias aparentes entre los grupos de tratamiento en cuanto a los trastornos relacionados con el VIH-1 persistentes que se daban en el momento de la incorporación al estudio.
+El empleo de fármacos simultáneos en los grupos de ritonavir y placebo era similar antes de la incorporación al estudio, con una mediana de 14 medicaciones en ambos grupos (tabla 1).
+Los análogos de los nucleósidos utilizados con más frecuencia al inicio del tratamiento aleatorio eran la zidovudina (45%), la estavudina (26%), la zalcitabina (19%) y la didanosina (16%).
+
+La mediana de duración de la medicación en estudio con enmascaramiento fue de xxx semanas en los pacientes a los que se asignó ritonavir y de xxx semanas en los pacientes a los que se asignó placebo; 15 ( xxx ) pacientes se perdieron para el seguimiento antes del periodo 3 (fig. 1, incluyendo los que no recibieron la medicación en estudio), con lo que la mediana de control evolutivo era de 28,9 semanas ( xxx ) hasta el final del período 2.
+Durante el período 3, se ofreció a los pacientes un tratamiento con ritonavir en diseño abierto y se les siguió durante una mediana total de 51,3 semanas ( xxx ).
+Se perdió el control evolutivo de 76 pacientes ( xxx ) antes de finalizar el período 3.
+
+Un total de 119 ( xxx ) pacientes de grupo de ritonavir y 205 ( xxx ) del grupo placebo presentaron un evento definitorio de sida o fallecieron durante los períodos 1 y 2 de este estudio.
+La proporción de riesgos era de 0,53 (IC del 95%, 0,42-0,66; rangos logarítmicos xxx ).
+El episodio del objetivo de valoración principal que se dio con más frecuencia fue la muerte. 
+El episodio de primera enfermedad más frecuente fue la candidiasis esofágica nueva o recidivante (tabla 2).
+Las tasas de primeros episodios fueron, en general, más bajas en el grupo de ritonavir que en el grupo de placebo.
+Un análisis secundario de las muertes que se produjeron durante los períodos 1 y 2 indicó una proporción de riesgos estimada de 0,60 (IC del 95%, xxx ; rangos logarítmicos xxx ).
+
+Se analizó también la progresión de la enfermedad o la muerte teniendo en cuenta como factores de estratificación el recuento basal de linfocitos CD4 o el número de análogos de los nucleósidos basales (tabla 3).
+No se observó ninguna interacción significativa entre el grupo de tratamiento y el estado basal de estos factores en ninguno de los análisis.
+El ritonavir redujo de manera significativa el riesgo de progresión deja enfermedad o muerte en todas las categorías de recuento basal de linfocitos CD4 utilizadas en este análisis.
+
+Además, los resultados obtenidos sugieren que el riesgo de progresión de la enfermedad o de muerte aumentaba a medida que disminuía el número basal de linfocitos CD4.
+El ritonavir solo no redujo de forma significativa el riesgo de progresión de enfermedad o de muerte.
+Sin embargo, se observó una disminución significativa del riesgo de progresión de la enfermedad o de muerte para el ritonavir utilizado en combinación con al menos un análogo de los nucleósidos empleado en la situación basal.
+
+Una vez demostrado el beneficio clínico proporcionado por el ritonavir, los episodios dejaron de ser evaluados por revisores independientes.
+En consecuencia, no pudimos incluir la progresión de la enfermedad en el análisis realizado al final del periodo 3.
+Sin embargo, sí pudo llevarse a cabo un análisis de la supervivencia de los pacientes al finalizar el periodo 3.
+Un total de 87 pacientes (16%) a los que se había asignado ritonavir y 126 (23%) a los que se había asignado placebo fallecieron por el conjunto de todas las causas.
+La proporción de riesgos era de 0,69 (IC del xxx ; rangos logarítmicos xxx ).
+
+En el grupo de ritonavir (para los pacientes en los que se disponía de datos correspondientes a todos los momentos de valoración), los recuentos de linfocitos CD4 se incrementaron respecto al valor basal medio de xxx (aumento máximo, xxx ), y los recuentos de linfocitos CD8 se incrementaron respecto a un valor basal medio de xxx (aumento máximo, xxx ; fig. 4).
+Los recuentos de CD4 más elevados se mantuvieron en los pacientes tratados con ritonavir. 
+Los recuentos de CD8 disminuyeron respecto al valor máximo en el período 1 pero se estabilizaron en los períodos 2 y 3, durante los cuales los efectos medios para los linfocitos CD4 y CD8 se igualaron en el grupo placebo.
+
+En el subgrupo de estudio de la actividad antiviral, la carga viral plasmática disminuyó rápidamente en los pacientes a los que se asignó el tratamiento con ritonavir, con una reducción media máxima respecto al valor basal de xxx xxx a las 2 semanas, seguido de un posterior restablecimiento del valor basal (fig. 4).
+A continuación, las concentraciones de ARN del VIH-1 se estabilizaron durante el período 2 en un valor de aproximadamente 0,6 log xxx por debajo del valor basal.
+Durante los periodos 2 y 3, cuando los pacientes pasaron al ritonavir en diseño abierto, la viremia plasmática en los demás pacientes del grupo placebo disminuyó hasta valores inferiores a los observados en el resto de pacientes del grupo de ritonayir.
+
+Efectos adversos
+
+En total, 114 (21,1%) pacientes del grupo de ritonavir y 45 ( xxx ) del grupo placebo abandonaron prematuramente el tratamiento con la medicación en estudio enmascarada ( xxx ).
+Sin embargo, muchos de los pacientes del grupo de ritonavir abandonaron el tratamiento durante las primeras 4 semanas del mismo;
+un 9% de los pacientes del grupo de ritonavir y un 1% de los del grupo placebo suspendieron el tratamiento con la medicación enmascarada durante el período 1.
+En la tabla 4 se indican los episodios adversos notificados con más frecuencia y las causas del abandono prematuro. 
+Estos episodios se clasificaron la mayoría de las veces como síntomas gastrointestinales.
+
+Las alteraciones analíticas fueron más frecuentes con el ritonavir que con el placebo:
+se produjeron concentraciones elevadas de alanina aminotransferasa ( xxx ) en un xxx frente al 4,0%; gammaglutamil transpeptidasa superior a xxx en un 21,1% en comparación con el 11,9%; creatinfosfocinasa superior a 800 U/l en un 12,5% en comparación, con un 8,2%; y triglicéridos séricos en ayunas superiores a xxx en un 12,9% en comparación con el xxx .
+En cambio, las anomalías hematológicas fueron menos frecuentes en el grupo de ritonavir que en el placebo: se produjo anemia (hematocrito xxx ) en un 20,3% en comparación con un xxx y neutropenia ( xxx ) en un 6,4 en comparación con un 10,2%.
+
+Discusión
+
+En este estudio, el ritonavir redujo el riesgo dé complicaciones del sida y prolongó la supervivencia en los pacientes con enfermedad por VIH-1 avanzada.
+
+Los participantes en este ensayo clínico a gran escala eran representativos de muchos pacientes con enfermedad por VIH-1 avanzada.
+La eficacia del tratamiento con ritonavir frente a la enfermedad se estimó de manera conservadora en relación a unas variables de valoración clínica rigurosamente confirmadas.
+Los trastornos relacionados con el VIII-1 frecuentes fueron siempre menos frecuentes como primeros episodios en el grupo dé ritonavir que en el grupo placebo.
+
+Existen dos factores principales que pueden haber ejercido un sesgo en el resultado global.
+En primer lugar, hubo un número significativamente superior de pacientes del grupo ritonavir que del grupo placebo que suspendieron prematuramente la medicación en estudio en una fase inicial del mismo a causa de síntomas adversos relacionados con el fármaco; este factor podría haber causado una subestimación de la eficacia del tratamiento en el análisis según intención de tratar.
+En segundo lugar, puesto que las respuestas de los linfocitos CD4 no se ocultaron a los investigadores, la administración de un tratamiento con ritonavir en diseño abierto después del periodo 1 a los pacientes que habían presentado episodios definitorios de sida puede haber motivado una sobrenotificación de episodios de este tipo en el grupo placebo, con lo que habría una tasa dé enfermedad aparente más elevada en este grupo.
+Sin embargo, el episodio de valoración más frecuente fue la muerte: Además, el riesgo de aparición de una enfermedad definitoria de sida se redujo de manera uniforme para los diversos episodios de enfermedad esperados.
+Si se hubiera producido un sesgo de notificación de este tipo para el objetivo de valoración principal de enfermedad, la administración de ritonavir durante el período 2 para los casos de aparición de episodios de enfermedad y durante el período 3 para todos los pacientes con independencia del estado de su enfermedad hubiera reducido el beneficio global de supervivencia observado para el ritonavir en el análisis de todas las muertes de cualquier causa.
+Nuestros datos pueden corresponder al efecto de un tratamiento temprano frente a uno diferido con ritonavir en esta población de pacientes.
+
+A pesar de la intolerancia inicial de algunos pacientes para la solución líquida de ritonavir, los episodios adversos graves fueron poco frecuentes.
+Las elevaciones significativas de las concentraciones séricas de enzimas hepatocelulares y triglicéridos durante el tratamiento con ritonavir fueron en general reversibles y no se asociaron a síntomas clínicos.
+El beneficio aportado por el ritonavir, con una mediana de 14 medicaciones simultáneas al incorporarse al estudio, apoya la seguridad global del fármaco en este contexto.
+La interacción farmacocinética esperada u observada del ritonavir en el metabolismo de otros fármacos a través de la vía entérica y de la vía metabólica del citocromo P450 3A4 microsómico hepático sugiere la posibilidad de interacciones farmacológicas graves.
+En este ensayo se excluyeron las medicaciones en función de los riesgos teóricos de posibles interacciones farmacológicas;
+sin embargo, se permitió el tratamiento con rifabutina.
+La rifabutina fue el único fármaco asociado a un aumento de los episodios adversos. 
+
+La eficacia del tratamiento anti-VIH-1 se refleja en las respuestas de los linfocitos CD4 y de la viremia plasmática; 
+las respuestas descritas con anterioridad al tratamiento con ritonavir se confirmaron en este ensayo.
+La respuesta descrita de los linfocitos CD814 se confirmó también. 
+Los linfocitos CD81a y los factores secretados por los CD819 pueden intervenir en la respuesta del huésped a la infección por el VIH-1.
+Los cambios en los recuentos de linfocitos CD8 durante el tratamiento con ritonavir pueden indicar también un efecto directo o un efecto terapéutico en el que el aumento inicial y la posterior reducción respecto a la respuesta máxima con un tratamiento potente pueden corresponder a una menor replicación del VIH-1 y a una posterior disminución de la activación inmunitaria.
+
+Tras la presentación inicial de los resultados de este estudio y la autorización del ritonavir en los EE.UU. han continuado o se han iniciado ensayos controlados para confirmar el beneficio clínico aportado por un inhibidor de las proteasas sobre la salud y la supervivencia de los pacientes con enfermedad por VIH-1 o sida.
+
+La necesidad de demostrar sucesivamente la eficacia de los diversos fármacos de una misma clase; en vez de su seguridad, actividad y eficacia comparativas, debe contrapesarse con los derechos de los voluntarios que participan en ensayos clínicos.
+Esta cuestión ética está adquiriendo una importancia creciente a medida que se establecen directrices sobre las normas de calidad de los tratamientos. 
+
+Aunque el ritonavir fue el primer inhibidor de las proteasas con el que se demostró beneficio clínico, el conocimiento de la correlación clínica de los cambios de la concentración de ARN de VIH-1 y del recuento de linfocitos CD4 y CD8 requiere un análisis más detallado.
+Se observó una supresión mayor y más sostenida del ARN VIH-1 que la observada en este estudio en pacientes con una inmunodeficiencia relacionada con el VIH-1 menos avanzada y cuando se administró zalcitabina y zidovudina conjuntamente con el ritonavir como tratamiento inicial.
+Los resultados preliminares de los estudios que están en curso han evidenciado una supresión del ARN de VIH 1 por debajo de los valores de cuantificación habituales con el empleo de ritonavir junto con, saquinavir o junto con zidovudina y lamivudina en la mayoría de los pacientes.
+
+En este estudio se utilizó el diseño de añadir ritonavir a un máximo de 2 agentes antirretrovirales nucleósidos autorizados, según lo tolerado por cada paciente.
+Esta estrategia concordaba, pues, con la práctica clínica habitual.
+En los pacientes con un tratamiento previo amplio y una inmunodeficiencia avanzada, el enfoque de añadir un solo fármaco simula la monoterapia con dicho fármaco. 
+El patrón de supresión incompleta y transitoria del ARN de VIH-1 observado en este estudio es similar al de otros estudios de monoterapia con ritonavir, en los que aparecieron de manera escalonada resistencias farmacológicas del VIH-1. 
+La eficacia aparentemente superior del ritonavir en pacientes con un recuento de linfocitos CD4 basal más elevado y en los pacientes que tomaban al menos otra medicación anti-VIH-1 en situación basal puede reflejar el mejor estado de salud general o la mejor tolerabilidad del ritonavir en estos pacientes.
+Sin embargo, también es posible que corresponda a una actividad anti-VIH-1 mayor y más persistente o a una mayor eficacia del tratamiento con ritonavir establecido en combinación de forma más temprana, como resultado de la disminución o el retraso de las resistencias farmacológicas que puede proporcionar un tratamiento combinado. 
+
+Este ensayo demostró la eficacia del ritonavir en el tratamiento dé pacientes con enfermedad por VIH-1 avanzada que habían recibido ya un tratamiento previo intenso. 
+La táctica de añadir un solo fármaco anti-VIH-1 potente a una pauta de tratamiento estable o que fracasa, en un ensayo clínico, puede mejorarse en la práctica clínica.
+Serán necesarios nuevos estudios para evaluar si el tratamiento combinado inicial de ritonavir y otros fármacos antirretrovirales o el cambio simultáneo de dos o más fármacos anti-VIH-1 confiere un beneficio clínico superior y más persistente que el identificado aquí, como parecen indicar los estudios de marcadores indirectos.
+
+Tabla 1
+
+Características demográficas y clínicas basales
+
+Demografía.
+
+
+V/M.
+
+
+Mediana (límites) de edad en años.
+
+
+Raza blanca/no blanca.
+
+
+Factor de riesgo para HIV-1 (número de pacientes).
+
+
+Varón homosexual o bisexual.
+
+
+Heterosexual, compañero sexual HIV-1-positivo.
+
+
+Usuario de drogas por vía parenteral.
+
+
+Pareja sexual de usuario de drogas por vía parenteral .
+
+
+Receptor de transfusión.
+
+
+Hemofílico.
+
+
+Otro o desconocido.
+
+
+Puntuación funcional de Karnofsky.
+
+
+Antecedentes de HIV-1.
+
+
+Tiempo desde el diagnóstico HIV-1 (años).
+
+
+Duración del tratamiento antirretroviral (años) .
+
+
+Duración del tratamiento con zidovudina (años).
+
+
+Número medio de fármacos antirretrovirales utilizados.
+
+
+Recuento de linfocitos CD4 (número de pacientes).
+
+
+Recuento de linfocitos (por xxx ).
+
+
+CD4.
+
+
+CD8.
+
+
+Carga de RNA de HIV-1 en plasma (log10 xxx ).
+
+
+Subgrupo de actividad antiviral.
+
+
+Mediana (AIC).
+
+
+Todos los pacientes estudiados.
+
+
+Mediana (AIC).
+
+
+Tratamiento con basal simultáneo tomado por al menos un 15% de los pacientes en cada grupo.
+
+
+Zidovudina.
+
+
+Stavudina.
+
+
+Zalcitabina.
+
+
+Didanosina.
+
+
+Trimetoprima.
+
+
+Sulfametoxazol.
+
+
+Claritromicina.
+
+
+Rifabutina.
+
+
+Pentamidina.
+
+
+Ciprofloxacino.
+
+
+Fluconazol.
+
+
+Aciclovir.
+
+
+Paracetamol.
+
+
+Ácido ascórbico .
+
+
+Testosterona.
+
+
+Loperamida.
+
+
+Filgrastim.
+
+
+Figura 1
+
+Perfil del ensayo
+
+En el periodo 2 existe un cierto solapamiento entre los pacientes con objetivos confirmados (enfermedad definitoria de sida o muerte) y número de muertes.
+
+Figura 2
+
+Progresión de la enfermedad o muerte (hasta el final del periodo 2)
+
+Tabla 2
+
+Primeros episodios evolutivos individuales hasta el final del periodo 2
+
+Número de pacientes.
+
+
+Ritonavir.
+
+
+Placebo.
+
+
+Muertes.
+
+
+Eventos definitorio de sida.
+
+
+Total.
+
+
+Candidiasis esofágica.
+
+
+Sarcoma de Kaposi.
+
+
+Retinitis por citomegalovirus .
+
+
+Neumocistosis.
+
+
+Citomegalovirus, sin retinitis.
+
+
+Complejo Mycobacterium avium .
+
+
+Síndrome de emaciación.
+
+
+Linfoma.
+
+
+Otros.
+
+
+Total de episodios.
+
+
+Tabla 3
+
+Episodios evolutivos principales estratificados según las características basales
+
+Figura 2
+
+Supervivencia global (hasta el final de periodo 3) Obsérvese que la escala temporal difiere de la de la figura 2
+
+Figura 4
+
+Cambios medios (y EE) en recuentos de células CD4, recuentos de células CD8, y concentración plasmática de RNA HIV- 1
+
+El número de pacientes del grupo placebo que recibió ritonavir en diseño abierto después del período 1 se indica entre paréntesis para las visitas realizadas cada 2 meses a partir del mes 4.
+ARN del VIH-1 en plasma para el subgrupo de actividad antiviral solamente. 
+
+Tabla 4
+
+Episodios adversos relacionados con el tratamiento (en más de 1.5% de los participantes) y tasas de abandono de prematuro de la medicación en este estudio
+
+Síntoma.
+
+
+Nausea.
+
+
+Vómitos.
+
+
+Diarrea.
+
+
+Debilidad.
+
+
+Gusto alterado.
+
+
+Parestesias peribucales.
+
+
+Total de abandonos .
+

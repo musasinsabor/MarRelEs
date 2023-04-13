@@ -1,0 +1,284 @@
+
+Dedos de cinc
+
+Desempeñan un papel fundamental en la regulación de la actividad génica de muchas especies, desde las levaduras hasta el hombre.
+
+No hace ni diez años, todavía se desconocía su existencia
+
+Uno de los problemas más fascinantes de la biología actual es el de averiguar cómo se expresan los genes. 
+Para que un gen se active, cierto grupo de proteínas, los factores de transcripción, deben unirse a determinado segmento del gen, el promotor.
+Se dicta así la orden de "puesta en marcha", que es la señal para que una enzima transcriba otro segmento genético de ADN en ARN.
+En la mayoría de los casos, la molécula de ARN que resulta sirve de molde para la síntesis de una proteína específica; otras veces, el propio ARN es el producto final.
+Pero, ¿cómo se las arregla un factor de transcripción para reconocer su diana específica en un promotor, con la exuberancia de ADN que hay en la célula?
+
+Muchos factores de transcripción contienen pequeñas protuberancias, o dedos de cinc, perfectamente adaptados para reconocer ADN.
+En nuestro laboratorio del Consejo de Investigaciones Médicas en Cambridge, se identificó el primer dedo de cinc en 1985.
+Lo portaba un factor de transcripción de rana.
+Desde entonces, se han descubierto más de 200 proteínas, muchas de ellas factores de transcripción, con dedos de cinc.
+Otros factores de transcripción alojan estructuras o motivos similares.
+Varios laboratorios, el nuestro entre ellos, han comenzado a descifrar el mecanismo que emplean los dedos de cinc y otras estructuras parecidas para reconocer y unirse a sus dianas específicas en el ADN. 
+
+Los dedos de cinc no agotan los medios de interacción entre el factor y el ADN.
+
+Recuérdense otras estructuras: motivos hélice-giro-hélice (descubiertos en 1981), dominios homeóticos y cremalleras de leucina.
+
+Pero el dedo de cinc es, con diferencia, la vía de unión al ADN más frecuente.
+
+Las investigaciones en el campo del reconocimiento del ADN apuntan, en última instancia, hacia una presa de mayor vuelo:
+¿cómo se produce el desarrollo en los organismos pluricelulares?
+Aunque todas las células del embrión portan los mismos genes, unas células se diferencian en neuronas y otras irán a formar parte de la epidermis.
+Sus destinos divergen porque, a medida que el embrión avanza en su desarrollo, van activándose combinaciones diferentes de genes, sintetizándose proteínas especializadas que confieren a las células diferenciadas sus propiedades características.
+Saber cómo reconocen los factores de transcripción sus dianas específicas en el ADN resulta imprescindible para comprender la activación selectiva de los genes.
+
+Nuestro descubrimiento de los dedos de cinc hundía sus raíces en los trabajos de Roberto G. Roeder y Donald D. Brown.
+En 1980, los equipos encabezados por Roeder y Brown resolvieron las etapas del proceso de transcripción de un gen de la rana Xenopus laevis .
+Demostraron que el factor de transcripción IIIA (FTIIIA) era uno de los tres factores, por lo menos, requeridos para activar el gen que determina la síntesis del ARN SS, que forma parte de los ribosomas, lugar donde las moléculas de ARN mensajero (el producto típico de la transcripción de los genes) se traduce en Foteína.
+
+Más adelante se vio que el FTIIIA se unía a un segmento de ADN, de unos 45 pares de bases.
+
+Las bases son los "peldaños" de esa familiar "escalera" que es el ADN. (El ADN consta de dos cadenas de nucleótidos, compuestos a su vez de azúcar desoxirribosa, un grupo fosfato y una de las cuatro bases: adenina, timina, guanina o citosina.
+Las dos cadenas se mantienen unidas por enlaces que se producen entre sus bases, de suerte que adenina siempre se empareja con timina y citosina con guanina).
+
+Nos sorprendió la longitud del sitio reconocido por FTIIIA, habida cuenta del tamaño pequeño del propio FTIIIA.
+Factores de transcripción de igual talla, identificados ya en bacterias, reconocían fragmentos de ADN mucho menores, de unos 15 pares de bases.
+¿En virtud de qué el FTIIIA, una molécula pequeña, abarcaba tamaño segmento de ADN?
+La pregunta, obvia, parecía poder responderse.
+Aunque los factores de transcripción se suelen producir en cantidades pequeñas, el FTIIIA abunda en los ovarios de las ranas inmaduras.
+Se almacena formando complejo con el ARN SS, en cuya síntesis interviene.
+Su abundancia nos llevó a pensar que podríamos recolectar suficiente complejo FTIIIA-ARN para aislar la proteína.
+Una vez conseguido, podríamos hurgar en la organización tridimensional de la proteína y en la unión a su diana en el gen del ARN SS.
+
+El plan era bueno, pero pronto encontramos una dificultad, que a la postre sería afortunada, ya que nos conduciría al descubrimiento de los dedos de cinc.
+En 1982, Jonathan Miller aplicó en nuestro laboratorio una conocida técnica para extraer de los ovarios de rana el complejo FTIIIA-ARN SS. El resultado podía calificarse de desastre, pues obtuvo muy poco.
+El método empleado eliminaba un metal necesario para mantener unido al complejo.
+Una vez que Miller modificó el procedimiento de extracción, y consiguió una cantidad aceptable del complejo, comprobó que el metal que se perdía era el cinc.
+Cada unidad FTIIIA-ARN SS incorporaba entre 7 y 11 iones de cinc, una cifra altísima.
+Otros experimentos nos condujeron posteriormente a los dedos de cinc.
+
+Cuando se trataba el FTIIIA con una proteasa, el factor se fragmentaba en trozos cada vez menores, que disminuían de tres en tres kilodalton (una medida del peso molecular).
+Las unidades de tres kilodalton resistían el ataque, por la razón verosímil de su fuerte plegamiento. 
+Adivinábase así un FTIIIA constituido, casi en su totalidad, por una sucesión de segmentos de 3 kd.(equivalente a unos 30 aminoácidos por cada segmento) plegados alrededor de un ion de cinc, formando un dominio compacto y pequeño de unión al ADN.
+
+Si la intuición era certera, habíamos encontrado un nuevo tipo de factor de transcripción.
+Los hasta entonces estudiados interaccionaban con el ADN constituidos en dímeros, o parejas, en los que cada subunidad del dímero contactaba con el ADN a través de un exclusivo motivo de unión.
+A tenor de nuestro hallazgo, el FTIIIA podía extenderse por la doble hélice, asiéndola en varios puntos, y no en uno solo o en dos.
+Estos múltiples contactos explicarían también el tamaño insólito del FTIIIA.
+
+Mientras especulábamos con nuestro modelo, el grupo de Roeder publicó la secuencia de aminoácidos de FTIIIA.
+En esa secuencia encontramos el apoyo necesario para nuestra propuesta:
+las primeras tres cuartas partes de la proteína forman una hilera continua de nueve unidades similares, de unos 30 aminoácidos.
+Además, en cada subunidad, y en posiciones casi idénticas, se encuentra una pareja de cisteínas y otra de histidinas. 
+
+Este último descubrimiento estaba en consonancia con la idea de que cada unidad debía contener sus propios iones de cinc, ya que en las proteínas el cinc suele darse ligado a cuatro aminoácidos, cisteínas por lo común o combinación de cisteínas e histidinas.
+
+En 1985, esos resultados determinaron que uno de nosotros ( Klug) propusiese que esas cisteínas e histidinas invariantes (fijas) servían para que cada subunidad se plegase independientemente, formando un minidominio de unión a ADN.
+Más tarde se le llamó dedo de cinc por su función: la de aferrarse a la doble hélice de ADN.
+Avanzó también que la pareja de cisteínas próxima a uno de los extremos de la unidad, y la pareja de histidinas próxima al otro extremo, atraparían el mismo átomo de cinc, con lo que el segmento de aminoácidos situado entre ellas adoptaría una configuración en lazo o bucle.
+De cada unidad de 30 aminoácidos, unos 25 se plegaban y constituían un dominio estructurado (un dedo);
+los aminoácidos restantes servirían para unir unos dedos con otros.
+
+Poco después, Gregory P. Diakun demostraba que cada una de las nueve subunidades contenía un ion de cinc unido a dos cisteínas y dos histidinas.
+En la práctica, TFIIIA es un conjunto de nueve dedos de cinc casi consecutivos. 
+Todos tienen la misma arquitectura básica, pero son químicamente distintos porque difieren en los aminoácidos que no participan en la construcción del módulo del dedo.
+
+¿Establece contacto real cada dedo de cinc al ADN, tal como se había predicho?
+Para averiguarlo, Louise Fairall, de nuestro equipo, y también otros grupos investigaron las "huellas moleculares".
+Se permite que una proteína se una al ADN.
+A continuación se trata con enzimas u otros agentes que atacan al ADN.
+Se supone que los sitios que resisten la agresión están protegidos por la proteína, y son, por ende, lugares de interacción ADN-proteína.
+En 1986 los datos de huellas moleculares confirmaban que TFIIIA interaccionaba varias veces con el ADN. 
+
+Por tanto, TFIIIA era la novedad que nosotros sospechábamos. 
+Se unía a una región específica de ADN utilizando varios módulos independientes que contactan con el ADN.
+
+La idea de economía implícita en la organización modular era de una belleza singular.
+
+Ya se sabía que las células conseguían un repertorio amplio de conmutadores genéticos permutando un conjunto limitado de factores de transcripción.
+Esto es, para activar un gen se deben combinar las proteínas a, b y c, mientras que para activar otro se precisan las a, b y d.
+Con este tipo de estrategia, los organismos evitan tener que producir factores de transcripción exclusivos para cada uno de los numerosos genes que hay que activar en cada célula. 
+
+Los estudios sobre los dedos de cinc revelaban que la lógica combinatoria podía operar también en el interior del propio factor de transcripción.
+Una célula puede producir una gran cantidad de factores de transcripción variando el tipo, orden y número de módulos independientes de unión al ADN en cada proteína.
+La combinación particular de dedos de cinc en un factor de transcripción concreto le permite a éste reconocer una secuencia específica de ADN y no otra.
+
+La eficacia de la estrategia basada en combinaciones nos llevó a sugerir que el motivo "dedo de cinc" podía estar presente en muchas proteínas.
+Y efectivamente es asombrosa la cantidad de proteínas de organismos eucarióticos que lo tienen (los eucariotas son organismos más avanzados que las bacterias).
+Peter F. R. Little estima que el 1% del ADN en células humanas especifica dedos de cinc.
+En el cromosoma 19 este valor llega hasta un 8 %.
+Las proteínas con dedos de cinc identificadas hasta el momento contienen desde 2 hasta 30 dedos en tándem.
+
+Para entender cómo se las ingenia el dedo de cinc para reconocer determinada secuencia de bases -que adopta una conformación específica- es preciso conocer la estructura tridimensional de aquél.
+La mayoría de las proteínas contiene regiones locales de estructura "secundaria", que se pliegan unas con otras hasta producir la forma tridimensional global de la proteína.
+Las estructuras secundarias más comunes son las hélices alfa (donde el esqueleto de la proteína se enrolla en una espiral característica) y la cadena beta (donde el esqueleto aparece desplegado).
+
+Jeremy M. Berg descifró los rasgos principales de la arquitectura tridimensional en términos teóricos en 1988, pero su modelo no se confirmó hasta 1989.
+Fue cuando Peter E. Wright determinó la estructura de un dedo de cinc de la proteína Xfin de Xenopus.
+
+Recurrió a la espectroscopía de resonancia magnética nuclear (RMN), una técnica que se utiliza para resolver la estructura tridimensional de pequeñas proteínas en solución.
+Le secundaron otros laboratorios, el nuestro incluido, en la identificación del mismo diseño en otras proteínas con dedos de cinc.
+
+Como Berg pronosticó, la secuencia de aminoácidos característica del dedo de cinc se pliega en una forma compacta y crea dos subestructuras prominentes a todo lo largo. 
+Una parte de la secuencia (correspondiente a la mitad izquierda de una protuberancia vertical) adopta la figura de una "hoja" beta.
+La hoja se forma cuando una cadena beta se pliega sobre la otra cadena beta.
+La parte restante de la secuencia (la mitad "derecha") se retuerce en una hélice alfa.
+Las dos cisteínas se alojan en la porción inferior de la hoja beta y las dos histidinas en la porción inferior de la hélice.
+Los cuatro aminoácidos permanecen unidos gracias a un átomo de cinc, cuya función fundamental es mantener juntas la hoja beta y la hélice. 
+
+El análisis por RMN ayudaba también a esclarecer el papel de ciertos aminoácidos.
+
+Cuando examinamos la secuencia del FTIIIA, observamos que los putativos dedos de cinc incluían una serie de tres aminoácidos hidrofóbicos, casi siempre en idénticas posiciones.
+(Las sustancias hidrofóbicas suelen asociarse en el interior de la proteína para "huir" del agua del medio.)
+Esa invariancia sugería un papel estructural importante para esos aminoácidos.
+Aun cuando en la representación lineal de la secuencia de aminoácidos esos residuos quedaban lejos unos de otros, pensamos que podían interaccionar en el espacio tridimensional y, por tanto, facilitar el plegamiento del minidominio.
+Tal como indicaba el modelo de Berg, los resultados de la RMN demostraban que, cuando el módulo del dedo de cinc se pliega, los aminoácidos hidrofóbicos quedan en estrecho contacto, lo que permite su interacción. 
+Crean así un núcleo hidrofóbico que ayuda a mantener la forma del módulo.
+
+Algunos grupos teníamos en mente un problema más general.
+Muchos experimentos llevaban a la conclusión de que los dedos de cinc presentes en el FTIIIA, prácticamente toda la proteína, eran los únicos responsables de que el factor reconociese al promotor del gen del ARN SS. Pero cada vez se descubrían más proteínas en las que sólo había unos pocos dedos de cinc insertos en una macroproteína.
+¿Podían esos escasos dedos de cinc dirigir tales proteínas hacia los promotores, sin ayuda de otras partes de la proteína? 
+
+Para despejar el interrogante, nos centramos en un factor de transcripción de levadura con tres dedos de cinc, el SWITCHS (SWIS).
+Con nuestro colega Kyoshi Nagai, aislamos la región que contiene los dedos y la pusimos en contacto con el promotor de su gen diana.
+La porción de proteína se engarzaba con avidez en el promotor, señal de que los dedos de cinc eran los únicos responsables de la unión al ADN.
+Encontramos también que, para que la proteína SWIS se uniese con una fuerza razonable a su diana, se necesitaban al menos dos dedos de cinc juntos.
+Aplicando la técnica de la RMN a los dos primeros dedos del SWIS confirmamos, con David Neuhaus y Yukinobu Nakeseko, que los dedos de cinc adyacentes no se fusionan entre sí.
+Son verdaderas "cabezas lectoras", unidas de manera independiente por conectores flexibles.
+
+Quedaban por identificar, no obstante, los puntos precisos de contacto entre los dedos de cinc y el ADN.
+Nikola P. Pavletich y Carl 0. Pabo dieron los pasos iniciales.
+Obtuvieron en primer lugar cristales del complejo formado por el ADN y el dominio de unión al ADN Zif268 , un factor de transcripción.
+Con análisis de cristalografía de rayos X determinaron la estructura del complejo Zif268 , que igual que SWIS contiene un grupo de tres dedos de cinc, participa en el desarrollo temprano del ratón.
+
+Los análisis de rayos X revelaban que la región de Zif268 que contenía los dedos de cinc ceñía un segmento de ADN de una longitud cercana a una vuelta de hélice (más o menos formando una letra "C"), encajándose en el surco mayor.
+(El surco mayor es la más ancha de las dos "vaguadas" paralelas que rodean, en espiral, el eje longitudinal de la doble hélice de ADN.)
+Los contactos de los dedos con el ADN se establecen a través de secuencias sucesivas de tres pares de bases, y se orientan de forma similar con respecto al ácido nucleico.
+La hélice alfa de cada dedo apunta hacia el surco mayor, apoyándose en una de sus paredes.
+
+Los dedos primero y tercero de Zif268 se unen al ADN de un modo casi idéntico:
+un aminoácido de la primera vuelta de la hélice alfa contacta con el primer par de bases del correspondiente sitio de unión en el ADN, y un aminoácido de la tercera vuelta de hélice contacta con el tercer par de bases del mismo sitio de unión. 
+El segundo dedo establece también dos contactos a través de la hélice alfa, pero esta vez los aminoácidos de la primera y segunda vuelta se traban con los pares de bases primero y segundo del correspondiente sitio de unión. 
+(En cada caso, un aminoácido se ancla en una de las bases del par.)
+Además, la hélice alfa y la hoja beta del dedo se enlazan con los grupos fosfato de la cadena de azúcar y fosfato que conforman cada uno de los dos "largueros" de la escalera que es el ADN.
+Estos ligámenes adicionales ayudan a estabilizar el engarce del dedo de cinc con el ADN. 
+
+Hasta la fecha, la cristalografía de rayos X no ha resuelto ningún otro complejo de dedos de cinc-ADN. 
+Pese a lo cual, Grant H. Jacobs ha recabado pruebas que sugieren que muchos dedos de cinc se unen al ADN a la manera de Zif268 :
+tras comparar la secuencia de aminoácidos de más de 1000 dedos de cinc, observó una notable variación entre los aminoácidos presentes en tres sitios determinados, justamente los sitios que utiliza Zif268 para establecer contactos, esto es, los ubicados en la la, 2a y 3a vuelta de la hélice alfa.
+Esa circunstancia avala la esperanza de que podamos diseñar módulos con dedos de cinc capaces de reconocer secuencias de ADN seleccionadas, de obvio interés en el estudio de la regulación génica y en medicina.
+
+Ni que recordar tiene que existen límites a la extrapolación del modelo de Zif268 y de los análisis estadísticos. 
+Cabría esperar que las proteínas con muchos dedos de cinc interaccionen con el ADN de forma algo distinta. 
+En efecto, si el patrón de unión de Zif268 se aplicase a FTIIIA, esta proteína, dotada de nueve dedos, ceñiría el ADN en una extensión equivalente a tres vueltas de hélice, como un hilo sobre un carrete.
+Semejante envoltura, tan fuerte, podría impedir que el factor se soltase del ADN cuando se lo requiriese; 
+los datos de "huellas moleculares" obtenidos por varios grupos, entre ellos el nuestro, sugieren, en efecto, que el FTIIIA no se arrolla sin solución de continuidad a lo largo del ADN.
+
+Casi con toda seguridad, los primeros tres dedos del TFIIIA se aprietan en una sola vuelta de hélice del ADN, y es muy probable que los tres últimos hagan lo mismo.
+Pero el grueso de la proteína se sitúa en una cara de la doble hélice.
+
+Por tanto, la proteína cruza el surco menor, más estrecho, al menos dos veces.
+La variedad de patrones de unión con el ADN que existe entre regiones distintas del FTIIIA refleja otra diferencia, a buen seguro:
+la diversidad que reina entre secuencias de aminoácidos de los dedos de cinc del TFIIIA, superior a la disparidad entre ésta y las secuencias de los dedos de las proteínas tipo Zif268 .
+
+Desde una perspectiva evolutiva, hay una buena razón para pensar que los dominios de unión al ADN con muchos dedos surgieron por duplicación de algún gen ancestral que cifraba una proteína de una treintena de aminoácidos; proteína que bien pudo ser una de las primeras en evolucionar. 
+Una proteína así habría sido fácil de producir;
+sintetizada, podría atrapar cinc (un metal bastante inerte) de sus alrededores con facilidad y seguridad, y se plegaría sin ninguna ayuda, adoptando una configuración estable.
+Una vez plegada, adquiriría la capacidad de unirse al ADN o al ARN.
+En ese marco hallaría fácil explicación la abundancia de dedos de cinc en los reinos animal y vegetal.
+
+Cualquier secuencia que adquiriese la determinación genética de un dedo con autonomía para plegarse, conseguiría instantáneamente la capacidad de unirse a un nuevo segmento de ADN.
+
+Dicha propiedad originaría nuevas funciones celulares, como transcribir genes silenciados y codificar, por ende, una enzima nueva o cualquier otra proteína de interés. 
+
+Mientras ahondábamos en la estructura y función de los dedos de cinc clásicos, se realizaron algunos experimentos que venían a sugerir que el motivo inicialmente descubierto en FTIIIA no era la única estructura relacionada con el cinc dedicada al reconocimiento del ADN.
+
+En 1987 se determinaron las secuencias de aminoácidos de varios miembros de una extensa familia de factores de transcripción: 
+los receptores nucleares de hormonas.
+Estos factores han de unirse a un esteroide, hormona tiroidea o vitamina antes de actuar como activadores génicos.
+El análisis de las secuencias mostró que todas ellas contenían un dominio conservado (muy similar), de unos 80 aminoácidos. 
+El dominio incluía dos, y siempre dos, unidades cuya secuencia de aminoácidos recordaba a los dedos de cinc.
+Igual que en éstos, cada unidad o motivo alojaba dos parejas de aminoácidos con capacidad potencial para atrapar cinc.
+En este caso, sin embargo, eran sólo cisteínas.
+Por el parecido de las secuencias con los dedos de FTIIIA cabía suponer que el segmento de 80 aminoácidos rico en cisteínas presente en tales factores era el dominio de unión al ADN.
+
+Pierre Chambon y Stephen Green confirmaron la hipótesis a finales de los ochenta.
+Poco tiempo después, los equipos de Paul B. Sigler y Keith R. Yamamoto establecieron que en el segmento del dominio de unión al ADN incorporaba un átomo de cinc.
+Era, pues, de esperar que las configuraciones de los dos motivos se parecieran, lo mismo que en los dedos de cinc del tipo FTIIIA, y que generaran módulos independientes de unión al ADN.
+
+Pero la suposición resultó ser errónea en parte.
+Los análisis estructurales acabaron por evidenciar el plegamiento similar de las dos subunidades.
+Mas ya antes la bioquímica había mostrado que las subunidades no actuaban como cabezas lectoras independientes. 
+Chambon y los equipos de Ronald M. Evans y Gordon M. Ringold realizaron experimentos en los que sustituían unos aminoácidos por otros y a continuación examinaban el efecto de dicha sustitución sobre la unión al ADN;
+descubrieron que el primer motivo operaba a modo de unidad de reconocimiento primario del ADN.
+Por aquel entonces, Evans y Kazuhiko Umesono, de nuevo aplicando el método de la sustitución, descubrieron al menos una función para el segundo motivo.
+Para entender esa función, hemos de traer aquí ciertas ideas generales sobre la interacción entre el ADN y los receptores de esteroides.
+
+Esos receptores se unen al ADN en parejas de moléculas idénticas.
+Cada proteína del dímero reconoce una mitad del sitio de unión, que en conjunto es un palíndromo.
+Esto es, las dos mitades son idénticas leídas en un sentido y en su contrario, en cadenas de ADN antagónicas.
+La secuencia de bases del sitio reconocido por un tipo de factor de transcripción (el receptor del estrógeno) puede ser idéntica a la que reconoce otro factor (el receptor de la hormona tiroidea). 
+La única diferencia entre los dos sitios de unión estriba en el número de pares d e bases que separa las dos mitades que constituyen el palíndromo.
+
+Por tanto, para que un factor de transcripción encuentre el sitio por donde anclarse al ADN, la proteína debe contener regiones encargadas de reconocer dos regiones con secuencias de bases específicas y de medir la distancia que existe entre esas dos regiones.
+Evans y Umesono descubrieron que una parte del segundo motivo es la encargada de medir la longitud del espaciador.
+
+Para explicar cómo se produce el reconocimiento importa conocer la configuración tridimensional de los dominios de unión al ADN y ver así en qué parte de la estructura se hallan los aminoácidos involucrados. 
+En 1990, el grupo de Robert Kaptein resolvió, por RMN, la estructura del dominio de unión al ADN del receptor de glucocorticoides (cortisona) de ratas.
+Poco después, John W. R. Schwabe y Neuhaus, junto con uno de los autores ( Rhodes), resolvieron la del receptor de estrógenos humano .
+
+Los dominios de unión al ADN de ambos receptores adoptan casi la misma configuración.
+
+Uno y otro motivo digital inscritos en el dominio constan de dos partes:
+un segmento de aminoácidos en bucle irregular (en vez de la hoja beta de los dedos de cinc clásicos), seguido por una hélice alfa.
+El bucle porta dos de los sitios de unión con el cinc;
+los otros dos están al comienzo de la hélice que le sigue.
+Pero los dos motivos no están separados, sino que aparecen fusionados en una sola unidad estructural.
+
+Las hélices se cortan perpendicularmente por sus puntos medios, una configuración creada por la atracción mutua de aminoácidos hidrofóbicos invariantes del todo o bastante.
+
+Conocida la estructura tridimensional del dominio de unión al ADN, procedimos a acotar aquellos aminoácidos que, según sabíamos, eran críticos para reconocer al ADN.
+
+Grupos dirigidos por Chambon, Evans y Ringold habían identificado tres aminoácidos en el primer motivo digitiforme que eran responsables del reconocimiento de una de las dos mitades del sitio de unión.
+Resultó que esos aminoácidos residían en un lateral de la hélice del motivo, subestructura que pasó a llamarse "hélice de reconocimiento del ADN".
+
+¿Qué decir de la función del segundo motivo?
+Al cruzar la hélice de reconocimiento del primer motivo, la hélice del segundo se constituía en punto de apoyo para mantener en su lugar a la hélice de reconocimiento.
+
+La separación de funciones entre los dos motivos sugiere que el segundo dedo apareció por duplicación del primero - una vez formado, la selección le asignó nuevas tareas.
+
+La cartografía tridimensional nos reveló también el modo en que el segundo motivo mide la espaciación entre las dos secuencias que conforman el sitio de unión. 
+Evans y Umesono establecieron que los aminoácidos responsables de esa misión se hallan entre las primeras dos cisteínas del segundo motivo.
+En la configuración tridimensional, tales aminoácidos quedan en el bucle que precede a la hélice, listos para servir de enlace entre las dos moléculas del dímero.
+
+El modelo obtenido por computador de la interacción entre ADN y regiones de unión al ADN de los receptores de glucocorticoides y estrógenos nos permitió comprobar, a Kaptein y a nosotros, respectivamente, que la unión de la forma predicha entre las dos proteínas orientaría al dímero.
+Las dos hélices de reconocimiento del dímero se dispondrían de suerte tal, que el intervalo espacial entre ellas se correspondería con el hiato entre los dos hemisitios del ADN.
+
+Sigler y Ben F. Luisi, de Yale, junto con Yamamoto y Leonard P. Freedman, de San Francisco, han confirmado ya esta predicción por cristalografía de rayos X.
+Han averiguado también que cada proteína del dímero establece varios engarces con los fosfatos de ambos lados del surco mayor.
+
+Gracias a dichos anclajes, la hélice de reconocimiento puede profundizar en el surco mayor y formar enlaces con algunos pares de bases del hemisitio de unión.
+Las investigaciones sobre los dedos de cinc de los receptores nucleares de hormonas indican que, a pesar de algunas semejanzas estructurales con los dedos de cinc del tipo FTIIIA, esos motivos se parecen más, desde el punto de vista funcional, a los motivos de reconocimiento del ADN de otros factores de transcripción, como la hélice-giro-hélice y las cremalleras de leucina.
+
+Esto es, plegándose unos con otros, los motivos contribuyen a que los receptores de hormonas nucleares formen los dímeros que permiten a dichos factores reconocer sus sitios de unión específicos en el ADN.
+
+El conocimiento de la estructura y función de una molécula es el punto de partida para pensar en su aplicación médica.
+En el asunto que nos ocupa, sabemos que cierto cáncer renal, el tumor de Wilm, tiene su origen en una mutación genética que entorpece la unión al ADN de determinado dedo de cinc.
+Algunos de los síntomas que revelan una ingestión insuficiente de ese metal en la dieta, como el retraso en el desarrollo sexual, pueden ahora atribuirse a la imposibilidad que tienen los receptores de estrógenos y andrógenos de plegarse adecuadamente en ausencia de cinc.
+
+Los dos tipos de dedos que hemos analizado difieren en su estructura y en su interacción con el ADN.
+Aparecerán, sin duda, otras variedades de proteínas con dedos de cinc. 
+Cada vez se conocen más secuencias de aminoácidos que incluyen lo que parecen ser motivos con dedos de cinc, aunque las distancias entre las parejas de cisteínas o histidinas, o el número de parejas, difieren de las supuestas normales. 
+Un ejemplo insólito es la proteína GAL4 de levaduras.
+Contiene seis cisteínas que se pliegan alrededor de dos átomos de cinc.
+Esperamos también encontrar dedos de cinc, o similares, implicados en funciones alejadas de la transcripción, como el transporte, maduración o cualquier proceso que implique una acción sobre el ADN, o incluso el ARN.
+No se olvide que el FTIIIA se une lo mismo a uno que a otro.
+Nos queda aún mucho que aprender.
+
+Figura 1
+
+TRES DEDOS DE CINC sobresalen de un factor de transcripción, o proteína reguladora de la actividad génica (rojo).
+
+Se fijan al surco mayor de la molécula de ADN (doble hélice).
+Los dedos de cinc son el puente entre los factores de transcripción y sus genes diana.
+Se unen al ADN por secuencias específicas de pares de bases:
+los "peldaños" de la "escalera" que es el ADN.
+Se llaman dedos de cinc porque asen al ADN y porque el cinc (bolas amarillas) desempeña un papel fundamental en la determinación de su estructura.

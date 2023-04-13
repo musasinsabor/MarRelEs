@@ -1,0 +1,5 @@
+id,presence,candidate_term_left,candidate_term_right,occurrence,full_context
+H21_economy_1,left,['variables'],[None], todas las variables del primer miembro son constantes,"definición. De este modo, podemos escribir xxx, donde todas las variables del primer miembro son constantes. Si tomamos logaritmos y derivamos respecto del tiempo obtenemos la siguiente"
+H21_economy_2,right,[None],['propiedad'], todas las empresas eran propiedad,"no gobierna el mercado. En otros tiempos, cuando casi todas las empresas eran propiedadde los empresarios o de sus amigos y asociados, la inversión"
+H21_economy_3,left,['caso'],[None], todo caso cualquiera que sea el problema,como acabamos de ver- que funcione formalmente del mismo modo en todo caso cualquiera que sea el problemaeconómico al que lo apliquemos. [12] La obra de
+H21_economy_4,none,[None],[None], todo el mundo es víctima,"Esto se puede decir de un modo ligeramente más realista: todo el mundo es víctimadel autoengaño ideológico, excepto el moderno intelectual radical, el cual"

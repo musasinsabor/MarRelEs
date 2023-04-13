@@ -1,0 +1,4 @@
+Reference,LeftContext,Pivot,RightContext,presence,candidate_term_left,candidate_term_right,occurrence
+1_e00053-plain,5] En el cap. 20 se designará con el,nombre_NC_nombre de_PREP_de función_NC_función,del empleo a una que está íntimamente ligada con la anterior.,right,[None],['función'], nombre de función
+1_e00053-plain,"capítulo 20, en el que estudiaremos su recíproca con el",nombre_NC_nombre de_PREP_de función_NC_función,"de ocupación. Pero, en general, lo que se ha",right,[None],['función'], nombre de función
+1_e00053-plain,"en periodos cortos, como en el caso conocido con el",nombre_NC_nombre de_PREP_de fluctuaciones_NC_fluctuación,"cíclicas de la ocupación, durante las cuales los hábitos, a",right,[None],['fluctuaciones'], nombre de fluctuaciones

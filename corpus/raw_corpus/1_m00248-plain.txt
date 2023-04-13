@@ -1,0 +1,241 @@
+
+Tecnología del DNA recombinante
+
+CONCEPTOS DEL CAPÍTULO
+
+La tecnología del DNA recombinante depende, en parte, de la capacidad de cortar N' unir segmentos de DNA por secuencias especificas de bases.
+Utilizando esta metodología, se pueden transferir segmentos particulares de DNA a virus o a bacterias para amplificarlos, aislarlos e identificarlos.
+La utilización de esta tecnología ha conseguido importantes avances en la cartografía de genes, en el diagnóstico de enfermedades, en la producción comercial de productos génicos humanos y en la transferencia de genes entre especies diferentes, tanto en plantas como en animales.
+
+El redescubrimiento de los experimentos de Mendel, realizado independientemente por de Vries, Correns y von Tschermak en 1900, marcó el inicio de la genética como disciplina organizada.
+Durante el crecimiento y desarrollo de esta ciencia, varios descubrimientos clave han servido de puntos de inflexión, acelerando todos ellos la velocidad a la que crecen los conocimientos en genética y, a la vez, abriendo nuevos campos de investigación.
+
+Uno de los primeros de estos hitos fue la teoría cromosómica de la herencia.
+
+Este concepto, propuesto por Sutton y Boveri en 1902, lo desarrollaron Morgan y sus colaboradores utilizando la mosca de la fruta ( Drosophila ).
+De estas investigaciones provino la comprensión de la genética de la transmisión, de la determinación del sexo, del ligamiento y de la utilización de los cromosomas para cartografiar genes en sus loci citológicos específicos.
+
+Un segundo hito fue el descubrimiento realizado por Avery, MacLeod y McCarty de que el DNA es la macro-molécula que transporta la información genética.
+Este descubrimiento estimuló la utilización de virus y de bacterias como organismos para la investigación genética, y condujo al modelo de estructura del DNA de WatsonCrick.
+Este modelo ha traído consigo el conocimiento de las bases moleculares del código genético, de la transcripción, de la traducción y de la regulación génica.
+
+Ahora estamos experimentando otra y, quizás, la más profunda transición en la historia de la genética: 
+el desarrollo y la aplicación de la tecnología del DNA recombinante.
+Esta tecnología se utiliza en investigación básica y en el desarrollo y producción de vacunas, de proteínas terapéuticas y de plantas y animales modificados genéticamente.
+También han surgido temores por las epidemias o por los cambios ecológicos a gran escala que podrían resultar .le la liberación al medio de organismos genéticamente modificados.
+Este capitulo expone los métodos básicos de la tecnología del DNA recombinante que se utilizan para aislar, replicar y analizar los genes.
+En el siguiente capítulo expondremos algunas de las aplicaciones de esta tecnología a la agricultura, a la medicina y a la industria.
+
+Generalidades de la tecnología del DNA recombinante
+
+El término DNA recombinante hace referencia a la creación de nuevas combinaciones de segmentos o de moléculas de DNA que no se encuentran juntas de manera natural.
+Aunque el proceso genético de la recombinación produce DNA recombinante, este término se reserva a las moléculas de DNA producidas por la unión de segmentos que provienen de diferentes fuentes biológicas.
+
+La tecnología del DNA recombinante utiliza técnicas que provienen de la bioquímica de los ácidos nucleicos unidas a metodologías genéticas desarrolladas originalmente para la investigación de bacterias y de virus.
+Como describiremos a continuación, la utilización del DNA recombinante es una herramienta poderosa para el aislamiento de poblaciones puras de secuencias específicas de DNA a partir de una población de secuencias mezcladas.
+Los procedimientos básicos incluyen una serie de pasos:
+
+1. Los fragmentos de DNA se generan utilizando unas enzimas denominadas endonucleasas de restricción , que reconocen y cortan las moléculas de DNA por secuencias nucleotídicas específicas.
+2. Los fragmentos producidos mediante la digestión con enzimas de restricción se unen a otras moléculas de DNA que sirven de vectores .
+Los vectores pueden replicarse autónomamente en una célula huésped y facilitan la manipulación de la molécula de DNA recombinante recién creada.
+
+3. La molécula de DNA recombinante, formada por un vector que lleva un segmento de DNA insertado, se transfiere a una célula huésped.
+Dentro de esta célula, la molécula de DNA recombinante se replica, produciendo docenas de copias idénticas conocidas como clones .
+
+4. Al replicarse las células huésped, las células descendientes heredan el DNA recombinante, creándose una población de células idénticas, que llevan todas la secuencia clonada.
+5. Los segmentos de DNA clonados pueden recuperarse de las células huésped, purificarse y analizarse.
+6. Potencialmente, el DNA clonado puede transcribirse, su mRNA puede traducirse, y el producto génico puede aislarse y examinarse.
+
+Fabricación del DNA recombinante
+
+El desarrollo de las técnicas de DNA recombinante ofrece nuevas oportunidades para la investigación, ya que simplifica la obtención de grandes cantidades de DNA que codifican genes específicos, y facilita las investigaciones de la organización, estructura y expresión génicas. 
+Esta metodología también ha dado un impulso al desarrollo de la naciente industria biotecnológica, que está suministrando un numero creciente de productos al mercado.
+El DNA recombinante produce grandes cantidades de copias de segmentos de DNA específicos, incluyendo genes.
+El proceso se resume en las siguientes secciones.
+
+Enzimas de restricción
+
+La piedra angular de la tecnología del DNA recombinante es un tipo de enzimas denominadas endonucleasas de restricción .
+Estas enzimas, aisladas en bacterias, reciben este nombre debido a que limitan o previenen las infecciones víricas degradando el ácido nucleico invasor.
+Las enzimas de restricción reconocen una secuencia específica de nucleótidos (denominada sitio de restricción) de una molécula de DNA de doble cadena, y cortan el DNA por esa secuencia.
+El premio Nobel de 1978 se otorgó a Werner Arher, Hamilton Smith y Daniel Nathans por su investigación sobre las enzimas de restricción.
+Hasta la fecha, se han aislado y caracterizado casi 200 tipos de enzimas de restricción diferentes.
+
+Las enzimas de restricción se denominan según el organismo en el que se descubrieron, utilizando un sistema alfanumérico.
+La enzima EcoRI proviene de Escherichia coli , y se pronuncia "eco- erre-uno". 
+HindIII se descubrió en Hemophilus influenzae y se pronuncia " jinde-tres ". 
+Hay dos tipos de enzimas de restricción.
+Las enzimas de Tipo I cortan las dos cadenas del DNA en una posición aleatoria a cierta distancia del sitio de restricción. 
+Las enzimas de Tipo I no se utilizan normalmente en la investigación de DNA recombinante ya que el sitio de corte no es preciso.
+Las enzimas de Tipo II reconocen una secuencia específica y cortan las dos cadenas de la molécula de DNA con absoluta precisión dentro de la secuencia reconocida. 
+Las enzimas de Tipo II se usan ampliamente en investigación de DNA recombinante puesto que cortan en sitios específicos.
+
+Las secuencias reconocidas por las enzimas de Tipo II son simétricas.
+La secuencia de una de las cadenas leída en dirección 5'-3' es la misma que la secuencia de la cadena complementaria leída también en dirección 5'-3'.
+Las secuencias que se leen igual en ambas direcciones se denominan palindrómicas .
+La .1 muestra el sitio de reconocimiento palindrómico y los puntos de corte de EcoRI.
+
+La enzima EcoRI corta las cadenas de manera escalonada dentro del sitio de reconocimiento, dejando extremos de cadena sencilla.
+Estas colas, que tienen secuencias nucleotídicas idénticas, son "pegajosas", ya que pueden unirse a colas complementarias de otros fragmentos de DNA mediante puentes de hidrógeno.
+
+Si moléculas de DNA de diferente origen comparten los mismos sitios de reconocimiento palindrómicos, ambas tendrán colas complementarias de cadena sencilla cuando se traten con una endonucleasa de restricción (Figura 15.2).
+Si estos fragmentos se ponen juntos bajo determinadas condiciones, los fragmentos de DNA de distinto origen pueden formar moléculas recombinantes estableciendo puentes de hidrógeno entre los extremos pegajosos.
+Luego se utiliza la enzima DNA ligase para unir covalentemente los esqueletos azúcar-fosfato de los dos fragmentos, produciéndose así una molécula de DNA recombinante (.2).
+
+Otras enzimas de restricción de Tipo II, como SmaI, cortan el DNA formando fragmentos romos (.3).
+Los fragmentos de DNA con extremos romos también pueden unirse y formar moléculas recombinantes, pero primero deben modificarse (.3).
+La enzima desoxinucleotidil transferasa terminal se utiliza para crear extremos de cadena sencilla mediante la adición de "colas" de nucleótidos.
+Si a uno de los DNA se le añade una cola de poli- dA , y al otro DNA se le añade una cola de poli-dT , se forman colas complementarias, y los fragmentos pueden unirse mediante puentes de hidrógeno.
+
+Entonces, por ligación, pueden formarse moléculas recombinantes (.3).
+
+La .4 representa algunas enzimas de restricción comunes y sus secuencias de reconocimiento.
+Algunas de estas enzimas producen extremos cohesivos o "pegajosos", mientras que otras generan extremos romos.
+
+Vectores
+
+Después de unirse a un vector o vehículo de clonación, un segmento de DNA puede llegar a entrar en una célula huésped y replicarse o clonarse. 
+Los vectores son, esencialmente, moléculas de DNA transportadoras.
+Para servir de vector, una molécula de DNA debe tener unas determinadas características:
+1. Debe poder replicarse independientemente junto con el segmento de DNA que transporta.
+2. Debería contener algunos sitios de corte para enzimas de restricción, presentes sólo una vez en el vector.
+Estos sitios de restricción se cortan con una enzima de restricción y se utilizan para insertar segmentos de DNA cortados con la misma enzima [1] .
+
+3. Debería tener algún marcador de selección (normalmente genes de resistencia a antibióticos o genes de enzimas que la célula huésped no tenga) para poder distinguir las células huésped que transportan el vector de las que no lo contienen.
+4. El vector de la célula huésped debería ser fácil de recuperar.
+
+Actualmente se utilizan tres tipos principales de vectores: los plásmidos , los bacteriófagos y los cósmidos .
+
+Los plásmidos
+
+Los plásmidos son moléculas de DNA de doble cadena extracromosómicas de origen natural que tienen un origen de replicación (ori+) y que se replican autónomamente en las células bacterianas.
+En el Capítulo 18 se tratará la genética de los plásmidos y de sus células huésped bacterianas.
+En esta sección se pondrá énfasis en la función de los plásmidos como vectores.
+Para poder utilizarlos en ingeniería genética, se han modificado o diseñado muchos plásmidos de manera que contengan un número limitado de sitios de restricción y genes de resistencia a antibióticos específicos.
+
+El vector pBR322 fue uno de los primeros plásmidos diseñados que se utilizó en DNA recombinante (Figura 15.5).
+Este plásmidos tiene un origen de replicación ( ori +), dos genes de selección (resistencia a los antibióticos ampicilina y tetraciclina), y algunos sitios de restricción únicos.
+Dentro del gen de resistencia a tetraciclina hay sitios de restricción únicos para las enzimas BamHI, SphI, SalI, XmaIII y NruI, y dentro del gen de resistencia a ampicilina hay sitios de restricción únicos para las enzimas RruI, PvuI y PstI.
+Si se introduce pBR322 en una célula bacteriana sin plásmidos y sensible a antibióticos, la célula se convertir en resistente a la tetraciclina y a la ampicilina. 
+Si se inserta un fragmento de DNA en los sitios de restricción RruI, PvuI, o PstI, se inactivará el gen de resistencia a ampicilina, pero el gen de resistencia a tetraciclina seguir activo.
+Si este plásmidos recombinante se transfiere a una célula bacteriana que no contenga plásmidos, las células que contengan el plásmidos recombinante podrán identificarse, ya que serán resistentes a tetraciclina y sensibles a ampicilina.
+
+Con el paso del tiempo se han desarrollado vectores plasmídicos más sofisticados, que ofrecen diversas características útiles.
+Uno de estos plásmidos, que deriva de pBR322 , es el pUC18 (.6), que tiene las siguientes características:
+1. El plásmido tiene la mitad de tamaño que pBR322 , lo que permite insertar fragmentos de DNA más largos.
+2. pUC18 se replica produciendo unas 500 copias por célula, lo que significa unas 5 o 10 veces más que las que produce pBR322 .
+3. Tiene un gran número de sitios de restricción únicos, agrupados en una región denominada sitio de clonación múltiple ( polylinker ).
+4. El plásmidos contiene un fragmento de un gen bacteriano denominado lacZ , y el sitio de clonación múltiple está insertado dentro de este fragmento del gen. 
+El gen lacZ normal codifica la beta-galactosidasa, enzima que corta moléculas de azúcar.
+Cuando pUC18 se introduce en una célula huésped bacteriana que tiene el gen lacZ mutante, se produce beta-galactosidasa funcional.
+La presencia de beta-galactosidasa funcional en una colonia bacteriana puede detectarse mediante un ensayo colorimétrico.
+Las células bacterianas que contienen pUC18 forman colonias de color azul cuando crecen en un medio que contiene una substancia denominada X-gal. 
+Si hay DNA insertado en el sitio de clonación múltiple, se interrumpe el gen lacZ y se forman colonias blancas.
+Las colonias blancas, resistentes a ampicilina, contienen plásmidos con DNA insertado.
+
+
+Los bacteriófagos lambda y M13
+
+Lambda es un bacteriófago muy utilizado en experimentos de DNA recombinante.
+Se han identificado y cartografiado todos los genes de lambda, y se conoce toda la secuencia nucleotídica de su genoma.
+El tercio central de su cromosoma es prescindible, y puede reemplazarse por DNA exógeno sin afectar la capacidad del fago para infectar células y formar calvas (Figura 15.7).
+Se han desarrollado más de 100 vectores basados en el fago lambda, eliminando diversas porciones del grupo génico central.
+Para clonar utilizando el vector lambda, se corta el DNA del fago con una enzima de restricción (por ejemplo, EcoRI), lo que produce un brazo izquierdo, un brazo derecho y una región central.
+Se aíslan los brazos y se ligan (utilizando la DNA ligase) a un segmento de DNA obtenido tras cortar DNA genómico con la misma enzima de restricción (en este ejemplo, con EcoRI).
+
+Las moléculas recombinantes resultantes pueden introducirse en células huésped bacterianas por transfección .
+Primero, se permeabilizan las células huésped mediante un tratamiento químico, y se mezclan con las moléculas ligadas.
+Los vectores que contienen el inserto entran en las células huésped, donde dirigen la síntesis de fagos infectivos, llevando cada uno de ellos el inserto de DNA.
+Como alternativa, se mezcla el DNA de lambda que contiene el inserto con los componentes proteicas del fago; de esta mezcla se forman partículas fágicas infectivas.
+Los fagos pueden amplificarse haciéndolos crecer en placas sembradas con bacterias, donde se formarán calvas, o bien infectando células en un medio líquido y recogiendo las células lisadas. 
+
+También se utilizan otros bacteriófagos como vectores, entre los que destaca el fago de cadena sencilla M13. 
+Cuando M13 infecta a una célula bacteriana, la cadena sencilla (cadena +) se replica y produce una molécula de doble cadena denominada forma replicativa (RF) .
+Las moléculas RF pueden considerarse similares a los plásmidos, pudiéndose insertar DNA exógeno en sitios de restricción únicos presentes en el DNA del fago.
+Cuando se reinsertan en células bacterianas, las moléculas RF se replican y producen cadenas sencillas (+), en las que hay una cadena del DNA insertado.
+La célula hace salir los clones de DNA de cadena sencilla que produce M13, que pueden recuperarse y utilizarse directamente para su secuenciación, o como molde para alteraciones mutacionales de la secuencia clonada. 
+
+Los cósmidos y los vectores transbordadores
+
+Los cósmidos son vectores híbridos construidos utilizando partes del cromosoma del fago lambda y de DNA plasmídico. 
+Los cósmidos contienen la secuencia cos del fago lambda, necesaria para el empaquetamiento del DNA del fago dentro de su cubierta proteica, y secuencias plasmídicas de replicación y de genes de resistencia a antibióticos, que permiten identificar las células huésped que los contienen (Figura 15.8).
+El DNA de los cósmidos que contiene insertos de DNA se empaqueta en la cápside proteica, de lambda para formar partículas fágicas infectivas. 
+Una vez el cósmido entra en la célula huésped, se replica como un plásmidos.
+Puesto que la mayoría del genoma de lambda se ha delecionado, los cósmidos pueden transportar insertos de DNA macho más grandes que los que lambda puede llevar.
+Los cósmidos pueden transportar casi -50 Kb de- DNA insertado; los vectores fágicos pueden acomodar insertos de DNA de unas 15 Kb; y los plásmidos generalmente están limitados a insertos de 5-10 Kb.
+
+Existen otros vectores híbridos, construidos con orígenes de replicación provenientes de distintas fuentes (por ejemplo, plásmidos y virus animales como SV40), que pueden replicarse en más de un tipo de célula huésped.
+Generalmente, estos vectores transbordadores contienen marcadores genéticos que permiten su selección en los dos sistemas huésped, y pueden utilizarse para transportar insertos de DNA entre E. coli y otra células huésped, como levadura, y viceversa.
+
+A menudo, estos vectores se emplean para investigar la expresión génica.
+En las siguientes secciones se describir n otros vectores utilizados para aplicaciones específicas. 
+
+Cromosomas artificiales bacterianos
+
+Para cartografiar y analizar genomas eucarióticos complejos, se ha desarrollado un vector multiuso denominado cromosoma artificial bacteriano (BAC) basado en el factor F de bacterias.
+Recuerde que en Capítulo 6 se expuso que el factor F es un plásmidos que se replica independientemente y que está implicado en la transferencia de información genética durante la conjugación bacteriana.
+Puesto que los factores F pueden transportar fragmentos del cromosoma bacteriano de hasta 1 Mb, han sido diseñados para que funcionen como vectores de DNA eucariótico.
+Los vectores BAC tienen los genes de replicación y de número de copias del factor F, e incorporan un marcador de resistencia a un antibiótico y sitios de restricción para insertar el DNA exógeno que se desee clonar.
+Además, el sitio de clonación está flanqueado por regiones promotoras que pueden utilizarse para generar moléculas de RNA y expresar así el gen clonado, o para utilizarlas como sonda para paseo cromosómico, y para secuenciar el DNA del inserto clonado (.9).
+
+Figura 15.1
+
+La enzima de restricción EcoRI reconoce y se une a la secuencia palindrómica GAATTC
+
+El corte del DNA en esa sitio produce colas de cadena sencilla complementarias.
+
+La colas de cadena sencilla resultantes pueden unirse con colas complementarias de otros fragmentos de DNA para formar moléculas de DNA recombinante.
+
+Figura 15.2
+
+Para formar moléculas de DNA recombinante, se corta DNA de distintas fuentes con EcoRI y se mezcla para que se unan formando moléculas recombinantes 
+
+Después se utiliza la enzima DNA ligase para unirlos covalentemente en moléculas de DNA recombinante. 
+
+Figura 15.3
+
+Las moléculas de DNA re combinante pueden formarse a partir DNA corta do con enzimas que dejan extremos romos
+
+En este método, se utiliza la enzima desoxinucleotidil transferasa terminal para crear colas complementarias mediante la adición de fragmentos de poli- dA y de poli-dT .
+Estas colas sirven para unir el DNA de diferentes fuentes y para crear moléculas de DNA recombinante, que son unidas covalentemente por tratamiento con la DNA ligase. 
+
+Figura 15.4
+
+Algunas enzimas de restricción comunes, con sus sitios de reconocimiento y de corte, el patrón de corte y la fuente de origen
+
+Figura 15.5
+
+Mapa de restricción del plásmidos pBR322 , que muestra las localizaciones de los sitios de las enzimas de restricción que cortan el plásmidos por un solo sitio
+
+Estos sitios pueden utilizarse para insertar los fragmentos de DNA a clonar.
+
+También se muestran las localizaciones de los genes de resistencia a antibióticos.
+
+Figura 15.6
+
+El plásmidos pUC18 ofrece varias ventajas como vector de clonación 
+
+Debido a su pequeño tamaño, puede aceptar fragmentos de DNA relativamente grandes; se replica hasta un alto número de copias, y tiene un gran número de sitios de restricción en el sitio de clonación múltiple, localizado dentro del gen lacZ .
+Las bacterias que contienen pUC18 producen colonias de color azul si crecen en un medio que contenga X-gal.
+DNA insertado en el sitio de clonación múltiple interrumpe el gen lacZ , resultando en colonias blancas, lo que permite la identificación directa de las colonias que tienen insertos de DNA clonados.
+
+Figura 15.7
+
+Pasos en la clonación utilizando el fago lambda como vector
+
+Se extrae el DNA de una preparación de fago lambda y se elimina d grupo central de genes por tratamiento con una enzima de restricción.
+El DNA a clonar se corta con la misma enzima y se liga entre los brazos del cromosoma de lambda.
+Luego se empaqueta el cromosoma recombinante dentro de las proteínas del fago para formar un virus recombinante.
+Este virus puede infectar células bacterianas y replicar su cromosoma, incluido el inserto de DNA.
+
+Figura 15.8
+
+El cósmido pJB8 contiene un origen de replicación bacteriano (ori), un solo sitio cos (cos), un gen de resistencia a ampicilina ( amp , para seleccionar las colonias que han incorporado el cósmido), y una región que contiene cuatro sitios de restricción para la clonación (BamHI, EcoRI, CIaI y HindIII)
+
+Puesto que el vector es pequeño (5,4 Kb de longitud), puede aceptar segmentos de DNA exógeno de 33 a 46 Kb de longitud.
+El sitio cos permite que el cósmido que contenga un inserto grande se empaquete con proteínas de cubierta vírica de lambda como si fuesen cromosomas víricos.
+Las cubiertas víricas que contienen un cósmido pueden utilizarse para infectar células huésped adecuadas, y el vector, que transporta el inserto de DNA, se transferirá a la célula huésped. 
+Una vez dentro, la secuencia ori permite que el cósmido se replique como un plásmido bacteriano.
+
+[1] Nota del traductor: 
+Estos sitios de restricción únicos permiten insertar segmentos de DNA cortados con la misma enzima sin desmembrar el vector, situación que se produciría si se utilizasen sitios de restricción presentes más de una vez en el vector.

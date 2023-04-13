@@ -1,0 +1,444 @@
+
+Sistemas operativos ¿Windows NT o Unix? 
+
+El sistema operativo insignia de Microsoft no ha desbancado a Unix, pero los administradores de sistemas experimentados empiezan a tomarse Windows NT más en serio.
+
+Ya es oficial: Windows NT ya ha superado el período de prueba.
+
+Casi cuatro años después de que este sistema operativo de Microsoft totalmente nuevo llegara al mercado, en medio de la ya habitual exageración y expectación, un creciente número de administradores está contento de que esté listo para hacer cosas importantes.
+
+«Hace un par de años, se veía a NT como algo que no tenía éxito, en parte debido a las poco realistas proyecciones que se habían hecho», dice Hugh Ryan, director de arquitecturas de Andersen Consulting.
+«Pero ahora se ve como una solución más viable, sobre todo para lo que yo llamaría servidores departamentales.
+Y la gente está evaluando su potencial para soluciones a escala de toda una empresa.»
+
+Además de la creciente comodidad que sienten los administradores de sistemas de información de gestión con NT, los usuarios y los fabricantes ven otros tres factores que están actuando a favor de Microsoft:
+
+NT está mejor colocado que Unix a la hora de beneficiarse de hardware y software a un precio rentable, en especial en la plataforma x86 Intel.
+
+NT facilita la integración de servidores y PC de sobremesa con las populares suites Office y BackOffice de Microsoft.
+
+Microsoft es una apuesta tranquilizadoramente segura por el futuro, ya que su predominio en la industria informática tiene visos de ser muy firme.
+
+¿Ha muerto Unix (de nuevo)? 
+
+Un fabricante que ha notado la ascensión de NT es Platinum Software.
+En 1992, aproximadamente al mismo tiempo que Microsoft lanzaba NT, Platinum introducía SeQueL to Platinum, un paquete de contabilidad cliente/servidor para Unix/Sybase y NT/SQLServer.
+Al principio, la mayoría de clientes de Platinum optaron por la versión Unix/Sybase para sus servidores Sun Microsystems, Hewlett-Packard e IBM.
+
+«Entonces, empezamos a apreciar un cambio», dice Don Howren, vicepresidente de comercialización de Platinum Software.
+
+«Los clientes empezaron a entablar compromisos con Windows NT y SQLServer y ahora están buscando aplicaciones de producción.»
+
+«Los procesadores Alpha y Pentium más rápidos están haciendo de NT un entorno de proceso de transacciones de gran volumen», afirma Mike Pennell, director de estrategia de productos de Platinum.
+«Si uno mira uno o dos años atrás, verá que en realidad no existía todo esto.
+Con la introducción de estos nuevos servidores, se está apreciando mucha más competencia con los servidores Unix.»
+
+Los servidores basados en Intel que entregan más potencia por dinero invertido están impulsando el crecimiento de Windows NT, según fabricantes y usuarios.
+Si bien NT opera en tres tipos de arquitectura RISC --la Mips Rx000, la Digital Alpha y la IBM/Motorola PowerPC-- la versión para sistemas basados en x86 es la más popular.
+Últimamente, Intel ha acelerado notablemente el desarrollo de procesadores x86 y está sacando versiones más rápidas de Pentium y de Pentium Pro que corren codo con codo con los chips RISC más rápidos.
+Cuando se combinan con la elevada capacidad de fabricación de Intel y la tan conocida economía de la arquitectura de sistemas PC, el resultado es una relación precio/rendimiento difícil de superar.
+NT en RISC es una opción para quienes necesitan rendimiento al máximo.
+
+Sin embargo, el ascenso de NT no significa que Unix esté fuera de juego.
+Otras fuentes señalan que sigue habiendo un vacío de rendimiento entre la gama media y la alta.
+Las limitaciones arquitectónicas suponen una traba a los servidores de bajo precio basados en x86 cuando intentan hacerse cargo de tareas verdaderamente voluminosas.
+Incluso el mejor de ellos tiene problemas para mantener el ritmo de los sistemas Unix más rápidos, sobre todo en la gestión de grandes bases de datos.
+Cuando Unix forma equipo con software de bases de datos de primera categoría (de Oracle, Sybase o Informix), Windows NT y SQL Server ven ante sí una tremenda competencia.
+
+Los administradores de sistemas de información están ampliando el uso que hacen de ambas plataformas.
+Se han quedado con el servidor de multiproceso simétrico (SMP) de gama baja de NT (cuatro procesadores o menos) como configuración para instalaciones pequeñas y medianas.
+Y siguen desplegando servidores Unix allí donde más grande significa mejor.
+
+«Microsoft ha vendido en exceso la idea de la escalabilidad de NT» afirma Michael Goulde, consultor de Patricia Seybold Group.
+
+«NT es muy rentable mientras funciona.
+Pero debido en parte al hardware disponible para operar NT, carece de la escalabilidad de las plataformas Unix.
+No se le puede hacer llegar tan lejos.»
+
+Sistemas NT reforzados 
+
+Unos cuantos fabricantes, como Sequent Computer, sí que hacen sistemas SMP para NT que tienen hasta 28 CPU.
+Sin embargo, la mayoría de servidores Windows NT son máquinas menos perfeccionadas y tienen entre una y cuatro CPU --esencialmente se trata de equipos PC de sobremesa sometidos a una reingeniería--.
+
+Las tarjetas de E/S de disco, de vídeo y de red, probablemente comparten el mismo bus PCI y la CPU habitualmente tiene entre 256 KB y 1 MB de caché secundaria.
+Compare esto con el WinServer 70 de Sequent, que dispone de una tarjeta de dos caras con un bus propietario de alta velocidad, un bus VME independiente para adaptadores de red, hasta 32 canales SCSI Fast and Wide para E/S de disco y 2 MB de caché secundaria por CPU.
+
+«Si uno compara algunas de las máquinas de cuatro procesadores basadas en Intel más económicas con, por ejemplo, un Alpha 2100, la diferencia no estriba únicamente en la velocidad de la CPU, sino en toda la arquitectura de sistema», señala Goulde.
+Con su hardware para grandes tareas, «el 2100 está diseñado más bien como un miniordenador».
+
+Sin embargo, algunos usuarios están poniendo a prueba los límites de NT.
+En la Oregon State University (Corvallis), el College of Oceanic and Atmospheric Sciences se hace cargo de los datos que recogen investigadores de campo y satélites meteorológicos.
+¿Qué plataforma usan? NT y SQL Server en un par de servidores Hewlett-Packard con dos Pentium cada uno.
+Con ellos administran aproximadamente 100 GB de datos.
+Ahora están trabajando en un proyecto de la NASA llamado Earth Observing System, que pondrá en órbita varios satélites más en los próximos años.
+Cuando empiecen a llover datos, se ampliará la base de datos a rangos de terabytes.
+
+Mark Abbott, profesor que colabora en hacer operar el programa, afirma que su meta es producir vídeos y animaciones que permitan a los científicos visualizar más fácilmente este vasto almacén de datos en bruto.
+Esta es la razón por la que optó por NT y SQL Server para sustituir una base de datos Ingres y HP-UX (el Unix de Hewlett-Packard).
+«Queríamos unos vínculos más fuertes entre el análisis de datos y la gestión de éstos», afirma Abbott.
+«En este terreno NT es muy efectivo.
+Las virtudes técnicas y la orientación de NT resultaron irresistibles.»
+
+El bajo coste del hardware y del software de los sistemas basados en NT fue también un argumento irresistible.
+Algunos de los programas de manipulación de datos utilizados tan sólo cuestan 60 dólares.
+«Queríamos entrar en la curva de precio/rendimiento del mercado del PC», explica Abbott.
+«El 95% de nuestros fondos procede de becas federales por cuya concesión hay mucha competencia, de manera que tenemos más de empresa que de universidad.»
+
+Sin embargo, a medida que su base de datos crece, Abbott se va dando cuenta de que NT puede no ser suficiente.
+«El escalado y la robustez siguen siendo dos grandes preocupaciones.
+Esta es la razón por la que todavía tenemos algunos sistemas Unix.»
+
+Microsoft sigue trabajando con Sequent y otros fabricantes SMP para mejorar la escalabilidad de NT, pero Unix seguirá conservando esta ventaja durante algún tiempo.
+«NT se escala muy bien hasta entre seis y ocho procesadores, pero no más allá», reconoce Bob Robinson, director de comercialización de productos de Sequent.
+Los problemas de escalabilidad surgen tanto de las limitaciones de hardware que hay en los servidores basados en PC como de las limitaciones inherentes al propio NT.
+Naturalmente Microsoft discute estas limitaciones.
+
+Windows conoce a Windows 
+
+Naturalmente, NT no es el único sistema operativo servidor que puede beneficiarse de la rentabilidad de precio del hardware basado en x86.
+También lo pueden hacer NetWare de Novell, OS/2 de IBM y Unix de SCO.
+Este último está operando en unos dos millones de servidores basados en x86 --más que cualquier otra versión de Unix, según SCO--.
+Evidentemente, debe haber razones adicionales que justifiquen el creciente número de administradores de sistemas de información de gestión que optan por NT.
+
+Un factor, dicen, es que NT resulta más fácil de integrar con el hardware y software ya existente.
+Las instalaciones que ya tienen Windows en sus PC de sobremesa naturalmente tienden hacia NT cuando hay que escoger entre varias opciones de servidor.
+
+Prefieren tratar con un único fabricante de sistemas operativos y NT tiene un aspecto y tacto familiares.
+Por si fuera poco, Microsoft Office domina una abrumadora cuota de mercado (entre un 85 y un 90%) de las suites de aplicaciones, según Dataquest y otras firmas de investigación de mercado.
+Y BackOffice, especialmente SQL Server con su bajo precio, proporciona un poderoso incentivo para probar NT, sobre todo si a uno le han encargado desarrollar un sistema de base de datos cliente/servidor departamental con un presupuesto limitado.
+
+«Estamos presenciando una gran adopción de NT en empresas en las que Windows está generalizado en los equipos sobremesa», afirma Ryan, de Andersen Consulting.
+«Existe la sensación de que Unix es un entorno más exigente desde el punto de vista técnico, tanto en lo referente a cuestiones de productividad como de conectividad.»
+
+Estos fueron algunos de los factores que convencieron a la Penn State University (State College, Pensilvania) a pasar de Banyan Vines a NT aproximadamente un millar de ordenadores conectados en red que se encontraban en las aulas y laboratorios.
+La mayoría de las máquinas cliente de la Penn State están operando Windows for Workgroups en equipos PC Pentium de 75 y 100 MHz; asimismo hay algunos Power Macintosh 7100.
+Para hacerse cargo de estos equipos (y de más de 100.000 usuarios, contando a todos los estudiantes), la red dispone de 25 servidores, la mayor parte de ellos sistemas 486 y Pentium.
+
+La Penn State estuvo evaluando NT durante años antes de alcanzar un compromiso.
+En marzo de 1995 empezó finalmente la conversión, que duró unos seis meses y, hasta ahora, este centro está a gusto con la estabilidad, la seguridad y la economía de NT.
+
+«Queríamos algo robusto que pudiéramos ampliar», afirma Al Williams, director de servicios de sistemas distribuidos. «El soporte TCP/IP, el soporte de routing Ethernet y el soporte al sistema operativo Mac eran parte del paquete básico de requisitos.
+Algunos de estos servicios hubieran sido algo extra en Banyan Vines y hubiesen resultado costosos.» Macintosh plantea un muy conocido problema a los sistemas operativos de red como Vines y NetWare: soporta nombres de archivo largos.
+Con el fin de hacer que Vines o NetWare soporten tales nombres, hay que operar un espacio de nombres por separado --y que no siempre es compatible con la compartición de volúmenes entre equipos PC y Mac--.
+NT proporciona de modo nativo soporte de nombres de archivo largos para Mac.
+Asimismo, soporta protocolos de red AppleTalk.
+
+Los desarrolladores de software corporativo y comercial afirman que NT y OLE ofrecen posibilidades más interesantes para integrar sus aplicaciones con Microsoft Office y BackOffice.
+Pueden construir soluciones personalizadas mediante objetos OLE y una matriz expandida de herramientas de desarrollo rápido de aplicaciones, como Visual Basic de Microsoft, PowerBuilder de PowerSoft y Delphi de Borland.
+Unix no soporta una gama tan amplia de herramientas RAD populares.
+
+«OLE se convierte en la infraestructura con la que podemos hacer a medida y desplegar nuestras aplicaciones en las empresas de los clientes», dice Pennell, de Platinum Software. 
+«No sólo podemos integrar con la serie estándar de productos de oficina Microsoft como Word y Excel, sino también con otros productos específicamente financieros, como un sistema de proceso de impuestos o uno de entrada de pedidos.»
+
+Naturalmente, una tecnología similar no es que sea precisamente desconocida en Unix.
+Un buen ejemplo es Neo (Network Objects) de Sun, un entorno de objetos distribuidos.
+Neo permite a los usuarios integrar objetos Common Object Request Broker Architecture (COBRA) e incluso objetos OLE con aplicaciones y bases de datos repartidas a lo largo de una red.
+Neo funciona asimismo con applets Java.
+
+Además, si bien parece que Windows gobierna el planeta, no todo el mundo está primordialmente preocupado por integrar equipos PC de sobremesa en redes.
+«Hemos tenido personas que estuvieron mirando NT y optaron por Unix porque no tenían clientes Windows», dice Jeff Ait, vicepresidente de estrategia Internet de SCO.
+
+«Hay muchos y muy diversos clientes: cajeros automáticos, cajas registradoras, terminales basados en caracteres, dispositivos de telefonía.»
+
+Sin embargo, nadie discute que los administradores de sistemas de información de gestión quieren integración sencilla y sin fisuras con los PC con Windows que dominan el universo de sobremesa corporativa.
+Si bien algunos administradores expresan sus reservas sobre el predominio de Microsoft en la industria, también ansían que los estándares de ésta sean estables.
+NT encaja con el hardware y el software de sobremesa en el que la gran mayoría de empresas han decidido estandarizarse.
+
+La lucha por Internet 
+
+Resulta difícil desalojar un sistema operativo de un servidor en la ya esté bien atrincherado, incluso para una empresa tan poderosa como Microsoft.
+Los administradores de sistemas de información de gestión tienden a ser gente bastante conservadora que se mantiene fiel a las cosas que funcionan.
+Esta es la razón por la que Microsoft y los numerosos fabricantes Unix están buscando desesperadamente nuevas instalaciones en las que las cuestiones de herencia --incluyendo sistemas, software, adiestramiento de usuarios y personal de soporte administrativo-- sean en buena parte inexistentes y el terreno esté completamente despejado.
+
+Ejemplos de estos nuevos mercados potencialmente lucrativos son las redes de televisión interactivas, el World Wide Web y las redes de alta velocidad que se precisan para los ordenadores de red que proyectan empresas como Oracle, Sun Microsystems e IBM (véase En el interior del Web PC en el número 16 de BYTE España).
+
+Las televisiones interactivas y los ordenadores de 500 dólares siguen siendo en buena parte una especulación, pero el World Wide Web ya está aquí y crece rápidamente.
+
+Las investigaciones de mercado indican que los sistemas Unix han dado un salto y tienen una ventaja inicial en el Web y que Sun está funcionando especialmente bien.
+Algunos analistas piensan que Sun está disfrutando del brillo que le proporciona Java, su lenguaje multiplataforma para applets Web.
+«Todo el mundo está muy entusiasmado con Java», dice David Flaxman, socio de tecnología avanzada en KPMG-Peat Marwick, un integrador de sistemas y empresa de consultoría.
+«La gente percibe que Sun está estableciendo los estándares para Internet, de manera que quiere comprar un Sun para su servidor Web.
+No es que sea una asociación racional de pensamiento, pero es lo que hay.» En cambio, la estrategia de Microsoft hasta finales del año pasado parecía propietaria.
+Microsoft en un principio promovió la Microsoft Network (MSN) como una alternativa independiente y autosuficiente a Internet y lanzó una herramienta de desarrollo para edición en línea que sólo funcionaba con MSN.
+En diciembre pasado, en un acto para la prensa que tuvo lugar en la ciudad de Seattle, Microsoft cambió el rumbo y adoptó Internet.
+
+Entre otras cosas, Microsoft anunció que pasaría componentes de MSN al Web, convertiría su herramienta de edición MSN en una herramienta Web estándar (Internet Studio), integraría un motor Java en su navegador Web gratuito (Internet Explorer) y adjuntaría su software de servidor Internet en futuras versiones de NT Server.
+
+Este giro de Microsoft es una buena noticia, pero llegó demasiado tarde para los primeros que adoptaron el Web.
+Hace dos años, cuando el empresario Larry White lanzaba una nueva revista basada en el Web para entusiastas de la fotografía llamada HyperZine, él y su socio optaron por una Sun SparcStation 20 como servidor.
+
+HyperZine (www.hypezine.com) opera ahora con Solaris 2.4, Netsite de Netscape y una base de datos Illustra.
+White utiliza scripts Perl y Microsoft Access para vincular tablas Illustra a páginas HTML, de manera que esta revista en línea genera muchas de sus páginas Web sobre la marcha en respuesta a consultas de usuarios.
+
+El mismo servidor SparcStation alberga aproximadamente una decena de otras sedes Web para clientes de White.
+Cada sede Web tiene su propia dirección de Sistema de nombres por dominio (DNS), de manera que aparecen como sedes independientes para los surfistas de la Web.
+«Esta es la razón por la que nos pareció que necesitábamos una máquina potente como Sun», explica White. 
+«En aquel momento, no nos sentíamos tan confiados con NT.
+Y lo mismo pasaba con las soluciones de servidores Macintosh.»
+
+En cambio, si ahora tuviera que empezar, White dice que pensaría en NT.
+«Haré todo lo que haga falta para tener el trabajo hecho.
+
+Utilizaré un Sun, un PC, un Mac, un Amiga.
+Lo que sea mejor para esa solución en cada momento.»
+
+SCO prevé un potencial todavía mayor para Unix en intranet --redes corporativas privadas ensambladas con el mismo software de servidor, navegadores y herramientas de edición que los desarrollados para el Web público.
+Una intranet podría ser tan pequeña como una LAN interna o podría utilizar la Internet pública como WAN virtual.
+«La oportunidad de negocio de intranets para servidores Web es, probablemente, diez veces mayor que la oportunidad de negocio Internet», afirma Ait de SCO.
+
+Por ejemplo, SCO dispone actualmente de sólo dos servidores en su sede Web pública, pero de unos 200 en su intranet privada.
+
+Cuando los usuarios normales se identifican en la página doméstica de SCO (www.sco.com), no pueden pasar de los dos servidores públicos.
+En cambio, los empleados puede tener un acceso seguro a la intranet y utilizarla como un Web privado.
+
+Los empleados de SCO están empezando a formatear muchos de sus documentos --como hojas de datos sobre productos, comunicados de prensa, documentación y prospectos-- en HTML.
+De esta manera, sus compañeros en oficinas remotas puede recuperar, visualizar e imprimir documentos con cualquier navegador Web.
+Las impresoras en color de alta calidad generan copias de hojas de datos a petición, lo que reduce la cantidad de hojas no actualizadas condenadas a acabar en la papelera.
+Además, los documentos destinados a consumo público ya están en un formato adecuado para los servidores Web públicos.
+
+Nada de esto ha escapado a Microsoft.
+Como parte de su renacida estrategia Internet, Microsoft está añadiendo características Internet a todos sus productos importantes.
+
+Para finales del presente año, Microsoft promete que las aplicaciones Office permitirán guardar, abrir e imprimir documentos HTML. 
+(Word ya tiene una extensión llamada Internet Assistant que proporciona estas características.) 
+Los navegadores incorporados llevarán los recursos de información del Web a la sobremesa.
+Nuevos controles OLE para Visual Basic posibilitarán a los desarrolladores añadir conectividad Web en sus programas.
+
+Y VB Script proporcionará una alternativa a JavaScript para pequeñas aplicaciones.
+Internet puede que haya nacido y se haya nutrido de Unix, pero Microsoft quiere que florezca en Windows.
+
+Un empate 
+
+Como se puede ver, tiene poco sentido declarar un vencedor en el combate que hay en curso y en constante evolución entre NT y Unix.
+Sin embargo, sí que se pueden extraer algunas conclusiones:
+
+Windows NT está por fin ganando terreno en las instalaciones empresariales pero, debido a que el mercado informático global sigue expandiéndose a una velocidad meteórica, NT no ha suprimido a Unix.
+Por el contrario, puede que Unix prospere en el siglo que viene.
+
+Unix sigue siendo la mejor solución para grandes bases de datos y otras tareas a gran escala.
+Esto no cambiará hasta que Microsoft mejore drásticamente la escalabilidad de NT y SQL Server en máquinas SMP que tengan seis procesadores o más.
+
+Asimismo, NT no tiene servidor de tiempo (time server), lo que puede descartarlo para grandes sistemas de proceso de transacciones en línea (OLTP).
+
+NT está ganando más atención por parte de los usuarios. 
+Es nuevo, es lo último, es de Microsoft y lleva la etiqueta «Windows» en su nombre.
+Unix padece la discriminación de la tercera edad y la desunión que hay entre los fabricantes.
+La gente que está ejercitada en Windows está empezando a llegar a puestos de poder y cada vez más mirará en la dirección de Microsoft cuando busque soluciones.
+
+La lenta adopción de Internet por parte de Microsoft ha ido en favor de Unix.
+Pero al adjuntar software Internet con NT Server y hacer que sus principales aplicaciones estén preparadas para Internet, Microsoft puede establecer NT como la opción obvia para empresas que creen nuevas sedes Web e intranets.
+
+Microsoft tiene una sólida estrategia de herramientas con Visual Basic, VB for Applications, VB Script, Visual C++ y OLE.
+Sin embargo, a medida que los usuarios sepan más acerca de Internet y sean más favorables a la multiplataforma, esta estrategia puede volverse menos propietaria y basarse menos en Windows.
+Sun ha abierto un camino con Java que Microsoft no tiene más remedio que seguir.
+
+Al final, no hay una respuesta que sirva para todas las preguntas referentes a qué sistema operativo es mejor.
+Los expertos que quieren idear la mejor solución posible a un determinado problema de empresa han de tener los suficientes conocimientos y ser lo bastante abiertos de miras para adoptar uno u otro de estos sistemas operativos, o ambos.
+
+Windows NT es más rápido de instalar porque es más pequeño que la mayoría de las versiones Unix.
+El soporte estándar que tiene NT de archivos e impresión Macintosh es una bendición para las empresas con plataformas entremezcladas y, por lo general, uno no tendrá tantas complicaciones para encontrar controladores de dispositivos NT para hardware nuevo.
+
+Windows NT presenta excelentes características estándar de seguridad.
+Las implementaciones Unix comerciales ofrecen niveles variables de seguridad, pero ninguno de ellos puede rivalizar con la sencilla interfaz administrativa de NT.
+
+Un voto por Unix: rendimiento, fiabilidad y seguridad 
+
+Gene Diveglia adora a Sun.
+Como vicepresidente de servicios de información de Intelligence Network On-line (Clearwater, Florida), está convencido de que el hardware de Sun y Solaris 2.5 son las mejores soluciones posibles para su empresa, que experimenta un rápido crecimiento.
+
+Intelligence Network On-line es un proveedor de acceso a Internet orientado a la empresa.
+Asimismo proporciona una amplia gama de otros servicios Internet para empresas, como páginas Web y redes a medida para compañías que tienen operaciones remotas y precisan una WAN con acceso a Internet.
+
+En la actualidad Intelligence tiene aproximadamente media docena de clientes corporativos cuyos cientos de empleados utilizan con regularidad correo electrónico, grupos de noticias y servicios Web.
+Otro cliente es la administración de un condado compuesta por miles de empleados.
+Además, Intelligence ofrece servicios de acceso a Internet a varios miles de suscriptores particulares.
+
+Las sedes Web que Intelligence mantiene o alquila reciben en conjunto unos dos millones de visitas al mes.
+
+Con el fin de soportar este volumen de negocio, Intelligence tiene una tonelada de hardware Sun.
+
+Media docena de servidores de las clases 490 y 690 con dos CPU se hacen cargo de la mayor parte de servicios basados en transacciones, como correo electrónico, noticias, navegación Web, cuentas shell y autorizaciones.
+Cuatro pequeños servidores --SparcStation Classic y LX de Sun-- se hacen cargo del DNS (Domain Naming System), gestionan las bases de datos a escala de red y proporcionan servicios de contabilidad.
+
+Dos servidores Sun más se dedican primordialmente al desarrollo y a operaciones internas de la empresa.
+Asimismo, hay una docena de SparcStations para uso interno.
+
+Todo se enlaza en una red de tres segmentos.
+Uno es la red interna para estaciones de trabajo de sobremesa.
+Otro segmento es una espina dorsal ( backbone ) local que lleva la mayor parte de la actividad basada en transacciones.
+Finalmente, hay una espina dorsal externa para las WAN, las redes Frame Relay y las conexiones con otros proveedores de servicios.
+En estos momentos Intelligence está migrando su espina dorsal interna a ATM y pronto hará pruebas de migración de las redes WAN a ATM.
+
+¿Por qué razón Intelligence emplea sólo Sun?
+Diveglia afirma que Sun y Solaris ofrecen la mejor combinación de rendimiento, fiabilidad y seguridad.
+Mientras que algunos proveedores de servicios Internet son unos recién llegados a la industria que se dedican a abastecer a aficionados, Intelligence es un proveedor más asentado en el mercado que está especializado en clientes corporativos y de la Administración. 
+«Esto nos hace ser más conscientes de las cuestiones referentes a seguridad, rendimiento y fiabilidad», afirma.
+
+«Unix lleva muchos años aquí y es muy conocido», señala Diveglia.
+
+«En cambio, el mercado PC y las aplicaciones Windows han atravesado tales fases de hipercrecimiento que resulta difícil creer que tengan el mismo nivel de acabado y de entendimiento que existe en el mercado Unix.»
+
+Además --añade Divelgia--, los sistemas Unix son capaces de hacerse cargo de más tráfico que los servidores basados en PC.
+
+«La arquitectura PC no soporta el tipo de multitarea que nos gustaría ver en un entorno de grandes volúmenes de transacciones como es Internet», explica. 
+«En Internet, hay montones de actividades que tienen lugar simultáneamente: transferencias de noticias, servicios de correos, autentificación, procesos de autorización, procesos de contabilidad.
+NT no resuelve esto en un entorno de servidores.»
+
+Si bien Diveglia reconoce que NT es un sistema operativo que va a más, señala que Unix no se ha quedado de brazos cruzados.
+Unix en general, y Solaris en particular, siguen evolucionando y mejorando. 
+«Con el tiempo, cuando menos, se ha vuelto más atractivo.»
+
+NT y la mayor parte de Unix permiten añadir más CPU del mismo tipo o utilizar una CPU más rápida.
+NT ejecuta un código fuente idéntico en las distintas CPU.
+NT tiene una edición de estación de trabajo y una de servidor; algunos Unix ofrecen archivos y servicios de menor intensidad de recursos.
+Las aplicaciones DOS y Windows de 16 bits exigen una CPU Intel; algunos sistemas Unix emulan la CPU Intel por software.
+
+Un voto por NT: Rendimiento bueno e integración en la corriente general 
+
+Larry Blevins cree que Windows NT es bueno para la salud.
+O por lo menos es bueno para las 261.000 personas que trabajan en el Harris Methodist Health System (Forth Worth, Texas, EE.UU), «la organización de asistencia sanitaria del norte de Texas con un mayor crecimiento».
+Blevins y Harris Methodist han apostado mucho en NT Advanced Server, y hasta ahora la apuesta está saliendo a cuenta.
+
+«Toda la organización al completo opera con la plataforma Windows NT-AS cliente/servidor», dice Blevins.
+«Estamos obteniendo un gran rendimiento y este es el mejor testimonio que uno puede recoger.»
+
+Harris Methodist dirige seis hospitales, un programa de hospicios y una ambulancia de evacuación por vía aérea, y cuenta con 8.000 empleados y 3.600 facultativos.
+Los ingresos del año pasado alcanzaron los 800 millones de dólares.
+Sin embargo, aunque la mayor parte del software de atención sanitaria profesional opera en MS-DOS y Unix, hace casi tres años que Harris Methodist empezó a construir su sistema cliente/servidor con NT, después de una amplia evaluación en su propio centro de pruebas.
+
+Hoy día, Harris Methodist dispone de 200 servidores y casi todos ellos operan NT.
+La mayoría de estos servidores son sistemas Compaq Proliant 2000 y 4000 con procesadores 486 o Pentium.
+
+Están conectados a unos 4.000 equipos PC, en su mayoría sistemas Compaq e IBM basados en microprocesadores 486, con un remanente de máquinas más antiguas 386 y algunos equipos muy nuevos basados en Pentium.
+Algunos trabajadores móviles disponen de ThinkPad de IBM.
+Casi todos los PC operan Windows for Workgroups 3.11, si bien hay unos cuantos que operan NT.
+En la parte de administración que no está de cara al público, toda la red se enlaza a un par de mainframes serie 9000 de IBM.
+
+Los empleados de Harris Methodist utilizan el ordenador primordialmente para procesar peticiones, emitir cheques, mantener la base de datos de sus asociados, hacer un seguimiento de las finanzas e intercambiar correo electrónico.
+Utilizan software que se puede comprar en cualquier tienda --incluido Microsoft Office, al que Blevins califica de «estándar corporativo»-- y aplicaciones a medida escritas con SQL Server, Visual Basic.
+Microsoft Access, Borland C++ y Borland Delphi.
+
+Antes de pasarse a NT, la empresa era mucho más pequeña y sólo tenía 10 o 15 servidores que operaban OS/2 y AIX.
+NT surgió como la opción ideal en sistemas operativos de servidor --según Blevins-- porque parecía menos complejo y más moderno.
+
+«Unix se acerca más al mainframe en lo que respecta a complejidad», dice.
+
+«Tiene sus raíces en la era del mainframe , mientras que NT está diseñado de raíz en la era del PC de sobremesa.»
+
+Blevins afirma que tiene más confianza en el futuro de NT.
+
+Señala que "AT&T" vendió su código fuente Unix y Unix Systems Laboratories (USL) a Novell, que a su vez lo vendió a SCO.
+Y, cada vez que cambiaba de manos, su precio bajaba.
+Asimismo señala las proyecciones de Dataquest de que la cuota de mercado Unix descenderá a menos de un 2% a finales del presente siglo.
+
+«No es que esté pronosticando la desaparición de Unix ni nada que se le parezca», dice. 
+«Pero creo que Unix se está convirtiendo más en un sistema operativo de nicho que en un sistema operativo de uso general.
+Esto que digo muy posiblemente pondrá los pelos de punta a más de uno, pero pienso que es verdad.»
+
+Unix versus NT: una confrontación técnica 
+
+Unix y Windows NT son sorprendentemente similares en diseño y capacidades, pero sus diferencias son significativas.
+Ambos soportan aplicaciones de texto y gráficas.
+Ambos sistemas operativos ofrecen a las aplicaciones un espacio de dirección virtual protegido en el que operar.
+Ambos soportan múltiples CPU y procesos ligeros.
+Ambos operan en una variedad de plataformas, si bien Unix opera en muchas más.
+Ambos soportan avanzados sistemas de archivos con nombres largos.
+Ambos ofrecen potentes servicios de compartición de archivos y otros servicios de red.
+
+Windows NT sí que tiene las ventajas de la hegemonía de Microsoft, primordialmente un estricto control central del sistema operativo y de sus API.
+Un desarrollador puede escribir una aplicación Windows NT una vez y llevarla a una CPU diferente con sólo recompilarla.
+Esto también se da en Unix pero sólo con las aplicaciones más sencillas.
+NT también permite a los desarrolladores crear software de 32 bits para Windows 3.1 y Windows 95.
+La creciente base instalada de NT facilita encontrar controladores de dispositivos y, cada vez más, el tan esencial y bien escrito software de dominio público que antes había dado a los usuarios Unix ocasión para recrearse.
+
+Unix sigue teniendo ventaja en recursos distribuidos, con la capacidad de compartir aplicaciones, archivos, impresoras, módems y procedimientos remotos por conexiones de redes LAN y WAN.
+El correo electrónico Unix es el estándar de Internet, y la conectividad TCP/IP es más madura en Unix.
+Sin embargo, el método de compartición de archivos nativos que tiene NT resulta por lo general más rápido y más efectivo que NFS.
+
+Asimismo sirve archivos e impresoras a clientes Windows, Windows 95 y Macintosh sin exigir software opcional.
+
+En las trincheras 
+
+En la actualidad Unix tiene la llave del mercado en lo tocante a servir aplicaciones.
+Si uno puede obtener acceso a un host Unix mediante cualquier conexión de red LAN o WAN, puede enlazarse a cualquiera de sus servicios.
+Windows NT --que inherentemente no es un sistema multiusuario-- sigue careciendo de la capacidad nativa de compartir aplicaciones gráficas a lo largo de conexiones de red, una carencia que también dificulta efectuar administración remota.
+Esta es una de las más graves carencias de NT y, si bien estamos empezando a ver software de terceras partes que ayuda a resolver esto, precisa de una implementación sólida en el sistema operativo.
+
+En un nivel inferior, ambos sistemas operativos sí que soportan llamadas a procedimientos remotos (RPC) y los estándares de compartición de objetos están evolucionando rápidamente tanto en uno como en el otro.
+No obstante, NT tendrá una ventaja: Microsoft crea los estándares, de manera que los desarrolladores no tendrán ninguna confusión cuando miren qué método de compartición de objetos implementar.
+Sin embargo, hasta que Microsoft no pula sus servicios de objetos y sus servicios de aplicaciones de red, Unix seguirá siendo globalmente el mejor servidor de aplicaciones.
+
+En el reino de la compartición de archivos y de impresoras, NetWare sigue siendo el gobernante supremo, pero Windows NT está subiendo rápidamente.
+Unix apenas es perceptible en el radar y está perdiendo intensidad con toda rapidez.
+El soporte de redes nativo de NT cubre todas las bases: PC/Windows, Macintosh y TCP/IP (pero la compartición de archivos NFS exige software de terceras partes).
+Ninguna implementación Unix puede rivalizar con la facilidad de configuración y de gestión de NT.
+Es cierto que Unix tiene utilidades más elegantes pero la compartición Unix de archivos y de impresoras sigue en lo más oscuro de los tiempos en comparación con Windows NT.
+NFS es el estándar Unix para compartición de archivos y, recientemente, ha visto mejoras.
+
+Pero, incluso con tales mejoras, los usuarios y los administradores encuentran los servicios de archivos de NT más rápidos y menos problemáticos.
+Y no hace falta preguntárselo a un administrador sometido a las pesadillas de configuración y de gestión inherentes a la compartición Unix de impresoras.
+Los PC con Windows exigen un software especial para funcionar como clientes NFS, y sólo unas pocas implementaciones Windows NFS ofrecen los beneficios de redes nativas entre iguales de Windows/Windows NT, que no exigen ningún esfuerzo.
+NT es con toda claridad una mejor elección en lo referente a compartición de archivos e impresoras.
+
+Unix es una opción bien vista para servidores de bases de datos.
+
+Pero NT ha ganado reputación de ser más fácil de implementar, de administrar y de funcionar a prueba de balas.
+Unix sigue teniendo ventaja en el número de aplicaciones de servidor de bases de datos disponibles, pero está perdiendo terreno rápidamente en favor de NT.
+En el caso específico de Solaris para SPARC, cada uno de los principales fabricantes de bases de datos ofrece un servidor destinado a esta plataforma.
+
+Pero estos fabricantes están portando a NT sin dilación.
+Las ventajas de rendimiento de los sistemas Unix de gama alta ya no existen.
+Sistemas NT equipados con CPU Alpha o Mips, o incluso con múltiples Pentium, están superando sin problemas el rendimiento de sistemas SPARC de la misma gama de precios.
+NT diligentemente encuentra y soporta controladores de discos RAID, fuentes de alimentación redundantes y unidades de disco intercambiables en caliente.
+Unix sigue teniendo la historia de su parte: los administradores de sistemas de información corporativos están acostumbrados a poner a trabajar Unix como servidor de bases de datos.
+NT necesita más tiempo para demostrar que vale para el papel, pero cuenta con el poder y el respaldo de los fabricantes para usurpar el liderato de Unix en servicios de bases de datos.
+
+Ventajas de red 
+
+Si tiene que poner servicios en Internet, Unix sigue siendo el mejor camino a seguir.
+Podrá obtener --gratis-- el software que con Windows NT tendría que pagar.
+Podrá implementar cortafuegos, servidores proxy , mejoras en seguridad y otras cosas necesarias mediante software extraído de diversas sedes de archivos de Internet.
+El sistema de múltiples archivos raíz de NT (C:, D:, y así sucesivamente) hace de la adaptación de servicios a las cambiantes configuraciones de almacenamiento un reto innecesario.
+
+En lo tocante a costes, se pueden ofrecer servicios Internet impresionantemente acabados mediante sistemas operativos Linux o FreeBSD que se pueden adquirir por menos de 5.000 pesetas.
+
+Con todo, Windows NT está ganando terreno rápidamente y las utilidades y servicios gratuitos de los que los usuarios Unix disfrutan también se encontrarán en NT.
+Microsoft ha anunciado públicamente su intención de desbancar a Netscape tanto en el mercado del servidor como del navegador.
+Microsoft ya entrega su Internet Information Server con Windows NT Server, a lo que añade su programa navegador gratuito Internet Explorer.
+A pesar de las quejas de «poco deportivo», Microsoft está preparado para ir a por el Web.
+
+Event Viewer, una de las herramientas integradas en NT Server 3.51, permite a los administradores observar eventos y el comportamiento del sistema.
+
+Las fuerzas del mercado 
+
+Por lo menos parte del crecimiento de NT ha sido a expensas de Unix. 
+Entrevistamos a algunos usuarios técnicamente experimentados que se habían pasado de Unix a NT, o que decían que podrían cambiarse si ahora tuvieran que hacer la reingeniería de sus instalaciones.
+Firmas de investigación de mercados como Dataquest predicen que NT dominará la industria en el cambio de milenio.
+No obstante, vale la pena tener presente que los analistas y periodistas de la industria efectuaron predicciones similares cuando Microsoft introdujo NT en 1992, y el ritmo de adopción de este sistema ha quedado muy por debajo de las expectativas.
+
+No resultan sorprendentes los lentos inicios de NT.
+A pesar de la reputación de la industria informática por su rápida evolución, a menudo cambios fundamentales se producen a una velocidad glacial.
+
+Han pasado once años desde que Intel introdujo el primer procesador x86 de 32 bits (el 386), y sólo ahora la gran mayoría de usuarios x86 está empezando a entrar en el universo de 32 bits de Windows 95 y Windows NT.
+
+Estas fuerzas de inercia son todavía más poderosas en las sedes corporativas, donde Unix y NT están luchando codo con codo por obtener la lealtad de los administradores de sistemas de información de gestión.
+Uno no se pone a migrar una red de empresa o incluso de departamento a un nuevo sistema operativo de la noche a la mañana. 
+Ésta es, probablemente, la razón por la que NT parece estar teniendo mejor papel en las nuevas instalaciones donde no hay que hacerse cargo de grandes cuestiones de herencia.
+
+Mientras tanto, Unix se mantiene fuerte en empresas de más volumen que ya habían invertido mucho dinero en tecnologías de la información.
+
+«Si bien NT ha hecho que el crecimiento de Unix fuera más lento --y en buena parte lo ha detenido en el nivel de máquinas de entre 1 y 4 procesadores--, Unix sigue manteniéndose», dice Pauline Mist, vicepresidenta de la unidad de negocios de servidores Alpha de Digital. 
+«Seguimos viendo crecer nuestras cifras Unix trimestre tras trimestre.
+Nuestros sistemas de gama media con Oracle dentro han continuado batiendo récords de ventas cada trimestre.»
+
+Digital, basándose en su propia investigación y en datos de analistas, pronostica que el negocio de los servidores será en el año 2000, en lo que a ingresos respecta, un 40 por ciento Unix, un 40 por ciento NT y un 20 por ciento a repartir entre sistemas heredados (entre ellos MSV, OS/400 y OpenVMS). 
+«Pero NT será con mucho el que dominará en lo referente a unidades vendidas gracias a los sistemas de sobremesa», concluye Mist.
+
+Las fuentes de la industria predijeron en 1992 que hacia 1996 NT conquistaría el 37 por ciento del mercado de sistemas operativos, y que todas las versiones Unix reunidas tan sólo tendrían una cuota del 7 por ciento.
+
+Sin embargo, hacia 1995, NT había obtenido tan sólo un 1 por ciento en este mercado, una cuota todavía más pequeña que el 2 por ciento que tiene Unix.
+
+Todo lo dicho no impide que haya predicciones que indiquen que hacia 1999 Windows NT tendrá un 41 por ciento del mercado, mientras que Unix tendrá un 2 por ciento.
+
+Tanto Unix como Windows NT se benefician de diseños maduros y la mayoría los juzga como estables.
+Los sistemas Unix tienen que mejorar para alcanzar el excelente estándar de tolerancia a fallos de disco que tiene NT.

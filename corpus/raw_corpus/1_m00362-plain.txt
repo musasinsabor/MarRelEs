@@ -1,0 +1,751 @@
+
+Productos procedentes de los microorganismos 
+
+Introducción
+
+La diversidad bioquímica de los microorganismos, ilustrada por la facultad que tienen de crecer a partir de una gran diversidad de sustratos y producir una amplia variedad de sustancias, ha conllevado su explotación industrial por la industria fermentativa.
+Los microbiólogos tienden a interpretar el término «fermentación» como un proceso destinado a la producción de un producto mediante el cultivo masivo de microorganismos, mientras que los bioquímicos utilizan dicha palabra con un sentido más estricto.
+El verdadero significado bioquímico de la palabra es «un proceso que genera energía en el que los compuestos orgánicos actúan como dadores de electrones y aceptores terminales de electrones» (véase Sección 1.,1) Sin embargo, en esta Sección el término «fermentación» se usará en su más amplio sentido microbiológico.
+Los avances en biología molecular y manipulación genética de los últimos años han proporcionado una gran oportunidad a la ya bien establecida industria fermentativa para iniciar nuevos procesos y mejorar los ya existentes.
+Estos avances han servido para decir a todas voces que nacía una nueva era pero debe tenerse presente que la explotación de esos importantes avances depende de técnicas de cultivo a gran escala que la industria ha desarrollado durante muchos años.
+Los objetivos de esta sección son: primero, introducir al lector en los diversos productos derivados de la fermentación y, en segundo lugar, concentrarse en los principios biológicos en que descansan dichos procesos.
+
+Producción de biomasa microbiana 
+
+El producto comercial de origen microbiano más evidente quizás sea la biomasa microbiana (las mismas células de microorganismos).
+Las células de levadura, utilizadas en la industria de panadería, se han producido comercialmente desde principio de siglo.
+
+Igualmente, se produjeron como alimento humano en Alemania durante la primera guerra mundial.
+Estos procesos iniciales de producción de biomasa eran aeróbicos y, como se discute más adelante, el proceso se controlaba eficazmente. 
+Aunque ha continuado la producción de levadura de panadería por fermentación, no ocurrió así con la biomasa que se producía durante la primera guerra mundial; esta producción tanto como alimento para el hombre como para pienso para animales quedó relativamente abandonada de tal forma que tales procesos no fueron de nuevo motivo de profundas investigaciones hasta la década de los años 60.
+En ese tiempo se empezó a explotar el uso de una amplia variedad de microorganismos capaces de crecer sobre sustratos de diversos átomos de carbonos (entre ellos hidrocarburos) para la producción industrial de la biomasa denominada «proteína unicelular» o SCP.
+Muy pocos de los procesos investigados en ese tiempo fueron adelante porque tropezaron con dificultades económicas y políticas.
+La British Petroleurn fue probablemente la empresa líder en este campo; desarrolló una tecnología de tal magnitud que llevó a la empresa a diseñar una planta en Cerdeña para la producción de biomasa de levadura a partir de n-alcanos.
+Sin embargo, la BP fue incapaz de convencer al gobierno italiano de la seguridad toxicológica de su producto y la fábrica nunca se puso en marcha.
+Muchos otros procesos cayeron presa de las guerras de Oriente Medio y de la subsiguiente escalada de los precios de los productos petrolíferos.
+Sin embargo, La Imperial Chemical Industries (ICI) persistió en sus planes de producción de biomasa bacteriana ( Methylophilus methylotrophus ) a partir de metanol y desarrolló el proceso Pruteen para la producción de proteína de alto grado destinada a la fabricación de pienso para animales.
+El proceso utiliza un cultivo en continuo (véase Capítulo 7) a una gran escala (1.500 m3 ).
+Este proceso es un buen ejemplo de la aplicación de la ingeniería para el desarrollo de procesos microbianos. 
+La economía de la producción de SCP para la alimentación animal es todavía marginal pero la tecnología desarrollada por la ICI durante el proyecto Putreen ha conllevado que la empresa sea un líder mundial en biotecnología.
+La ICI está explotando su experiencia en cultivos continuos a gran escala al colaborar con la Rank Hovis MacDougall en un proceso para la producción de biomasa fúngica a partir de carbohidratos destinada a la alimentación humana.
+La economía de este proceso parece más atractiva.
+
+Producción de productos microbianos 
+
+La explotación de las facultades biosintéticas de los microorganismos ha dado como resultado el establecimiento de un gran número de procesos comerciales.
+El crecimiento de un microorganismo conduce a la generación de numerosos metabolitos pero el que se sintetiza mayoritariamente depende de la naturaleza del microorganismo, de las condiciones de cultivo utilizadas y de la velocidad de crecimiento del cultivo en producción. 
+Si un microorganismo se inocula en un medio nutritivo que satisface su crecimiento, el cultivo pasará por una serie de fases; el sistema se denomina cultivo discontinuo (véase Capítulo 7).
+
+Inicialmente, no se produce crecimiento alguno, etapa a la que se denomina fase de latencia y puede considerarse como un período de adaptación.
+A continuación sigue un intervalo durante el cual la velocidad de crecimiento de las células aumenta gradualmente hasta alcanzar una velocidad máxima constante, etapa que se conoce como fase logarítmica o exponencial .
+A medida que se agotan los nutrientes, o se acumulan metabolitos tóxicos, la velocidad de crecimiento de las células se desvía del valor máximo y, eventualmente, cesa el crecimiento; se dice que el cultivo ha pasado a la fase estacionaria .
+Después de un tiempo el número de células viables empieza a declinar y el cultivo entra en la fase de muerte .
+
+El término descriptivo de cultivo discontinuo puede acarrear confusiones cuando se considera la actividad metabólica del mismo durante las distintas fases, dado que el metabolismo de las células durante la fase estacionaria puede ser muy diferente del de la fase logarítmica; no es, de ningún modo, estacionario.
+Bullock et al. (1965) propusieron una terminología descriptiva que reflejara el comportamiento de las células microbianas desde un punto de vista metabólico en vez de en términos cinéticos.
+Se utilizó el término trofofase para describir la fase logarítmica de un cultivo en las que los únicos compuestos resultantes del metabolismo son esenciales bien para el crecimiento (aminoácidos, nucleótidos, proteínas, ácidos nucleicos, lípidos, carbohidratos, etc.), o bien son subproductos del catabolismo energético (como etanol, acetona y butanol). 
+Los metabolitos producidos durante la trofofase se denominan metabolitos primarios.
+El término idiofase se utilizó para describir la fase del cultivo en la que se producían otros compuestos diferentes a los metabolitos primarios; se denominaron metabolitos secundarios. 
+Los metabolitos secundarios se han definido como compuestos que se sintetizan cuando las células crecen lentamente o no crecen; no juegan un papel definido en el crecimiento celular y su distribución es, taxonómicamente, limitada. 
+La idiofase, por tanto, corresponde aproximadamente a la fase estacionaria del cultivo discontinuo.
+
+Las interrelaciones entre los metabolismos primarios y secundarios se ilustran en la Figura 6.1; puede observarse que los metabolitos secundarios tienden a sintetizarse a partir de los intermediarios clave y de los productos finales del metabolismo primario.
+Aunque las primeras rutas metabólicas mostradas en la Figura 6.1 son comunes a la gran mayoría de los microorganismos, cada metabolito secundario puede ser sintetizado por sólo un muy pequeño número de grupos microbianos.
+Por otra parte, no todos los grupos microbianos tienen un metabolismo secundario; es una característica normal de las bacterias y mohos filamentosos y de las bacterias esporuladas pero no es una propiedad, por ejemplo, de las enterobacterias. 
+Por tanto, aunque la distribución taxonómica del metabolismo secundario es mucho más limitada que la del primario, la variedad de productos producidos es enorme. 
+A primera vista, no parece lógico que los microorganismos sinteticen compuestos que no tengan una función metabólica y que sean verdaderamente subproductos del catabolismo.
+Sin embargo, muchos metabolitos secundarios exhiben propiedades antimicrobianas y, por tanto, les pueden servir para entrar en competencia en los hábitats naturales (Demain, 1980). 
+Se ha demostrado que otros, aunque se descubrieron en cultivos en idiofase, se producen durante la trofofase y se ha dicho que pueden desempeñar un papel regulador.
+Por tanto, algunos «metabolitos secundarios» no cumplen todos los criterios que se agrupan en la definición ofrecida anteriormente, que debiera considerarse mas bien como una descripción general del fenómeno que como una verdadera definición.
+Realmente, Campbell (1984) opina que el único aspecto definitivo de esta definición original es la distribución taxonómicamente limitada de los metabolitos secundarios.
+Aunque las interrelaciones entre los metabolismos primario y secundario y el papel fisiológico del último son temas que están sometidos a un considerable debate, la relevancia de estos productos para la industria es el significado comercial de los mismos.
+En la Tabla 6.1 se muestran algunos ejemplos del significado comercial de dichos productos.
+
+Figura 6-1
+
+Interrelaciones entre los metabolismos primario y secundario
+
+El control del inicio del metabolismo secundario se ha investigado extensamente y, obviamente, es un área de un interés considerable para la industria fermentativa. 
+Debido a estas investigaciones existe una información muy considerable acerca de los cambios que se producen en el medio al inicio del metabolismo secundario.
+No obstante, se conoce poco sobre el control del proceso a nivel de DNA.
+Se ha demostrado que los precursores metabólicos primarios de los metabolitos secundarios inducen su formación; por ejemplo, el triptófano en la biosíntesis de alcaloides (Robbers y Floss, 1970) y la metionina en la síntesis de cefalosporina (Komatsu, Mizumo y Kodaira, 1975).
+Por otra parte, se ha demostrado también que los componentes del medio reprime el metabolismo secundario; las primeras observaciones al respecto fueron las de Soltero y Johnson (1953) quienes mostraron el efecto represor de la glucosa en la formación de bencilpenicilina. 
+Se ha observado en varias ocasiones que las fuentes de carbono, nitrógeno y fosfato, que proporcionan un rápido crecimiento, inhiben la formación de metabolitos secundarios. 
+Por tanto, es esencial evitar la presencia de nutrientes represores en los medios fermentativos o que estén presentes a niveles subrepresores.
+Estos aspectos se consideran más detalladamente en el Capitulo 8.
+
+Como se ha mencionado en la introducción, el advenimiento de la tecnología del DNA recombinante ha ampliado el número de productos potenciales de origen microbiano.
+Se puede dotar a las células microbianas de la facultad de sintetizar productos normalmente asociados a las células superiores. 
+Tales productos pueden constituir la base de nuevos procesos fermentativos; por ejemplo, la síntesis de interferón, insulina y renina.
+Las técnicas in vitro de la tecnología de DNA recombinante se considera en los Capítulos 10, 11 y 12.
+
+Las rutas biosínteticas y catabólicas que se dan durante la biosíntesis primaria y secundaria son todas reacciones catalizadas por enzimas.
+Como se ilustra en la Tabla 6.2 muchos enzimas microbianos tienen aplicaciones comerciales y son, por tanto, productos, de gran valor comercial, resultantes de la fermentación.
+La mayoría de las cepas silvestres de microorganismos regulan la síntesis de los productos metabólicos de tal forma que sólo los sintetizan en las cantidades requeridas para cubrir las necesidades del crecimiento celular.
+Sin embargo, en los procesos comerciales es esencial producir estos compuestos en concentraciones muy elevadas y, por tanto, es necesario modificar las células productoras y controlar los factores ambientales hasta tal punto que sus sistemas de control normales sean superados.
+El control de los factores ambientales y la modificación genética de los microorganismos se tratan en los Capítulos 8 y 9.
+
+Tabla 6-1
+
+Algunos ejemplos de metabolitos microbianos de significado comercial
+
+- Metabolitos primarios
+- Significado comercial
+- Etanol
+- «Ingrediente activo» en bebidas alcohólicas 
+- Ácido cítrico
+- Diversos usos en la industria alimentaria
+- Acetona y butanol
+- Disolventes
+- Ácido glutámico
+- Potenciador del sabor
+- Lisina
+- Aditivo alimentario
+- Polisacáridos
+- Aplicaciones en la industria alimentaria; potenciador para la recuperación de aceite
+- Fe +++
+- Lixiviador mineral
+- Metabolitos secundarios
+- Penicilina
+- Antibiótico
+- Tetraciclinas
+- Antibióticos
+- Cefalosporina
+- Antibiótico
+- Estreptomicina
+- Antibiótico
+- Griseofulvina
+- Antibiótico antifúngico
+- Pepstatina
+- Tratamiento de úlceras
+- Ciclosporina A
+- Inmunosupresor
+- Crestina
+- Tratamiento del cáncer
+- Bestatina
+- Tratamiento del cáncer
+
+Procesos de transformación microbiana
+
+Al igual que se utilizan microorganismos para la producción de biomasa y metabolitos, las células microbianas pueden emplearse para catalizar la conversión de un producto en otro de estructura similar pero de mayor valor comercial. 
+Aunque la producción de vinagre es el proceso de transformación más antiguo y mejor conocido (conversión de etanol en acético), la mayoría de estos procesos conllevan la producción de compuestos de gran valor.
+Las reacciones que pueden estar implicadas en dichos procesos son oxidación, deshidrogenación, hidroxilación, deshidratación, condensación, descarboxilación, aminación, desaminación e isomerización.
+La ventaja de los procesos microbianos sobre el uso de reactivos químicos es la especificidad y la posibilidad de operar a temperaturas y presiones relativamente bajas.
+La desventaja de estos procesos de transformación es que se necesita producir una gran cantidad de biomasa para catalizar, quizás, una sola reacción.
+Por ello, algunos procesos se le ha proporcionado un perfil más dinámico mediante la inmovilización, en soportes inertes, de las células mismas o de los enzimas aislados que específicamente catalizan una reacción. 
+De este modo, pueden emplearse como catalizadores reutilizables. 
+Estos aspectos se tratan más detalladamente en el Capítulo 14.
+
+Tabla 6-2
+
+Algunos ejemplo de aplicaciones comerciales de enzimas
+
+- Enzima
+- Origen microbiano
+- Industria
+- Aplicación
+- Amilasa
+- Fúngico
+- Panadería
+- Aceleración de la fermentación; reducción de la viscosidad de la masa
+- Amilasa
+- Fúngico/bacteriano
+- Cervecería
+- Liberación de azúcares solubles de la malta 
+- Proteasa
+- Fúngico/bacteriano
+- Cervecería Protección contra la «turbidez» 
+- Amilasa
+- Fúngico/bacteriano
+- Alimentaria
+- Fabricación de jarabes
+- Pectinasa
+- Fúngico
+- Alimentaria
+- Preparación de zumos de frutas y concentrados de café
+- Proteasa
+- Bacteriano
+- Lavandería
+- Enzima que se incorpora al detergente en polvo
+
+Estructura de un proceso fermentativo 
+
+La parte dentral de un proceso fermentativo es el crecimiento del microorganismo industrial en unas condiciones ambientales que estimula la síntesis del producto comercial que se pretende obtener.
+Se realiza en un fermentador que consta esencialmente de un gran recipiente (con una capacidad entre 1.000 dm3 y 1,5 millones de dm3 ) en el que se mantiene el microorganismo a la temperatura, pH, concentración de oxigeno disuelto y concentración de sustrato deseados.
+Sin embargo, el cultivo del microorganismo en el fermentador es sólo una de las numerosas fases del proceso (véase Fig., 6.,2). 
+El medio en el que crece el microorganismo ha de formularse de acuerdo con las materias primas y, posteriormente, esterilizarse. 
+El contenido del fermentador se esteriliza y se inocula con un cultivo viable, metabólicamente activo.
+Después del crecimiento se separan las células de la porción liquida y se recoge la fracción que interese (bien las células o el sobrenadante libre de células).
+Se debe supervisar la evolución del programa impuesto para el desarrollo del proceso.
+
+Para que pueda realizarse la fermentación es necesario, en primer lugar, obtener un microorganismo adecuado para el proceso que se pretenda llevar a cabo, lo que se efectúa normalmente seleccionando cepas naturales; la productividad del mismo debe aumentarse hasta obtener niveles económicos, lo que se realiza mediante mejoras por mutación, recombinación o diseño del proceso.
+Por tanto, el éxito de los procesos fermentativos depende de la destreza de microbiólogos, bioquímicos, genetistas, ingenieros químicos, químicos e ingenieros de control de procesos.
+
+Aunque este texto se concentra sólo en los aspectos biológicos no hay que olvidar la naturaleza interdisciplinar del tema.
+
+Figura 6-2
+
+Fases de un proceso fermentativo 
+
+Cultivo de microorganismos
+
+Cultivo discontinuo (batch cultura) 
+
+Un microorganismo sólo crecerá en un medio de cultivo si contiene todos los nutrientes necesarios en una forma disponible y si son adecuados el resto de los factores ambientales.
+El método de cultivo más simple es el cultivo discontinuo en el que el microorganismo crece a partir de una limitada cantidad de medio hasta que se agota un nutriente esencial o se acumulan subproductos tóxicos hasta niveles que inhiben el crecimiento.
+En un sistema discontinuo el cultivo pasará por una serie de fases, según se ilustra en la Figura 7,1.
+
+El crecimiento no comienza inmediatamente después de la inoculación del medio de cultivo; el período previo al crecimiento activo se denomina fase de latencia que puede considerarse como un periodo de adaptación.
+Es evidente que en los procesos comerciales es conveniente reducir la fase de latencia tanto como sea posible no sólo para evitar la pérdida de tiempo sino también porque se consumen nutrientes para mantener el cultivo viable en dicho periodo previo al crecimiento.
+El tiempo de la fase de latencia puede reducirse usando un inóculo relativamente grande (3-10%) de un cultivo en fase exponencial que haya sido preparado en el mismo medio (o similar) que el utilizado para la fermentación.
+
+Preparación del inóculo 
+
+Se debe disponer de una cantidad de cultivo suficiente para inocular el medio del fermentador; además debe ser metabólicamente activo, estar libre de contaminantes y ser capaz de producir el producto que se pretenda obtener en el cultivo subsiguiente.
+Sin embargo, si, por ejemplo, el fermentador produjera 100.000 dm3 , el volumen del inóculo tendría que estar comprendido entre 3.000 y 10.000 dm3 . 
+Este volumen tiene que prepararse a partir de un cultivo inicial de unos pocos cm3 , lo que conlleva un gran número de fermentaciones sucesivas a una escala cada vez mayor.
+Existen diversas opiniones conflictivas sobre la conveniencia de utilizar el volumen «óptimo» de inóculo o preparar un inóculo puro y libre de cepas degeneradas (es decir, células que han perdido la capacidad de producir el compuesto deseado) porque mientras mayor sea el número de pases entre el cultivo madre y la fermentación final mayor será el riesgo de contaminación y de degeneración de cepas.
+Por otra parte, también se requiere un considerable desembolso para los fermentadores preparadores del inóculo.
+Si la planta tiene un gran número de fermentadores para la producción, una serie de recipientes para los subcultivos puede ser adecuada para suministrar todo el inóculo que se necesita, con lo que la inversión seria razonable.
+Sin embargo, si la planta de producción consiste sólo de un gran fermentador en continuo, entonces es muy gravoso construir un fermentador para la preparación de inóculo de un décimo de capacidad que el industrial, ya que se utilizaría con muy poca frecuencia.
+Por lo tanto, es necesario llegar a un compromiso entre el volumen del inóculo, las probabilidades de contaminación del mismo y las de degeneración de cepas y la inversión necesaria.
+
+Figura 7-1
+
+Representación esquemática del crecimiento de un microorganismo en un cultivo discontinuo 
+
+Muchos microorganismos utilizados en las fermentaciones industriales son filamentosos y formadores de esporas asexuales. 
+Entre estos microorganismos cabe citar Penicillium chrysogenum (utilizado para la producción comercial de penicilina), Aspergillus niger (para la producción comercial de ácidos orgánicos) y algunos actinomicetos (usados en la producción de diversos antibióticos y otras sustancias).
+
+La facultad de formar esporas asexuales es de gran importancia para la preparación del inóculo dado que una relativamente pequeña cantidad de biomasa puede utilizarse para producir una gran concentración de células.
+Stanbury y Whitaker (1983) han discutido detalladamente el uso de un inóculo de esporas y sólo se van a citar aquí los aspectos más importantes.
+El micelio esporula profusamente en un medio de agar sólido o en la superficie de granos de cereales; ambos métodos se utilizan para la preparación de inóculos de esporas con fines industriales (Vezina y Singh, 1975).
+Butterworth(1984) describió el uso de un frasco de Roux de aproximadamente 200 cm2 de superficie de agar para la esporulación de Streptomyces clavuligerus (utilizado para la producción comercial de ácido clavulánico, un inhibidor de la B-lactamasa).
+Las esporas formadas en ese matraz pueden utilizarse para la preparación de 75 dm3 de subcultivo y éste emplearse para la inoculación de 1500 dm3 de medio en el fermentador industrial.
+Podojil et al. (1984) cita el uso de matraces con mijo para la formación de esporas de Streptomyces aureofaciens , destinado a la producción comercial de clortetraciclina.
+Muchos mohos esporulan en cultivos sumergidos (es decir, en un fermentador con agitación) si se utiliza el medio de cultivo óptimo (Vezina, Singh y Sehgal, 1965); por ejemplo las esporas de Penicillium patulum se producen en cultivos sumergidos en los programas de preparación de ionóculo para la producción comercial de griseofulvina (Haber y Tietz,1984).
+
+La naturaleza filamentosa de muchos microorganismos comercialmente importantes presenta considerables problemas al tecnólogo de fermentaciones.
+Un microorganismo filamentoso puede dar lugar a diversas formas de crecimiento en cultivos líquidos sumergidos y sólo algunas de ellas pueden ser deseables para el proceso comercial.
+Estas formas de crecimiento van desde largos filamentos homogéneamente distribuidos por el medio a aglomeraciones compactas de micelio suspendidas en el caldo.
+Las formas filamentosas originan un caldo extremadamente viscoso que puede ser muy difícil de oxigenar adecuadamente mientras las formas aglomeradas dan lugar a un caldo menos viscoso pero también menos homogéneo En los aglomerados, el micelio localizado en el centro de esas formaciones puede tener un escaso aporte de nutrientes y oxígeno debido a problemas de difusión de los mismos.
+Además, existen datos que indican que la morfología del microorganismo influye en la producción del cultivo; si esto se debe a los fenómenos ya mencionados o a alguna forma de control metabólico es una cuestión que aún no esta aclarada (Whitaker y Long, 1973; Calam y Smith, 1981).
+En definitiva, algunas fermentaciones se realizan con el microorganismo en su forma filamentosa mientras otras con crecimiento en forma aglomerada.
+Por ejemplo, se ha informado que el crecimiento filamentoso es óptimo para la producción de penicilina por P. Chrysogenan mientras que en aglomerado lo es para la producción de ácido cítrico por A. Niger(Smith y Calam, 1980; Al Obaidi y Berry, 1980).
+El crecimiento filamentoso es absolutamente necesario en el proceso ICI-RHM de producción de micoproteína para el consumo humano a partir de Fusarium gramineorium .
+Se requiere una morfología altamente filamentosa para que el producto presente una textura que recuerde la consistencia de las carnes blancas y rojas que se aprecia al masticar (Marsh y Pinkney, 1985).
+En este proceso hay que obtener hitas de una longitud media de 400 mm. 
+
+La relevancia de esta consideración acerca de la morfología del micelio para preparar el inóculo radica en la influencia que la cantidad de esporas utilizadas como inóculo para la fermentación puede tener en la morfología final.
+
+Una elevada concentración de esporas tiende a rendir formas filamentosas mientras que si la concentración de esporas es baja tiende a proporcionar formas aglomeradas (Whitaker y Long, 1973).
+La naturaleza del medio utilizado en el programa de preparación de inóculo influye también en la morfología.
+Aunque la gran mayoría de la información disponible en la bibliografía está relacionada con la morfología de los mohos en cultivos sumergidos, el tema es igualmente importante en las fermentaciones de actinomicetos.
+
+La Figura 7,2 muestra algunos ejemplos de programas para la preparación de inóculos; puede deducirse que la naturaleza del programa varia considerablemente dependiendo del proceso.
+Debe recordarse que el éxito del sistema de preparación de un inóculo debe juzgarse de acuerdo con la productividad del cultivo desarrollado en la fermentación subsiguiente.
+De la exposición anterior hay que deducir que es extremadamente indeseable utilizar células procedentes de la fermentación final para inocular la próxima producción; se debe preparar un inóculo nuevo a partir del cultivo madre original para cada lote que se fabrique.
+No obstante, existen dos excepciones a esta regla general; son en la producción de cerveza y vinagre. 
+En la producción de vinagre por fermentación en un sistema discontinuo, las células de bacterias acéticas procedentes de lote producido se utilizan como inóculo para la producción del lote siguiente, lo que se realiza retirando aproximadamente el 60 % del cultivo.
+El microorganismo es extremadamente sensible a la limitación de oxigeno y es esencial obtener un crecimiento rápido.
+En el caso del vinagre los riesgos de contaminación y degeneración de cepas son menores debido al hábitat tan selectivo del medio.
+En las factorías tradicionales de producción de cerveza tipo «ale» ha sido una práctica común inocular el medio con levaduras obtenidas de una fermentación anterior; este procedimiento puede que continúe así durante muchos años.
+Sin embargo, Hansen, ya en 1896, desarrolló un sistema para la producción de un inóculo puro para la fabricación de cerveza tipo «lagar».
+En las más modernas fábricas de cerveza «ale» la inoculación del lote anterior al siguiente es actualmente relativamente limitada pero todavía se practica en muchas de las pequeñas fábricas tradicionales y, además, hay que añadir que ¡la calidad de sus productos es habitualmente excepcional!
+
+Figura 7-2
+
+Algunos ejemplos representativos de programas para la preparación comercial de inóculos 
+
+(a) Producción de ácido clavulánico por Streptomyces clavuligerus (reproducido con permiso de Butterworth, 1984).
+(b) Producción de clortetraciclina por Streptomyces aureofaciens (reproducido con permiso de Podojil, 1984). 
+(c) Producción de sagamicina por Streptomyces sp .
+
+Crecimiento logarítmico o exponencial 
+
+Suponiendo que se utiliza un inóculo activo (como se ha indicado anteriormente) puede acortarse el tiempo de la fase de latencia y la velocidad de crecimiento de las células aumenta progresivamente.
+Transcurrido un período de tiempo, las células crecen a una velocidad máxima constante; esta etapa se denomina fase logarítmica o exponencial y puede describirse por la ecuación: xxx donde xxx y al integrar la ecuación se transforma en: xxx donde xxx y tomando logaritmos naturales en la ecuación se obtiene: xxx .
+
+Por tanto, la representación del logaritmo natural de la concentración de células frente al tiempo da una línea recta cuya pendiente es xxx , la velocidad específica de crecimiento.
+Durante la fase exponencial, la velocidad especifica de crecimiento es constante y máxima en las condiciones que se opera; se denomina entonces MmaX , velocidad específica de crecimiento máxima. 
+
+El crecimiento de un microorganismo en un cultivo puede describirse también mediante un simple cálculo algebraico usando el término tiempo de duplicación, td , que es el tiempo necesario para que se divida una célula. 
+Si un medio de cultivo se inoculara con sólo una célula viable y esta célula creciera a la velocidad máxima sin pasar por la fase de latencia, el incremento secuencial del número de células que se observaría sería: 1, 2, 4, 8, 16, 32, 64, 128, etc. 
+
+Este incremento secuencial puede representarse expresando el número de células en base dos.
+Entonces resultaría: 21, 22, 23, 24, 25, 26, 2, 28, etc. 
+Los exponentes (o potencias o índices) en dicha serie representa el número de Generaciones que han ocurrido, por lo que después de n generaciones el número de células del cultivo será 2n. Si el medio se inoculara con No células, el número de células, Nt, presente después de n generaciones sería: xxx .
+Al tomar logaritmos en base 2 la ecuación (3) se transforma en: xxx .
+
+Entonces xxx .
+
+Aunque el término de tiempo de duplicación se utiliza relativamente poco en fisiología microbiana, puede ser útil pum convertir la velocidad especifica de crecimiento en el tiempo de duplicación para lograr una mejor apreciación del significado de estos valores.
+La ecuación que deriva del tiempo de duplicación utilizando el término número de células puede obtenerse también usando el término concentración de células.
+Entonces: xxx .
+Ya se ha mostrado que xxx .
+Si en esta ecuación xxx .
+Por lo tanto xxx .
+
+De donde, una velocidad específica de crecimiento de 1 h- 1 equivale a un tiempo de duplicación de 0,693 h.
+La Tabla 7.1 ofrece algunos valores representativos del Mmax para diversos microorganismos.
+
+Las ecuaciones (2) y (3) ignoran el hecho de que el crecimiento acarrea el agotamiento de nutrientes y la acumulación de subproductos tóxicos y, por tanto, predice que el crecimiento continúa indefinidamente.
+Sin embargo, a medida que se agota el sustrato o se acumulan subproductos tóxicos la velocidad especifica de crecimiento se desvía del valor máximo; el crecimiento con el tiempo cesa y se entra en la fase estacionaria.
+
+La disminución de la velocidad del crecimiento y el cese del crecimiento debido al agotamiento de sustrato puede describirse por la relación entre xxx y la concentración residual del sustrato limitante.
+El sustrato limitante es aquel componente del medio que primero se agota.
+Monod (1942) demostró la siguiente relación: xxx donde s es la concentración residual del sustrato limitante y Ks es la constante de utilización o saturación para el sustrato limitante y equivale a la concentración de sustrato cuando el valor de m es la mitad que el de Mmax .
+
+La ecuación (8) se representa gráficamente en la Figura 7,3; la zona B a C equivale a la fase exponencial del cultivo, con sustrato en exceso y un crecimiento con un Mmax .
+La zona A a B corresponde a la desaceleración de la velocidad de crecimiento, desde el final de la fase exponencial al inicio de la fase estacionaria.
+El valor numérico del Ks refleja la afinidad del microorganismo por el sustrato (un elevado valor del Ks indica una baja afinidad y un bajo valor del Ks refleja una gran afinidad).
+Por lo tanto, si el microorganismo tiene una gran afinidad por el sustrato limitante (bajo Ks) la velocidad especifica de crecimiento en un cultivo discontinuo no se verá afectada hasta que la concentración de sustrato disminuya hasta niveles muy bajos.
+En consecuencia, un microorganismo de estas características mostrará una fase de desaceleración corta.
+Del mismo modo, si un microorganismo tiene una baja afinidad por el sustrato limitante (elevado Ks) la velocidad específica de crecimiento disminuirá cuando no existe una concentración de sustrato relativamente elevada y, por tanto, en el crecimiento de dicho microorganismo se observará una fase de desaceleración larga.
+Algunos valores representativos del Ks de diversos microorganismos se muestran en la Tabla 7,2.
+
+Tabla 7-1
+
+Valores representativos del Mmax de diversos microorganismos (calculados de acuerdo con las condiciones especificadas en las referencias)
+
+Microorganismo.
+Referencia.
+
+
+Beneckea natriegens.
+Eagon,1961.
+
+
+Methylomonas methanolytica.
+
+
+Penicillium Chrysogenum .
+Trinci,1969.
+
+
+Figura 7-3
+
+Efecto de la concentración residual del sustrato limitante en la velocidad específica de crecimiento de un microorganismo 
+
+La cantidad de biomasa en la fase estacionaria depende de la composición del medio y de la eficacia del microorganismo para convertir los sustratos en células. 
+De forma ideal, el medio debe formularse de tal manera que el factor limitante del crecimiento sea un sólo sustrato y no la acumulación de sustancias tóxicas.
+La concentración de células en la fase estacionaria viene dada por la ecuación: xxx donde x es la concentración de células, Y es el factor de rendimiento para el sustrato limitante (g de biomasa por g de sustrato consumido), SR es la concentración original del sustrato en el medio.
+
+El término Y constituye una medida de la eficacia de las células para convertir el sustrato en biomasa. 
+La biomasa, en cualquier momento del cultivo discontinuo, viene dada por la ecuación: xxx donde s es la concentración residual de sustrato en aquel momento.
+Entonces, xxx .
+
+Por tanto, suponiendo que células y sustrato están en las mismas unidades, Yes una constante sin dimensiones.
+El valor de Y dependerá, obviamente, del microorganismo y del sustrato.
+La importancia de este valor se discute más detalladamente en 8,3,1.
+
+Tabla 7-2
+
+Valores representativos del Ks para diversos microorganismos y sustratos
+
+Microorganismo.
+Sustrato.
+Referencia .
+
+
+Escherichia coli .
+Glucosa .
+Shehatay Marr (1971).
+
+
+Escherichia coli .
+Iones fosfatos.
+Shehatay Marr (1971) .
+
+
+Pseudomonas sp .
+Metanol.
+Harrison(1973).
+
+
+Aspergillus niger .
+Glucosa.
+Pirt(1973).
+
+
+Saccharomyces cerevisiae.
+Glucosa.
+Pirty Kurowski(1970) .
+
+
+Control de las condiciones ambientales del microorganismo del proceso
+
+Introducción
+
+Las condiciones ambientales que se le imponen al microorganismo para su crecimiento deben controlarse durante la fermentación para conseguir la máxima productividad.
+Los factores ambientales más importantes son:
+
+(1) La composición química del medio debe ser tal que permita al microorganismo sintetizar el producto óptimamente dentro de los aspectos económicos del proceso.
+
+(2) La temperatura del proceso debe ser la óptima para la síntesis del producto.
+
+(3) El cultivo debe mantenerse en un estado puro durante la fermentación.
+
+
+Estos factores ambientales dependen de:
+
+(1) Diseño del fermentador y programación de las condiciones en que se opere.
+
+(2) Formulación del medio de cultivo.
+
+(3) Modo de operación del proceso fermentativo. 
+
+
+Diseño y funcionamiento del fermentador
+
+El estudio detallado del diseño de un fermentador cae fuera del objetivo de este libro que se concentra en los principios biológicos de la Biotecnología.
+Sin embargo, como la tecnología de los procesos fermentativos es una amalgama de técnicas biológicas e ingeniería química, es necesario proporcionar un breve resumen de los tipos de fermentadores disponibles y de sus principales características. 
+Stanburyy Whitaker (1984) prepararon una lista de 13 puntos que consideraron eran los criterios más importantes para el diseño de un fermentador:
+
+(1) El tanque debe diseñarse para que funcione asépticamente durante numerosos días, así como para las operaciones de más larga duración. 
+
+(2) Se debe proporcionar un sistema adecuado de aireación y agitación para cubrir las necesidades metabólicas de los microorganismos.
+
+(3) El consumo de energía debe ser tan bajo como sea posible.
+
+(4) Debe tener un sistema para el control del pH. 
+
+(5) El fermentador debe tener un sistema para la toma de muestras.
+
+(6) Debe existir un sistema para el control de la temperatura.
+
+(7) Las pérdidas por evaporación no deben ser excesivas.
+
+(8) El diseño del tanque debe ser tal que las operaciones laborales durante el funcionamiento, recolección, limpieza y mantenimiento sean mínimas.
+
+(9) El tanque debe ser versátil, para la aplicación de diversas modalidades de procesos.
+
+(10) Las superficies interna del tanque deben ser lisas, utilizando, donde sea posible, soldaduras en vez de juntas de pestaña.
+
+(11) La geometría del fermentador debe ser similar a otros tanques más pequeños o mayores de la planta o a los de la planta piloto para poder reproducir procesos a diferentes escalas.
+
+(12) Deben emplearse los materiales más baratos que proporcionen resultados satisfactorios.
+
+(13) Debe existir un servicio adecuado de repuestos para el fermentador.
+
+
+El mantenimiento de un ambiente aséptico y unas condiciones aeróbicas son, probablemente, los dos puntos de mayor relevancia que hay que considerar.
+Los fermentadores más ampliamente utilizados a nivel industrial están provistos de mecanismos de agitación, dispersión y aireación como de sistema para el control de la temperatura, pH y formación de espuma.
+En la Fígura 8,1 se muestra la representación esquemática de un fermentador.
+Aunque la gran mayoría de los fermentadores comerciales disponen de agitación mecánica para lograr una buena mezcla y transferencia de oxigeno, en algunos se realizan esta función mediante la inyección de aire, careciendo de agitación mecánica.
+La Figura 8,2 ilustra algunos ejemplos de fermentadores que no tienen agitación mecánica; el mejor conocido quizás sea el que se utiliza para el proceso ICI Pruteen. 
+
+Transferencia de oxígeno
+
+El oxígeno no es una gas muy soluble (una solución saturada de oxigeno contiene aproximadamente 10 mg. de este gas) y su suministro se logra pulverizando aire en el fermentador durante el proceso.
+La transferencia de oxigeno en solución viene definida por la ecuación: xxx donde CL es la concentración de oxigeno disuelto ( xxx ) t es el tiempo (h) C* es la concentración saturada de oxígeno disuelto ( xxx ) KL es el coeficiente de transferencia de masa ( xxx ) a es área interfacial gas/líquido por unidad de volumen d es la velocidad de transferencia de oxigeno ( xxx ).
+
+Figura 8-1
+
+Representación esquemática de un fermentador aireado mediante agitación
+
+Los términos KL Y a son muy difíciles de medir en un proceso fermentativo y, por ello, ambos se combinan en la expresión KLa que se denomina coeficiente de transferencia volumétrica; se utiliza como un índice de la capacidad de aireación del fermentador.
+El valor de este coeficiente depende del diseño del tanque, del grado de agitación (medido como la cantidad de energía consumida para agitar el contenido del tanque), del flujo de aire, de la viscosidad del medio de cultivo y de la presencia de agentes antiespumantes en el medio ( Stanburyy Whitaker, 1984).
+Por tanto, el diseño de un fermentador y de las condiciones de operación debe ser tal que cubra la demanda de oxigeno del microorganismo.
+Sin embargo, debe apuntarse que la concentración de oxigeno disuelto en el medio tiene una marcada influencia en la fisiología de un microorganismo aerobio.
+En consecuencia el Kla de un fermentador debe tener un valor que permita que la cantidad deseada de oxigeno pueda transferirse por unidad de tiempo (o sea, cubrir la demanda de oxigeno del microorganismo) en presencia de una cierta concentración de oxigeno disuelto en el medio (que mantiene a las células en la correcta forma fisiológica).
+
+El efecto de la concentración de oxígeno disuelto en la velocidad específica de consumo de oxigeno (mmol de oxigeno por g de peso seco de biomasa/h) es del tipo de la relación de Michaelis-Menten (o de Monod) según se muestra en la Fígura 8,3.
+Puede deducirse que a medida que aumenta la concentración de oxígeno disuelto, aumenta la velocidad específica de consumo de oxigeno hasta alcanzar un valor máximo.
+La concentración más baja de oxigeno disuelto a la que la velocidad específica de consumo de oxigeno es máxima se denomina Cajt.
+Por tanto, el mantenimiento del cultivo en condiciones aeróbicas totales conlleva que el fermentador pueda sostener la concentración de oxígeno disuelto por encima del Cajt (en la Tabla 8,1 se ofrecen algunos valores del Cajt).
+Sin embargo, las condiciones de aireación óptima para la formación del producto microbiano que se pretenda obtener pueden ser diferentes a las que proporcionan una producción máxima de biomasa, por lo que puede ocurrir que sea necesario que el fermentador opere a una concentración de oxigeno disuelto por debajo o por encima del Cajt.
+
+Figura 8-2
+
+Algunos ejemplos de fermentadores sin agitación mecánica
+
+(a) Fermentador de ciclón (reproducido con permiso de Dawson, 1974).
+(b)Fermentador de circulación de aire con ramal externo (reproducido con permiso de Taylor y Senior, 1978).
+(c) Fermentador ICI de circulación de aire con ramal interno (reproducido con permiso de Smith, 1980).
+(d) Fermentador Vogelbusch de chorro de aire.
+
+La producción de alcohol comercial a partir de levaduras constituye un claro ejemplo en el que la concentración de oxigeno disuelto se mantiene por debajo del valor de CCrjt. 
+Aunque se considera que la producción de alcohol es un proceso anaeróbico, se requiere oxígeno para la síntesis de esteroles y ácidos grasos insaturados que componen la membrana de la levadura.
+En este caso, el fermentador debe diseñarse para suministrar cantidades relativamente bajas de oxígeno.
+
+Figura 8-3
+
+Efecto del oxígeno disuelto en la velocidad específica de consumo de oxígeno de un cultivo microbiano
+
+Tabla 8-1
+
+Concentraciones críticas de oxigeno disuelto de algunos microorganismos
+
+- Microorganismo
+- Azotobacter sp .
+- Escherichia coli 
+- Saccharomyces sp .
+- Penicillium chrysogenum 
+
+Un ejemplo excelente de los efectos de la concentración de oxigeno disuelto en la producción de aminoácidos se describe en el trabajo de Hirose y Shibai (1980).
+Estos autores hallaron un Ccjt para Brevibacterium flavum de xxx y representaron el nivel de suministro de oxigeno como el grado en que se satisfacían las necesidades de oxígeno (velocidad respiratoria del cultivo expresada como fracción de la velocidad respiratoria máxima).
+Si el grado en que se satisfacían las necesidades era inferior a 1, indicaba que la concentración de oxígeno disuelto está por debajo del C, x, t.
+La producción de componentes de las familias de los aminoácidos glutamato y aspartato se veía afectada adversamente por valores de dicho grado de «satisfacción» inferiores a 1, mientras que la producción óptima de fenilalanina, valina y leucina se daba a grados de «satisfacción» de 0,55, 0,60 y 0,85, respectivamente.
+Las rutas biosintéticas de estos aminoácidos se muestran en la Figura 8,4; puede observarse que la fenilalanina, la valina y la leucina derivan de intermediarios de la glicolisis, fosfoenolpiruvato y piruvato, mientras que las familias del glutamato y aspartato proceden de intermediarios del ciclo del TCA.
+Por ello, la limitación de oxigeno y la disminución concomitante de las reacciones del ciclo del TCA conllevará la presencia de mas intermediarios disponibles para la biosíntesis de fenilalanina, valina y leucina.
+Por otra parte, si el suministro de oxígeno satisface totalmente las necesidades del mismo, el ciclo del TCA operará plenamente y, por tanto, habrá un suministro electivo de precursores de glutamato y asparatato.
+
+Figura 8-4
+
+Rutas biosintéticas de diversos aminoácidos en Brevibacterium flavum
+
+La producción de cefalosporina por Cephalosporium (Feren y Squires, 1969) es óptima a concentraciones de oxigeno disuelto considerablemente superiores que al valor de Cjt de la cepa.
+En este caso, el fermentador debe tener la capacidad de suministrar una concentración de oxigeno disuelto mayor que la necesaria para mantener el cultivo en condiciones aeróbicas.
+
+Las propiedades reológicas del caldo de fermentación tienen un considerable efecto en el KLa que se logra en el fermentador. 
+Un microorganismo unicelular origina normalmente un caldo con una viscosidad relativamente baja que apenas se ve afectada por el nivel de agitación (o sea, es un fluido newtoniano). 
+Sin embargo, un microorganismo de estructura miceliar origina, con frecuencia, un caldo con una gran viscosidad que varia con el grado de agitación (o sea, no es un fluido newtoniano).
+El grado de agitación en el fermentador es diferente en las distintas partes del medio (es mayor en las regiones cercanas al agitador y más bajo en las zonas más distantes del agitador).
+Por lo tanto, el caldo en la zona central tiende a ser menos viscoso, con lo que el aire puede ingresar mejor en esta región, desarrollándose unas condiciones más anaeróbicas en las zonas más viscosas.
+Es importante, por ello, que el régimen de agitación durante la fermentación proporcione una buena transferencia de oxigeno y una zona de gran turbulencia pero que esa turbulencia se transmita también a través del caldo.
+
+Una solución de este problema consiste en utilizar dos tipos diferentes de agitación en el sistema uno diseñado para producir una zona de gran turbulencia y el otro mediante la instalación de un sistema de bombeo del caldo Legrys y Solomon (1977) diseñaron un fermentador con una turbina discal en el fondo y una hélice impulsora en la parte superior; la turbina origina la turbulencia mientras que la hélice proporciona un gran flujo, con lo que el volumen del tanque se removía cada 20 30 segundos.
+De este modo, el micelio circulaba a través de la zona de aireación del tanque antes que se agotara el oxígeno.
+Marshy Pinkey (1985) describieron el proceso piloto para el cultivo de Fusarium graminearum que se utilizó para la producción de microproteína xxx .
+
+Como ya se ha discutido (véase Capítulo 71) la estructura filamentosa del microorganismo influye de una forma crítica en la calidad al masticar de los muchos productos que se preparan a partir de micoproteína.
+Por ello, el fermentador debe tener la capacidad de airear un caldo muy viscoso no newtoniano.
+El fermentador piloto de 1,3 m3 tiene una turbina impulsora « Rushton» de seis hojas que ocasiona la transferencia de oxigeno y un sable de tres hojas que proporciona una rápida circulación en el interior del tanque.
+
+Mantenimiento de las condiciones asépticas 
+
+El fermentador y su contenido ha de esterilizarse antes del comienzo del proceso y las condiciones asépticas deben mantenerse durante la fermentación.
+La consecución de unas condiciones asépticas es, en esencia, un problema de ingeniería y, por tanto, cae fuera del objetivo de este texto.
+No obstante, se ofrece una lista de los puntos principales para familiarizar al lector con este aspecto tan importante:
+
+(1)En un fermentador provisto de agitación, el eje del mismo debe entrar en el tanque a través de una junta aséptica.
+
+(2) El fermentador debe construirse de tal forma que pueda esterilizarse, al igual que su contenido, con vapor. 
+Por lo tanto, debe existir un suministro de vapor en cada punto de entrada y salida en el tanque.
+La esterilización se realiza inyectando vapor por todos los puntos de entrada y salida, salvo en el de salida de aire que sirve para que escape el vapor.
+
+(3) El aire que ingresa en el fermentador debe haberse esterilizado por filtratación.
+
+(4) Durante la fermentación debe existir en el interior del tanque una sobrepresión para que cualquier fuga que se produzca ocasione la salida de aire del fermentador y no el ingreso de aire del exterior que pudiera estar contaminado. 
+
+(5) El tanque ha de construirse de tal forma que las operaciones de inoculación, toma de muestra y adiciones posteriores necesarias puedan hacerse asépticamente.
+
+
+Las operaciones de esterilización y adiciones asépticas en una planta industrial son maniobras complejas que pueden requerir, quizás, la manipulación de cientos de válvulas.
+Por ello, la posibilidad de un error humano es muy elevada.
+No obstante, el advenimiento del control por ordenadores ha sido de gran valía para el control y seguimiento de la esterilización y operaciones asépticas.
+De acuerdo con Tonge (1980), el funcionamiento del fermentador ICI Pruteen seria extremadamente difícil sin el control informático.
+
+Formulación del medio de cultivo 
+
+El medio de cultivo que se utilice en la fermentación no sólo debe cubrir las necesidades nutritivas del microorganismo sino también las exigencias del proceso industrial.
+Por ello, deben tenerse en cuenta una serie de factores importantes para la formulación del medio.
+Entre ellos, el coste, la eficacia de la utilización, la reología y su efecto en las corrientes descendentes.
+
+Todos los microorganismos requieren agua, fuentes de carbono y nitrógeno, elementos minerales y, posiblemente, nutrientes específicos, como vitaminas y aminoácidos.
+La mayoría de los microorganismos comercialmente importantes son quimioorganotróficos y, por tanto, la fuente de energía y carbono es una y la misma, El carbono y el nitrógeno se suministran habitualmente en forma de mezclas complejas de productos naturales baratos o son subproductos de otro proceso. 
+Los elementos traza existen normalmente en la materia prima que sirve de sustrato o en el agua corriente que se utiliza en la preparación del medio.
+
+Cualquier nutriente especifico que se requiera, como vitaminas o aminoácidos, debe añadirse en forma pura pero puede que exista también en el mercado como un extracto de origen animal o vegetal.
+Los fosfatos deben incorporarse al medio como agentes tamponadores aunque normalmente el pH se controla externamente.
+La Tabla 8,2 ofrece algunos ejemplos de fuentes de carbono y nitrógeno que se utilizan habitualmente en las fermentaciones.
+En la Tabla 8,3 se muestran algunos ejemplos de formulaciones de medios industriales.
+
+Rendimiento de biomasa
+
+El rendimiento de biomasa que puede obtenerse por unidad de carbono que se incorpora al medio es un criterio importante para la elección de la fuente de carbono, especialmente para la producción de proteína unicelular.
+El coeficiente de rendimiento celular (Y) para una fuente de carbono viene definido por la expresión: xxx . 
+
+En la Tabla 8,4 se ofrecen algunos valores representativos de Y; puede observarse que algunos hidrocarburos proporcionan un mayor rendimiento que los carbohidratos.
+La razón de esto es que los hidrocarburos muy reducidos contienen más carbono por g de sustancia que los carbohidratos.
+Sin embargo, el mayor rendimiento implica una mayor demanda de oxigeno de las células al crecer sobre estos sustratos muy reducidos (Fíg. 8,4).
+Por lo tanto, se ha de suministrar más oxígeno a la fermentación basada en hidrocarburos que en la realizada a partir de carbohidratos. 
+El consumo de grandes cantidades de oxigeno implica, además, la generación de un calor considerable que debe eliminarse para mantener la temperatura de fermentación al valor óptimo.
+
+En consecuencia, la elección de la fuente de carbono influye de una forma importante en el diseño del fermentador para que se suministre el oxígeno suficiente que permita una completa utilización de la fuente de carbono.
+
+Asimismo, es necesario también diseñar un área de intercambio de calor adecuada para eliminar la energía calorífica que se genere.
+Un ejemplo excelente de estas consideraciones es el fermentador ICI Pruteen. 
+
+Inductores
+
+El medio, aparte de proporcionar los sustratos necesarios para el crecimiento, tiene también una considerable influencia en los productos finales generados por el microorganismo.
+Los enzimas catabólicos son, con frecuencia, inducibles; es decir, sólo se sintetizan en presencia de un inductor que normalmente es el sustrato del enzima o una sustancia de estructura similar.
+Por ello, un medio para la producción comercial de un enzima catabólico debe incluir en su composición un inductor relevante.
+La Tabla 8,5 muestra algunos ejemplos de enzimas comercialmente importantes y el sistema inductor correspondiente. 
+
+Se ha demostrado que la producción de ciertos metabolitos secundarios esta sometida también a fenómenos inductores. 
+Por ejemplo, la a-manosidasa es un enzima clave en la biosíntesis de estreptomicina y su síntesis se induce por la presencia de manano.
+Por ello, extracto de levadura es el sustrato que habitualmente se utiliza como fuente de nitrógeno en la fermentación destinada a la obtención de aquel antibiótico.
+
+Tabla 8-2
+
+Algunos ejemplos de fuentes de carbono y nitrógeno utilizadas habitualmente en los medios fermentativos
+
+Fuentes de carbono.
+Fuentes de nitrógeno .
+
+
+Almidón.
+Amoníaco .
+
+
+Glucosa.
+Sales amoníacas .
+
+
+Malta.
+Nitratos.
+
+
+Melazas de remolacha.
+Macerado de maíz.
+
+
+Melazas de caña.
+Gránulos de cacahuetes .
+
+
+Aceites vegetales.
+Harina de soja.
+
+
+Hidrocarburos.
+Sangre deshidratada.
+Medios formulados.
+Harina de soja.
+Solubles de destilería.
+Extracto de levadura.
+
+
+Tabla 8-3
+
+Algunos ejemplos de medios para fermentaciones industriales 
+
+Tabla 8-4
+
+Factores de rendimiento proporcionados por algunos microorganismos durante su crecimiento a partir de diversos carbohidratos
+
+Sustrato.
+Microorganismo.
+
+
+Glucosa.
+Escherichia coli .
+
+
+Metanol.
+Pseudomonas c.
+
+
+Octadecano .
+Pseudomonas sp .
+
+
+Tabla 8-5
+
+Algunos ejemplos de inductores utilizados en la producción de enzimas comercialmente importantes
+
+Enzima.
+Inductor.
+
+
+Proteasas.
+Diversas proteínas.
+
+
+a-amilasa.
+Almidón.
+
+
+Celulasa.
+Celulosa.
+
+
+Pectinasa .
+Pectina.
+
+
+Penicilina acilasa .
+Ácido penilacético.
+
+
+Represores
+
+La producción de enzimas y metabolitos secundarios está frecuentemente inhibida por la presencia de ciertas sustancias en el medio de cultivo.
+Se ha observado que las fuentes de carbono que son rápidamente utilizadas inhiben la síntesis de amilasas y una amplia variedad de metabolitos secundarios, por ejemplo, griseofulvina, penicilina, bacitracina y actinomicina (Demain, 1984).
+Después de muchos años de utilizar medios empíricos, la producción de la mayoría de los antibióticos se efectúa utilizando una fuente de carbono distinta a D-glucosa, o si se utiliza ésta, se alimenta el cultivo con un flujo bajo (véase Sección 8,4).
+
+Igualmente se ha observado que las fuentes de nitrógeno tienen también efectos represores en la producción de metabolitos secundarios.
+Por ejemplo, el que la harina de soja y la prolina sean las mejores fuentes nitrogenadas para la producción de estreptomicina se debe, posiblemente, a su lenta utilización, con lo que se evita el efecto represor en la síntesis del metabolito (Demain, 1984). 
+
+Otro de los represores normales de los metabolitos secundarios son los fosfatos inorgánicos, como se ha demostrado en el caso de la producción de estreptomicina, bacitracina, oxitetraciclina y novobiocina.
+
+En consecuencia, la elección del factor limitante (el componente que se agota primero y, por tanto, limita el crecimiento) en un medio de cultivo dependerá de los efectos represores de los componentes del medio en la productividad.
+Por ello, dependiendo del sistema de control implicado, los medios comerciales pueden estar limitados por la sustancia carbonada o nitrogenada, por fosfatos u, ocasionalmente, por otros nutrientes. 
+
+Precursores
+
+La producción de un determinado metabolito puede incrementarse notablemente si se añade al sistema un precursor del metabolito.
+El ejemplo clásico de esta situación es la adición de ácido fenilacético en la producción de penicilina que actúa como precursor de la cadena lateral de la bencilpenicilina.
+Otro ejemplo de esta naturaleza es el papel precursor del ion cloruro en las fermentaciones de clortetraciclina y griseofulvina.
+
+Modo de operación de los procesos fermentativos
+
+Como se ha discutido en el Capitulo 7, los microorganismos pueden crecer en sistemas discontinuos, continuos 0 discontinuos alimentados.
+Aunque el cultivo continuo es el que ofrece el mayor grado de control en el crecimiento y la fisiología de los microorganismos, su uso en fermentaciones industriales está limitado por las razones que se han expuesto anteriormente (Sección 7.4).
+Sin embargo, la adopción del cultivo discontinuo alimentado ha proporcionado al tecnólogo de fermentaciones una herramienta muy útil para el control de las condiciones ambientales de las fermentaciones.
+El tipo más común de sistema discontinuo alimentado que se utiliza en cultivos masivos es la adición de un componente del medio al sistema en fermentación, controlándose la velocidad de adición mediante un parámetro fácilmente medible.
+El sustrato que con más frecuencia se añade es la fuente de carbono aunque puede utilizarse cualquier componente que tenga un efecto critico en el control de la fermentación.
+Los parámetros que más frecuentemente se utilizan para el seguimiento de la alimentación son la concentración de oxígeno disuelto y el pH, aunque también se pueden utilizar otros como la viscosidad. 
+La principal ventaja de añadir un componente del medio en vez de incorporar su totalidad al principio es que el nutriente puede mantenerse a muy bajas concentraciones durante la fermentación.
+
+Un nivel bajo de un nutriente (pero que se está reponiendo constantemente) tiene las siguientes ventajas:
+
+(1) Mantiene la condiciones del cultivo dentro de los limites de la capacidad de aireación del fermentador. 
+
+(2) Elimina los efectos represores de los componentes del medio (fuentes de carbono, de nitrógeno o fosfatos) al ser utilizados rápidamente.
+
+(3) Evita los efectos tóxicos de un componente esencial del medio.
+
+(4) Proporciona un nivel limitante del nutriente requerido por un mutante auxótrofo.
+
+
+El ejemplo más antiguo del uso de un cultivo discontinuo alimentado es la producción de levadura de panadería.
+Ya en 1915 se observó que un exceso de malta en el medio ocasionaba una producción de biomasa muy rápida y, por tanto, una demanda de oxigeno que no podía ser satisfecha por el fermentador (Raed y Peppler, 1973), con lo que se favorecía el establecimiento de condiciones anaeróbicas que originaba la formación de etanol por la biomasa.
+La solución del problema consistió en hacer crecer las levaduras inicialmente en un medio poco concentrado y añadirle más medio concentrado a un ritmo menor que el que el microorganismo podía utilizar el sustrato.
+Hoy se sabe que una elevada concentración de glucosa ejerce un efecto represor en la actividad respiratoria, por lo que en las modernas fabricas de producción de levadura la alimentación con melazas está bajo un estricto control que se efectúa midiendo el etanol existente (cantidades trazas) en el gas que sale del fermentador.
+Tan pronto como se detecta etanol se reduce la velocidad de alimentación. 
+Aunque estos sistemas originan que el crecimiento sea más lento que el que se consigue en otras condiciones, el rendimiento esta próximo al máximo que puede obtenerse teóricamente (Fiechter, 1982).
+
+La producción de penicilina constituye un buen ejemplo del uso de cultivos discontinuos alimentados para la producción de un metabolito secundario (Hersbach, Van der Beek y Van Dijck, 1984).
+La producción de penicilina es un proceso de «dos fases»; la inicial es una etapa de crecimiento seguida por una fase de producción o idiofase.
+Durante la fase de producción, el fermentador se alimenta con glucosa a un ritmo que permite una velocidad de crecimiento relativamente alta (y, por tanto, una rápida acumulación de biomasa) pero que limita la demanda de oxigeno al nivel que puede ser cubierto por el fermentador.
+
+La velocidad de la alimentación se controla midiendo la concentración de oxígeno disuelto o el pH del caldo.
+Si la concentración de oxigeno disuelto cae por debajo del Cjt (véase Sección 8,2) se disminuye el flujo.
+Si se utiliza el pH como medio de seguimiento de la fermentación, un descenso del pH indica que se están formando ácidos orgánicos y, por tanto, se están creando condiciones de anaerobiosis.
+En tal caso es necesario disminuir el ritmo de adición de glucosa.
+
+Durante la fase de producción, la biomasa debe mantenerse a una velocidad de crecimiento relativamente baja, por lo que la glucosa se añade a un pequeño flujo de tal forma que se mantenga su concentración en el medio a un nivel inferior al que se inhibe la formación de penicilina (véase Sección 8,3,3).
+
+Durante esta fase, la concentración de oxigeno disuelto se utiliza para controlar la velocidad de dilución por retroalimentación (feedback).
+El ácido fenilacético es un precursor de la penicilina G (benzilpenicilina) (véase Sección 8,3,4) pero es también tóxico para el moho a una concentración tres veces superior a la que se utiliza.
+Por ello, el ácido fenilacético es otra de las sustancias que va incluida en el medio de alimentación del fermentador durante la fase de producción.
+
+En el Capitulo 9 se ha discutido el uso de mutantes auxótrofos en la producción de productos de origen microbiano Estos mutantes pueden crecer sólo cuando se suministran ciertos nutrientes, que no necesitan las cepas silvestres.
+Además, para conseguir la producción óptima del producto deseado, el crecimiento de un mutante auxótrofo debe limitarse por la disponibilidad del nutriente que requiera.
+Por lo tanto, la adición del compuesto requerido para la fermentación a un flujo inferior que al que puede consumirse facilita al tecnólogo controlar el proceso dentro de unos márgenes estrechos. 
+
+Resumen
+
+Las condiciones ambientales influyen marcadamente en el crecimiento microbiano.
+
+El entorno del microorganismo depende del modo de operación, del diseño del fermentador y de la composición del medio de cultivo.
+El fermentador hay que diseñarlo con el objetivo de mantener el cultivo en estado puro y que facilite que el proceso fermentativo se desarrolla en unas condiciones físicas y químicas óptimas.
+El suministro de oxigeno al microorganismo debe ser tal que sea óptima la formación del producto que se pretenda obtener, lo que puede implicar que la concentración de oxigeno disuelto pueda ser diferente a la necesaria para el crecimiento óptimo. 
+El medio utilizado en la fermentación debe tener todos los nutrientes que el microorganismo requiera para su crecimiento así como las sustancias que se necesiten para proporcionar una síntesis del producto óptima.
+
+Las condiciones ambientales dependen del tipo de fermentación; el sistema que se utiliza de una forma más común es el cultivo discontinuo alimentado Los sistemas discontinuos alimentados permiten al tecnólogo mantener condiciones aeróbicas, controlar los efectos represores de los componentes del medio y proporcionar componentes esenciales (que a veces son sustancias tóxicas) en concentraciones bajas.
+Por lo tanto, el mantenimiento de unas condiciones ambientales constantes y controladas requiere una combinación de conocimientos biológicos y de ingeniería química.

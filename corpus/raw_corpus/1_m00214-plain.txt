@@ -1,0 +1,266 @@
+
+Información vital
+
+El Proyecto Genoma Humano está generando un río de información que ayudará a descubrir los gérmenes ocultos de las enfermedades hereditarias.Podríamos así entrar en una nueva era de la medicina, aunque no vendrá exenta de riesgos desconocidos
+
+A finales de este año, si la empresa Myriad Genetics consigue su propósito, miles de mujeres sanas recibirán dos malas noticias.
+La primera, que un familiar cercano, quizás una hermana, padece cáncer de mama.
+La segunda, que a ese familiar su médico le habrá dicho que el cáncer lo ha producido, casi con toda probabilidad, una mutación que sus consanguíneos también pueden tener.
+El doctor sugerirá a la paciente que comunique a sus familiares femeninos cercanos la conveniencia de que se sometan a una prueba para detectar dicha mutación. 
+Las mujeres que la porten deberán considerar la posibilidad de someterse a una doble mastectomía profiláctica, ya que es muy probable que ellas desarrollen cáncer de mama.
+¿Cuál es esa probabilidad?
+Aunque difícil de precisar, pues tales mutaciones aún no se han estudiado a fondo, la probabilidad podría elevarse hasta el 85 por ciento.
+
+Muchísima gente habrá de enfrentarse al dilema planteado por las pruebas para detectar genes asociados con enfermedades graves. BRCA1 , el gen del cáncer de mama, cuyo examen a gran escala se dispone Myriad abordar este mismo año, constituye uno más de entre las decenas que los médicos consideran necesarios someter a las pruebas de detección de mutaciones.
+Este tipo de pruebas son, en mayor o menor grado, uno de los frutos indirectos del Proyecto Genoma Humano, un audaz programa federal estadounidense de 375.000 millones de pesetas y 15 años de duración, cuyo objetivo es analizar molecularmente la herencia genética humana.
+
+Si bien el proyecto comenzó formalmente hace sólo unos cinco años y medio, los progresos registrados ya superan las mejores expectativas.
+Francis S. Collins, director del norteamericano Centro Nacional de Investigaciones sobre el Genoma Humano (NCHGR), del Instituto Nacional de la Salud, opina que el trabajo puede estar terminado "quizá dos años antes de lo previsto", hacia el 2003.
+
+Las técnicas desarrolladas al abrigo de este enorme desafío han permitido cuadruplicar la tasa de descubrimientos de genes humanos relacionados con enfermedades, según una estimación del NCHGR.
+No hay semana, podría decirse, sin que se caracterice un nuevo segmento de ADN de interés clínico.
+Un ritmo que seguirá acelerándose. 
+
+Cuando se aproxime el final, las previsiones son que cada hora se secuencia un nuevo gen, es decir, se determine el orden de las subunidades químicas que lo forman.
+
+El proyecto respondía a un objetivo:
+lograr el camino más seguro para luchar contra enfermedades de las cuales hace mucho tiempo se conocía su carácter hereditario y también contra otras, como el cáncer, que guardan una relación más sutil con los genes. 
+Pero esa andadura hacia el nirvana genético será larga.
+Los primeros resultados de uno de los frutos más ansiosamente esperados, la terapia genética, han sido decepcionantes.
+Y al menos un biólogo implicado en este proyecto, Daniel W. Drell, del Departamento de Energía, prevé una "virulenta evolución legal" en el tema de las patentes sobre genes, ya que las compañías tratan por todos los medios de ocultar aquellas secuencias de ADN que encierran valor comercial.
+La comercialización de este acervo común de nuestra especie ha disparado las protestas de los defensores de los derechos humanos, que ven en ello una afrenta a la naturaleza.
+Al propio tiempo, un eminente genético ha advertido que las terapias basadas en genes serán demasiado caras para pensar en un uso generalizado de las mismas.
+
+Ya han empezado a aparecer los abusos relacionados con la nueva ciencia del genoma.
+Hay constancia de niños sometidos a pruebas de detección de ciertas enfermedades, a pesar de que los especialistas en consejo genético coinciden en que, para evitarles perjuicios, ellos deben quedar al margen de tales ensayos.
+Por otra parte, como el riesgo de contraer una determinada enfermedad suele ser causa de rechazo a la hora de conseguir un empleo o de contratar un seguro de enfermedad o vida, muchos pacientes, y sus hijos, empiezan a negarse a ser sometidos a pruebas genéticas, por beneficioso que pudiera resultarles desde una óptica médica.
+Otros acceden bajo un nombre falso.
+
+Algunos líderes del proyecto genoma han reconocido desde el principio que la genética humana puede aplicarse con fines legítimos y otros menos legítimos.
+Por ello, han insistido en la necesidad de invertir el dinero preciso en el estudio de los aspectos éticos, legales y sociales.
+Sin embargo, los avances se producen a tal velocidad, que casi superan a los intentos, por parte de las sociedades profesionales y de los entes legislativos, de orientar el uso de las nuevas técnicas.
+
+En 1990, los planificadores estimaban que, en dilucidar la secuencia de subunidades químicas, o bases, de todo el genoma, se emplearían varias decenas de miles de laborantes-año (toda la secuencia escrita, utilizando un carácter para cada base, ocuparía unas 390.000 páginas de Investigación y Ciencia , sin ilustraciones).
+
+Además, como paso previo a la secuenciación, que revelaría finalmente la posible función de cada uno de los casi 100.000 genes humanos, y su localización en los cromosomas, habría primero que elaborar una suerte de "plano de situación" genético.
+
+Los investigadores necesitaban un mapa genético. 
+A grandes rasgos, un mapa genético es un diagrama que describe las relaciones cromosómicas de miles de secuencias "marcadoras" conocidas, en función de cómo éstas se separan y recombinan durante las sucesivas generaciones humanas. 
+Se requerían también mapas físicos. 
+En éstos, se describe la ordenación, a lo largo de un cromosoma, de multitud de sitios "señalados" por secuencias reconocibles.
+Con el mapa genético, los investigadores pueden comparar el patrón hereditario de una característica genética determinada con el que presenta alguna de las secuencias "marcadoras".
+De ese cotejo se infiere el lugar donde se encuentra el gen responsable de la característica genética en cuestión. 
+Los computadores se encargan después de ir situando los rimeros de datos que emergen de las máquinas de secuenciación sobre los mapas físicos.
+
+Con los dos tipos de mapas es posible encontrar rápidamente el lugar donde se encuentran los genes asociados con enfermedades. 
+
+Aunque el Congreso de los Estados Unidos ha dedicado menos de los 25.000 millones de pesetas por año solicitados por el proyecto genoma, las fructíferas colaboraciones internacionales han dado un empujón considerable a los trabajos.
+A finales de 1994 se había perfilado ya un buen mapa genético que abarcaba el genoma entero, y existen ya mapas físicos de una calidad excelente que cubren el 95 por ciento del genoma.
+Este año se espera que esté ya disponible un mapa físico con marcadores espaciados cada 100.000 bases, la distancia ideal. 
+Todo está, pues, a punto para comenzar la secuenciación a gran escala.
+
+Tras los esfuerzos realizados en la secuenciación de genomas de otros organismos, se ha aprendido a acelerar el proceso y abaratar los costes.
+
+Hay en desarrollo nuevas técnicas de secuenciación. 
+Collins opina, sin embargo, que no serán necesarios enfoques radicalmente novedosos para conseguir que en el 2005 tengamos la secuencia del genoma humano con un 99,9 por ciento de fiabilidad.
+Las mejoras en eficacia observadas en los dos últimos años le han convencido de que la técnica actual es adecuada para realizar el trabajo.
+
+El Departamento norteamericano de Energía, que financia una parte importante del proyecto genoma, tiene en marcha varias operaciones de secuenciación a escala "piloto". 
+El primer gran programa de secuenciación se inauguró a finales del año pasado en el Centro Sanger de Gran Bretaña, financiado por la Wellcome Trust.
+
+Por lo que concierne a los Estados Unidos, el grueso del trabajo corre a cargo del centro de secuenciación de Robert H. Waterston, en la Universidad de Washington.
+
+La avalancha de datos genéticos que se avecina aún no ha afectado a mucha gente.
+Pero es cuestión de tiempo.
+En los laboratorios se aíslan ya rutinariamente mutaciones genéticas asociadas con el cáncer, la enfermedad de Alzheimer y algunos tipos de enfermedades cardiovasculares. 
+Desarrollar pruebas para detectar mutaciones en un gen conocido se ha convertido en un asunto bastante sencillo.
+Genzyme, empresa afincada en Cambridge, Massachusetts, anunció el pasado otoño una técnica de diagnóstico capaz de analizar simultáneamente ADN de 500 pacientes para 106 mutaciones diferentes en siete genes.
+
+Cuando se tenga suficiente información sobre los efectos de las mutaciones, los resultados de las pruebas serán de gran utilidad para el médico, ya que se podrá determinar la probabilidad de que una persona desarrolle una enfermedad y quizá sugerir algún tipo de tratamiento para aumentar la esperanza de vida.
+Pero los estudios necesarios para conocer los efectos de las mutaciones requieren mucho tiempo.
+Y los datos genéticos pueden acarrear perjuicios inmediatos y graves.
+En particular, pueden precipitar cambios psicológicos gravosos y abrir la puerta a la discriminación.
+
+En el pasado, la discriminación genética quedó relegada principalmente a los miembros de familias afectadas con enfermedades raras y que mostraban un patrón claro de herencia.
+Por ejemplo, los miembros de familias con Huntington, una enfermedad neurodegenerativa muy grave que se manifiesta en la edad adulta, tienen grandes dificultades a la hora de contratar seguros sanitarios, y a veces les resulta imposible.
+Según Collins, hasta el momento se conocen "unos pocos centenares', de personas que han perdido sus trabajos o sus seguros por el mero hecho de que con su patrimonio genético corrían el riesgo de contraer en el futuro una enfermedad; 
+en la mayoría de los casos, porque un miembro de su familia había sido diagnosticado con una enfermedad de base genética conocida.
+Pero, según las predicciones de Collins, a medida que aumente el número de pruebas de detección "veremos que eso sucederá a mayor escala, ya que todos corremos algún tipo de riesgo". 
+
+En la actualidad, las pruebas para detectar mutaciones asociadas con algún cáncer, por ejemplo, sólo se realizan en el marco de investigaciones que se llevan a cabo en grandes hospitales, ya que la interpretación de los resultados es todavía harto imprecisa.
+Pero hay fenómenos incontrovertibles.
+En familias con casos de cáncer de mama hereditario, que constituyen menos del 10 por ciento de todos los episodios, presentar una mutación en el gen BRCA1 acarrea un riesgo del 85 por ciento de padecer la enfermedad, y un riesgo también del 45 por ciento de contraer cáncer de ovario.
+Algunas mujeres de esas familias, que saben que son portadoras de un gen BRCA1 mutado, han decidido someterse a una mastectomía profiláctica y a una ooforectomía (extirpación de los ovarios).
+Ello puede reducir el peligro de contraer el cáncer, pero no lo elimina.
+
+La incertidumbre es mayor, sin embargo, en el caso de una mujer que porte un gen BRCA1 mutado pero no tenga una historia familiar de cáncer de mama.
+En esas situaciones, se desconoce el peligro, pero puede ser menor.
+Tampoco se sabe si el pertenecer a un grupo étnico determinado afecta a la probabilidad de contraer la enfermedad (en los judíos ashkenazi, por ejemplo, se da con mayor frecuencia un tipo determinado de mutación en el gen BRCAl, y un gen que causa neurofibromatosis tiene efectos más severos en blancos que en negros).
+Estas y otras fuentes de incertidumbre plantean graves dilemas a la hora del tratamiento.
+La elección entre cirugía radical y vigilancia intensiva, en forma de frecuentes mamografías, puede ser crucial.
+La reciente identificación de un segundo gen de cáncer de mama, el BRCA2 , complica el asunto aún más.
+
+Aunque los avances en el conocimiento del genoma llegarán algún día a eliminar esos dilemas, la mayoría de los científicos no esperan que ello ocurra en un futuro previsible.
+Para las mujeres a las que ya se les ha diagnosticado un cáncer de mama, no se sabe muy bien qué significado pueda tener, a la hora del tratamiento, que la prueba del BRCA1 haya dado positiva.
+Incluso con un resultado negativo en la prueba, una mujer sigue teniendo el mismo riesgo, un octavo, que cualquier mujer de EE.UU.
+Estos factores han llevado a la Sociedad Norteamericana de Genética Humana y a la Asociación Nacional de Afectadas de Cáncer de Mama, un grupo de apoyo, a exigir que, por ahora, las pruebas del BRCA1 se realicen sólo en el marco de la investigación. "Lucharemos contra la venta de esas pruebas antes de que exista un acuerdo sobre cómo utilizarlas", dice Mary Jo Ellis Kahn, miembro de la asociación que ha sobrevivido a un cáncer de mama y en cuya familia se han dado varios casos de la enfermedad.
+
+Este tipo de prevención choca con las previsiones comerciales.
+Myriad Genetics, con sede en Salt Lake City, contempla ofrecer las pruebas para detectar el gen BRCA1 a todas las mujeres diagnosticadas con cáncer de mama o de ovario, y a sus familiares cercanas, a finales de 1996. 
+Si aceptaran sólo las personas diagnosticadas, serían más de 200.000 pruebas al año.
+Peter D. Meldrum , presidente de Myriad, afirma que su compañía está estudiando los riesgos para poblaciones diferentes. 
+Collins, sin embargo, opina que los planes de Myriad son "potencialmente prematuros", ya que, según él, no es seguro que se sepa lo suficiente sobre las mutaciones y las opciones de tratamiento como para justificar las pruebas a gran escala a finales de año.
+
+OncorMed , establecida en Gaithersburg, vende ya pruebas de BRCA I para su uso en protocolos de investigación con mujeres de alto riesgo.
+
+La Asociación Nacional de Afectadas ha reclamado, con carácter de urgencia, el estudio del tipo de restricciones que deberían incluirse en esos protocolos.
+La misma compañía tiene entre manos la investigación de las mutaciones asociadas con una forma de cáncer de colon.
+
+El organismo norteamericano competente, la Oficina de Alimentación y Fármacos (FDA), no ha regulado los servicios de pruebas genéticas.
+
+En enero, sin embargo, una comisión sobre pruebas genéticas creada por el programa genoma abordaba la posibilidad de solicitar a la FDA que limitase las pruebas de mutaciones asociadas a algún tipo de cáncer, hasta que no hubiese una información sólida sobre las posibilidades de tratamiento.
+
+Algunas mujeres que saben que son portadoras de un gen BRCA1 mutado (sólo unas docenas, por ahora) han decidido ocultar esa información a sus agentes de seguros, según Barbara B. Biesecker, del NGHGR.
+Temen que las aseguradoras consideren las mutaciones como un estado preexistente y, por tanto, se nieguen a cubrir los tratamientos relacionados con tal "circunstancia".
+
+El asunto es espinoso.
+Las compañías de seguros médicos suelen negarse a ofrecer pólizas, o exigen primas desproporcionadas, a los individuos con una clara historia familiar de cáncer.
+El pasado año, la Asociación Nacional de Afectadas de Cáncer de Mama vio rechazada en repetidas ocasiones la petición de un seguro de enfermedad colectivo para los miembros de la directiva en Washington, porque eran sólo ocho, y algunos de ellos habían sobrevivido a un cáncer de mama. 
+Para tener cobertura debían conseguir un número mayor de asociados.
+
+La tendencia al secretismo en las pruebas genéticas parece haber calado.
+En cierta reunión de la Sociedad de Genética Humana, celebrada el pasado otoño, Thomas H. Murray, de la Universidad Case Western Reserve, preguntó a su auditorio si conocían pacientes que hubiesen solicitado someterse a pruebas genéticas de este tipo de forma anónima, o bajo un nombre falso.
+Se levantaron manos por toda la sala.
+En muchos estudios clínicos, a los pacientes se les advierte formalmente que los resultados de las pruebas pueden acarrear complicaciones con las aseguradoras, si éstas acceden a los historiales médicos de los pacientes.
+Para evitarlos, los investigadores obtienen a veces unos documentos legales, o "certificados de confidencialidad", que impiden a los tribunales acceder a los datos obtenidos en una investigación. 
+
+Otros pacientes evitan simplemente hacerse las pruebas, renunciando así a cualquier beneficio médico que ello pudiera reportarles.
+Las personas con von Hippel-Lindau (VHL), rara enfermedad hereditaria que produce tumores en el cerebro y en los riñones, suelen encontrar muchos problemas a la hora de contratar un seguro de enfermedad, debido a que las atenciones quirúrgicas que pueden necesitar son muy caras.
+Aunque no hay una terapia profiláctica para prevenir ese tipo de tumores, las personas con enfermedad de VHL pueden alargar su esperanza media de vida sometiéndose a tratamientos regulares de resonancia magnética y a la posterior extirpación quirúrgica de los tumores. 
+Según William C. Dicson, de la Asociación de Familiares de VHL, muchos padres con este síndrome no quieren que sus hijos pasen por las pruebas para detectar mutaciones en el recientemente descubierto gen de la VHL, ya que temen que el diagnóstico genético impida que se les extienda un seguro medico.
+
+Los padres que padecen policistitis renal, quizá la enfermedad hereditaria grave más común, también suelen decidir no someter a sus hijos a las pruebas genéticas, por las misma razones relacionadas con los seguros, según indica Gregory G. Germino, un investigador de la facultad de medicina de la Universidad Johns Hopkins.
+Aproximadamente 600.000 norteamericanos padecen esa enfermedad, aunque en su mayoría lo ignoran.
+En 1994, y con técnicas desarrolladas en el marco del proyecto genoma, se descubrió el gen PKDI, responsable último de muchos de esos casos. 
+Según Germino, las pruebas para detectar dicho gen pueden a veces mejorar la terapia médica en los niños. 
+
+Este tipo de informes ha disparado las alarmas de los responsables sanitarios.
+Un grupo de trabajo encargado de las implicaciones sociales, éticas y legales del programa genoma humano, junto con el Plan Nacional sobre el Cáncer de Mama, una iniciativa presidencial, acaba de recomendar la prohibición del uso de información genética, o el requisito de una prueba genética, como base para limitar o denegar un seguro médico por parte de las aseguradoras. 
+
+Los agentes de seguros no suelen preguntar directamente por los resultados de las pruebas genéticas.
+Las indagaciones sobre la salud o causa de la muerte de los padres de la persona en cuestión suelen ser suficientes para clasificar a muchas de esas personas entre las de alto riesgo. 
+Pero las aseguradoras pueden considerar el requisito de las pruebas genéticas para determinadas pólizas. "Ahora no hacen preguntas sobre pruebas genéticas, pero seguro que esta actitud cambiará", comenta Nancy S. Wexler , presidenta de la Fundación de Enfermedades Hereditarias. 
+Wexler tiene un 50 % de probabilidad de padecer la enfermedad de Huntington.
+
+Como los pacientes con enfermedades genéticas se muestran reacios a identificarse, es difícil evaluar el impacto de la discriminación.
+Pero hay nuevos datos que refuerzan los primeros datos anecdóticos y que sugieren que el fenómeno está muy extendido.
+En una de las primeras encuestas amplias, programada para su publicación, en Engineering and Scientific Ethics , el equipo de Lisa N. Geller, de la Facultad de Medicina de Harvard, describen cómo enviaron cuestionarios a personas que, aunque libres de síntomas, tenían algún riesgo de contraer una enfermedad genética.
+
+De los 917 que respondieron, 455 aseguraban que habían sufrido algún tipo de discriminación al revelar el diagnóstico genético.
+
+Entrevistas complementarias realizadas por los investigadores suministraron detalles de aseguradoras (médicas y de vida) que rehusaron o cancelaron las coberturas, agencias de adopción que solicitaban a los posibles padres "pasar" una prueba genética (y que en una ocasión malinterpretaron los resultados) y empresarios que despidieron o no contrataron porque el implicado padecía alguna enfermedad genética, tratable médicamente, o porque tenía alguna posibilidad de padecerla.
+Paul R. Billings, del Hospital de Veteranos en Palo Alto, uno de los autores del estudio, ha declarado que 'la gente rechazará las pruebas genéticas por miedo a la discriminación". 
+En otro estudio, realizado por E. Virginia Lapham, de la Universidad de Georgetown, el 22 % de un grupo de 332 personas que tenían alguna enfermedad genética en su familia, declaró que esa circunstancia le había impedido la contratación de un seguro médico.
+
+Varios países europeos han tomado medidas para evitar los abusos asociados con los datos genéticos.
+El seguro médico básico no constituye ningún problema especial en Europa, donde está regulado como derecho fundamental de los ciudadanos que los gobiernos deben proteger.
+Con todo, en Francia, Bélgica y Noruega existen leyes que impiden el uso de información genética por parte de las compañías aseguradoras y la mayoría de los empresarios.
+En los Países Bajos se garantiza un seguro de vida básico, y en Alemania hay ciertas medidas protectoras.
+
+En EE.UU. varios estados han promulgado leyes que limitan la discriminación fundada en los datos genéticos. 
+Las leyes federales prohíben la discriminación en el empleo, y varios proyectos presentados ahora ante el Congreso tratarán de impedir la discriminación en los seguros por motivos genéticos.
+Pero las perspectivas son inciertas.
+
+Los posibles perjuicios psicológicos derivados de las pruebas genéticas están también recibiendo una atención cada vez mayor.
+Como los resultados de las pruebas pueden afectar a todos los miembros de una familia, en su sentido más amplio, las relaciones entre aquellos pueden verse seriamente alteradas debido a los sentimientos de culpabilidad.
+El miedo a esas consecuencias puede explicar la práctica escasa de una prueba que está disponible desde hace varios años, y que permite identificar a los portadores del gen de la fibrosis quística, a pesar de que tales individuos carecen de riesgo.
+
+Los expertos en consejo genético coinciden en que, debido a los posibles perjuicios, los niños no deben ser sometidos a pruebas de detección de mutaciones que pronostiquen enfermedades que no se desarrollarán hasta la edad adulta, a menos que exista la posibilidad de una intervención médica.
+Según esto, los niños deben quedar exentos de pruebas detectoras de la enfermedad de Huntington, ya que no existe una terapia preventiva contra el desarrollo de los desarreglos motores y mentales que la caracterizan.
+Sin embargo, hay padres que sí solicitan esas pruebas para sus hijos: en algún caso para no pagar la educación superior si al final el muchacho va a sucumbir a la enfermedad. 
+
+La principal red norteamericana de laboratorios dotados de capacidad técnica para realizar este tipo de pruebas se denomina Helix.
+Según un estudio acometido por Dorothy C. Wertz y Philip R. Reilly, del Centro Shriver de Retraso Mental, en Waltham, el 23 por ciento de los laboratorios de la red habilitados para detectar la mutación responsable de la enfermedad de Huntington han realizado las pruebas a menores de 12 años.
+Más del 40 por ciento de los laboratorios Helix han aplicado las pruebas directamente a los pacientes, sin asistencia médica.
+No siempre el público comprende el significado del diagnóstico genético, comenta Wertz.
+Y no sólo eso, agrega: muchos médicos no están capacitados para emitir un consejo genético.
+
+En el haber de las pruebas debemos hacer constar, no obstante, que ciertos pacientes con familias afectadas con cáncer de colon hereditario y posiblemente también cáncer de mama, han adoptado decisiones médicas sensatas como resultado de descubrimientos facilitados por el programa genoma. 
+Algunos portadores de una mutación que predispone al cáncer de colon, por ejemplo, han aceptado la cirugía del colon en cuanto han empezado a producirse los cambios amenazadores. 
+Es ése un procedimiento que probablemente ha salvado sus vidas.
+Nuevas terapias ansiosamente esperadas, sin embargo, parecen más lejanas.
+
+Collins recuerda que sólo seis años después de que un equipo que él codirigía encontrara el gen asociado con la fibrosis quística, en 1989, ya se estaban ensayando con pacientes medicamentos diseñados para contrarrestar los efectos producidos por el gen mutado. 
+Sin embargo, se ignora cuánto tardará en llegar un tratamiento definitivo.
+
+La perspectiva de tratamiento que más ha atraído la atención de la gente es la terapia génica, si bien resulta más descriptivo hablar de transplante de genes.
+No obstante, los intentos para tratar la hipercolesterolemia familiar, la fibrosis quística y la distrofia muscular de Duchenne han resultado fallidos hasta el pasado año, aparentemente porque las células de los pacientes no incorporaban suficiente cantidad de genes transplantados.
+Los primeros tratamientos para corregir la deficiencia en desaminasa de adenosina, descritos en esta revista por W. French Anderson ( véase "Terapia génica" INVESTIGACIÓN Y CIENCIA, noviembre de 1995), muestran un efecto bastante discreto en el mejor de los casos.
+El pasado diciembre, una revisión del NIH concluía que "hasta el momento, no ha quedado definitivamente demostrada la eficacia clínica de ningún protocolo de terapia génica".
+
+A pesar de todos los problemas, la emergente revolución genética está ya causando movimientos sísmicos en el mundo de los negocios.
+Las compañías farmacéuticas han dedicado miles de millones de pesetas a la búsqueda de genes responsables de enfermedades, ya que ellos nos ilustran sobre el tipo de moléculas candidatas a convertirse en el punto de mira de medicamentos o reactivos para la diagnosis.
+
+J. Craig Venter, del Instituto de Investigaciones Genómicas, de Gaithersburg, ha ideado una estrategia más directa, que analiza ARN mensajeros, los productos que se crean cuando se activan los genes.
+La técnica produce unas marcas químicas que revelan cierta información básica relativa a los genes asociados, sin gran dispendio de trabajo.
+
+Algunos expertos no quedaron muy impresionados por la propuesta de Venter, ya que no proporcionaba una información tan global como la que ofrece la secuenciación a gran escala.
+Pero funciona.
+Dos compañías se han embarcado en una suerte de microscópica fiebre del oro en busca de genes lucrativos utilizando la estrategia de Venter.
+Human Genome Sciences (casa matriz de la organización de Venter) e Incyte Pharmaceuticals, de Palo Alto, andan ahora patentando secuencias afanosamente.
+
+Williams A. Haseltine, presidente de Human Genome Sciences, asegura que su compañía ha identificado el 90 por ciento de los genes humanos y ha utilizado docenas de ellos para fabricar proteínas con propiedades de interés terapéutico. 
+Los hallazgos de Human Genome Sciences, según Haseltine, han provocado también un "notable impacto" en el programa de desarrollo de nuevos fármacos de su principal socio, SmithKline Beecham.
+Por su parte, Incyte asegura haber identificado "muchísimos" genes humanos y ha encontrado clientes para sus bases de datos.
+
+Las perspectivas de explotación comercial del genoma despiertan inquietud en ciertos medios.
+Se recela, sobre todo, del Proyecto Diversidad del Genoma Humano.
+Este plan, sin vinculación formal con el proyecto genoma, tiene como objetivo el estudio de las variaciones de secuencias genéticas entre diferentes grupos en todo el mundo.
+
+Los patrocinadores del proyecto diversidad, concebido inicialmente por Luigi Luca Cavalli-Sforza, de la Universidad de Stanford, señalan que las secuencias generadas por el propio proyecto genoma derivarán principalmente de ADN de donantes europeos y norteamericanos.
+Según Cavalli-Sforza, si se estudiase la existencia de variación, del 0,1 por ciento, entre el ADN de gente de todo el mundo, se cosecharía una información muy valiosa sobre la adaptación.
+
+Henry T. Greely, profesor de derecho de Stanford y coorganizador del proyecto diversidad, reconoce que los datos sobre variación genética podrían invitar a los racistas a realizar análisis arbitrarios para justificar la discriminación. 
+Pero se defiende alegando que el proyecto asumirá su responsabilidad en la lucha contra tales abusos, y apunta que los datos ya disponibles ilustran sobre la superficialidad de las diferencias raciales.
+La mayor parte de esa variación del 0,1 por ciento entre seres humanos se da entre miembros de la misma raza, y no entre razas distintas.
+
+El proyecto ha recibido duras críticas.
+La Fundación Internacional para el Avance Rural (RAFI), una modesta organización con sede en Ottawa que se opone a las patentes de seres vivos, dice, por boca de Jean Christie, que se opone al proyecto diversidad porque éste producirá líneas celulares que pueden ser patentadas por las compañías cazagenes de los países ricos.
+
+Greely insiste en que las normas del proyecto eliminan la posibilidad de que las muestras puedan utilizarse con fines lucrativos sin el consentimiento de los donantes.
+A pesar de esa seguridad, un comité de la Organización de las Naciones Unidas para la Educación, la Cultura y la Ciencia (UNESCO) ha criticado al proyecto la falta de contactos con grupos indígenas durante su fase de planificación. 
+La controversia levantada por la concesión de una patente al NIH sobre una línea celular derivada de un oriundo de Papúa Nueva Guinea ha avivado el debate sobre la explotación.
+Se entiende, pues, que el proyecto diversidad del genoma encuentre dificultades a la hora de recabar subvenciones de fondos públicos.
+
+No sabemos cómo acabará el tema de las patentes. 
+Collins afirma que pretender patentar todos los genes secuenciados resultaría "desestabilizador", ya que pondría en peligro la cooperación entre investigadores.
+Tradicionalmente.
+Los especialistas han gozado de libertad a la hora de llevar a cabo investigaciones no sometidas a patentes. 
+Esta libertad puede verse amenazada, comenta Rebecca Eisenberg, experta en patentes de la Universidad de Michigan. 
+Cuantos más especialistas se plieguen a la voluntad de las empresas, por vínculos laborales, con mayor facilidad podrá patentarse el genoma.
+
+Antes de que un gen pueda patentarse, el "inventor" debe conocer a grandes rasgos por lo menos la función que desempeña, para cumplir así el requerimiento legal de utilidad.
+Ahora bien, la industria controla la mayoría de los recursos investigadores con capacidad para descubrir eficazmente las propiedades útiles de tales genes.
+Por tanto, la comercialización parece una consecuencia inevitable de la exploración científica del genoma, como lo ha sido para otro tipo de exploraciones. 
+Aunque la Oficina de Patentes de EE.UU. ha accedido recientemente a examinar algunas cuestiones planteadas por las patentes de genes, una vuelta atrás en este tema, con la consiguiente anulación de las patentes, como solicitan algunos críticos, parece improbable.
+Y mientras siga habiendo dinero para invertir en estos temas, los países ricos continuarán probablemente beneficiándose de ello.
+
+Resulta, no obstante, obligado preguntarse qué beneficio sacará de todo esto el resto del mundo.
+Algunas de las terapias génicas sometidas a ensayo se adaptarán a determinados pacientes.
+Pero James V. Neel, de la Universidad de Michigan, uno de los pioneros en genética humana, ha a vertido ya que "las terapias individuales serán demasiado caras" para su uso generalizado.
+Actuaciones "humildes", como un mejor control de la dieta y el ejercicio pueden aliviar el impacto de la diabetes adulta, con una mejor relación costo-eficacia que la medicina genética, señala Neel.
+Al tiempo que apremia a los genéticos a prestar al medio ambiente, cada vez más degradado, que muchos seres humanos soportan, la misma atención que al ADN. 
+
+Con todo, la carrera del gen sigue su curso.
+Se encontrarán mejores medicinas, algunos harán fortuna y otros resultarán perjudicados.
+Porque de lo que no cabe duda es de que, si bien todos los seres humanos comparten ADN, no todos compartirán sus beneficios.
+Según un informe de la Organización Mundial de la Salud, en 1993 murieron 12,2 millones de niños menores de 5 años en los países en vías de desarrollo.
+Más del 95 por ciento de esas muertes pudieron haberse evitado, según la OMS, si esos niños hubiesen estado bien nutridos y hubiesen tenido acceso a los cuidados médicos que ya son una práctica normal en los países que pueden costeárselos. 
+Para los desheredados de la Tierra, la medicina genética es todavía un sueño muy lejano.
+
+Figura 1
+
+Cromosoma 17
+
+Este mapa genómico parcial, que se muestra aquí y en las páginas siguientes, se publicó el pasado mes de diciembre.
+Ha sido realizado por expertos del Instituto de Investigaciones Biomédicas Whithead y Genéthon, de Francia.

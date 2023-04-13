@@ -1,0 +1,2290 @@
+Candidat de regroupement	Fréquence	Spécificité	Variantes orthographiques	Matrice
+vencimiento	227	176.41	vencimiento___vencimientos	Nom
+meff	106	138.47	meff	Nom
+fija	105	137.81	fija	Nom
+salario nominal	92	126.84	salario nominal___salarios nominales	Nom Adjectif
+meff renta	86	124.59	meff renta	Nom Adjectif
+tasa de interés	89	122.65	tasa de interés___tasas de interés	Nom Préposition Nom
+salario	349	117.1	salario___salarios	Nom
+peseta	115	114.97	peseta___pesetas	Nom
+ocupación	262	111.26	ocupación___ocupaciones	Nom
+precio de liquidación	68	110.61	precio de liquidación___precios de liquidación	Nom Préposition Nom
+marginal	162	105.82	marginal___marginales	Adjectif
+tasa	410	105.26	tasa___tasas	Nom
+salario real	71	104.47	salario real___salarios reales	Nom Adjectif
+demanda efectivo	64	102.51	demanda efectiva	Nom Adjectif
+tasa de crecimiento	128	101.56	tasa de crecimiento___tasas de crecimiento	Nom Préposition Nom
+teoría	187	101.21	teoría___teorías	Nom
+ocupación pleno	57	101.13	ocupación plena	Nom Adjectif
+estacionario	57	100.24	estacionario	Nom
+precio de ejercicio	56	100.22	precio de ejercicio___precios de ejercicio	Nom Préposition Nom
+estado estacionario	56	100.22	estado estacionario	Nom Nom
+capital	450	94.98	capital___capitales	Nom
+propensión	77	94.89	propensión	Nom
+eficiencia marginal	50	94.6	eficiencia marginal	Nom Adjectif
+unidad de salario	46	90.65	unidad de salario___unidad de salarios___unidades de salario___unidades de salarios	Nom Préposition Nom
+función de producción	48	89.85	función de producción___funciones de producción	Nom Préposition Nom
+subyacente	45	89.64	subyacente	Nom
+capital físico	45	86.76	capital físico	Nom Adjectif
+ecuación	72	86.07	ecuación___ecuaciones	Nom
+desocupación	45	84.99	desocupación	Nom
+bono	62	83.68	bono___bonos	Nom
+per	39	83.3	per	Verbe
+economista	94	81.74	economista___economistas	Nom
+condición general	33	76.45	condiciones generales	Nom Nom
+volumen de ocupación	32	75.24	volumen de ocupación	Nom Préposition Nom
+bono nocional	31	74.02	bono nocional	Nom Adjectif
+nuestro	34	73.39	nuestro	Nom
+teoría clásico	31	72.84	teoría clásica	Nom Adjectif
+liquidación	117	71.74	liquidación	Nom
+precio	489	71.72	precio___precios	Nom
+curva	53	71.33	curva___curvas	Nom
+neoclásico	31	70.64	neoclásico___neoclásicos___neoclásicas	Adjectif
+punto porcentual	43	68.91	punto porcentual___puntos porcentuales	Nom Adjectif
+rendimiento	148	68.73	rendimiento___rendimientos	Nom
+consumir	85	68.27	consumir	Verbe
+productividad marginal	26	67.57	productividad marginal	Nom Adjectif
+día del vencimiento	25	66.21	día del vencimiento	Nom Préposition Nom
+horario de negociación	25	66.21	horario de negociación	Nom Préposition Nom
+día hábil	31	65.06	día hábil	Nom Adjectif
+elaboración propio	25	64.91	elaboración propia	Nom Adjectif
+función de utilidad	25	64.91	función de utilidad___funciones de utilidad	Nom Préposition Nom
+nuestra	36	63.91	nuestra	Nom
+fluctuación	80	63.68	fluctuación___fluctuaciones	Nom
+ak	23	63.39	ak	Nom
+circular	23	63.39	circular	Nom
+inversión extranjero directo	23	63.39	inversión extranjera directa___inversiones extranjeras directas	Nom Adjectif Adjectif
+nominal	127	62.83	nominal___nominales	Adjectif
+planificador	25	62.52	planificador	Nom
+inversión	397	62.04	inversión___inversiones	Nom
+rendimiento constante	22	61.94	rendimientos constantes	Nom Nom
+día de negociación	26	61.82	día de negociación	Nom Préposition Nom
+modelo neoclásico	21	60.44	modelo neoclásico___modelos neoclásicos	Nom Adjectif
+posición abierto	22	59.27	posiciones abiertas	Nom Adjectif
+centésima	26	58.99	centésima	Adjectif
+i+d	20	58.92	i+d	Nom
+desutilidad	20	58.92	desutilidad	Nom
+nuestro	20	58.92	nuestro	Adjectif
+ingreso	250	58.64	ingreso___ingresos	Nom
+volumen	158	58.62	volumen___volúmenes	Nom
+depreciación	34	58.19	depreciación	Nom
+crecimiento	369	57.58	crecimiento___crecimientos	Nom
+tabla	58	57.41	tabla	Nom
+demanda global	23	57.38	demanda global	Nom Adjectif
+stock de capital	19	57.35	stock de capital	Nom Préposition Nom
+nuestra	19	57.35	nuestra	Adjectif
+país de ingreso	21	56.5	países de ingreso	Nom Préposition Nom
+meff renta	18	55.73	meff renta	Nom Nom
+fluctuación grande	18	55.73	fluctuación máxima	Nom Adjectif
+serie de opción	24	55.16	series de opciones	Nom Préposition Nom
+crecimiento endógeno	20	54.89	crecimiento endógeno	Nom Adjectif
+cap	19	54.51	cap	Nom
+nuestros	21	54.25	nuestros	Nom
+nuestras	17	54.07	nuestras	Nom
+desutilidad marginal	17	54.07	desutilidad marginal	Nom Adjectif
+tasa constante	16	52.36	tasa constante	Nom Adjectif
+rendimiento probable	16	52.36	rendimiento probable___rendimientos probables	Nom Adjectif
+logaritmos	16	52.36	logaritmos	Nom
+lector	40	51.88	lector___lectores	Nom
+alza	49	50.84	alza___alzas	Nom
+pib	16	50.78	pib	Nom
+capital humano	38	50.74	capital humano	Nom Adjectif
+fluctuación pequeño	15	50.58	fluctuación mínima	Nom Adjectif
+depósito interbancario	15	50.58	depósito interbancario	Nom Adjectif
+diferencial	40	49.93	diferencial___diferenciales	Adjectif
+interbancario	19	49.9	interbancario	Adjectif
+demanda	200	49.3	demanda___demandas	Nom
+producción	353	48.88	producción___producciones	Nom
+modelo ak	14	48.75	modelo ak	Nom Nom
+inversión neto	14	48.75	inversión neta	Nom Adjectif
+cobb-douglas	14	48.75	cobb-douglas	Nom
+costo	114	48.35	costo___costos	Nom
+ingreso neto	18	48.18	ingreso neto___ingresos netos	Nom Adjectif
+ingreso real	20	47.97	ingreso real___ingresos reales	Nom Adjectif
+cantidad de dinero	57	47.89	cantidad de dinero	Nom Préposition Nom
+stock	31	47.87	stock	Nom
+periodo corto	15	47.48	periodo corto___periodos cortos	Nom Adjectif
+bien de capital	18	47.19	bien de capital___bienes de capital	Nom Préposition Nom
+externalidad	14	47.08	externalidad	Nom
+tasa de depreciación	13	46.84	tasa de depreciación___tasas de depreciación	Nom Préposition Nom
+día hábil anterior	13	46.84	día hábil anterior	Nom Adjectif Adjectif
+ingreso bajo y mediano	13	46.84	ingreso bajo y mediano	Nom Adjectif Coord_Conjunction Adjectif
+quienes	13	46.84	quienes	Verbe
+constante de escala	13	46.84	constantes de escala	Nom Préposition Nom
+macrodinámica	13	46.84	macrodinámica	Nom
+país de ingreso bajo	13	46.84	países de ingreso bajo	Nom Préposition Nom Adjectif
+participación del capital	14	45.56	participación del capital___participaciones del capital	Nom Préposition Nom
+bien	151	45.44	bien___bienes	Nom
+consumo	203	45.04	consumo	Nom
+precio de cierre	12	44.85	precio de cierre	Nom Préposition Nom
+velocidad de convergencia	12	44.85	velocidad de convergencia	Nom Préposition Nom
+tasa de descuento	12	44.85	tasa de descuento	Nom Préposition Nom
+liquidación por método alternativo	12	44.85	liquidación por métodos alternativos	Nom Préposition Nom Adjectif
+costo de uso	12	44.85	costo de uso	Nom Préposition Nom
+opción mensual correspondiente	12	44.85	opción mensual correspondiente___opciones mensuales correspondientes	Nom Adjectif Adjectif
+ingreso bajo	17	44.47	ingreso bajo	Nom Adjectif
+neto	76	43.67	neto___netos___netas	Adjectif
+tasa de rendimiento	12	43.07	tasa de rendimiento___tasas de rendimiento	Nom Préposition Nom
+sector formal	12	43.07	sector formal	Nom Adjectif
+cupón	14	42.92	cupón___cupones	Nom
+tipo de interés	82	42.83	tipo de interés___tipos de interés	Nom Préposition Nom
+derivados de renta fijo	11	42.77	derivados de renta fija	Nom Préposition Nom Adjectif
+límite de fluctuación	11	42.77	límite de fluctuación___límites de fluctuación	Nom Préposition Nom
+simulen	11	42.77	simulen	Verbe
+fecha valor	11	42.77	fecha valor	Nom Nom
+cálculo completo	11	42.77	cálculo completo	Nom Adjectif
+condición de transversalidad	11	42.77	condición de transversalidad___condiciones de transversalidad	Nom Préposition Nom
+modelo de valoración	11	42.77	modelo de valoración	Nom Préposition Nom
+función de demanda	11	42.77	función de demanda	Nom Préposition Nom
+quienes	11	42.77	quienes	Nom
+costo marginal	11	42.77	costo marginal	Nom Adjectif
+fecha de liquidación	11	42.77	fecha de liquidación	Nom Préposition Nom
+cálculo de garantía	11	42.77	cálculo de garantías	Nom Préposition Nom
+producto marginal	11	42.77	producto marginal___productos marginales	Nom Adjectif
+forma de cotización	11	42.77	forma de cotización___formas de cotización	Nom Préposition Nom
+mes de vencimiento	11	42.77	mes de vencimiento	Nom Préposition Nom
+renta fijo	15	42.65	renta fija	Nom Adjectif
+factor	185	42.21	factor___factores	Nom
+variable	35	42.17	variable___variables	Nom
+contrato	150	41.94	contrato___contratos	Nom
+factor de producción	24	41.37	factor de producción___factores de producción	Nom Préposition Nom
+cápita	50	41.29	cápita	Nom
+clase de miembro	11	40.93	clase de miembro	Nom Préposition Nom
+parámetro necesario	11	40.93	parámetros necesarios	Nom Adjectif
+futuros	11	40.93	futuros	Nom
+término del reglamento	11	40.93	términos del reglamento	Nom Préposition Nom
+índice de precio	13	40.89	índice de precios	Nom Préposition Nom
+equipo productor	10	40.59	equipo productor	Nom Adjectif
+bien final	10	40.59	bienes finales	Nom Adjectif
+miembro liquidadores	10	40.59	miembros liquidadores	Nom Nom
+relación de valor	10	40.59	relación de valores	Nom Préposition Nom
+precio de demanda	10	40.59	precio de demanda	Nom Préposition Nom
+vencimiento meff	10	40.59	vencimiento meff	Nom Nom
+supondremos	10	40.59	supondremos	Verbe
+ahorro	117	40.58	ahorro___ahorros	Nom
+monto	30	40.41	monto	Nom
+progreso técnico	30	40.19	progreso técnico	Nom Adjectif
+capítulo anterior	12	40.06	capítulo anterior___capítulos anteriores	Nom Adjectif
+mercado de inversión	11	39.3	mercado de inversión___mercados de inversión___mercados de inversiones	Nom Préposition Nom
+oriente	11	39.3	oriente	Adjectif
+comunidad en conjunto	11	39.3	comunidad en conjunto	Nom Préposition Nom
+característica del contrato	11	39.3	características del contrato	Nom Préposition Nom
+auge	30	38.94	auge	Nom
+ritmo de integración	12	38.77	ritmo de integración	Nom Préposition Nom
+familia productor	10	38.67	familias productoras	Nom Adjectif
+función de demanda global	9	38.28	función de demanda global	Nom Préposition Nom Adjectif
+costo primo	9	38.28	costo primo	Nom Adjectif
+diez años	9	38.28	diez años	Nom Adjectif
+redondeará	9	38.28	redondeará	Verbe
+exógeno	9	38.28	exógeno	Adjectif
+unidad	142	37.91	unidad___unidades	Nom
+décima	14	37.89	décimas	Nom
+hábil	33	37.59	hábil___hábiles	Adjectif
+constante	42	37.38	constantes	Nom
+interanual	10	37.01	interanual	Adjectif
+individuo	87	36.67	individuo___individuos	Nom
+elasticidad	18	36.66	elasticidad	Nom
+paribus	9	36.29	paribus	Nom
+efecto de escala	9	36.29	efecto de escala___efectos de escala	Nom Préposition Nom
+sobreinversión	9	36.29	sobreinversión	Nom
+ofertar	114	36.02	ofertas	Verbe
+ciclo económico	24	35.98	ciclo económico___ciclos económicos	Nom Adjectif
+variación	38	35.95	variación___variaciones	Nom
+análisis económico	20	35.86	análisis económico	Nom Adjectif
+burgués	13	35.86	burgués___burgueses	Adjectif
+baja	38	35.85	baja	Nom
+alguien	8	35.82	alguien	Adverbe
+porcentaje de variación	8	35.82	porcentaje de variación___porcentajes de variación	Nom Préposition Nom
+costo primo marginal	8	35.82	costo primo marginal___costos primos marginales	Nom Adjectif Adjectif
+contrato de opción	8	35.82	contrato de opción	Nom Préposition Nom
+serie existente	8	35.82	series existentes	Nom Adjectif
+negociadas	8	35.82	negociadas	Adjectif
+inversión corriente	8	35.82	inversión corriente___inversiones corrientes	Nom Adjectif
+curva de demanda	8	35.82	curva de demanda___curvas de demanda	Nom Préposition Nom
+clasificación crediticia	8	35.82	clasificación crediticia	Nom Adjectif
+ecuación dinámico	8	35.82	ecuación dinámica___ecuaciones dinámicas	Nom Adjectif
+precio implícito	8	35.82	precio implícito___precios implícitos	Nom Adjectif
+condición de ocupación pleno	8	35.82	condiciones de ocupación plena	Nom Préposition Nom Adjectif
+inversión bruto	8	35.82	inversión bruta	Nom Adjectif
+per	8	35.82	per	Adjectif
+jean-paul	8	35.82	jean-paul	Nom
+valor entregables	8	35.82	valores entregables	Nom Nom
+cierre del futuro	8	35.82	cierre del futuro	Nom Préposition Nom
+notas	8	35.82	notas	Adjectif
+modelo de crecimiento endógeno	8	35.82	modelo de crecimiento endógeno___modelos de crecimiento endógeno	Nom Préposition Nom Adjectif
+externalidades	14	35.6	externalidades	Nom
+teoría económico	15	35.57	teoría económica	Nom Adjectif
+condición excepcional	12	35.53	condiciones excepcionales	Nom Adjectif
+clase	116	35.1	clase___clases	Nom
+coincidente	9	34.58	coincidente	Nom
+modelo	191	34.52	modelo___modelos	Nom
+cantidad	179	34.47	cantidad___cantidades	Nom
+capítulo	122	34.32	capítulo___capítulos	Nom
+valor positivo	11	34.3	valor positivo	Nom Adjectif
+tasa de ahorro	10	34.22	tasa de ahorro	Nom Préposition Nom
+faltara	10	34.22	faltara	Verbe
+inversionista	18	33.81	inversionista___inversionistas	Nom
+ceteris paribus	8	33.75	ceteris paribus	Nom Nom
+constante	81	33.64	constante	Adjectif
+teórico	45	33.63	teórico___teórica___teóricas	Adjectif
+productividad	65	33.22	productividad	Nom
+forma de liquidación	7	33.19	forma de liquidación	Nom Préposition Nom
+rendimiento marginal	7	33.19	rendimiento marginal___rendimientos marginales	Nom Adjectif
+miércoles del mes	7	33.19	miércoles del mes	Nom Préposition Nom
+unidad de costo	7	33.19	unidad de costos	Nom Préposition Nom
+condición de ocupación	7	33.19	condiciones de ocupación	Nom Préposition Nom
+actividad de i+d	7	33.19	actividades de i+d	Nom Préposition Nom
+contrato de futuros	7	33.19	contrato de futuros	Nom Préposition Nom
+interés de depósito interbancario	7	33.19	interés de depósito interbancario	Nom Préposition Nom Adjectif
+miles	7	33.19	miles	Nom
+thunen	7	33.19	thunen	Nom
+producción cobb-douglas	7	33.19	producción cobb-douglas	Nom Nom
+país de integración	7	33.19	países de integración	Nom Préposition Nom
+consumo presente	7	33.19	consumo presente	Nom Adjectif
+dividendo nacional	7	33.19	dividendo nacional	Nom Adjectif
+tabla notas	7	33.19	tabla notas	Nom Adjectif
+bien durable	7	33.19	bienes durables	Nom Adjectif
+trimestre	28	33.16	trimestre___trimestres	Nom
+aumento	197	33.11	aumento___aumentos	Nom
+sociología	12	32.97	sociología	Nom
+cartera	40	32.92	cartera	Nom
+clásico	60	32.91	clásico___clásicos___clásicas	Adjectif
+empírico	16	32.83	empírico___empírica	Adjectif
+procedimiento de análisis	11	32.41	procedimiento de análisis	Nom Préposition Nom
+índice	68	32.31	índice___índices	Nom
+fecha de expiración	13	32.3	fecha de expiración	Nom Préposition Nom
+décima de punto	8	31.99	décimas de punto	Nom Préposition Nom
+obligación del estado	10	31.98	obligaciones del estado	Nom Préposition Nom
+depresión	21	31.97	depresión___depresiones	Nom
+descenso	51	31.81	descenso___descensos	Nom
+gráfico	12	31.53	gráfico	Nom
+renta	86	31.32	renta___rentas	Nom
+agregado	21	31.1	agregado___agregados	Nom
+inversión nuevo	7	31.02	inversión nueva___inversiones nuevas	Nom Adjectif
+semana de febrero	7	31.02	semana de febrero	Nom Préposition Nom
+capítulo siguiente	7	31.02	capítulo siguiente___capítulos siguientes	Nom Adjectif
+escuela clásico	7	31.02	escuela clásica	Nom Adjectif
+exógena	7	31.02	exógena	Adjectif
+pág	10	31	pág	Nom
+real	184	30.83	real___reales	Adjectif
+nivel de ocupación	11	30.8	nivel de ocupación	Nom Préposition Nom
+economía	251	30.77	economía___economías	Nom
+tasa de inversión	9	30.59	tasa de inversión___tasas de inversión	Nom Préposition Nom
+tipo de capital	8	30.48	tipo de capital___tipos de capital	Nom Préposition Nom
+producto interior bruto	6	30.33	producto interior bruto	Nom Adjectif Adjectif
+thunen	6	30.33	thunen	Adverbe
+ed	6	30.33	ed	Nom
+maximizan	6	30.33	maximizan	Verbe
+estado de ocupación	6	30.33	estado de ocupación	Nom Préposition Nom
+factor de conversión	6	30.33	factor de conversión	Nom Préposition Nom
+hipótesis de convergencia	6	30.33	hipótesis de convergencia	Nom Préposition Nom
+escuela histórico	6	30.33	escuela histórica___escuelas históricas	Nom Adjectif
+fuentes	6	30.33	fuentes	Adjectif
+petty	6	30.33	petty	Nom
+tecnología ak	6	30.33	tecnología ak	Nom Nom
+negociación del contrato	6	30.33	negociación del contrato	Nom Préposition Nom
+ritmo de descenso	6	30.33	ritmo de descenso	Nom Préposition Nom
+número de bien	6	30.33	número de bienes	Nom Préposition Nom
+costo de factor	6	30.33	costo de factores	Nom Préposition Nom
+liffe	6	30.33	liffe	Nom
+significaciones	6	30.33	significaciones	Nom
+entregables	6	30.33	entregables	Adjectif
+econometrica	6	30.33	econometrica	Adjectif
+mes del año siguiente	6	30.33	mes del año siguiente	Nom Préposition Nom Adjectif
+velocidad-ingreso	6	30.33	velocidad-ingreso	Nom
+acuerdo	6	30.33	acuerdo	Adjectif
+momento del tiempo	6	30.33	momento del tiempo___momentos del tiempo	Nom Préposition Nom
+circulares	6	30.33	circulares	Nom
+teoría del valor	6	30.33	teoría del valor	Nom Préposition Nom
+tipo de interés oficial	6	30.33	tipos de interés oficiales	Nom Préposition Nom Adjectif
+equilibrio competitivo	6	30.33	equilibrio competitivo	Nom Adjectif
+mis	6	30.33	mis	Nom
+país de integración rápido	6	30.33	países de integración rápida	Nom Préposition Nom Adjectif
+país de ingreso alto	6	30.33	países de ingreso alto	Nom Préposition Nom Adjectif
+intertemporal	6	30.33	intertemporal	Adjectif
+modelo de crecimiento	12	30.27	modelo de crecimiento___modelos de crecimiento	Nom Préposition Nom
+depósito	37	30.2	depósito___depósitos	Nom
+obrero	28	29.61	obrero___obreros___obreras	Nom
+unidad de trabajo	9	29.53	unidad de trabajo___unidades de trabajo	Nom Préposition Nom
+crecer	74	29.53	crecer___creces___creció___crecieron	Verbe
+nivel general	17	29.41	nivel general	Nom Adjectif
+psicología	14	29.3	psicología	Nom
+laissez-faire	10	29.29	laissez-faire	Nom
+ingreso alto	7	29.22	ingreso alto	Nom Adjectif
+cantidad de capital	7	29.22	cantidad de capital___cantidades de capital	Nom Préposition Nom
+mes del año	15	29.21	mes del año___meses del año	Nom Préposition Nom
+valor	253	29.08	valor___valores	Nom
+cierre	75	28.68	cierre	Nom
+físico	70	28.61	físico___físicos___físicas	Adjectif
+número de operación	9	28.58	número de operaciones	Nom Préposition Nom
+inversión extranjero	27	28.4	inversión extranjera___inversiones extranjeras	Nom Adjectif
+país industrial	15	28.23	países industriales	Nom Adjectif
+hipótesis	43	28.23	hipótesis	Nom
+infinito	22	28.18	infinito___infinita	Adjectif
+período del año anterior	6	28.05	período del año anterior	Nom Préposition Nom Adjectif
+crecimiento del capital	6	28.05	crecimiento del capital	Nom Préposition Nom
+liberalismo político	6	28.05	liberalismo político	Nom Adjectif
+formación bruto	6	28.05	formación bruta	Nom Adjectif
+proporción	71	27.72	proporción___proporciones	Nom
+variación anual	7	27.7	variación anual	Nom Adjectif
+promedio	30	27.52	promedio	Nom
+índice de producción industrial	5	27.18	índice de producción industrial	Nom Préposition Nom Adjectif
+clase guerrera	5	27.18	clase guerrera	Nom Adjectif
+clase empresarial	5	27.18	clase empresarial	Nom Adjectif
+tabla fuentes	5	27.18	tabla fuentes	Nom Adjectif
+importe neto	5	27.18	importe neto	Nom Adjectif
+contrato por cuenta propio	5	27.18	contrato por cuenta propia	Nom Préposition Nom Adjectif
+alisar	5	27.18	alisar	Verbe
+tabla nota	5	27.18	tabla nota	Nom Adjectif
+tasa de crecimiento positivo	5	27.18	tasa de crecimiento positiva___tasas de crecimiento positivas	Nom Préposition Nom Adjectif
+liquidación por diferencia	5	27.18	liquidación por diferencias	Nom Préposition Nom
+valor día	5	27.18	valor día	Nom Nom
+multifibras	5	27.18	multifibras	Nom
+viet	5	27.18	viet	Nom
+estado de ocupación pleno	5	27.18	estado de ocupación plena	Nom Préposition Nom Adjectif
+depósito interbancarios	5	27.18	depósitos interbancarios	Nom Adjectif
+valor presente	5	27.18	valor presente	Nom Adjectif
+fondo de amortización	5	27.18	fondos de amortización	Nom Préposition Nom
+reserva central	5	27.18	reservas centrales	Nom Nom
+liquidará	5	27.18	liquidará	Verbe
+excedente del ahorro	5	27.18	excedente del ahorro	Nom Préposition Nom
+friccional	5	27.18	friccional	Nom
+hicks	5	27.18	hicks	Nom
+curva de ahorro	5	27.18	curva de ahorro	Nom Préposition Nom
+desocupación involuntario	5	27.18	desocupación involuntaria	Nom Adjectif
+aparato analítico	5	27.18	aparato analítico	Nom Adjectif
+salario monetario	5	27.18	salario monetario___salarios monetarios	Nom Adjectif
+explotación agrícola familiar	5	27.18	explotaciones agrícolas familiares	Nom Adjectif Adjectif
+investigación del ciclo económico	5	27.18	investigación del ciclo económico	Nom Préposition Nom Adjectif
+escala de producción	5	27.18	escala de producción	Nom Préposition Nom
+cobro correspondiente	5	27.18	cobros correspondiente___cobros correspondientes	Nom Adjectif
+econometría	5	27.18	econometría	Nom
+fluctuación diario	5	27.18	fluctuación diaria___fluctuaciones diarias	Nom Adjectif
+radicalismo burgués	5	27.18	radicalismo burgués	Nom Adjectif
+índice de comercio	5	27.18	índices de comercio	Nom Préposition Nom
+eficiencias marginal	5	27.18	eficiencias marginales	Nom Adjectif
+política de salario flexible	5	27.18	política de salarios flexibles	Nom Préposition Nom Adjectif
+tipo de progreso técnico	5	27.18	tipo de progreso técnico___tipos de progreso técnico	Nom Préposition Nom Adjectif
+producción de capital	5	27.18	producción de capital	Nom Préposition Nom
+nuestra teoría	5	27.18	nuestra teoría	Nom Nom
+parámetro de productividad	5	27.18	parámetro de productividad___parámetros de productividad	Nom Préposition Nom
+economía de planificación	5	27.18	economía de planificación	Nom Préposition Nom
+participación del capital físico	5	27.18	participación del capital físico___participaciones del capital físico	Nom Préposition Nom Adjectif
+función	169	27.12	función___funciones	Nom
+maximización	10	26.56	maximización	Nom
+subir	40	26.53	subir___subió___subiera	Verbe
+integración rápido	7	26.38	integración rápida	Nom Adjectif
+nivel de salario	7	26.38	nivel de salarios___niveles de salarios	Nom Préposition Nom
+radicalismo	12	26.37	radicalismo	Nom
+hora de cierre	6	26.21	hora de cierre	Nom Préposition Nom
+quintal	6	26.21	quintal___quintales	Nom
+ingreso total	6	26.21	ingreso total	Nom Adjectif
+crecimiento positivo	6	26.21	crecimiento positivo___crecimiento positiva___crecimiento positivas	Nom Adjectif
+corriente	36	25.92	corriente___corrientes	Adjectif
+bolsa	34	25.82	bolsa___bolsas	Nom
+aumentar	174	25.78	aumentar___aumentara___aumentaran___aumentarían	Verbe
+población activo	26	25.7	población activa	Nom Adjectif
+anterior	164	25.48	anterior___anteriores	Adjectif
+remuneración	42	25.37	remuneración___remuneraciones	Nom
+amortización	16	25.33	amortización	Nom
+involuntario	15	25.31	involuntario___involuntarios	Adjectif
+alcista	7	25.24	alcista	Adjectif
+política de salario	7	25.24	política de salarios	Nom Préposition Nom
+liberalismo económico	10	24.94	liberalismo económico	Nom Adjectif
+fecha de vencimiento	9	24.87	fecha de vencimiento	Nom Préposition Nom
+situación científico	5	24.78	situación científica	Nom Adjectif
+secretaría de estado	5	24.78	secretaría de estado	Nom Préposition Nom
+proporción exacto	5	24.78	proporción exacta	Nom Adjectif
+fim	5	24.78	fim	Nom
+párrafo anterior	5	24.78	párrafo anterior	Nom Adjectif
+sahara	5	24.78	sahara	Nom
+decenal	5	24.78	decenal	Nom
+equipo de producción	5	24.78	equipo de producción	Nom Préposition Nom
+capital físico y humano	5	24.78	capital físico y humano	Nom Adjectif Coord_Conjunction Adjectif
+repuntar	5	24.78	repuntar___repuntaron	Verbe
+cifra provisional	6	24.69	cifras provisionales	Nom Adjectif
+economía español	6	24.69	economía española	Nom Nom
+esquema	33	24.63	esquema___esquemas	Nom
+supuesto	37	24.59	supuesto___supuestos	Adjectif
+inferior	63	24.24	inferior___inferiores	Adjectif
+término monetario	7	24.23	términos monetarios	Nom Adjectif
+correspondiente	119	24.04	correspondiente___correspondientes	Adjectif
+ascendente	13	24	ascendente	Adjectif
+ganancia	32	23.83	ganancia___ganancias	Nom
+probable	55	23.8	probable___probables	Adjectif
+momento del ejercicio	4	23.63	momento del ejercicio	Nom Préposition Nom
+obligación alemán	4	23.63	obligaciones alemanas	Nom Adjectif
+teoría puro	4	23.63	teoría pura	Nom Adjectif
+posición comprador	4	23.63	posición compradora	Nom Nom
+crecimiento exógeno	4	23.63	crecimiento exógeno	Nom Adjectif
+nuestras	4	23.63	nuestras	Verbe
+serie introducción	4	23.63	series introducción	Nom Nom
+nueva serie	4	23.63	nuevas series	Nom Nom
+stock medio	4	23.63	stock medio	Nom Adjectif
+variación pequeño	4	23.63	variación mínima	Nom Adjectif
+fluctuación correspondiente	4	23.63	fluctuación correspondiente___fluctuaciones correspondientes	Nom Adjectif
+punto en peseta	4	23.63	punto en pesetas	Nom Préposition Nom
+tasa de variación	4	23.63	tasa de variación	Nom Préposition Nom
+trayectoria de consumo	4	23.63	trayectoria de consumo___trayectorias de consumo	Nom Préposition Nom
+nuestro conocimiento	4	23.63	nuestro conocimiento	Nom Nom
+clase de opción	4	23.63	clase de opciones___clases de opciones	Nom Préposition Nom
+día del ejercicio	4	23.63	día del ejercicio	Nom Préposition Nom
+desbordamiento del conocimiento	4	23.63	desbordamiento del conocimiento	Nom Préposition Nom
+economista del período	4	23.63	economistas del período	Nom Préposition Nom
+cotización del subyacente	4	23.63	cotización del subyacente	Nom Préposition Nom
+serie negociadas	4	23.63	series negociadas	Nom Adjectif
+socialista de cátedra	4	23.63	socialistas de cátedra	Nom Préposition Nom
+clase negociadas	4	23.63	clases negociadas	Nom Adjectif
+vol	4	23.63	vol	Nom
+intervalo de precio	4	23.63	intervalo de precio	Nom Préposition Nom
+costo de reposición	4	23.63	costo de reposición	Nom Préposition Nom
+precio de ejercicio pequeño	4	23.63	precios de ejercicio menores	Nom Préposition Nom Adjectif
+precio de ejercicio grande	4	23.63	precios de ejercicio mayores	Nom Préposition Nom Adjectif
+subyacente del día anterior	4	23.63	subyacente del día anterior	Nom Préposition Nom Adjectif
+political	4	23.63	political	Nom
+historia del análisis	4	23.63	historia del análisis	Nom Préposition Nom
+serie de opción adicional	4	23.63	series de opciones adicionales	Nom Préposition Nom Adjectif
+entregable	4	23.63	entregable	Adjectif
+sector de bien final	4	23.63	sector de bienes finales	Nom Préposition Nom Adjectif
+razón intuitiva	4	23.63	razón intuitiva	Nom Adjectif
+volumen de demanda	4	23.63	volumen de demanda	Nom Préposition Nom
+imperfect	4	23.63	imperfect	Nom
+restricción dinámico	4	23.63	restricción dinámica___restricciones dinámicas	Nom Adjectif
+tasa interanual	4	23.63	tasa interanual	Nom Adjectif
+stocks de capital	4	23.63	stocks de capital	Nom Préposition Nom
+renta inicial	4	23.63	renta inicial	Nom Adjectif
+sentido anterior	4	23.63	sentido anterior	Nom Adjectif
+ingreso monetario	4	23.63	ingreso monetario___ingresos monetarios	Nom Adjectif
+sistema de idea	4	23.63	sistemas de ideas	Nom Préposition Nom
+moneda español	4	23.63	moneda española	Nom Nom
+pareto	4	23.63	pareto	Nom
+fecha de amortización	4	23.63	fecha de amortización	Nom Préposition Nom
+vida residual	4	23.63	vida residual	Nom Adjectif
+cupón anual	4	23.63	cupón anual	Nom Adjectif
+escolásticos	4	23.63	escolásticos	Adjectif
+parámetro del modelo	4	23.63	parámetros del modelo	Nom Préposition Nom
+monvalor	4	23.63	monvalor	Nom
+precio del futuro	4	23.63	precio del futuro	Nom Préposition Nom
+capital por trabajador	4	23.63	capital por trabajador	Nom Préposition Nom
+precio en relación	4	23.63	precio en relación	Nom Préposition Nom
+distribución del ingreso	4	23.63	distribución del ingreso	Nom Préposition Nom
+cálculo razonable	4	23.63	cálculo razonable___cálculos razonables	Nom Adjectif
+solow	4	23.63	solow	Nom
+tipo de interés bancario	4	23.63	tipos de interés bancarios	Nom Préposition Nom Adjectif
+valor igual	4	23.63	valor igual	Nom Adjectif
+tasa exógena	4	23.63	tasa exógena	Nom Adjectif
+sobrestructura	4	23.63	sobrestructura	Nom
+priori	4	23.63	priori	Nom
+utilidad marginal	4	23.63	utilidad marginal	Nom Adjectif
+ocupación completo	4	23.63	ocupación completa	Nom Adjectif
+cierre de sesión	4	23.63	cierre de sesión	Nom Préposition Nom
+tinbergen	4	23.63	tinbergen	Nom
+especificación técnico activo	4	23.63	especificaciones técnicas activo	Nom Adjectif Adjectif
+consumo futuro	4	23.63	consumo futuro	Nom Adjectif
+producción neto	4	23.63	producción neta	Nom Adjectif
+productor de bien final	4	23.63	productores de bienes finales	Nom Préposition Nom Adjectif
+producción en conjunto	4	23.63	producción en conjunto	Nom Préposition Nom
+empresa de i+d	4	23.63	empresas de i+d	Nom Préposition Nom
+bajistas	4	23.63	bajistas	Adjectif
+intervalo grande	4	23.63	intervalo máximo	Nom Adjectif
+gasto en consumo	4	23.63	gasto en consumo___gastos en consumo	Nom Préposition Nom
+nuestro país	4	23.63	nuestro país	Nom Nom
+ine	4	23.63	ine	Nom
+productividad marginal neto	4	23.63	productividad marginal neta	Nom Adjectif Adjectif
+hipótesis explicativo	4	23.63	hipótesis explicativa___hipótesis explicativas	Nom Adjectif
+ocupación en conjunto	4	23.63	ocupación en conjunto	Nom Préposition Nom
+demanda global efectivo	4	23.63	demanda global efectiva	Nom Adjectif Adjectif
+opción	100	23.42	opción___opciones	Nom
+precio oficial	6	23.4	precio oficial	Nom Adjectif
+juicio de valor	12	23.35	juicio de valor___juicios de valor	Nom Préposition Nom
+bolsa de valor	7	23.33	bolsa de valores___bolsas de valores	Nom Préposition Nom
+descendente	14	23.31	descendente	Adjectif
+mano de obra	43	23.12	mano de obra	Nom Préposition Nom
+empresario	67	23.06	empresario___empresarios	Nom
+intuitiva	5	22.92	intuitiva	Adjectif
+mecanismo cambiario	5	22.92	mecanismo cambiario	Nom Adjectif
+precio industrial	5	22.92	precios industriales	Nom Adjectif
+cuenta de tesorería	5	22.92	cuentas de tesorería	Nom Préposition Nom
+ingreso mediano	5	22.92	ingreso mediano	Nom Adjectif
+simulación	11	22.69	simulación	Nom
+obra	92	22.62	obra___obras	Nom
+época	61	22.37	época___épocas	Nom
+desinversión	6	22.29	desinversión	Nom
+sector informal	6	22.29	sector informal	Nom Adjectif
+restricción presupuestario	15	22.27	restricción presupuestaria___restricciones presupuestarias	Nom Adjectif
+festivo	14	21.98	festivo	Adjectif
+tipo	258	21.96	tipo___tipos	Nom
+período de negociación	8	21.9	período de negociación	Nom Préposition Nom
+liquidez	20	21.86	liquidez	Nom
+crediticia	9	21.84	crediticia	Adjectif
+descuento	15	21.81	descuento___descuentos	Nom
+período del año	7	21.78	período del año	Nom Préposition Nom
+término	159	21.71	término___términos	Nom
+efectivo	98	21.69	efectivo___efectivos___efectivas	Adjectif
+expectativa	60	21.6	expectativa___expectativas	Nom
+tender	51	21.57	tender___tenderá___tendía___tendieron	Verbe
+alza de precio	5	21.41	alza de precios	Nom Préposition Nom
+capital fijo	5	21.41	capital fijo	Nom Adjectif
+frugalidad	5	21.41	frugalidad	Nom
+activo	106	21.32	activo___activa	Adjectif
+parámetro	36	21.23	parámetro___parámetros	Nom
+eficiencia	56	21.11	eficiencia	Nom
+condición de introducción	4	21.1	condiciones de introducción	Nom Préposition Nom
+consecuencia del ejercicio	4	21.1	consecuencia del ejercicio	Nom Préposition Nom
+coste de investigación	4	21.1	costes de investigación	Nom Préposition Nom
+pernoctaciones	4	21.1	pernoctaciones	Nom
+producción correspondiente	4	21.1	producción correspondiente	Nom Adjectif
+déficit fiscal	4	21.1	déficit fiscal___déficit fiscales	Nom Adjectif
+ocupación total	4	21.1	ocupación total	Nom Adjectif
+ritmo de expansión	4	21.1	ritmo de expansión	Nom Préposition Nom
+restará	4	21.1	restará	Verbe
+teoremas	4	21.1	teoremas	Nom
+teoría cuantitativa	4	21.1	teoría cuantitativa	Nom Adjectif
+índice general	4	21.1	índice general	Nom Adjectif
+factor objetivo	4	21.1	factores objetivos	Nom Adjectif
+cláusula opcional	4	21.1	cláusula opcional	Nom Adjectif
+literatura económico	4	21.1	literatura económica	Nom Adjectif
+clase de inversión	4	21.1	clase de inversión___clase de inversiones___clases de inversiones	Nom Préposition Nom
+tipo americano	4	21.1	tipo americano	Nom Adjectif
+mes anterior	9	21.05	mes anterior___meses anteriores	Nom Adjectif
+utilidad	56	21.01	utilidad___utilidades	Nom
+horario	28	21.01	horario	Nom
+caja	38	21	caja___cajas	Nom
+consumo privado	9	20.68	consumo privado	Nom Adjectif
+alquiler	14	20.54	alquiler___alquileres	Nom
+cambio	210	20.51	cambio___cambios	Nom
+desbordamiento	7	20.5	desbordamiento	Nom
+reposición	7	20.5	reposición	Nom
+reserva financiero	7	20.5	reserva financiera___reservas financieras	Nom Adjectif
+feudal	6	20.46	feudal	Adjectif
+costo del transporte	6	20.46	costo del transporte___costos del transporte	Nom Préposition Nom
+capital inicial	8	20.44	capital inicial___capital iniciales	Nom Adjectif
+estadístico	49	20.34	estadístico___estadísticos___estadísticas	Adjectif
+media	34	20.29	media	Nom
+economía cerrado	5	20.16	economía cerrada	Nom Adjectif
+producto financiero	11	20.08	productos financieros	Nom Adjectif
+manufactura	8	20.01	manufacturas	Nom
+tónico	10	19.94	tónica	Adjectif
+cátedra	7	19.94	cátedra	Nom
+profesor	48	19.7	profesor___profesores	Nom
+través del tiempo	6	19.7	través del tiempo	Nom Préposition Nom
+cálculo	46	19.7	cálculo___cálculos	Nom
+séptimo	11	19.66	séptimo	Nom
+febrero	61	19.59	febrero	Nom
+capital en giro	3	19.48	capital en giro	Nom Préposition Nom
+opinión medio	3	19.48	opinión media	Nom Adjectif
+integración escaso y lento	3	19.48	integración escasa y lenta	Nom Adjectif Coord_Conjunction Adjectif
+día de vencimiento	3	19.48	día de vencimiento	Nom Préposition Nom
+esquema cultural	3	19.48	esquema cultural	Nom Adjectif
+valuación	3	19.48	valuación	Nom
+orden de sustracción	3	19.48	orden de sustracción	Nom Préposition Nom
+precio de cierre especial	3	19.48	precio de cierre especial	Nom Préposition Nom Adjectif
+unidad adicional	3	19.48	unidad adicional	Nom Adjectif
+capital líquido	3	19.48	capital líquido	Nom Adjectif
+país de producción primario	3	19.48	países de producción primaria	Nom Préposition Nom Adjectif
+existencia de artículo	3	19.48	existencia de artículos___existencias de artículos	Nom Préposition Nom
+fiamm	3	19.48	fiamm	Nom
+dígito decimal	3	19.48	dígitos decimales	Nom Adjectif
+teoría del equilibrio	3	19.48	teoría del equilibrio	Nom Préposition Nom
+modelo de solow	3	19.48	modelo de solow	Nom Préposition Nom
+mercado interbancario	3	19.48	mercado interbancario	Nom Adjectif
+letra del tesoro	3	19.48	letras del tesoro	Nom Préposition Nom
+maximizan	3	19.48	maximizan	Nom
+decena de febrero	3	19.48	decena de febrero	Nom Préposition Nom
+elasticidades	3	19.48	elasticidades	Nom
+derivamos	3	19.48	derivamos	Verbe
+ritmo de integración económico	3	19.48	ritmo de integración económica	Nom Préposition Nom Adjectif
+valor de rendimiento variable	3	19.48	valores de rendimiento variable	Nom Préposition Nom Adjectif
+horario de cierre	3	19.48	horario de cierre	Nom Préposition Nom
+índice de base	3	19.48	índice de base	Nom Préposition Nom
+confeccionará	3	19.48	confeccionará	Verbe
+italian	3	19.48	italian	Verbe
+matif	3	19.48	matif	Nom
+expectativa matemático	3	19.48	expectativa matemática	Nom Adjectif
+tipo de referencia	3	19.48	tipo de referencia___tipos de referencia	Nom Préposition Nom
+límite de fluctuación grande	3	19.48	límites de fluctuación máxima	Nom Préposition Nom Adjectif
+sesión de meff renta	3	19.48	sesión de meff renta	Nom Préposition Nom Adjectif
+german	3	19.48	german	Verbe
+economista profesional	3	19.48	economistas profesionales	Nom Adjectif
+cantidad físico	3	19.48	cantidad física	Nom Adjectif
+razón de calendario	3	19.48	razones de calendario	Nom Préposition Nom
+medias	3	19.48	medias	Nom
+importación bien	3	19.48	importación bienes___importaciones bienes	Nom Nom
+equipo de capital	3	19.48	equipo de capital	Nom Préposition Nom
+diferencia en precio	3	19.48	diferencia en precio	Nom Préposition Nom
+progreso técnico neutral	3	19.48	progreso técnico neutral	Nom Adjectif Adjectif
+teoría del dinero	3	19.48	teoría del dinero	Nom Préposition Nom
+categoría de integración	3	19.48	categorías de integración	Nom Préposition Nom
+porcentaje de variación anual	3	19.48	porcentaje de variación anual	Nom Préposition Nom Adjectif
+hora español	3	19.48	hora española	Nom Nom
+bolsa español	3	19.48	bolsa española	Nom Nom
+medida en unidad	3	19.48	medida en unidades	Nom Préposition Nom
+cantidad de capital humano	3	19.48	cantidad de capital humano___cantidades de capital humano	Nom Préposition Nom Adjectif
+teoría del comportamiento	3	19.48	teoría del comportamiento	Nom Préposition Nom
+proposición	19	19.48	proposición___proposiciones	Nom
+expectativa de descenso	3	19.48	expectativas de descenso___expectativas de descensos	Nom Préposition Nom
+precio mencionado	3	19.48	precios mencionado	Nom Adjectif
+unidad estructural	3	19.48	unidad estructural___unidades estructurales	Nom Adjectif
+obligation notionnelle	3	19.48	obligation notionnelle	Nom Adjectif
+canal de información público	3	19.48	canales de información pública	Nom Préposition Nom Adjectif
+sraffa	3	19.48	sraffa	Nom
+factor subjetivo	3	19.48	factores subjetivos	Nom Adjectif
+fija posterior	3	19.48	fija posterior	Nom Adjectif
+fabianos	3	19.48	fabianos	Nom
+nuestras	3	19.48	nuestras	Adjectif
+tasa de interés real	3	19.48	tasas de interés real	Nom Préposition Nom Adjectif
+pérdida de capital	3	19.48	pérdida de capital___pérdidas de capital	Nom Préposition Nom
+vencimiento pertinente	3	19.48	vencimiento pertinente	Nom Adjectif
+definición de inversión	3	19.48	definición de inversión	Nom Préposition Nom
+incorporación del progreso técnico	3	19.48	incorporación del progreso técnico	Nom Préposition Nom Adjectif
+fija siguiente	3	19.48	fija siguiente	Nom Adjectif
+françoise	3	19.48	françoise	Nom
+resto de edad	3	19.48	resto de edades	Nom Préposition Nom
+phelps	3	19.48	phelps	Nom
+nuestro análisis	3	19.48	nuestro análisis	Nom Nom
+sesión de vivo	3	19.48	sesión de viva	Nom Préposition Nom
+ausencia de externalidades	3	19.48	ausencia de externalidades	Nom Préposition Nom
+multiplicada	3	19.48	multiplicada	Verbe
+función homogéneo	3	19.48	función homogénea	Nom Adjectif
+futuro bono	3	19.48	futuro bono	Nom Nom
+tinbergen	3	19.48	tinbergen	Verbe
+inversionista profesional	3	19.48	inversionista profesional___inversionistas profesionales	Nom Adjectif
+nivel pequeño histórico	3	19.48	nivel mínimo histórico___niveles mínimos históricos	Nom Adjectif Adjectif
+sistema walrasiano	3	19.48	sistema walrasiano	Nom Adjectif
+planificador central	3	19.48	planificador central	Nom Adjectif
+tasa de acumulación	3	19.48	tasa de acumulación	Nom Préposition Nom
+licitación oficial	3	19.48	licitación oficial	Nom Adjectif
+formación neto	3	19.48	formación neta	Nom Adjectif
+teoría fundamental	3	19.48	teoría fundamental	Nom Adjectif
+transición dinámico	3	19.48	transición dinámica	Nom Adjectif
+von	3	19.48	von	Verbe
+monto del consumo	3	19.48	monto del consumo	Nom Préposition Nom
+bono alemán	3	19.48	bonos alemanes	Nom Adjectif
+curva de preferencia	3	19.48	curva de preferencia	Nom Préposition Nom
+ocupación existente	3	19.48	ocupación existente	Nom Adjectif
+volumen de demanda efectivo	3	19.48	volumen de demanda efectiva	Nom Préposition Nom Adjectif
+profesor von	3	19.48	profesor von	Nom Nom
+desaceleró	3	19.48	desaceleró	Verbe
+proporción constante	3	19.48	proporción constante	Nom Adjectif
+elasticidad de sustitución	3	19.48	elasticidad de sustitución	Nom Préposition Nom
+especificación reglamentario correspondiente	3	19.48	especificaciones reglamentarias correspondientes	Nom Adjectif Adjectif
+existencia excedente	3	19.48	existencias excedentes	Nom Adjectif
+tipo oficial	3	19.48	tipo oficial___tipos oficiales	Nom Adjectif
+vencimiento del contrato	3	19.48	vencimiento del contrato	Nom Préposition Nom
+per cápita	3	19.48	per cápita	Nom Nom
+estado del crédito	3	19.48	estado del crédito	Nom Préposition Nom
+economista inglés	3	19.48	economistas ingleses	Nom Adjectif
+remuneración relativo	3	19.48	remuneración relativa	Nom Adjectif
+ricardiana	3	19.48	ricardiana	Adjectif
+afluencia de inversión extranjero	3	19.48	afluencia de inversión extranjera	Nom Préposition Nom Adjectif
+utilidad sujeto	3	19.48	utilidad sujeto___utilidad sujeta	Nom Adjectif
+déficit de caja	3	19.48	déficit de caja	Nom Préposition Nom
+saldo vivo	3	19.48	saldo vivo	Nom Adjectif
+rendimiento privado	3	19.48	rendimiento privado___rendimiento privada	Nom Adjectif
+nómina de salario	3	19.48	nómina de salario___nómina de salarios___nóminas de salarios	Nom Préposition Nom
+profesión económico	3	19.48	profesión económica	Nom Adjectif
+tasa de inversión extranjero	3	19.48	tasas de inversión extranjera	Nom Préposition Nom Adjectif
+áfrica	3	19.48	áfrica	Nom
+utilidad del salario	3	19.48	utilidad del salario	Nom Préposition Nom
+curva de eficiencia marginal	3	19.48	curva de eficiencia marginal___curvas de eficiencia marginal	Nom Préposition Nom Adjectif
+función de felicidad	3	19.48	función de felicidad___funciones de felicidad	Nom Préposition Nom
+billete verde	3	19.48	billete verde	Nom Adjectif
+rentista	3	19.48	rentista	Adjectif
+cantidad en peseta	3	19.48	cantidad en pesetas	Nom Préposition Nom
+costo de trabajo	3	19.48	costo de trabajo___costos de trabajo	Nom Préposition Nom
+bono del tesoro	3	19.48	bonos del tesoro	Nom Préposition Nom
+cantidad de ocupación	3	19.48	cantidad de ocupación___cantidades de ocupación	Nom Préposition Nom
+central de divisa	3	19.48	centrales de divisas	Nom Préposition Nom
+ahorro total	3	19.48	ahorro total	Nom Adjectif
+agente individual	3	19.48	agentes individuales	Nom Adjectif
+volumen de contratación	3	19.48	volumen de contratación___volúmenes de contratación	Nom Préposition Nom
+optimismo espontáneo	3	19.48	optimismo espontáneo	Nom Adjectif
+salario corriente	3	19.48	salario corriente	Nom Adjectif
+value	3	19.48	value	Nom
+intergeneracionales	3	19.48	intergeneracionales	Adjectif
+principales	3	19.48	principales	Nom
+individuo ignorante	3	19.48	individuo ignorante___individuos ignorantes	Nom Adjectif
+tipo cobb-douglas	3	19.48	tipo cobb-douglas	Nom Nom
+capital humano medio	3	19.48	capital humano medio	Nom Adjectif Adjectif
+producción de capital humano	3	19.48	producción de capital humano	Nom Préposition Nom Adjectif
+nuestro	3	19.48	nuestro	Verbe
+económetras	3	19.48	económetras	Adjectif
+adición neto	3	19.48	adición neta	Nom Adjectif
+base convencional	3	19.48	bases convencionales	Nom Adjectif
+depreció	3	19.48	depreció	Verbe
+diferencial parcial	3	19.48	diferenciales parciales	Nom Adjectif
+teoría del monopolio	3	19.48	teoría del monopolio___teorías del monopolio	Nom Préposition Nom
+tendenciosidad ideológico	3	19.48	tendenciosidad ideológica	Nom Adjectif
+nivel de precio	11	19.45	nivel de precio___nivel de precios___niveles de precios	Nom Préposition Nom
+subproducto	7	19.42	subproducto	Nom
+cfr	4	19.23	cfr	Nom
+teoría general	4	19.23	teoría general	Nom Adjectif
+nivel de capital	4	19.23	nivel de capital___niveles de capital	Nom Préposition Nom
+término de dinero	4	19.23	términos de dinero	Nom Préposition Nom
+sistema cerrado	8	19.23	sistema cerrado	Nom Adjectif
+grupo de trabajador	8	19.23	grupo de trabajadores___grupos de trabajadores	Nom Préposition Nom
+modificable	4	19.23	modificable	Adjectif
+fraile	5	19.1	frailes	Nom
+tipo de modelo	5	19.1	tipo de modelos	Nom Préposition Nom
+ingreso global	5	19.1	ingreso global	Nom Adjectif
+feudales	6	19.01	feudales	Adjectif
+ventaja social	6	19.01	ventaja social___ventajas sociales	Nom Adjectif
+naturaleza humano	7	18.94	naturaleza humana	Nom Adjectif
+ritmo	50	18.93	ritmo	Nom
+liberalismo	21	18.92	liberalismo	Nom
+subyacente	27	18.68	subyacente	Adjectif
+saldo	20	18.65	saldo___saldos	Nom
+interés	253	18.57	interés___intereses	Nom
+diferencial	7	18.48	diferencial___diferenciales	Nom
+intervalo	15	18.47	intervalo___intervalos	Nom
+leve	6	18.39	levemente	Adverbe
+government	6	18.39	government	Nom
+cuenta corriente	6	18.39	cuenta corriente___cuentas corrientes	Nom Adjectif
+mensual	20	18.26	mensual___mensuales	Adjectif
+coste marginal	8	18.2	coste marginal___costes marginales	Nom Adjectif
+trabajo disponible	5	18.19	trabajo disponible___trabajo disponibles	Nom Adjectif
+crédito bancario	7	18.06	crédito bancario	Nom Adjectif
+desgaste	7	18.06	desgaste	Nom
+ciclo	36	17.98	ciclo___ciclos	Nom
+matemático	12	17.92	matemático___matemática___matemáticas	Adjectif
+empresa individual	6	17.82	empresa individual___empresas individuales	Nom Adjectif
+respectivamente	23	17.81	respectivamente	Adverbe
+yen	4	17.78	yenes	Nom
+demanda total	4	17.78	demanda total	Nom Adjectif
+diferencia de remuneración	4	17.78	diferencia de remuneración___diferencias de remuneración	Nom Préposition Nom
+demanda exterior	4	17.78	demanda exterior	Nom Adjectif
+valor del producto	4	17.78	valor del producto	Nom Préposition Nom
+periodo largo	4	17.78	periodo largo___periodos largos	Nom Adjectif
+orientación de mercado	4	17.78	orientación de mercado	Nom Préposition Nom
+depender	94	17.7	depender___dependerá___dependa	Verbe
+año anterior	27	17.67	año anterior___años anteriores	Nom Adjectif
+variable	21	17.6	variable___variables	Adjectif
+fondo de inversión	11	17.54	fondos de inversión	Nom Préposition Nom
+doctrina	23	17.51	doctrina___doctrinas	Nom
+contemporáneo	16	17.49	contemporáneo___contemporáneos___contemporáneas	Adjectif
+ingreso nacional	5	17.4	ingreso nacional	Nom Adjectif
+economía en transición	5	17.4	economías en transición	Nom Préposition Nom
+tendencia	66	17.32	tendencia___tendencias	Nom
+siguiente	136	17.31	siguiente___siguientes	Adjectif
+tesorería	7	17.3	tesorería	Nom
+contracción	6	17.3	contracción	Nom
+volumen de inversión	6	17.3	volumen de inversión	Nom Préposition Nom
+análisis	93	17.28	análisis	Nom
+expiración	16	17.27	expiración	Nom
+equipo	63	17.24	equipo___equipos	Nom
+bruto	32	17.23	bruto___bruta___brutas	Adjectif
+determinar	76	17.21	determinar___determinará___determinó	Verbe
+dinero	134	17.11	dinero	Nom
+probabilidad	23	17.07	probabilidad___probabilidades	Nom
+influencia	61	17.03	influencia	Nom
+tasa de paro	10	17.02	tasa de paro	Nom Préposition Nom
+caja de ahorro	7	16.95	caja de ahorros___cajas de ahorros	Nom Préposition Nom
+cambio frente	3	16.84	cambio frente	Nom Nom
+interés proteccionista	3	16.84	intereses proteccionistas	Nom Adjectif
+burgués	3	16.84	burgueses	Nom
+iguale	3	16.84	iguale	Verbe
+imperfectamente	3	16.84	imperfectamente	Adverbe
+plus	3	16.84	plus	Nom
+capital total	3	16.84	capital total	Nom Adjectif
+etnología	3	16.84	etnología	Nom
+ed	3	16.84	ed	Adjectif
+ascendentes	3	16.84	ascendentes	Adjectif
+atesoramiento	3	16.84	atesoramiento	Nom
+economista clásico	3	16.84	economista clásico___economistas clásicos	Nom Adjectif
+análisis causal	3	16.84	análisis causal	Nom Adjectif
+bien intermedio	3	16.84	bienes intermedios	Nom Adjectif
+flujo de caja	3	16.84	flujos de caja	Nom Préposition Nom
+tasa efectivo	3	16.84	tasa efectiva	Nom Adjectif
+rentistas	3	16.84	rentistas	Nom
+aumento del capital	4	16.61	aumento del capital	Nom Préposition Nom
+consumo público	4	16.61	consumo público	Nom Adjectif
+bien industrial	4	16.61	bienes industriales	Nom Adjectif
+calculará	4	16.61	calculará	Verbe
+rival	4	16.61	rival	Adjectif
+bajista	4	16.61	bajista	Adjectif
+año precedente	8	16.54	año precedente___años precedentes	Nom Adjectif
+fijo	33	16.49	fijo___fijos___fijas	Adjectif
+durable	10	16.39	durable___durables	Adjectif
+literatura	15	16.37	literatura	Nom
+igual	128	16.36	igual___iguales	Adjectif
+cotización	25	16.36	cotización___cotizaciones	Nom
+numérico	13	16.34	numérico___numérica	Adjectif
+bajo	81	16.3	bajo___bajos___bajas	Adjectif
+historia económico	5	16.07	historia económica	Nom Adjectif
+burguesía	5	16.07	burguesía	Nom
+interbancarios	6	15.97	interbancarios	Adjectif
+bajar	26	15.92	bajar___bajará___bajó	Verbe
+cliente	36	15.89	cliente___clientes	Nom
+medio	60	15.88	medio___media___medias	Adjectif
+tesoro	10	15.81	tesoro	Nom
+expansión	27	15.64	expansión	Nom
+producción final	4	15.63	producción final	Nom Adjectif
+introducción de nueva	4	15.63	introducción de nuevas	Nom Préposition Nom
+obsolescencia	4	15.63	obsolescencia	Nom
+cifra estadístico	4	15.63	cifras estadísticas	Nom Adjectif
+comportamiento	48	15.59	comportamiento___comportamientos	Nom
+superior	60	15.51	superior___superiores	Adjectif
+método estadístico	5	15.5	método estadístico___métodos estadísticos	Nom Adjectif
+diviso	5	15.5	divisa___divisas	Adjectif
+crecimiento superior	5	15.5	crecimiento superior	Nom Adjectif
+producción total	7	15.45	producción total	Nom Adjectif
+subastar	20	15.42	subastas	Verbe
+argumentación	16	15.35	argumentación	Nom
+ahorrar	29	15.29	ahorrar___ahorra___ahorrarse	Verbe
+nivel	224	15.26	nivel___niveles	Nom
+postular	8	15.25	postular___postula___postulamos	Verbe
+reescribir	6	15.23	reescribir	Verbe
+sector educativo	6	15.23	sector educativo	Nom Adjectif
+condición general	10	15.17	condiciones generales	Nom Adjectif
+historiador	10	15.05	historiador___historiadores	Nom
+vestuario	3	15.03	vestuario	Nom
+volumen real	3	15.03	volumen real	Nom Adjectif
+costo de almacenamiento	3	15.03	costos de almacenamiento	Nom Préposition Nom
+escuela de pensamiento	3	15.03	escuela de pensamiento	Nom Préposition Nom
+término de unidad	3	15.03	términos de unidades	Nom Préposition Nom
+volumen de capital	3	15.03	volumen de capital	Nom Préposition Nom
+ahorro individual	3	15.03	ahorro individual	Nom Adjectif
+cifró	3	15.03	cifró	Verbe
+demanda de dinero	3	15.03	demanda de dinero	Nom Préposition Nom
+concursante	3	15.03	concursante___concursantes	Nom
+revaluaciones	3	15.03	revaluaciones	Nom
+número de individuo	3	15.03	número de individuos	Nom Préposition Nom
+firma individual	3	15.03	firma individual	Nom Adjectif
+número de unidad	3	15.03	número de unidades	Nom Préposition Nom
+país de ingreso mediano	3	15.03	países de ingreso mediano	Nom Préposition Nom Adjectif
+diferencial de precio	3	15.03	diferencial de precios	Nom Préposition Nom
+racionalizaciones	3	15.03	racionalizaciones	Nom
+marxistas	3	15.03	marxistas	Adjectif
+propensión marginal	3	15.03	propensión marginal	Nom Adjectif
+vivo voz	3	15.03	viva voz	Nom Nom
+ritmo de reducción	3	15.03	ritmo de reducción	Nom Préposition Nom
+inputs	3	15.03	inputs	Nom
+sector de bien	3	15.03	sector de bienes	Nom Préposition Nom
+trayectoria	18	15.02	trayectoria___trayectorias	Nom
+variar	25	14.86	variar___variará___varían___variaban	Verbe
+total	95	14.82	total___totales	Adjectif
+analíticas	4	14.81	analíticas	Adjectif
+generalizaciones	4	14.81	generalizaciones	Nom
+bien público	9	14.74	bien público___bienes públicos	Nom Adjectif
+expresará	7	14.72	expresará	Verbe
+nivel existente	5	14.53	nivel existente	Nom Adjectif
+decimal	5	14.53	decimales	Adjectif
+trabajador	127	14.5	trabajador___trabajadora___trabajadores	Nom
+ligar	7	14.49	ligar___liga	Verbe
+comprar	51	14.37	comprar___compras___compre___comprarlas	Verbe
+economista teórico	2	14.31	economista teórico	Nom Adjectif
+aumento de riqueza	2	14.31	aumento de riqueza	Nom Préposition Nom
+teoría moderno	2	14.31	teoría moderna	Nom Adjectif
+cupón anual postpagable	2	14.31	cupón anual postpagable	Nom Adjectif Adjectif
+ahorro bruto	2	14.31	ahorro bruto	Nom Adjectif
+índice de venta	2	14.31	índice de ventas___índices de ventas	Nom Préposition Nom
+denotamos	2	14.31	denotamos	Verbe
+tabla dólar	2	14.31	tabla dólar	Nom Adjectif
+gestora de fondo	2	14.31	gestora de fondos	Nom Préposition Nom
+propiedad neoclásico	2	14.31	propiedades neoclásicas	Nom Adjectif
+valor del producto final	2	14.31	valor del producto final	Nom Préposition Nom Adjectif
+consumo de cemento	2	14.31	consumo de cemento	Nom Préposition Nom
+órganon	2	14.31	órganon	Nom
+característica psicológico	2	14.31	características psicológicas	Nom Adjectif
+ciclo intergeneracionales	2	14.31	ciclos intergeneracionales	Nom Adjectif
+crecimiento interanual	2	14.31	crecimiento interanual	Nom Adjectif
+precio del alquiler	2	14.31	precio del alquiler	Nom Préposition Nom
+individuo maximizan	2	14.31	individuos maximizan	Nom Nom
+ingreso marginal	2	14.31	ingreso marginal	Nom Adjectif
+sentido ascendente	2	14.31	sentido ascendente	Nom Adjectif
+tasa de variación anual	2	14.31	tasa de variación anual	Nom Préposition Nom Adjectif
+endogeneización	2	14.31	endogeneización	Nom
+cosa humano	2	14.31	cosas humanas	Nom Adjectif
+auges	2	14.31	auges	Nom
+posición abierto vendedor	2	14.31	posiciones abiertas vendedoras	Nom Adjectif Adjectif
+constructor mutualistas	2	14.31	constructoras mutualistas	Nom Adjectif
+carrera académico	2	14.31	carrera académica	Nom Adjectif
+año	2	14.31	año	Verbe
+servicio emergencia	2	14.31	servicio emergencia	Nom Nom
+clase de teoremas económico	2	14.31	clase de teoremas económicos	Nom Préposition Nom Adjectif
+sir	2	14.31	sir	Nom
+medias mensual	2	14.31	medias mensuales	Nom Adjectif
+consumo agregado	2	14.31	consumo agregado	Nom Nom
+tamaño del estado	2	14.31	tamaño del estado	Nom Préposition Nom
+sociedad constructor	2	14.31	sociedades constructoras	Nom Nom
+tasa de expansión	2	14.31	tasa de expansión___tasas de expansión	Nom Préposition Nom
+consumo correspondiente	2	14.31	consumo correspondiente	Nom Adjectif
+suyos	2	14.31	suyos	Nom
+inversión útil	2	14.31	inversiones útiles	Nom Adjectif
+rendimiento futuro	2	14.31	rendimiento futuro	Nom Adjectif
+mediana del crecimiento	2	14.31	mediana del crecimiento	Nom Préposition Nom
+multiplicador dinámico	2	14.31	multiplicador dinámico	Nom Adjectif
+liberalización del sistema financiero	2	14.31	liberalización del sistema financiero	Nom Préposition Nom Adjectif
+adjudicación correspondiente	2	14.31	adjudicaciones correspondientes	Nom Adjectif
+arancel medio	2	14.31	arancel medio	Nom Adjectif
+hecho físico	2	14.31	hecho físico	Nom Adjectif
+equipo productor existente	2	14.31	equipo productor existente	Nom Adjectif Adjectif
+central bilateral	2	14.31	central bilateral___centrales bilaterales	Nom Adjectif
+consideración de espacio	2	14.31	consideraciones de espacio	Nom Préposition Nom
+problema de optimización	2	14.31	problema de optimización	Nom Préposition Nom
+dato de inflación	2	14.31	dato de inflación	Nom Préposition Nom
+nivel de salario nominal	2	14.31	nivel de salarios nominales	Nom Préposition Nom Adjectif
+summa theologica	2	14.31	summa theologica	Nom Adjectif
+elección de política	2	14.31	elección de políticas	Nom Préposition Nom
+esquema dinámico	2	14.31	esquema dinámico	Nom Adjectif
+crecimiento neoclásico	2	14.31	crecimiento neoclásico	Nom Adjectif
+contingente del acuerdo multifibras	2	14.31	contingentes del acuerdo multifibras	Nom Préposition Nom Adjectif
+continuidad del alza	2	14.31	continuidad del alza	Nom Préposition Nom
+suya	2	14.31	suya	Verbe
+cláusula de inclusión	2	14.31	cláusula de inclusión___cláusulas de inclusión	Nom Préposition Nom
+anulaciones de petición	2	14.31	anulaciones de peticiones	Nom Préposition Nom
+baja violento	2	14.31	baja violenta	Nom Adjectif
+función de utilidad sujeto	2	14.31	función de utilidad sujeto___función de utilidad sujeta	Nom Préposition Nom Adjectif
+sacrificio genuino	2	14.31	sacrificio genuino	Nom Adjectif
+problema de maximización	2	14.31	problema de maximización	Nom Préposition Nom
+concesión administrativo	2	14.31	concesión administrativa	Nom Adjectif
+clase de desocupación	2	14.31	clase de desocupación___clases de desocupación	Nom Préposition Nom
+constante del capital	2	14.31	constantes del capital	Nom Préposition Nom
+part	2	14.31	part	Nom
+fase descendente	2	14.31	fase descendente	Nom Adjectif
+crecimiento del pib	2	14.31	crecimiento del pib	Nom Préposition Nom
+tasa de remuneración	2	14.31	tasa de remuneración	Nom Préposition Nom
+tasa de interés bajo	2	14.31	tasa de interés baja	Nom Préposition Nom Adjectif
+atesoramiento de dinero	2	14.31	atesoramiento de dinero	Nom Préposition Nom
+agrícol	2	14.31	agrícol	Nom
+pib regional	2	14.31	pib regional	Nom Adjectif
+inversión corriente	2	14.31	inversión corriente	Nom Nom
+reprint	2	14.31	reprint	Nom
+partido marxistas	2	14.31	partidos marxistas	Nom Adjectif
+análisis secuencial	2	14.31	análisis secuencial	Nom Adjectif
+estado de confianza	2	14.31	estado de confianza	Nom Préposition Nom
+recuperación del consumo privado	2	14.31	recuperación del consumo privado	Nom Préposition Nom Adjectif
+expectativa de incremento	2	14.31	expectativa de incremento___expectativas de incremento	Nom Préposition Nom
+alza discontinuo	2	14.31	alza discontinua	Nom Adjectif
+valoración del mercado	2	14.31	valoración del mercado___valoraciones del mercado	Nom Préposition Nom
+debilidad del consumo	2	14.31	debilidad del consumo	Nom Préposition Nom
+sector privado residente	2	14.31	sector privado residente	Nom Adjectif Adjectif
+inversionista individual	2	14.31	inversionista individual	Nom Adjectif
+coste de ajuste	2	14.31	costes de ajuste	Nom Préposition Nom
+equipo viejo	2	14.31	equipo viejo	Nom Adjectif
+trabajador del sector informal	2	14.31	trabajadores del sector informal	Nom Préposition Nom Adjectif
+rendimiento negativo	2	14.31	rendimiento negativo	Nom Adjectif
+semicríticos	2	14.31	semicríticos	Adjectif
+phelps &lsqb	2	14.31	phelps &lsqb	Nom Nom
+razón intrínseco	2	14.31	razón intrínseca___razones intrínsecas	Nom Adjectif
+aún	2	14.31	aún	Nom
+capital en relación	2	14.31	capital en relación	Nom Préposition Nom
+argumento de autoridad	2	14.31	argumento de autoridad___argumentos de autoridad	Nom Préposition Nom
+sistema de ecuación	2	14.31	sistema de ecuaciones	Nom Préposition Nom
+tradición clásico	2	14.31	tradición clásica	Nom Adjectif
+convergencia condicional	2	14.31	convergencia condicional	Nom Adjectif
+espíritu de época	2	14.31	espíritu de época	Nom Préposition Nom
+teoría clásico moderno	2	14.31	teoría clásica moderna	Nom Adjectif Adjectif
+instrumento analíticos	2	14.31	instrumentos analíticos	Nom Adjectif
+número de inputs	2	14.31	número de inputs	Nom Préposition Nom
+etapa del auge	2	14.31	etapas del auge	Nom Préposition Nom
+tipo lombardo	2	14.31	tipo lombardo	Nom Adjectif
+excedente del ingreso	2	14.31	excedente del ingreso	Nom Préposition Nom
+valor numérico	2	14.31	valores numéricos	Nom Adjectif
+inversión negativo	2	14.31	inversión negativa	Nom Adjectif
+whigs	2	14.31	whigs	Nom
+euro	2	14.31	euro	Adjectif
+insesgado	2	14.31	insesgado	Adjectif
+fórmula explícito	2	14.31	fórmulas explícitas	Nom Adjectif
+nivel de instrucción	2	14.31	nivel de instrucción	Nom Préposition Nom
+asesoramiento en inversión	2	14.31	asesoramiento en inversiones	Nom Préposition Nom
+interbancario	2	14.31	interbancario	Nom
+circunstancia concebibles	2	14.31	circunstancias concebibles	Nom Adjectif
+conservarnos	2	14.31	conservarnos	Verbe
+psicología de masa	2	14.31	psicología de masa	Nom Préposition Nom
+prusia	2	14.31	prusia	Nom
+deuda|deudo bruto	2	14.31	deuda bruta	Nom Adjectif
+trabajador del estado	2	14.31	trabajador del estado	Nom Préposition Nom
+tasa de interés descendente	2	14.31	tasa de interés descendente	Nom Préposition Nom Adjectif
+costo de salario	2	14.31	costos de salarios	Nom Préposition Nom
+nuestros fin	2	14.31	nuestros fines	Nom Nom
+consumo alimenticio	2	14.31	consumo alimenticio	Nom Adjectif
+opción de vencimiento mensual	2	14.31	opción de vencimiento mensual___opciones de vencimiento mensual	Nom Préposition Nom Adjectif
+nivel agregado	2	14.31	nivel agregado	Nom Nom
+tasa óptimo	2	14.31	tasa óptima	Nom Adjectif
+parte de nuestras	2	14.31	parte de nuestras	Nom Préposition Nom
+monopolio perpetuo	2	14.31	monopolio perpetuo	Nom Adjectif
+tipo normativo	2	14.31	tipo normativo	Nom Adjectif
+vendedor único	2	14.31	vendedor único___vendedores únicos	Nom Adjectif
+escala de inversión	2	14.31	escala de inversión___escalas de inversión	Nom Préposition Nom
+doctor escolásticos	2	14.31	doctores escolásticos	Nom Adjectif
+sobreinversión en sentido estricto	2	14.31	sobreinversión en sentido estricto	Nom Préposition Nom Adjectif
+condición de rendimiento	2	14.31	condiciones de rendimiento___condiciones de rendimientos	Nom Préposition Nom
+presupuestos general	2	14.31	presupuestos generales	Nom Nom
+tipo de interés vigente	2	14.31	tipos de interés vigentes	Nom Préposition Nom Adjectif
+valoración convencional	2	14.31	valoración convencional	Nom Adjectif
+income	2	14.31	income	Verbe
+valor industrial	2	14.31	valores industriales	Nom Adjectif
+ingreso laboral	2	14.31	ingreso laboral___ingresos laborales	Nom Adjectif
+recurso especializado	2	14.31	recursos especializados	Nom Adjectif
+remuneración monetario	2	14.31	remuneraciones monetarias	Nom Adjectif
+boe	2	14.31	boe	Nom
+unidad por marco	2	14.31	unidades por marco	Nom Préposition Nom
+sociedad feudal	2	14.31	sociedad feudal	Nom Adjectif
+déficit del estado	2	14.31	déficit del estado	Nom Préposition Nom
+vencimiento de abril	2	14.31	vencimiento de abril___vencimientos de abril	Nom Préposition Nom
+mes del año anterior	2	14.31	mes del año anterior	Nom Préposition Nom Adjectif
+noventa	2	14.31	noventa	Adjectif
+denotaremos	2	14.31	denotaremos	Verbe
+sozialpolitik	2	14.31	sozialpolitik	Nom
+ocupación correspondiente	2	14.31	ocupación correspondiente	Nom Adjectif
+progreso técnico potenciador	2	14.31	progreso técnico potenciador	Nom Adjectif Adjectif
+neutralidad de hicks	2	14.31	neutralidad de hicks	Nom Préposition Nom
+perspectiva bajistas	2	14.31	perspectivas bajistas	Nom Adjectif
+entregables correspondiente	2	14.31	entregables correspondiente	Nom Adjectif
+vencimiento de julio	2	14.31	vencimiento de julio___vencimientos de julio	Nom Préposition Nom
+volumen existente	2	14.31	volumen existente	Nom Adjectif
+clase de capital	2	14.31	clases de capital	Nom Préposition Nom
+acumulable	2	14.31	acumulable	Adjectif
+liquidación de fra	2	14.31	liquidación de fra	Nom Préposition Nom
+restricción de recurso	2	14.31	restricción de recursos	Nom Préposition Nom
+plantación privado	2	14.31	plantaciones privadas	Nom Adjectif
+circunstancia de volatilidad	2	14.31	circunstancias de volatilidad	Nom Préposition Nom
+futuro rendimiento	2	14.31	futuro rendimiento	Nom Nom
+índice de integración	2	14.31	índice de integración	Nom Préposition Nom
+función de producción neoclásico	2	14.31	función de producción neoclásica	Nom Préposition Nom Adjectif
+pensamiento católico	2	14.31	pensamiento católico	Nom Adjectif
+negociación pequeño mensual	2	14.31	negociación mínima mensual	Nom Adjectif Adjectif
+luz determinado	2	14.31	luz determinada	Nom Adjectif
+número de cupón	2	14.31	número de cupones	Nom Préposition Nom
+ciencia físico	2	14.31	ciencia física___ciencias físicas	Nom Adjectif
+víctima del autoengaño ideológico	2	14.31	víctima del autoengaño ideológico___víctimas del autoengaño ideológico	Nom Préposition Nom Adjectif
+nuestro supuesto	2	14.31	nuestro supuesto	Nom Adjectif
+nuestros día	2	14.31	nuestros días	Nom Nom
+entrega de acuerdo	2	14.31	entrega de acuerdo	Nom Préposition Nom
+exportación de manufactura	2	14.31	exportación de manufacturas___exportaciones de manufacturas	Nom Préposition Nom
+teoría del equilibrio móvil	2	14.31	teoría del equilibrio móvil	Nom Préposition Nom Adjectif
+consumo de capital	2	14.31	consumo de capital	Nom Préposition Nom
+atraían	2	14.31	atraían	Verbe
+existencia de bien	2	14.31	existencias de bienes	Nom Préposition Nom
+valor en peseta	2	14.31	valor en pesetas	Nom Préposition Nom
+igualdad de probabilidad	2	14.31	igualdad de probabilidades	Nom Préposition Nom
+suma absoluto	2	14.31	suma absoluta	Nom Adjectif
+acumulación de hecho	2	14.31	acumulación de hechos	Nom Préposition Nom
+felicidad instantáneo	2	14.31	felicidad instantánea	Nom Adjectif
+sindicato obrero	2	14.31	sindicatos obreros	Nom Nom
+charles	2	14.31	charles	Verbe
+nuestra situación	2	14.31	nuestra situación	Nom Nom
+definición especial	2	14.31	definición especial___definiciones especiales	Nom Adjectif
+stock de capital medio	2	14.31	stock de capital medio	Nom Préposition Nom Adjectif
+evolución capitalista	2	14.31	evolución capitalista	Nom Adjectif
+cotización del futuro	2	14.31	cotización del futuro	Nom Préposition Nom
+factor originario	2	14.31	factores originarios	Nom Adjectif
+costo nominal	2	14.31	costo nominal	Nom Adjectif
+relación de valor entregables	2	14.31	relación de valores entregables	Nom Préposition Nom Adjectif
+producción de oro	2	14.31	producción de oro	Nom Préposition Nom
+mercado de dinero	2	14.31	mercado de dinero	Nom Préposition Nom
+cálculo de factor	2	14.31	cálculo de factores	Nom Préposition Nom
+evolución temporal	2	14.31	evolución temporal	Nom Adjectif
+industria de artículo	2	14.31	industrias de artículos	Nom Préposition Nom
+nuestras expectativas	2	14.31	nuestras expectativas	Nom Adjectif
+manual del servicio telefónico	2	14.31	manual del servicio telefónico	Nom Préposition Nom Adjectif
+cournot	2	14.31	cournot	Nom
+tipo de interés implícito	2	14.31	tipo de interés implícito	Nom Préposition Nom Adjectif
+método numérico	2	14.31	método numérico___métodos numéricos	Nom Adjectif
+institutional investor	2	14.31	institutional investor	Nom Nom
+ingreso neto disponible	2	14.31	ingreso neto disponible	Nom Adjectif Adjectif
+nuestro problema	2	14.31	nuestro problema	Nom Nom
+producción privado	2	14.31	producción privados	Nom Adjectif
+simple	2	14.31	simple	Verbe
+ley psicológico	2	14.31	ley psicológica	Nom Adjectif
+índole externo	2	14.31	índole externa	Nom Adjectif
+vencimiento mensual	2	14.31	vencimiento mensual	Nom Nom
+ocupación compatible	2	14.31	ocupación compatible	Nom Adjectif
+cobro de cupón	2	14.31	cobro de cupones	Nom Préposition Nom
+tipo de interés igual	2	14.31	tipo de interés igual	Nom Préposition Nom Adjectif
+longfield	2	14.31	longfield	Nom
+circulación activo	2	14.31	circulación activa	Nom Adjectif
+obstáculo externo	2	14.31	obstáculos externos	Nom Adjectif
+función instantáneo	2	14.31	funciones instantáneas	Nom Adjectif
+efecto público	2	14.31	efectos públicos	Nom Adjectif
+exógenamente	2	14.31	exógenamente	Adjectif
+inelasticidad	2	14.31	inelasticidad	Nom
+plazo de vida residual	2	14.31	plazo de vida residual	Nom Préposition Nom Adjectif
+factor de producción susceptible	2	14.31	factor de producción susceptible___factores de producción susceptibles	Nom Préposition Nom Adjectif
+traducción literal	2	14.31	traducción literal	Nom Adjectif
+mercado de inversión moderno	2	14.31	mercados de inversión modernos	Nom Préposition Nom Adjectif
+efecto desbordamiento	2	14.31	efecto desbordamiento___efectos desbordamiento	Nom Nom
+literatura del crecimiento	2	14.31	literatura del crecimiento	Nom Préposition Nom
+plantación estatal	2	14.31	plantaciones estatales	Nom Adjectif
+valor del capital	2	14.31	valor del capital	Nom Préposition Nom
+unidad individual	2	14.31	unidad individual	Nom Adjectif
+unemployment del profesor	2	14.31	unemployment del profesor	Nom Préposition Nom
+cass	2	14.31	cass	Nom
+crédito interno	2	14.31	crédito interno	Nom Adjectif
+gradualismo	2	14.31	gradualismo	Nom
+importe del producto	2	14.31	importe del producto	Nom Préposition Nom
+previsión matemático	2	14.31	previsión matemática	Nom Adjectif
+proporción del pib	2	14.31	proporción del pib	Nom Préposition Nom
+fs	2	14.31	fs	Nom
+pontificia	2	14.31	pontificia	Verbe
+movimiento ascendente	2	14.31	movimiento ascendente	Nom Adjectif
+importe del cupón	2	14.31	importe del cupón	Nom Préposition Nom
+propensión global	2	14.31	propensión global	Nom Adjectif
+ts	2	14.31	ts	Nom
+bolsa español	2	14.31	bolsas españolas	Nom Adjectif
+dax	2	14.31	dax	Nom
+món	2	14.31	món	Nom
+omne	2	14.31	omne	Nom
+concavidad	2	14.31	concavidad	Nom
+diferencia del modelo	2	14.31	diferencia del modelo	Nom Préposition Nom
+punto del tiempo	2	14.31	puntos del tiempo	Nom Préposition Nom
+gasto tabla	2	14.31	gasto tabla___gastos tabla	Nom Nom
+ricardianos	2	14.31	ricardianos	Nom
+institucionalismo	2	14.31	institucionalismo	Nom
+ganancia del empresario	2	14.31	ganancias del empresario	Nom Préposition Nom
+variable en término	2	14.31	variables en términos	Nom Préposition Nom
+inversión mobiliaria	2	14.31	inversión mobiliaria	Nom Nom
+contado	2	14.31	contado	Nom
+hora de trabajo especial	2	14.31	hora de trabajo especial	Nom Préposition Nom Adjectif
+estado de desocupación	2	14.31	estado de desocupación	Nom Préposition Nom
+economía de planificador central	2	14.31	economía de planificador central	Nom Préposition Nom Adjectif
+negociación total	2	14.31	negociación total	Nom Adjectif
+individuo optimizadores	2	14.31	individuos optimizadores	Nom Adjectif
+industria concreto	2	14.31	industrias concretas	Nom Adjectif
+margen constante	2	14.31	margen constante	Nom Adjectif
+supuesto general	2	14.31	supuesto general	Nom Adjectif
+valor óptimo	2	14.31	valor óptimo	Nom Adjectif
+artículo durable	2	14.31	artículos durables	Nom Adjectif
+unidad de trabajo disponible	2	14.31	unidades de trabajo disponibles	Nom Préposition Nom Adjectif
+nuestra ignorancia	2	14.31	nuestra ignorancia	Nom Nom
+rendimiento neto	2	14.31	rendimiento neto	Nom Adjectif
+maximiza	2	14.31	maximiza	Verbe
+opinión promedio	2	14.31	opinión promedio	Nom Nom
+año bursátil	2	14.31	año bursátil	Nom Adjectif
+trayectoria bajista	2	14.31	trayectoria bajista	Nom Adjectif
+valor de escasez	2	14.31	valor de escasez	Nom Préposition Nom
+institución de inversión	2	14.31	instituciones de inversión	Nom Préposition Nom
+existencia de capital	2	14.31	existencia de capital	Nom Préposition Nom
+función del ingreso	2	14.31	función del ingreso	Nom Préposition Nom
+historia del análisis económico	2	14.31	historia del análisis económico	Nom Préposition Nom Adjectif
+hôpital	2	14.31	hôpital	Nom
+función de acumulación	2	14.31	función de acumulación	Nom Préposition Nom
+l+d	2	14.31	l+d	Nom
+momento del horizonte temporal	2	14.31	momento del horizonte temporal	Nom Préposition Nom Adjectif
+vab	2	14.31	vab	Nom
+título entregable	2	14.31	título entregable	Nom Adjectif
+junkertum	2	14.31	junkertum	Nom
+definición de ingreso	2	14.31	definición de ingreso	Nom Préposition Nom
+valor entregable	2	14.31	valor entregable	Nom Adjectif
+tasa positivo	2	14.31	tasas positivas	Nom Adjectif
+nombre de función	2	14.31	nombre de función	Nom Préposition Nom
+mes del año precedente	2	14.31	mes del año precedente	Nom Préposition Nom Adjectif
+complemento estadístico	2	14.31	complemento estadístico	Nom Adjectif
+día de febrero	2	14.31	días de febrero	Nom Préposition Nom
+hipótesis convergente	2	14.31	hipótesis convergente	Nom Adjectif
+tasa de rendimiento privado	2	14.31	tasa de rendimiento privado___tasa de rendimiento privada	Nom Préposition Nom Adjectif
+número de día existente	2	14.31	número de días existentes	Nom Préposition Nom Adjectif
+ala radical	2	14.31	ala radical	Nom Adjectif
+sfs	2	14.31	sfs	Nom
+desutilidad del trabajo	2	14.31	desutilidad del trabajo	Nom Préposition Nom
+tipo director	2	14.31	tipos directores	Nom Adjectif
+sección posterior	2	14.31	sección posterior	Nom Adjectif
+pib mundial	2	14.31	pib mundial	Nom Adjectif
+movimiento cíclico	2	14.31	movimiento cíclico	Nom Adjectif
+velocidad-ingreso del dinero	2	14.31	velocidad-ingreso del dinero	Nom Préposition Nom
+factor de complicación	2	14.31	factores de complicación	Nom Préposition Nom
+optimización intertemporal	2	14.31	optimización intertemporal	Nom Adjectif
+partida del equipo	2	14.31	partidas del equipo	Nom Préposition Nom
+razonamiento ordinario	2	14.31	razonamiento ordinario	Nom Adjectif
+elemento del costo	2	14.31	elementos del costo	Nom Préposition Nom
+acto de ahorro individual	2	14.31	acto de ahorro individual	Nom Préposition Nom Adjectif
+haavelmo	2	14.31	haavelmo	Nom
+juicio práctico	2	14.31	juicio práctico	Nom Adjectif
+financiero del estado	2	14.31	financieros del estado	Nom Préposition Nom
+tasa constante igual	2	14.31	tasa constante igual	Nom Adjectif Adjectif
+máquina existente	2	14.31	máquinas existentes	Nom Adjectif
+mes previo	2	14.31	meses previos	Nom Adjectif
+integración rápido y lento	2	14.31	integración rápida y lenta	Nom Adjectif Coord_Conjunction Adjectif
+fenómeno del ciclo económico	2	14.31	fenómenos del ciclo económico	Nom Préposition Nom Adjectif
+aumento inesperado	2	14.31	aumento inesperado	Nom Adjectif
+tasa de crecimiento competitivo	2	14.31	tasa de crecimiento competitivo___tasa de crecimiento competitiva	Nom Préposition Nom Adjectif
+hamiltoniano	2	14.31	hamiltoniano	Nom
+reescribirse	2	14.31	reescribirse	Verbe
+describiremos	2	14.31	describiremos	Verbe
+integración lento	2	14.31	integración lenta	Nom Adjectif
+producción bien	2	14.31	producción bienes	Nom Nom
+tecnología cobb-douglas	2	14.31	tecnología cobb-douglas	Nom Nom
+operación unilateral	2	14.31	operación unilateral	Nom Adjectif
+comunicación del autor	2	14.31	comunicación del autor	Nom Préposition Nom
+teoría estático	2	14.31	teoría estática	Nom Adjectif
+producción de capital físico	2	14.31	producción de capital físico	Nom Préposition Nom Adjectif
+desviación standard	2	14.31	desviación estándar	Nom Adjectif
+inversión en capital físico	2	14.31	inversión en capital físico	Nom Préposition Nom Adjectif
+depreciación del capital físico	2	14.31	depreciación del capital físico	Nom Préposition Nom Adjectif
+depositante	2	14.31	depositante	Nom
+desviación presupuestarias	2	14.31	desviaciones presupuestarias	Nom Nom
+geografía chino	2	14.31	geografía china	Nom Adjectif
+subconscientes	2	14.31	subconscientes	Nom
+aumento de ocupación	2	14.31	aumento de ocupación	Nom Préposition Nom
+clase de gasto	2	14.31	clases de gasto___clases de gastos	Nom Préposition Nom
+participación del capital relevante	2	14.31	participación del capital relevante	Nom Préposition Nom Adjectif
+vida residual igual	2	14.31	vida residual igual	Nom Adjectif Adjectif
+curva de tipo	2	14.31	curva de tipos	Nom Préposition Nom
+teoría del interés	2	14.31	teoría del interés	Nom Préposition Nom
+supuesto adicional	2	14.31	supuesto adicional	Nom Adjectif
+coeficiente de inversión nuevo	2	14.31	coeficiente de inversión nueva	Nom Préposition Nom Adjectif
+frenase	2	14.31	frenase	Verbe
+uso de concepto	2	14.31	uso de conceptos	Nom Préposition Nom
+factoring	2	14.31	factoring	Nom
+tensionamiento	2	14.31	tensionamiento	Nom
+competition	2	14.31	competition	Verbe
+central de anotación	2	14.31	central de anotaciones	Nom Préposition Nom
+acumulación de capital humano	2	14.31	acumulación de capital humano	Nom Préposition Nom Adjectif
+volumen agregado	2	14.31	volumen agregado	Nom Nom
+maximizará	2	14.31	maximizará	Verbe
+poder feudales	2	14.31	poderes feudales	Nom Adjectif
+fenómeno de aprendizaje	2	14.31	fenómenos de aprendizaje	Nom Préposition Nom
+acumulación del capital físico	2	14.31	acumulación del capital físico	Nom Préposition Nom Adjectif
+ocupación pleno continuo	2	14.31	ocupación plena continua	Nom Adjectif Adjectif
+aumento de inversión	2	14.31	aumento de inversión	Nom Préposition Nom
+quintal diario	2	14.31	quintal diario	Nom Adjectif
+literatura de crecimiento endógeno	2	14.31	literatura de crecimiento endógeno	Nom Préposition Nom Adjectif
+american	2	14.31	american	Adjectif
+extensión interesante	2	14.31	extensión interesante	Nom Adjectif
+consumo corriente	2	14.31	consumo corriente	Nom Nom
+nuestros cálculo	2	14.31	nuestros cálculos	Nom Nom
+conducta real	2	14.31	conducta real	Nom Adjectif
+variable de estado	2	14.31	variable de estado___variables de estado	Nom Préposition Nom
+índice de precio industrial	2	14.31	índice de precios industriales	Nom Préposition Nom Adjectif
+fracción de tiempo	2	14.31	fracción de tiempo	Nom Préposition Nom
+tabla ingresos	2	14.31	tabla ingresos	Nom Adjectif
+quienes	2	14.31	quienes	Adjectif
+usé	2	14.31	usé	Verbe
+coeficiente constante	2	14.31	coeficientes constantes	Nom Nom
+estado de expectativa	2	14.31	estado de expectativa	Nom Préposition Nom
+aspecto rentista	2	14.31	aspecto rentista	Nom Adjectif
+volumen de ocupación existente	2	14.31	volumen de ocupación existente	Nom Préposition Nom Adjectif
+stocks de capital inicial	2	14.31	stocks de capital iniciales	Nom Préposition Nom Adjectif
+técnica del análisis económico	2	14.31	técnicas del análisis económico	Nom Préposition Nom Adjectif
+tabla estado	2	14.31	tabla estados	Nom Nom
+planificador maximiza	2	14.31	planificador maximiza	Nom Nom
+monástica	2	14.31	monástica	Adjectif
+nuestras decisión	2	14.31	nuestras decisiones	Nom Nom
+administración del estado	2	14.31	administración del estado	Nom Préposition Nom
+crecimiento del capital humano	2	14.31	crecimiento del capital humano	Nom Préposition Nom Adjectif
+consumo tabla	2	14.31	consumo tabla	Nom Nom
+variable de control	2	14.31	variables de control	Nom Préposition Nom
+relación negativo	2	14.31	relación negativa	Nom Adjectif
+dirección ascendente	2	14.31	dirección ascendente	Nom Adjectif
+principales monedas	2	14.31	principales monedas	Nom Adjectif
+bolsas	2	14.31	bolsas	Adjectif
+agregado de capital	2	14.31	agregado de capital	Nom Préposition Nom
+fábrica de prenda	2	14.31	fábrica de prendas	Nom Préposition Nom
+rebelo	2	14.31	rebelo	Nom
+inversión completo	2	14.31	inversión completa	Nom Adjectif
+autoridad del papa	2	14.31	autoridad del papa	Nom Préposition Nom
+dirección particular	2	14.31	dirección particular___direcciones particulares	Nom Adjectif
+solución del ciclo económico	2	14.31	solución del ciclo económico	Nom Préposition Nom Adjectif
+productividad del sector educativo	2	14.31	productividad del sector educativo	Nom Préposition Nom Adjectif
+tasa de paro juvenil	2	14.31	tasa de paro juvenil	Nom Préposition Nom Adjectif
+ocupación global	2	14.31	ocupación global	Nom Adjectif
+modelo de uzawa-lucas	2	14.31	modelo de uzawa-lucas	Nom Préposition Nom
+salario en término monetario	2	14.31	salarios en términos monetarios	Nom Préposition Nom Adjectif
+potenciador	2	14.31	potenciador	Nom
+stock de capital humano	2	14.31	stock de capital humano	Nom Préposition Nom Adjectif
+alcista	2	14.31	alcista	Nom
+agregativa	2	14.31	agregativa	Adjectif
+externalidad del stock medio	2	14.31	externalidad del stock medio	Nom Préposition Nom Adjectif
+divisa norteamericano	2	14.31	divisa norteamericana	Nom Adjectif
+curva de depreciación	2	14.31	curva de depreciación	Nom Préposition Nom
+mercado competitivo	7	14.28	mercado competitivo___mercados competitivos	Nom Adjectif
+marxista	6	14.28	marxista	Adjectif
+invariable	7	14.28	invariable___invariables	Adjectif
+excedente	24	14.26	excedente___excedentes	Nom
+inflación	39	14.25	inflación	Nom
+estático	9	14.21	estático___estática	Adjectif
+renta variable	4	14.09	renta variable	Nom Adjectif
+nótese	4	14.09	nótese	Verbe
+librecambio	11	14.08	librecambio	Nom
+teóricamente	11	14.08	teóricamente	Adverbe
+extranjero	46	13.93	extranjero___extranjera___extranjeras	Adjectif
+diferencia	99	13.9	diferencia___diferencias	Nom
+aritmético	8	13.89	aritmética	Adjectif
+cambiario	7	13.87	cambiario___cambiarios___cambiarias	Adjectif
+restricción	45	13.71	restricción___restricciones	Nom
+mismo	383	13.7	mismo___mismos___mismas	Adjectif
+demanda nacional	3	13.69	demanda nacional	Nom Adjectif
+tipo medio	3	13.69	tipo medio	Nom Adjectif
+análisis cuantitativo	3	13.69	análisis cuantitativo	Nom Adjectif
+principles	3	13.69	principles	Nom
+mercado de referencia	3	13.69	mercado de referencia	Nom Préposition Nom
+migración internacional	3	13.69	migración internacional___migraciones internacionales	Nom Adjectif
+especificación técnico	11	13.53	especificaciones técnicas	Nom Adjectif
+ciencia	36	13.52	ciencia___ciencias	Nom
+periodo	45	13.49	periodo___periodos	Nom
+reserva federal	6	13.48	reserva federal	Nom Adjectif
+volumen de producción	6	13.48	volumen de producción	Nom Préposition Nom
+bien de equipo	4	13.47	bienes de equipo	Nom Préposition Nom
+producto básico	8	13.33	productos básicos	Nom Adjectif
+condición	203	13.24	condición___condiciones	Nom
+cuantitativa	12	13.21	cuantitativa	Adjectif
+instantáneo	7	13.15	instantánea___instantáneas	Adjectif
+repunte	6	13.01	repunte___repuntes	Nom
+hombre	89	13	hombre___hombres	Nom
+mes	143	12.9	mes___meses	Nom
+período	114	12.88	período___períodos	Nom
+acumulación	16	12.87	acumulación	Nom
+existencia	61	12.86	existencia___existencias	Nom
+individual	53	12.84	individual___individuales	Adjectif
+cíclico	6	12.79	cíclico___cíclica	Adjectif
+fecha	74	12.77	fecha___fechas	Nom
+convergencia	49	12.7	convergencia	Nom
+producción de bien	5	12.69	producción de bienes	Nom Préposition Nom
+demanda de mano	3	12.64	demanda de mano	Nom Préposition Nom
+coincidentes	3	12.64	coincidentes	Nom
+descendentes	3	12.64	descendentes	Adjectif
+importación de bien	3	12.64	importación de bienes___importaciones de bienes	Nom Préposition Nom
+antropología	3	12.64	antropología	Nom
+región en desarrollo	3	12.64	regiones en desarrollo	Nom Préposition Nom
+transferencia de ingreso	3	12.64	transferencia de ingresos___transferencias de ingresos	Nom Préposition Nom
+depósito bancario	3	12.64	depósitos bancarios	Nom Adjectif
+crecimiento del consumo	3	12.64	crecimiento del consumo	Nom Préposition Nom
+dracma	3	12.64	dracma	Nom
+comportamiento del consumidor	3	12.64	comportamiento del consumidor	Nom Préposition Nom
+riqueza	34	12.61	riqueza	Nom
+maximizar	8	12.59	maximizar	Verbe
+bancario	31	12.54	bancario___bancarios	Adjectif
+productor	23	12.52	productor___productora___productores	Adjectif
+escribir	29	12.47	escribir___escribió___escriben___escribieron	Verbe
+sujeto	16	12.45	sujeto	Nom
+lira italiano	4	12.43	lira italiana	Nom Adjectif
+papa	4	12.43	papa	Nom
+depresivo	4	12.43	depresivo___depresiva	Adjectif
+analítico	10	12.38	analítico___analítica	Adjectif
+precio de mercado	8	12.36	precio de mercado	Nom Préposition Nom
+capital privado	10	12.31	capital privado	Nom Adjectif
+mundo real	8	12.25	mundo real	Nom Adjectif
+santo	10	12.24	santo___santos	Adjectif
+sistema económico	13	12.23	sistema económico	Nom Adjectif
+parte contratantes	11	12.22	partes contratantes	Nom Adjectif
+rebaja	12	12.19	rebaja___rebajas	Nom
+ideología	22	12.14	ideología___ideologías	Nom
+factor productivo	5	12.12	factores productivos	Nom Adjectif
+implícito	13	12.11	implícito___implícita	Adjectif
+predecir	10	12.1	predecir___predice	Verbe
+hombre de negocio	7	12.1	hombre de negocios___hombres de negocios	Nom Préposition Nom
+marco alemán	6	12.01	marco alemán	Nom Nom
+homogéneo	16	12.01	homogéneo___homogéneos	Adjectif
+privado	73	12.01	privado___privados___privadas	Adjectif
+forma alternativo	6	12.01	forma alternativa___formas alternativas	Nom Adjectif
+encima	43	12	encima	Adverbe
+inversión en capital	4	11.99	inversión en capital	Nom Préposition Nom
+país exportador	7	11.97	países exportadores	Nom Adjectif
+relacionar	16	11.93	relacionar___relacionan___relacione	Verbe
+modo	199	11.87	modo___modos	Nom
+ignorante	5	11.86	ignorante___ignorantes	Adjectif
+ciencia social	3	11.8	ciencia social___ciencias sociales	Nom Adjectif
+sector exterior	3	11.8	sector exterior	Nom Adjectif
+balanza por cuenta corriente	3	11.8	balanza por cuenta corriente	Nom Préposition Nom Adjectif
+ley económico	3	11.8	leyes económicas	Nom Adjectif
+endeudamiento neto	3	11.8	endeudamiento neto	Nom Adjectif
+control central	3	11.8	controles centrales	Nom Adjectif
+decisión de inversión	3	11.8	decisiones de inversión	Nom Préposition Nom
+barrar|barrer	3	11.8	barro	Verbe
+lord	3	11.8	lord	Nom
+productividad del sector	3	11.8	productividad del sector	Nom Préposition Nom
+economía monetario	3	11.8	economía monetaria	Nom Adjectif
+pensamiento	25	11.79	pensamiento___pensamientos	Nom
+punto básico	7	11.72	punto básico	Nom Adjectif
+ritmo de crecimiento	6	11.67	ritmo de crecimiento	Nom Préposition Nom
+socialismo	8	11.66	socialismo	Nom
+fin particular	2	11.64	fin particular___fines particulares	Nom Adjectif
+ex	2	11.64	ex	Nom
+inestabilidad macroeconómica	2	11.64	inestabilidad macroeconómica	Nom Adjectif
+cambio central	2	11.64	cambio central___cambios centrales	Nom Nom
+renta vitalicio	2	11.64	renta vitalicia	Nom Adjectif
+telefónica	2	11.64	telefónica	Nom
+función único	2	11.64	función única	Nom Adjectif
+cambio violento	2	11.64	cambio violento___cambios violentos	Nom Adjectif
+entorno exterior	2	11.64	entorno exterior	Nom Adjectif
+hombre práctico	2	11.64	hombres prácticos	Nom Adjectif
+resto de mercado	2	11.64	resto de mercados	Nom Préposition Nom
+op	2	11.64	op	Nom
+aportación original	2	11.64	aportaciones originales	Nom Adjectif
+cambio medio	2	11.64	cambio medio	Nom Adjectif
+supuesto especial	2	11.64	supuesto especial	Nom Adjectif
+kilo por hectárea	2	11.64	kilos por hectárea	Nom Préposition Nom
+día final	2	11.64	días finales	Nom Adjectif
+juicio propio	2	11.64	juicio propio	Nom Adjectif
+plazo superior	2	11.64	plazos superiores	Nom Adjectif
+crédito comercial	2	11.64	crédito comercial	Nom Adjectif
+incorporado	2	11.64	incorporado	Adjectif
+modelización	2	11.64	modelización	Nom
+cantidad relativo	2	11.64	cantidades relativas	Nom Adjectif
+internaliza	2	11.64	internaliza	Verbe
+justificación social	2	11.64	justificación social___justificaciones sociales	Nom Adjectif
+máquina nuevo	2	11.64	máquina nueva___máquinas nuevas	Nom Adjectif
+teoría tradicional	2	11.64	teoría tradicional	Nom Adjectif
+operación de compraventa	2	11.64	operaciones de compraventa	Nom Préposition Nom
+general del estado	2	11.64	generales del estado	Nom Préposition Nom
+fogosidad	2	11.64	fogosidad	Nom
+tribu primitivo	2	11.64	tribus primitivas	Nom Adjectif
+tipo marginal	2	11.64	tipo marginal	Nom Adjectif
+existencia de rendimiento	2	11.64	existencia de rendimientos	Nom Préposition Nom
+gladstone	2	11.64	gladstone	Nom
+efecto perturbadores	2	11.64	efectos perturbadores	Nom Adjectif
+previsión correcto	2	11.64	previsión correcta___previsiones correctas	Nom Adjectif
+edición del libro	2	11.64	edición del libro	Nom Préposition Nom
+problems	2	11.64	problems	Nom
+incremento neto	2	11.64	incremento neto___incrementos netos	Nom Adjectif
+duplicaríamos	2	11.64	duplicaríamos	Verbe
+influencia ideológico	2	11.64	influencia ideológica	Nom Adjectif
+filosofar	2	11.64	filosofar	Nom
+reproduciremos	2	11.64	reproduciremos	Verbe
+inversionista privado	2	11.64	inversionista privado	Nom Adjectif
+situación de ocupación	2	11.64	situación de ocupación	Nom Préposition Nom
+muchos	2	11.64	muchos	Nom
+fecha de entrega	2	11.64	fecha de entrega	Nom Préposition Nom
+estudio empírico	2	11.64	estudios empíricos	Nom Adjectif
+capital real	2	11.64	capital real	Nom Adjectif
+artículo original	2	11.64	artículo original	Nom Adjectif
+reserva exterior	2	11.64	reservas exteriores	Nom Adjectif
+volumen determinado	2	11.64	volumen determinado	Nom Adjectif
+ajuste automático	2	11.64	ajuste automático	Nom Adjectif
+risco	2	11.64	risco	Nom
+décimo|décimos	2	11.64	décimos	Adjectif
+diferencia internacional	2	11.64	diferencias internacionales	Nom Adjectif
+designaremos	2	11.64	designaremos	Verbe
+teoría del crecimiento	2	11.64	teoría del crecimiento	Nom Préposition Nom
+escudo portugués	2	11.64	escudo portugués	Nom Adjectif
+inelástica	2	11.64	inelástica	Adjectif
+prusiano	2	11.64	prusiano	Adjectif
+clase de bien	2	11.64	clase de bienes___clases de bienes	Nom Préposition Nom
+instituto emisor	2	11.64	instituto emisor	Nom Nom
+estacionaria	2	11.64	estacionaria	Nom
+resto del siglo	2	11.64	resto del siglo	Nom Préposition Nom
+costeable	2	11.64	costeable	Adjectif
+término constante	2	11.64	términos constantes	Nom Nom
+remuneración correspondiente	2	11.64	remuneración correspondiente___remuneración correspondientes	Nom Adjectif
+acertijo	2	11.64	acertijos	Nom
+contratación colectivo	2	11.64	contratación colectiva	Nom Adjectif
+medida cuantitativa	2	11.64	medida cuantitativa	Nom Adjectif
+costo inicial	2	11.64	costo inicial	Nom Adjectif
+nivel presente	2	11.64	nivel presente	Nom Adjectif
+eutanasia del rentista	2	11.64	eutanasia del rentista	Nom Préposition Nom
+subconsumo	2	11.64	subconsumo	Nom
+decremento	2	11.64	decremento___decrementos	Nom
+cantidad medio	2	11.64	cantidad media	Nom Adjectif
+álgebra	2	11.64	álgebra	Nom
+trayectoria paralelo	2	11.64	trayectoria paralela	Nom Adjectif
+mes precedente	2	11.64	meses precedentes	Nom Adjectif
+conveniencia social	2	11.64	conveniencia sociales	Nom Adjectif
+fuerza hostil	2	11.64	fuerzas hostiles	Nom Adjectif
+variedad híbrido	2	11.64	variedades híbridas	Nom Adjectif
+nivel de equilibrio	2	11.64	nivel de equilibrio	Nom Préposition Nom
+chelín	2	11.64	chelín	Nom
+enfriaron	2	11.64	enfriaron	Verbe
+incremento relativo	2	11.64	incremento relativo	Nom Adjectif
+reinversiones	2	11.64	reinversiones	Nom
+pirámide social	2	11.64	pirámide social	Nom Adjectif
+doctrina clásico	2	11.64	doctrina clásica	Nom Adjectif
+concurrencial	2	11.64	concurrencial	Adjectif
+nivel crítico	4	11.59	nivel crítico	Nom Adjectif
+década anterior	4	11.59	década anterior___décadas anteriores	Nom Adjectif
+capital extranjero	4	11.59	capital extranjero___capitales extranjeros	Nom Adjectif
+expresarán	4	11.59	expresarán	Verbe
+tácito	4	11.59	tácitamente	Adverbe
+optimización	8	11.56	optimización	Nom
+registrar	30	11.56	registrar___registran___registraba	Verbe
+autor	44	11.48	autor___autores	Nom
+ortodoxo	8	11.47	ortodoxo___ortodoxa	Adjectif
+día siguiente	13	11.41	día siguiente___días siguientes	Nom Adjectif
+total	23	11.39	total	Nom
+aliciente	6	11.35	aliciente	Nom
+proporcionalmente	8	11.3	proporcionalmente	Adverbe
+monetario	64	11.23	monetario___monetaria___monetarias	Adjectif
+concluiremos	4	11.23	concluiremos	Verbe
+gastar	33	11.22	gastar___gastara___gastaron	Verbe
+sesión anterior	13	11.17	sesión anterior	Nom Adjectif
+reforma social	5	11.17	reforma social	Nom Adjectif
+producción primario	5	11.17	producción primaria	Nom Adjectif
+país en desarrollo	46	11.15	países en desarrollo	Nom Préposition Nom
+ejercicio	104	11.15	ejercicio___ejercicios	Nom
+general	43	11.14	general___generales	Nom
+alemán	21	11.13	alemanas	Adjectif
+progreso tecnológico	8	11.13	progreso tecnológico	Nom Adjectif
+intervalo de tiempo	3	11.1	intervalo de tiempo	Nom Préposition Nom
+franco suizo	3	11.1	franco suizo	Nom Adjectif
+enero	3	11.1	enero	Nom
+altruismo	3	11.1	altruismo	Nom
+empleo bueno	3	11.1	empleos mejor___empleos mejores	Nom Adjectif
+largo del tiempo	6	11.05	largo del tiempo	Nom Préposition Nom
+existente	78	11.04	existente___existentes	Adjectif
+líquido	10	11.03	líquido___líquidos___líquidas	Adjectif
+análogo	16	11	análogo___análogos___análogas	Adjectif
+invertir	37	10.97	invertir___invertirá___invierta	Verbe
+dividendo	8	10.97	dividendos	Nom
+horizonte temporal	5	10.96	horizonte temporal	Nom Adjectif
+sujeto	28	10.94	sujeto___sujetos___sujetas	Adjectif
+clérigo	4	10.9	clérigo___clérigos	Nom
+biografía	4	10.9	biografía___biografías	Nom
+comisión nacional	4	10.9	comisión nacional	Nom Adjectif
+largo del año	8	10.89	largo del año	Nom Préposition Nom
+óptimo	21	10.88	óptimo___óptima___óptimas	Adjectif
+doble	14	10.87	doble	Nom
+economía mundial	17	10.8	economía mundial	Nom Adjectif
+dinámico	30	10.76	dinámico___dinámicos___dinámicas	Adjectif
+balanza	15	10.76	balanza	Nom
+nivel de ingreso	5	10.76	nivel de ingreso___nivel de ingresos___niveles de ingreso	Nom Préposition Nom
+volatilidad	7	10.73	volatilidad	Nom
+divisa	17	10.7	divisa___divisas	Nom
+comprador	12	10.69	comprador___compradora___compradoras	Nom
+sistema bancario	9	10.69	sistema bancario	Nom Adjectif
+notable	28	10.69	notable___notables	Adjectif
+disminuir	33	10.68	disminuir___disminuirá___disminuyó___disminuyan___disminuyeron	Verbe
+cobro	12	10.66	cobro___cobros	Nom
+especificación	15	10.59	especificación___especificaciones	Nom
+proveer	7	10.54	proveer___provea	Verbe
+matemática	3	10.51	matemática	Nom
+transacción internacional	3	10.51	transacción internacional___transacciones internacionales	Nom Adjectif
+monto total	3	10.51	monto total	Nom Adjectif
+sentido estricto	8	10.51	sentido estricto	Nom Adjectif
+este último	3	10.51	este último	Nom Adjectif
+aumento del crecimiento	3	10.51	aumento del crecimiento	Nom Préposition Nom
+deducir	21	10.48	deducir___deducen	Verbe
+día	202	10.46	día___días	Nom
+magnitud	22	10.45	magnitud	Nom
+sección	22	10.42	sección___secciones	Nom
+intelectual	28	10.38	intelectual___intelectuales	Adjectif
+ideológico	21	10.37	ideológico___ideológicos___ideológicas	Adjectif
+global	76	10.32	global___globales	Adjectif
+fluctuar	4	10.3	fluctuar___fluctúan	Verbe
+alquilar	4	10.3	alquilar___alquilan	Verbe
+operación	51	10.26	operación___operaciones	Nom
+productivo	26	10.15	productivo___productiva___productivas	Adjectif
+estimación	20	10.08	estimación___estimaciones	Nom
+interés real	5	10.06	interés real	Nom Adjectif
+elástico	5	10.06	elástica	Adjectif
+equilibrio estable	2	10.04	equilibrio estable	Nom Adjectif
+marxista	2	10.04	marxista	Nom
+autoridad alto|supremo	2	10.04	autoridad suprema	Nom Adjectif
+valor marginal	2	10.04	valor marginal	Nom Adjectif
+embotellamientos	4	10.04	embotellamientos	Nom
+conjunto del año	2	10.04	conjunto del año	Nom Préposition Nom
+intervención del estado	2	10.04	intervención del estado	Nom Préposition Nom
+aumento permanente	2	10.04	aumento permanente	Nom Adjectif
+comunidad rico	2	10.04	comunidad rica	Nom Adjectif
+aumento del ingreso	2	10.04	aumento del ingreso	Nom Préposition Nom
+producción de riqueza	2	10.04	producción de riqueza	Nom Préposition Nom
+plaza disponible	2	10.04	plazas disponibles	Nom Adjectif
+tasa normal	2	10.04	tasa normal	Nom Adjectif
+retardo	2	10.04	retardos	Nom
+arreglo comercial	2	10.04	arreglos comerciales	Nom Adjectif
+calcular	21	10.04	calcular___calcula___calculamos	Verbe
+investigación estadístico	2	10.04	investigación estadística	Nom Adjectif
+fuerza electoral	2	10.04	fuerza electoral	Nom Adjectif
+ilusión óptico	2	10.04	ilusión óptica	Nom Adjectif
+reproducible	2	10.04	reproducibles	Adjectif
+término nominal	2	10.04	términos nominales	Nom Adjectif
+lira	8	10.04	lira	Nom
+récord histórico	2	10.04	récords históricos	Nom Adjectif
+sentido riguroso	2	10.04	sentido riguroso	Nom Adjectif
+rendimiento global	2	10.04	rendimiento global	Nom Adjectif
+forma de capital	2	10.04	forma de capital___formas de capital	Nom Préposition Nom
+citaremos	2	10.04	citaremos	Verbe
+estimará	2	10.04	estimará	Verbe
+grupo de individuo	2	10.04	grupo de individuos	Nom Préposition Nom
+escribirlas	2	10.04	escribirlas	Verbe
+deprecia	2	10.04	deprecia	Nom
+crecimiento medio	4	10.04	crecimiento medio	Nom Adjectif
+criterio de tipo	2	10.04	criterio de tipos	Nom Préposition Nom
+rendimiento real	2	10.04	rendimiento real	Nom Adjectif
+aumento de producción	2	10.04	aumento de producción	Nom Préposition Nom
+cuenta corriente	2	10.04	cuenta corriente___cuentas corriente	Nom Nom
+toulouse	2	10.04	toulouse	Nom
+denominaremos	2	10.04	denominaremos	Verbe
+trabajador industrial	2	10.04	trabajadores industriales	Nom Adjectif
+cuerpo principal	2	10.04	cuerpo principal	Nom Adjectif
+riqueza potencial	2	10.04	riqueza potencial	Nom Adjectif
+rendimiento social	2	10.04	rendimiento social	Nom Adjectif
+circunstancia objetivo	2	10.04	circunstancias objetivas	Nom Adjectif
+trabajador individual	2	10.04	trabajadores individuales	Nom Adjectif
+city	2	10.04	city	Nom
+equipo existente	2	10.04	equipo existente	Nom Adjectif
+partido burgués	2	10.04	partidos burgueses	Nom Adjectif
+tipo real	2	10.04	tipo real	Nom Adjectif
+tipo de teoría	2	10.04	tipo de teoría___tipos de teoría	Nom Préposition Nom
+enunciarse	2	10.04	enunciarse	Verbe
+trabajo estadístico	2	10.04	trabajo estadístico	Nom Adjectif
+producto total	2	10.04	producto total	Nom Adjectif
+tiempo histórico	2	10.04	tiempo histórico	Nom Adjectif
+libreta	3	10	libreta	Nom
+situación determinado	3	10	situación determinada	Nom Adjectif
+tronco	3	10	tronco	Nom
+trabajo posterior	3	10	trabajo posterior___trabajos posteriores	Nom Adjectif
+fenómeno económico	3	10	fenómenos económicos	Nom Adjectif
+posterior	35	9.99	posterior___posteriores	Adjectif
+método	80	9.98	método___métodos	Nom
+obtener	75	9.94	obtener___obtienen___obtenemos___obtuviera___obtuvieron	Verbe
+nivel aceptable	5	9.9	nivel aceptable	Nom Adjectif
+efecto	148	9.89	efecto___efectos	Nom
+suponer	92	9.86	suponer___suponen___supondrá___supondría___supuso___supongamos	Verbe
+arancel	18	9.84	arancel___aranceles	Nom
+menos	179	9.79	menos	Adverbe
+costo de producción	4	9.79	costo de producción___costos de producción	Nom Préposition Nom
+subjetivo	7	9.78	subjetivos___subjetivas	Adjectif
+situar	31	9.76	situar___situaron___sitúe	Verbe
+industrial	55	9.76	industrial___industriales	Adjectif
+déficit público	10	9.75	déficit público	Nom Adjectif
+elevar	25	9.75	elevar___eleva___elevaron	Verbe
+autoridad monetario	5	9.75	autoridad monetaria___autoridades monetarias	Nom Adjectif
+día anterior	5	9.75	día anterior	Nom Adjectif
+recuperación	29	9.7	recuperación	Nom
+dinámica	15	9.7	dinámica	Nom
+año siguiente	9	9.69	año siguiente___años siguientes	Nom Adjectif
+transición	37	9.68	transición	Nom
+suma	38	9.67	suma___sumas	Nom
+económico	244	9.66	económico___económicos___económicas	Adjectif
+tipo de cambio	15	9.64	tipo de cambio___tipos de cambio	Nom Préposition Nom
+característica	36	9.63	característica___características	Nom
+experimentar	17	9.58	experimentar___experimentan___experimentaron	Verbe
+mercado de valor	8	9.57	mercado de valores___mercados de valores	Nom Préposition Nom
+revolución francés	3	9.55	revolución francesa	Nom Adjectif
+moneda extranjero	3	9.55	moneda extranjera	Nom Adjectif
+inversión total	3	9.55	inversión total___inversión totales	Nom Adjectif
+pasatiempo	3	9.55	pasatiempo	Nom
+sesión de negociación	3	9.55	sesión de negociación	Nom Préposition Nom
+acumulación de capital	3	9.55	acumulación de capital	Nom Préposition Nom
+ciencia económico	3	9.55	ciencia económica	Nom Adjectif
+guerrero	3	9.55	guerreros	Nom
+finito	3	9.55	finito___finita	Adjectif
+marco finlandés	3	9.55	marco finlandés	Nom Adjectif
+coeficiente	9	9.55	coeficiente___coeficientes	Nom
+generalmente	17	9.54	generalmente	Adverbe
+fenómeno	37	9.53	fenómeno___fenómenos	Nom
+producto	149	9.48	producto___productos	Nom
+cifra	52	9.46	cifra___cifras	Nom
+hipotecario	6	9.44	hipotecario___hipotecarios	Adjectif
+causal	4	9.35	causal	Adjectif
+estable	29	9.33	estable___estables	Adjectif
+comparativo	5	9.33	comparativamente	Adverbe
+atributo	5	9.33	atributos	Nom
+volumen total	5	9.33	volumen total	Nom Adjectif
+deuda|deudo	34	9.3	deudas	Nom
+regla general	12	9.29	regla general___reglas generales	Nom Adjectif
+disminución	26	9.28	disminución___disminuciones	Nom
+previsión	32	9.25	previsión___previsiones	Nom
+doblar	6	9.25	doblar___dobla___dobló	Verbe
+favorable	48	9.21	favorable___favorables	Adjectif
+imposición directo	3	9.16	imposición directa	Nom Adjectif
+volumen de comercio	3	9.16	volumen de comercio	Nom Préposition Nom
+originalidad	6	9.16	originalidad	Nom
+inteligibles	3	9.16	inteligibles	Adjectif
+monje	6	9.16	monje___monjes	Nom
+librecambistas	3	9.16	librecambistas	Nom
+carpeta	3	9.16	carpeta	Nom
+proporcional	15	9.14	proporcional	Adjectif
+usar	25	9.11	usar___usará___usen___usarlas	Verbe
+pleno	65	9.09	pleno___plena	Adjectif
+aun	43	9.07	aun	Adverbe
+ajuste	23	9.07	ajuste___ajustes	Nom
+habitual	26	9.04	habitual___habituales	Adjectif
+multiplicador	5	8.96	multiplicador	Nom
+sugestiones	2	8.95	sugestiones	Nom
+altibajo	4	8.95	altibajo___altibajos	Nom
+política bancario	2	8.95	política bancaria	Nom Adjectif
+refinamiento	2	8.95	refinamiento	Nom
+desperdicio de recurso	2	8.95	desperdicio de recursos	Nom Préposition Nom
+sindicato independiente	2	8.95	sindicatos independientes	Nom Adjectif
+dominarse	2	8.95	dominarse	Verbe
+década del siglo	2	8.95	década del siglo	Nom Préposition Nom
+equipo nuevo	2	8.95	equipo nuevo	Nom Adjectif
+dato empírico	2	8.95	datos empíricos	Nom Adjectif
+elegiría	2	8.95	elegiría	Verbe
+márqueting	2	8.95	márqueting	Nom
+finalidad social	2	8.95	finalidad social	Nom Adjectif
+facultad de elección	2	8.95	facultad de elección	Nom Préposition Nom
+tasa de fertilidad	2	8.95	tasas de fertilidad	Nom Préposition Nom
+situación alemán	2	8.95	situación alemana	Nom Nom
+modo semejante	2	8.95	modo semejante	Nom Adjectif
+tipo impositivo	4	8.95	tipo impositivo	Nom Adjectif
+tipo de bien	2	8.95	tipos de bienes	Nom Préposition Nom
+suma fijo	2	8.95	suma fija	Nom Adjectif
+sociedad económico	2	8.95	sociedad económica	Nom Adjectif
+deprimir	2	8.95	deprimir___deprime	Verbe
+circunstancia del mercado	2	8.95	circunstancias del mercado	Nom Préposition Nom
+volumen de exportación	2	8.95	volumen de exportaciones	Nom Préposition Nom
+precio de consumo	2	8.95	precios de consumo	Nom Préposition Nom
+concepto tradicional	2	8.95	concepto tradicional	Nom Adjectif
+cantidad de hora	2	8.95	cantidad de horas	Nom Préposition Nom
+competencia perfecto	2	8.95	competencia perfecta	Nom Adjectif
+cambio de importancia	2	8.95	cambio de importancia___cambios de importancia	Nom Préposition Nom
+recomendación práctico	2	8.95	recomendaciones prácticas	Nom Adjectif
+napoleónicas	2	8.95	napoleónicas	Adjectif
+inferencia	2	8.95	inferencia	Nom
+teorema	2	8.95	teorema	Nom
+feudalismo	2	8.95	feudalismo	Nom
+historiografía	2	8.95	historiografía	Nom
+volumen de transacción	2	8.95	volumen de transacciones	Nom Préposition Nom
+medida de liberalización	4	8.95	medidas de liberalización	Nom Préposition Nom
+insuperable	2	8.95	insuperable	Verbe
+tipo de ahorro	2	8.95	tipo de ahorro	Nom Préposition Nom
+penúltimo	4	8.95	penúltimo	Adjectif
+tamaño relativo	2	8.95	tamaño relativo	Nom Adjectif
+tipo de obra	2	8.95	tipo de obra___tipos de obras	Nom Préposition Nom
+fluctuación cíclicas	2	8.95	fluctuaciones cíclicas	Nom Adjectif
+agente privado	2	8.95	agentes privados	Nom Adjectif
+general	154	8.95	general___generales	Adjectif
+cuarto de punto	2	8.95	cuarto de punto	Nom Préposition Nom
+habilidad	11	8.88	habilidad	Nom
+banca	7	8.84	banca	Nom
+terrateniente	3	8.8	terrateniente___terratenientes	Nom
+sentido opuesto	3	8.8	sentido opuesto	Nom Adjectif
+inversión en educación	3	8.8	inversión en educación___inversiones en educación	Nom Préposition Nom
+axioma	3	8.8	axioma	Nom
+digresión	3	8.8	digresión	Nom
+futuro	78	8.79	futuro___futura___futuras	Adjectif
+relativamente	29	8.78	relativamente	Adverbe
+estudioso	4	8.77	estudiosos	Adjectif
+concurrencia	4	8.77	concurrencia	Nom
+soler	27	8.77	solía___solían	Verbe
+individualismo	4	8.77	individualismo	Nom
+raro	15	8.76	raro___rara	Adjectif
+producción industrial	6	8.75	producción industrial	Nom Adjectif
+sector público	20	8.74	sector público	Nom Adjectif
+bursátil	7	8.72	bursátil___bursátiles	Adjectif
+asalariado	15	8.72	asalariados	Nom
+antidumping	7	8.67	antidumping	Nom
+sumar	12	8.63	sumar___sumará___sumó	Verbe
+exportación	52	8.63	exportación___exportaciones	Nom
+porcentaje	30	8.61	porcentaje___porcentajes	Nom
+norteamericano	4	8.6	norteamericano	Nom
+erar|ser	35	8.56	eran	Verbe
+rentabilidad	15	8.55	rentabilidad___rentabilidades	Nom
+excedente	5	8.52	excedente___excedentes	Adjectif
+factual	3	8.49	factual	Adjectif
+economía alemán	3	8.49	economía alemana	Nom Nom
+cambio rápido	3	8.49	cambio rápido___cambios rápidos	Nom Adjectif
+manuscrito	3	8.49	manuscritos	Adjectif
+inquilino	3	8.49	inquilino___inquilinos	Nom
+espectacular	11	8.48	espectacular___espectaculares	Adjectif
+ordinario	11	8.48	ordinario___ordinarios___ordinarias	Adjectif
+negocio	24	8.48	negocio___negocios	Nom
+mano	63	8.47	mano___manos	Nom
+diario	19	8.47	diario___diarios___diarias	Adjectif
+mercado de divisa	4	8.43	mercado de divisas___mercados de divisas	Nom Préposition Nom
+anotación	4	8.43	anotación___anotaciones	Nom
+producción real	4	8.43	producción real___producciones reales	Nom Adjectif
+expandir	5	8.41	expandir___expandirse	Verbe
+diferencia fundamental	5	8.41	diferencia fundamental___diferencias fundamentales	Nom Adjectif
+abstracción	5	8.41	abstracción	Nom
+sentido	148	8.37	sentido___sentidos	Nom
+instituto	19	8.37	instituto	Nom
+caballero	8	8.37	caballero___caballeros	Nom
+supuesto	68	8.34	supuesto	Nom
+miércoles	20	8.33	miércoles	Nom
+descender	9	8.33	descender___descenderá___descendiera___descienda	Verbe
+encostar|encuestar	13	8.32	encuestas	Verbe
+especulación	13	8.3	especulación___especulaciones	Nom
+medida antidumping	4	8.28	medidas antidumping	Nom Nom
+escuela	27	8.24	escuela___escuelas	Nom
+inclinación	7	8.24	inclinación___inclinaciones	Nom
+serie	77	8.23	serie___series	Nom
+negociación	122	8.21	negociación___negociaciones	Nom
+significación	8	8.21	significación	Nom
+cíclicas	3	8.2	cíclicas	Adjectif
+clero	3	8.2	clero	Nom
+equilibrio general	3	8.2	equilibrio general	Nom Adjectif
+situación presente	3	8.2	situación presente	Nom Adjectif
+especializar	3	8.2	especializan	Verbe
+conocimiento actual	3	8.2	conocimiento actual___conocimientos actuales	Nom Adjectif
+mayar	3	8.2	mayo	Verbe
+desaceleración	6	8.18	desaceleración	Nom
+monopolio	26	8.17	monopolio___monopolios	Nom
+hecho	188	8.16	hecho___hechos	Nom
+ligeramente	13	8.16	ligeramente	Adverbe
+período siguiente	2	8.14	período siguiente	Nom Adjectif
+política flexible	2	8.14	política flexible___políticas flexibles	Nom Adjectif
+inversión global	2	8.14	inversión global	Nom Adjectif
+laissez	2	8.14	laissez	Nom
+ejercicio precedente	2	8.14	ejercicio precedente___ejercicios precedentes	Nom Adjectif
+inflación subyacente	2	8.14	inflación subyacente	Nom Adjectif
+productor individual	2	8.14	productor individual	Nom Adjectif
+inversión existente	2	8.14	inversiones existentes	Nom Adjectif
+proceso de educación	2	8.14	proceso de educación	Nom Préposition Nom
+autocráticos	2	8.14	autocráticos	Nom
+relatividad	2	8.14	relatividad	Nom
+gestión privado	2	8.14	gestión privada	Nom Adjectif
+fuente estadístico	2	8.14	fuentes estadísticas	Nom Adjectif
+producto de inversión	2	8.14	productos de inversión	Nom Préposition Nom
+lector	2	8.14	lectores	Adjectif
+recuperación del empleo	2	8.14	recuperación del empleo	Nom Préposition Nom
+unidad de producto	2	8.14	unidad de producto___unidades de producto	Nom Préposition Nom
+nuestra	2	8.14	nuestra	Verbe
+doctrinario	2	8.14	doctrinarios	Adjectif
+mercado de renta	2	8.14	mercado de renta	Nom Préposition Nom
+señor feudales	2	8.14	señores feudales	Nom Adjectif
+irrelevancia	2	8.14	irrelevancia	Nom
+término de convergencia	2	8.14	términos de convergencia	Nom Préposition Nom
+reducción de salario	2	8.14	reducción de salarios___reducciones de salarios	Nom Préposition Nom
+aumento espectacular	2	8.14	aumento espectacular	Nom Adjectif
+cantidad de empleo	2	8.14	cantidad de empleo	Nom Préposition Nom
+crecimiento significativo	2	8.14	crecimiento significativo	Nom Adjectif
+inferir	4	8.13	inferir	Verbe
+inversamente	4	8.13	inversamente	Adverbe
+intersección	4	8.13	intersección	Nom
+histórico	46	8.08	histórico___histórica___históricas	Adjectif
+razonamiento	12	8.05	razonamiento___razonamientos	Nom
+dividir	15	8.05	dividir___dividirá___dividen___dividimos	Verbe
+abonar	7	8.05	abonar	Verbe
+tasa de inflación	8	8.02	tasa de inflación___tasas de inflación	Nom Préposition Nom
+fertilidad	4	7.99	fertilidad	Nom
+filósofo	6	7.99	filósofos	Nom
+especulador	6	7.99	especulador___especuladores	Nom
+escala	57	7.96	escala___escalas	Nom
+circular	13	7.95	circular___circulares	Adjectif
+disponible	38	7.95	disponible___disponibles	Adjectif
+falacia	3	7.94	falacia	Nom
+acusado	3	7.94	acusado	Adjectif
+apéndice	6	7.87	apéndice	Nom
+política laboral	4	7.86	política laboral___políticas laborales	Nom Adjectif
+nivel medio	4	7.86	nivel medio	Nom Adjectif
+impracticable	4	7.86	impracticable	Adjectif
+acumulativo	4	7.86	acumulativo___acumulativa	Adjectif
+explicar	47	7.85	explicar___explicará___explicó___expliqué	Verbe
+explicativo	5	7.78	explicativa___explicativas	Adjectif
+imperfecto	6	7.75	imperfecta	Adjectif
+expansivo	4	7.73	expansivo	Adjectif
+financial	4	7.73	financial	Nom
+aproxime	4	7.73	aproxime	Verbe
+conjunto	93	7.71	conjunto___conjuntos	Nom
+caso especial	6	7.7	caso especial___casos especiales	Nom Adjectif
+predominio	6	7.7	predominio	Nom
+corriente	21	7.69	corriente___corrientes	Nom
+inalterado	4	7.6	inalterado___inalteradas	Adjectif
+nivel bajo	4	7.6	nivel bajo	Nom Adjectif
+funcionario público	4	7.6	funcionario público___funcionarios públicos	Nom Adjectif
+técnica	25	7.58	técnica___técnicas	Nom
+iglesia	13	7.53	iglesia	Nom
+manera semejante	2	7.51	manera semejante	Nom Adjectif
+propiedad estatal	2	7.51	propiedad estatal	Nom Adjectif
+conclusión similar	2	7.51	conclusiones similares	Nom Adjectif
+tipo particular	2	7.51	tipo particular	Nom Adjectif
+venta de automóvil	2	7.51	ventas de automóviles	Nom Préposition Nom
+dinastía	2	7.51	dinastía	Nom
+convergencia europeo	2	7.51	convergencia europea	Nom Adjectif
+término del período	2	7.51	término del período	Nom Préposition Nom
+economía de estado	2	7.51	economía de estados	Nom Préposition Nom
+cifra cercano	2	7.51	cifra cercana	Nom Adjectif
+mercado secundario	2	7.51	mercado secundario	Nom Adjectif
+característica básico	2	7.51	características básicas	Nom Adjectif
+salida de emergencia	2	7.51	salida de emergencia	Nom Préposition Nom
+cambio futuro	2	7.51	cambios futuros	Nom Adjectif
+precio constante	2	7.51	precios constantes	Nom Nom
+desdeñar	2	7.51	desdeñar	Verbe
+simplifiquemos	2	7.51	simplifiquemos	Verbe
+procedimiento determinado	2	7.51	procedimientos determinados	Nom Adjectif
+deleite	2	7.51	deleite	Nom
+inteligencias	2	7.51	inteligencias	Nom
+formación de capital	2	7.51	formación de capital	Nom Préposition Nom
+contratación	18	7.47	contratación___contrataciones	Nom
+condición del mercado	5	7.47	condiciones del mercado	Nom Préposition Nom
+privativo	3	7.47	privativo___privativas	Adjectif
+incremento	33	7.46	incremento___incrementos	Nom
+tecnología	59	7.43	tecnología___tecnologías	Nom
+reducción	74	7.43	reducción___reducciones	Nom
+capitalista	10	7.42	capitalista___capitalistas	Adjectif
+término real	5	7.39	términos reales	Nom Adjectif
+libra esterlino	7	7.37	libra esterlina___libras esterlinas	Nom Adjectif
+integración	65	7.37	integración	Nom
+llamar	54	7.36	llamar___llaman___llamarlo___llamamos___llamemos___llamaríamos	Verbe
+necesariamente	25	7.35	necesariamente	Adverbe
+resultado	134	7.34	resultado___resultados	Nom
+stocks	5	7.32	stocks	Nom
+largo	21	7.31	largo	Nom
+ingeniero	6	7.28	ingeniero___ingenieros	Nom
+banco emisor	3	7.27	banco emisor	Nom Nom
+inglés	16	7.27	inglés___inglesa___ingleses	Adjectif
+robusto	3	7.27	robusto___robusta	Adjectif
+español	27	7.17	español___española___españolas	Nom
+especificar	13	7.16	especificar___especificará___especifique	Verbe
+sistema abierto	3	7.08	sistema abierto	Nom Adjectif
+trimestre del año	3	7.08	trimestre del año	Nom Préposition Nom
+prólogo	3	7.08	prólogo	Nom
+renta nacional	3	7.08	renta nacional	Nom Adjectif
+ala izquierdo	3	7.08	ala izquierda	Nom Adjectif
+reducir	75	7.06	reducir___reducirá___reducirla___reduzcan___redujeron	Verbe
+flujo de capital	4	7.05	flujos de capital	Nom Préposition Nom
+hacienda	11	7.04	hacienda	Nom
+corto	40	7.03	corto___corta	Adjectif
+psicológico	11	7.01	psicológico___psicológica___psicológicas	Adjectif
+esquema general	2	7	esquema general___esquemas generales	Nom Adjectif
+esquemático	2	7	esquemática	Adjectif
+partida relativo	2	7	partida relativa___partidas relativas	Nom Adjectif
+integración comercial	2	7	integración comercial	Nom Adjectif
+aumento neto	2	7	aumento neto	Nom Adjectif
+mano de obra disponible	2	7	mano de obra disponible	Nom Préposition Nom Adjectif
+inversión en bien	2	7	inversión en bienes	Nom Préposition Nom
+precio unitario	2	7	precio unitario	Nom Adjectif
+desocupado	2	7	desocupados	Adjectif
+intervencionismo estatal	2	7	intervencionismo estatal	Nom Adjectif
+ahorrador	2	7	ahorrador	Nom
+subestimación	2	7	subestimación	Nom
+econométrico	2	7	econométrico	Nom
+educarse	2	7	educarse	Verbe
+mes consecutivo	2	7	mes consecutivo	Nom Adjectif
+regla de procedimiento	2	7	reglas de procedimiento	Nom Préposition Nom
+rémora	2	7	rémora	Nom
+relación de intercambio	2	7	relación de intercambio	Nom Préposition Nom
+aumento de salario	2	7	aumento de salarios___aumentos de salarios	Nom Préposition Nom
+marxistas	2	7	marxistas	Nom
+cambio de tendencia	2	7	cambio de tendencia	Nom Préposition Nom
+precio energético	2	7	precios energéticos	Nom Adjectif
+cuenta financiero	2	7	cuenta financiera	Nom Adjectif
+tiempo anterior	2	7	tiempo anterior___tiempos anteriores	Nom Adjectif
+mutatis mutandis	2	7	mutatis mutandis	Nom Nom
+disipa	2	7	disipa	Verbe
+circunstancia extraordinario	2	7	circunstancias extraordinarias	Nom Adjectif
+posición de equilibrio	2	7	posición de equilibrio	Nom Préposition Nom
+completo	45	6.97	completo___completos___completas	Adjectif
+banco	36	6.97	banco___bancos	Nom
+introducirán	4	6.96	introducirán	Verbe
+exceder	8	6.93	exceder___excede___exceda	Verbe
+libro	55	6.92	libro___libros	Nom
+artificio	3	6.9	artificio	Nom
+simpatizar	3	6.9	simpatizar___simpatizaban	Verbe
+fuente	42	6.89	fuente___fuentes	Nom
+fracción	5	6.87	fracción	Nom
+período anterior	5	6.87	período anterior	Nom Adjectif
+balanza de pago	7	6.87	balanza de pagos	Nom Préposition Nom
+circunstancia	47	6.85	circunstancia___circunstancias	Nom
+primario	14	6.84	primario___primaria___primarias	Adjectif
+remedio	16	6.81	remedio___remedios	Nom
+ocurrir	58	6.79	ocurrir___ocurrió___ocurrirán	Verbe
+valor nominal	4	6.77	valor nominal	Nom Adjectif
+aumento del consumo	4	6.77	aumento del consumo	Nom Préposition Nom
+mercado internacional	8	6.75	mercados internacionales	Nom Adjectif
+acentuación	3	6.73	acentuación	Nom
+modo siguiente	3	6.73	modo siguiente	Nom Adjectif
+economía abierto	3	6.73	economía abierta	Nom Adjectif
+reina	3	6.73	reina	Nom
+mercado	207	6.7	mercado___mercados	Nom
+familia	46	6.7	familia___familias	Nom
+venta	33	6.66	venta___ventas	Nom
+complicación	8	6.66	complicación___complicaciones	Nom
+inicial	30	6.65	inicial___iniciales	Adjectif
+entidad financiero	5	6.64	entidades financieras	Nom Adjectif
+debajo	19	6.64	debajo	Adverbe
+decenio	15	6.64	decenio___decenios	Nom
+requerir	48	6.63	requerir___requerirá___requirió___requieran	Verbe
+distribución	30	6.62	distribución___distribuciones	Nom
+aducir	6	6.62	aducir___aduce	Verbe
+peculiar	6	6.62	peculiar___peculiares	Adjectif
+vencer	10	6.6	vence___vencerse___venza	Verbe
+adición	7	6.59	adición___adiciones	Nom
+repentino	6	6.58	repentino	Adjectif
+hallar	27	6.58	hallar___halla___hallaba___hallaremos	Verbe
+nivel determinado	2	6.57	nivel determinado	Nom Adjectif
+mejora notable	2	6.57	mejora notable	Nom Adjectif
+intercambiables	2	6.57	intercambiables	Adjectif
+analítico	2	6.57	analíticamente	Adverbe
+bolsa europeo	2	6.57	bolsas europeas	Nom Adjectif
+tendencia mundial	2	6.57	tendencia mundial___tendencias mundiales	Nom Adjectif
+aceleración del crecimiento	2	6.57	aceleración del crecimiento	Nom Préposition Nom
+empresario individual	2	6.57	empresario individual	Nom Adjectif
+ritmo superior	2	6.57	ritmo superior	Nom Adjectif
+temperamento	2	6.57	temperamento	Nom
+cristaliza	2	6.57	cristaliza	Verbe
+cambio en relación	2	6.57	cambio en relación	Nom Préposition Nom
+modo explícito	2	6.57	modo explícito	Nom Adjectif
+importancia crítico	2	6.57	importancia crítica	Nom Adjectif
+texto principal	2	6.57	texto principal	Nom Adjectif
+conjunto de dato	2	6.57	conjunto de datos___conjuntos de datos	Nom Préposition Nom
+felicidad	7	6.56	felicidad	Nom
+poseer	21	6.53	poseer___posee___poseía	Verbe
+neutralizar	5	6.53	neutralizar___neutraliza	Verbe
+anual	44	6.49	anual___anuales	Adjectif
+superestructura	3	6.43	superestructura	Nom
+nervio	3	6.43	nervios	Nom
+saldar	3	6.43	saldo	Verbe
+moderno	26	6.43	moderno___moderna___modernas	Adjectif
+momentáneamente	3	6.43	momentáneamente	Adverbe
+improbable	6	6.43	improbable___improbables	Adjectif
+grupo de país	7	6.42	grupo de países___grupos de países	Nom Préposition Nom
+liso	5	6.42	liso___lisa___lisas	Adjectif
+indicador	20	6.4	indicador___indicadores	Nom
+déficit	27	6.39	déficit	Nom
+equivaler	15	6.38	equivale	Verbe
+concepto	51	6.36	concepto___conceptos	Nom
+deuda|deudo público	7	6.36	deuda pública	Nom Adjectif
+ocasionar	15	6.35	ocasionar___ocasiona___ocasionó	Verbe
+gradual	13	6.35	gradual___graduales	Adjectif
+ministerio	15	6.35	ministerio	Nom
+resto	36	6.35	resto___restos	Nom
+jugador	7	6.34	jugador___jugadores	Nom
+casi	57	6.34	casi	Adverbe
+sistema financiero	7	6.34	sistema financiero	Nom Adjectif
+siglo	34	6.34	siglo___siglos	Nom
+lineal	6	6.32	lineal___lineales	Adjectif
+proyección	7	6.31	proyecciones	Nom
+boletín	4	6.28	boletín	Nom
+manufacturero	4	6.28	manufactureros___manufactureras	Adjectif
+analogía	4	6.28	analogía	Nom
+trabajador del sector	5	6.27	trabajadores del sector	Nom Préposition Nom
+inestabilidad	12	6.26	inestabilidad	Nom
+producir	76	6.25	producir___producirá___produciría___produzcan___produjeron	Verbe
+influenciar	6	6.25	influencias	Verbe
+nivel de vida	10	6.24	nivel de vida___niveles de vida	Nom Préposition Nom
+ser	2415	6.24	ser___sea___soy___fuere___fuese	Verbe
+respectos	2	6.21	respectos	Nom
+estado de cosa	6	6.21	estado de cosas	Nom Préposition Nom
+clase de medida	2	6.21	clase de medidas	Nom Préposition Nom
+porcentaje anual	2	6.21	porcentaje anual	Nom Adjectif
+economía político	2	6.21	economía política	Nom Adjectif
+boceto	2	6.21	boceto	Nom
+superior	2	6.21	superior___superiores	Nom
+etapa de transición	2	6.21	etapa de transición	Nom Préposition Nom
+sme	2	6.21	sme	Nom
+razón concreto	2	6.21	razones concretas	Nom Adjectif
+población femenino	2	6.21	población femenina	Nom Adjectif
+prudencia financiero	2	6.21	prudencia financiera	Nom Adjectif
+valor propio	2	6.21	valor propio	Nom Adjectif
+nivel real	2	6.21	nivel real	Nom Adjectif
+leasing	2	6.21	leasing	Nom
+pequeño	160	6.19	pequeño___pequeña___pequeñas___menores___mínimos	Adjectif
+límite	57	6.18	límite___límites	Nom
+inversión privado	6	6.18	inversión privada	Nom Adjectif
+fuente importante	3	6.15	fuente importante	Nom Adjectif
+practicable	3	6.15	practicable	Verbe
+definición	45	6.15	definición___definiciones	Nom
+nivel pequeño	8	6.14	nivel mínimo___niveles mínimos	Nom Adjectif
+máquina	11	6.14	máquina___máquinas	Nom
+tamaño	15	6.13	tamaño	Nom
+creencia	10	6.12	creencia___creencias	Nom
+rico	27	6.11	rico___ricos___ricas	Adjectif
+caso	244	6.1	caso___casos	Nom
+diferir	11	6.1	diferir___difiero	Verbe
+producto final	5	6.09	producto final	Nom Adjectif
+indicar	52	6.09	indicar___indican___indicaría___indicamos	Verbe
+rasgo	10	6.08	rasgo___rasgos	Nom
+propietario	4	6.06	propietarios___propietarias	Adjectif
+cotizar	4	6.06	cotizar___cotizan___cotizó	Verbe
+hora de trabajo	5	6.04	hora de trabajo___horas de trabajo	Nom Préposition Nom
+atribuible	3	6.03	atribuible	Adjectif
+inversión internacional	3	6.03	inversión internacionales___inversiones internacionales	Nom Adjectif
+ventajoso	7	6.03	ventajoso___ventajosa	Adjectif
+probablemente	33	6.02	probablemente	Adverbe
+sector de servicio	4	6	sector de servicios___sectores de servicios	Nom Préposition Nom
+importe	23	5.98	importe	Nom
+neutral	8	5.97	neutral	Adjectif
+meridional	8	5.97	meridional	Adjectif
+recoger	31	5.97	recoger___recogen___recoja	Verbe
+dinamismo	9	5.96	dinamismo	Nom
+negativo	43	5.94	negativo___negativos___negativas	Adjectif
+balanza comercial	4	5.93	balanza comercial	Nom Adjectif
+decadencia	4	5.93	decadencia	Nom
+davos	4	5.93	davos	Nom
+puramente	13	5.93	puramente	Adverbe
+gráfico	4	5.93	gráfico___gráficos	Adjectif
+velocidad	19	5.93	velocidad	Nom
+mercado bursátil	3	5.91	mercado bursátil	Nom Adjectif
+sector primario	3	5.91	sector primario	Nom Adjectif
+conocimiento	50	5.9	conocimiento___conocimientos	Nom
+sobrepasar	11	5.88	sobrepasar___sobrepasa___sobrepasó	Verbe
+secreto bancario	4	5.87	secreto bancario	Nom Adjectif
+oficial	28	5.8	oficial___oficiales	Adjectif
+repaso	3	5.8	repaso	Nom
+japonés	8	5.8	japonés___japonesa___japonesas	Adjectif
+vestido	3	5.8	vestido___vestidos	Nom
+abundancia	5	5.79	abundancia	Nom
+entrega	12	5.77	entrega___entregas	Nom
+vida económico	6	5.77	vida económica	Nom Adjectif
+patrón	7	5.72	patrón___patrones	Nom
+edición	7	5.72	edición	Nom
+expectativas	5	5.71	expectativas	Adjectif
+compraventa	3	5.69	compraventa	Nom
+revolucionario	6	5.69	revolucionario___revolucionaria___revolucionarias	Adjectif
+consumo total	3	5.69	consumo total	Nom Adjectif
+genuino	6	5.69	genuino___genuina___genuinas	Adjectif
+maestro	5	5.67	maestro___maestros	Nom
+lento	14	5.67	lento___lenta	Adjectif
+expresión	32	5.64	expresión___expresiones	Nom
+asentar	4	5.63	asentar___asentó	Verbe
+negociar	23	5.62	negociar___negocia___negociarán	Verbe
+describir	16	5.6	describir___describió___describen	Verbe
+capitalismo	7	5.6	capitalismo	Nom
+suma total	3	5.59	suma total___sumas totales	Nom Adjectif
+análisis científico	3	5.59	análisis científico	Nom Adjectif
+capitalista	3	5.59	capitalista___capitalistas	Nom
+financiación privado	3	5.59	financiación privada	Nom Adjectif
+adquisitivo	6	5.58	adquisitivo	Adjectif
+plazo	92	5.58	plazo___plazos	Nom
+progreso	52	5.58	progreso___progresos	Nom
+obra público	4	5.57	obra pública___obras públicas	Nom Adjectif
+leve	4	5.57	leve	Adjectif
+competitivo	28	5.56	competitivo___competitiva___competitivas	Adjectif
+introducción	39	5.55	introducción	Nom
+aceleración	9	5.54	aceleración	Nom
+fácilmente	16	5.53	fácilmente	Adverbe
+adverso	7	5.51	adverso___adversa___adversas	Adjectif
+superficial	3	5.49	superficialmente	Adverbe
+cantidad total	3	5.49	cantidad total	Nom Adjectif
+mediana	9	5.49	mediana	Nom
+publicación	15	5.49	publicación___publicaciones	Nom
+franco francés	3	5.49	franco francés	Nom Adjectif
+gran	3	5.49	gran	Nom
+primitivo	3	5.49	primitivo___primitivas	Adjectif
+cota	4	5.46	cota___cotas	Nom
+característico	7	5.45	característica___características	Adjectif
+aparente	7	5.45	aparente	Adjectif
+temporal	26	5.45	temporal___temporales	Adjectif
+ganar	24	5.45	ganar___ganan___ganarse___ganarían	Verbe
+conversión	9	5.45	conversión	Nom
+alemán	33	5.44	alemán___alemana___alemanes	Nom
+número	79	5.43	número___números	Nom
+intervencionismo	3	5.4	intervencionismo	Nom
+absorber	7	5.39	absorber___absorbió	Verbe
+estrictamente	15	5.37	estrictamente	Adverbe
+proteccionista	7	5.35	proteccionista___proteccionistas	Adjectif
+sindicato	16	5.34	sindicato___sindicatos	Nom
+susceptible	11	5.34	susceptible___susceptibles	Adjectif
+herencia	8	5.34	herencias	Nom
+contrastar	6	5.32	contrastar___contrastan	Verbe
+alcanzar	66	5.31	alcanzar___alcanzará___alcanzaba___alcancen	Verbe
+monopolista	3	5.31	monopolista	Nom
+compás	3	5.31	compases	Nom
+ejercicio anterior	3	5.31	ejercicio anterior___ejercicios anteriores	Nom Adjectif
+movimiento	29	5.3	movimiento___movimientos	Nom
+exacto	15	5.29	exacto___exactos	Adjectif
+mejoramiento	5	5.28	mejoramiento	Nom
+patrono	5	5.28	patronos	Nom
+suposición	4	5.26	suposición___suposiciones	Nom
+vivienda	13	5.26	vivienda___viviendas	Nom
+alternativo	21	5.23	alternativo___alternativos___alternativas	Adjectif
+crédito hipotecario	3	5.22	crédito hipotecario___créditos hipotecarios	Nom Adjectif
+desperdicio	4	5.21	desperdicio	Nom
+vez superior	5	5.21	veces superior	Nom Adjectif
+interpretar	13	5.2	interpretar___interpreta___interpretaba	Verbe
+enseñar	10	5.19	enseñar___enseña___enseñaba___enseñaban	Verbe
+fama	4	5.16	fama	Nom
+elevación	5	5.15	elevación	Nom
+grande	414	5.15	grande___grandes___gran___mayor___máxima___máximos	Adjectif
+derrumbamiento	3	5.14	derrumbamiento	Nom
+ilustrar	11	5.14	ilustrar___ilustran	Verbe
+década	19	5.13	década___décadas	Nom
+expensar	7	5.13	expensas	Verbe
+equilibrio	45	5.13	equilibrio___equilibrios	Nom
+cercano	13	5.12	cercano___cercana___cercanas	Adjectif
+más	705	5.12	más	Adverbe
+paro	20	5.11	paro	Nom
+secretaría	7	5.1	secretaría	Nom
+largo	83	5.1	largo___largos___largas	Adjectif
+equivalente	6	5.09	equivalente___equivalentes	Nom
+oriental	8	5.09	oriental	Nom
+mes de marzo	7	5.08	meses de marzo	Nom Préposition Nom
+obvio	18	5.07	obvio___obvios___obvias	Adjectif
+indefinido	5	5.06	indefinido___indefinida	Adjectif
+ala	6	5.06	ala	Nom
+tercio	10	5.06	tercio___tercios	Nom
+provisión	7	5.03	provisión___provisiones	Nom
+forma	177	5.02	forma___formas	Nom
+descubrir	16	5.02	descubrir___descubre___descubrieron	Verbe
+desviación	9	5	desviación___desviaciones	Nom
+elevado	30	4.99	elevado___elevada___elevadas	Adjectif
+coyuntura	8	4.99	coyuntura	Nom
+reducido	9	4.97	reducido___reducidos	Adjectif
+inestable	6	4.96	inestable___inestables	Adjectif
+último	182	4.96	último___últimos___últimas	Adjectif
+vendedor	6	4.96	vendedor___vendedores	Nom
+notar	8	4.95	notar___notará___notó___notemos	Verbe
+lento	7	4.94	lentamente	Adverbe
+inmobiliario	5	4.94	inmobiliarios	Adjectif
+comercio	73	4.92	comercio	Nom
+frase	16	4.92	frase___frases	Nom
+bien de consumo	4	4.9	bien de consumo___bienes de consumo	Nom Préposition Nom
+medieval	4	4.9	medieval___medievales	Adjectif
+sustitución	11	4.89	sustitución___sustituciones	Nom
+año	308	4.87	año___años	Nom
+emisor	5	4.86	emisor	Nom
+perfecto	13	4.84	perfecto___perfectos___perfectas	Adjectif
+manejar	9	4.83	manejar___manejan___manejarse___manejarlos	Verbe
+espontáneo	5	4.83	espontáneo___espontánea	Adjectif
+valoración	18	4.82	valoración___valoraciones	Nom
+alto	61	4.81	alto___alta___altas___altísimos	Adjectif
+partido socialista	4	4.81	partidos socialistas	Nom Adjectif
+principio de año	4	4.81	principios de año	Nom Préposition Nom
+escritor	5	4.8	escritor___escritores	Nom
+equivalente	12	4.8	equivalente___equivalentes	Adjectif
+debilidad	12	4.8	debilidad	Nom
+mero	18	4.79	mero___mera	Adjectif
+cargar	8	4.78	cargar___cargan	Verbe
+explotación agrícola	7	4.78	explotaciones agrícolas	Nom Adjectif
+abundante	5	4.75	abundante	Adjectif
+sostener	17	4.75	sostener___sostenerse___sostengan___sostuvo___sostuvieron	Verbe
+prácticamente	23	4.75	prácticamente	Adverbe
+ascenso	5	4.75	ascenso	Nom
+célebre	4	4.73	célebre___célebres	Adjectif
+valer	20	4.73	valer___vale___valiera___valdría	Verbe
+conveniente	20	4.73	conveniente	Adjectif
+esencialmente	15	4.72	esencialmente	Adverbe
+afectar	54	4.72	afectar___afectará___afectó	Verbe
+flujo	15	4.7	flujo___flujos	Nom
+propiedad	20	4.7	propiedad___propiedades	Nom
+punto	214	4.68	punto___puntos___puntito	Nom
+universidad	15	4.68	universidad___universidades	Nom
+medir	12	4.66	medir___mide	Verbe
+contraste	6	4.66	contraste	Nom
+formal	17	4.64	formal___formales	Adjectif
+comercio internacional	9	4.64	comercio internacional	Nom Adjectif
+primo	13	4.62	primo___primos___primas	Adjectif
+anticipar	8	4.62	anticipar___anticipan___anticiparon	Verbe
+insuficiencia	7	4.6	insuficiencia	Nom
+directo	41	4.58	directo___directos___directas	Adjectif
+exagerar	5	4.55	exagerar___exagera	Verbe
+provisional	16	4.52	provisional___provisionales	Adjectif
+radical	18	4.52	radical___radicales	Adjectif
+clasificación	12	4.51	clasificación___clasificaciones	Nom
+operar	14	4.49	operar___operan___opere	Verbe
+capital	14	4.48	capital___capitales	Adjectif
+maestro	5	4.48	maestros	Adjectif
+estadística	16	4.44	estadística___estadísticas	Nom
+atribuir	12	4.42	atribuir___atribuye___atribuyen	Verbe
+influir	18	4.4	influir___influye___influyen___influyeron	Verbe
+letra	13	4.36	letra___letras	Nom
+venir	42	4.36	venir___venía___vendría	Verbe
+dedicar	25	4.36	dedicar___dedicará___dedicarse___dedicamos___dedicaremos	Verbe
+asesoramiento	11	4.36	asesoramiento	Nom
+parcialmente	12	4.35	parcialmente	Adverbe
+moderación	7	4.32	moderación	Nom
+argumentar	6	4.31	argumentar___argumentan	Verbe
+determinado	52	4.29	determinado___determinados___determinadas	Adjectif
+académico	7	4.28	académico___académicos	Adjectif
+emplear	22	4.26	emplear___empleará___emplee___empleamos	Verbe
+trabajo	216	4.26	trabajo___trabajos	Nom
+tesis	7	4.24	tesis	Nom
+primo	14	4.22	prima___primas	Nom
+elaboración	30	4.19	elaboración	Nom
+viejo	13	4.19	viejo___viejos___viejas	Adjectif
+enteramente	8	4.18	enteramente	Adverbe
+hábito	7	4.17	hábito___hábitos	Nom
+paralelo	12	4.16	paralelo___paralela___paralelas	Adjectif
+industria	16	4.14	industrias	Nom
+pobre	34	4.14	pobre___pobres	Adjectif
+fórmula	16	4.12	fórmula___fórmulas	Nom
+norteamericano	22	4.1	norteamericano___norteamericana___norteamericanas	Adjectif
+corrección	11	4.09	corrección___correcciones	Nom
+relación	161	4.07	relación___relaciones	Nom
+generar	19	4.04	generar___generan___generen	Verbe
+posteriormente	13	4.03	posteriormente	Adverbe
+adquirir	17	4.03	adquirir___adquiere	Verbe
+principalmente	28	4.03	principalmente	Adverbe
+comparación	17	4.03	comparación___comparaciones	Nom
+dólar	13	4.03	dólar___dólares	Nom
+percibir	12	3.99	percibir___perciba___percibimos	Verbe
+párrafo	19	3.97	párrafo___párrafos	Nom
+pertenecer	21	3.97	pertenecen___pertenecía___pertenecieron	Verbe
+crédito	41	3.96	crédito___créditos	Nom
+fijar	29	3.91	fijar___fijará___fijaba___fijarnos	Verbe
+observar	26	3.91	observar___observará___observó___observamos	Verbe
+idea	68	3.89	idea___ideas	Nom
+precedente	14	3.86	precedente___precedentes	Adjectif
+distinción	12	3.84	distinción	Nom
+consecuencia	101	3.82	consecuencia___consecuencias	Nom
+historia	30	3.77	historia	Nom
+sencillo	20	3.76	sencillo___sencillos___sencillas	Adjectif
+utilizar	59	3.75	utilizar___utilizará___utilizó___utilicen	Verbe
+completamente	27	3.75	completamente	Adverbe
+uso	57	3.68	uso___usos	Nom
+ventaja	29	3.63	ventaja___ventajas	Nom
+diferente	82	3.58	diferente___diferentes	Adjectif

@@ -1,0 +1,684 @@
+
+Introducción 
+
+En el informe Medio ambiente en Europa:
+segunda evaluación que se resume en el presente documento, se ofrece un cuadro claro del estado del medio ambiente en Europa y se especifican los ámbitos principales que requieren medidas de actuación a escala nacional o internacional.
+
+Este informe, Concebido como elemento fundamental para la Conferencia sobre el medio ambiente en Europa a celebrar en Arhus en junio de 1998 y que será la cuarta reunión de ministros de medio ambiente del conjunto de los países europeos, constituye una actualización de Medio ambiente en Europa:
+El Informe Dobris, primer documento sobre el tema a escala paneuropea, publicado por la Agencia Europea de Medio Ambiente (AEMA) en 1995.
+Aquella extensa obra incluía información relativa a 46 países y, basándose principalmente en datos obtenidos hasta 1992, recogía una evaluación del estado del medio ambiente europeo hasta entonces.
+
+El informe Dobris fue presentada en la tercera conferencia de ministros de medio ambiente del conjunto de los países europeos, que se celebró en Sofía durante el mes de octubre de 1995.
+En estas conferencias se pretende establecer principios y políticas para la mejora del medio ambiente, a fin de aunar criterios al respecto y alcanzar en Europa un patrón de desarrollo más sostenible.
+En la conferencia de Sofía, el informe tuvo muy buena acogida por parte de todos los ministros, que vieron en él un sólido documento de referencia con el que contrastar los futuros progresos del programa "Medio Ambiente para Europa" (PMAE).
+Los ministros solicitaron a la AEMA que elaborara una segunda evaluación para la siguiente conferencia prevista, a celebrar en Dinamarca durante 1998.
+
+Medio ambiente en Europa:
+segunda evaluación es la respuesta de la Agencia a aquella petición.
+
+El informe se centra en los 12 problemas medioambientales clave que se destacaron en el informe Dobris y muestra cómo se ha desarrollado la situación desde los comienzos del proceso "Medio Ambiente para Europa" en 1991 (en la práctica, suele tomarse 1990 como año de referencia).
+A consecuencia del enfoque adoptado, que responde al mandato de la conferencia ministerial celebrada en Sofía, no se incluyen en el nuevo informe todos los problemas medioambientales que afectan a Europa.
+Los futuros informes de la Agencia Europea de Medio Ambiente serán cada vez más completos.
+Se irán complementando con evaluaciones de problemas específicos, al mismo tiempo que se ampliará su cobertura geográfica.
+
+Junto con información sobre el estado medioambiental y sobre las tendencias de los 12 problemas clave, se identifican en el nuevo informe las principales fuerzas motrices de índole socioeconómica que presionan sobre el medio ambiente europeo.
+Además de ofrecer un cuadro claro de los continuos cambios del estado medioambiental del continente, este informe localiza las áreas fundamentales en las que se requiere un mayor grado de actuación.
+
+Son muchos y de muy diversos países los expertos en medio ambiente que han colaborado con la AEMA en la elaboración del nuevo documento.
+Lamentablemente, los mecanismos para recopilar datos medioambientales armonizados a escala europea son todavía inadecuados, a pesar de la prioridad otorgada a este aspecto en el PMAE.
+
+Los recursos de que ha podido disponerse en la elaboración de esta nueva evaluación no han sido suficientes para superar el problema, y la cobertura de los diversos países varía a lo largo del documento.
+En concreto, no ha podido evitarse cierto sesgo hacia los países de Europa occidental.
+Con todo, el nuevo informe ofrece el panorama más completo y fiable hasta la fecha, y sus conclusiones están respaldadas por un copioso corpus de datos que abarca toda Europa.
+
+En el siguiente apartado de este resumen preliminar se presentan los progresos registrados en los principales problemas medioambientales europeos, y se concluye con un análisis de la aportación de los principales sectores socioeconómicos a los problemas, así como de sus soluciones.
+En el último apartado, se resumen los 12 temas medioambientales que se examinan en el informe principal.
+
+Agrupaciones de países que se emplean en este informe 
+
+Europa occidental (UE+AELC+Suiza) Alemania, Austria, Bélgica, Dinamarca, España, Finlandia, Francia, Grecia, Irlanda, Italia, Luxemburgo, Países Bajos, Portugal, Reino Unido, Suecia, Islandia, Liechtenstein, Noruega y Suiza.
+
+PECO:
+Países de Europa central y oriental (todos los países de Europa central, los Estados bálticos, Chipre, Malta y Turquía) Albania, antigua Yugoslavia, Bosnia-Herzegovina, Bulgaria, Croacia, Eslovenia, Estonia, Ex-república de Macedonia, Hungría, Letonia, Lituania, Polonia, República Checa, República Eslovaca, Rumania, y Chipre, Malta y Turquía.
+
+NEI:
+Nuevos Estados europeos Independientes (excluidos los Estados bálticos) Armenia, Acerbaiyán, Bielorrusia, Federación Rusa, Georgia, Moldavia y Ucrania.
+
+Por comodidad, a lo largo del texto se utiliza a veces el término de Europa oriental para referirse al conjunto de los países de Europa central y oriental y a los Nuevos Estados Independientes.
+
+Conclusiones generales 
+
+PROBLEMAS 
+
+En la Tabla 1, se presenta una evaluación resumida de cómo han evolucionado, aproximadamente durante los últimos cinco años, los 12 problemas clave del medio ambiente europeo que se identificaron en el informe Dobris y se evalúan en el nuevo documento.
+
+Se establece una distinción entre la evolución del desarrollo de políticas y la evolución de la mejora de calidad del medio ambiente, ya que en ocasiones esta última va más retrasada que la adopción de las medidas que la propician.
+Ha sido inevitable que la información que sirve de base para la presente evaluación resulte respecto a algunos temas más fiable que respecto a otros.
+Las lagunas más destacadas afectan a los temas de productos químicos, biodiversidad y medio ambiente urbano.
+Así, por ejemplo, la indicación de "neutralidad" en la evolución de las políticas relacionadas con el ozono troposférico tiene un fundamento más sólido y documentado que en lo relativo a los productos químicos, ámbito en el que han dificultado la evaluación la percepción cambiante de los problemas subyacentes y la grave carencia de datos.
+
+Tabla 1
+
+Problema medioambiental clave
+
+- estado del medio ambiente
+- cambio climático
+- agotamiento del ozono estratosférico
+- acidificación
+- ozono troposférico
+- productos químicos
+- residuos
+- biodiversidad
+- aguas continentales 
+- medio ambiente marino y de litoral
+- degradación del suelo
+- medio ambiente urbano
+- riesgos naturales y tecnológicos 
+
+Leyendas:
+evolución positiva respecto al desarrollo de políticas o al estado del medio ambiente.
+
+Desarrollo de algunas políticas, pero insuficiente para abordar el problema en su conjunto (se incluye aquí también la falta de cobertura geográfica).
+
+Pocos cambios o ninguno en el estado del medio ambiente.
+
+Esta indicación se utiliza también para señalar evoluciones inciertas o desiguales en determinadas zonas.
+
+Desarrollo de políticas escaso o perjudicial para el estado del medio ambiente.
+Esta indicación se utiliza también para señalar que persisten las presiones intensas o la mala calidad medioambiental.
+
+Problemas atmosféricos 
+
+Gracias a los esfuerzos realizados durante una serie de años por coordinar las políticas y a las medidas de actuación en toda Europa y fuera de ella para disminuir las emisiones perjudiciales y mejorar la calidad de la atmósfera, en la mayoría de los países europeos se han conseguido reducciones apreciables de diversas sustancias que constituyen una amenaza para el medio ambiente y para la salud humana.
+Entre ellas se incluyen el dióxido de azufre, el plomo y determinadas sustancias destructoras del ozono.
+Se han registrado también reducciones menores de las emisiones de óxidos de nitrógeno y de compuestos orgánicos volátiles no metánicos (COVNM).
+
+En Europa occidental, estos avances se han debido principalmente a las políticas de reducción de las emisiones, a los cambios estructurales en la producción industrial y al uso de combustibles más limpios.
+En Europa central y oriental, los efectos de las medidas de reducción han quedado ocultos por la fuerte disminución del uso de energía y de la producción industrial a raíz de los cambios económicos estructurales, que han producido considerables disminuciones de los aportes y las emisiones.
+
+En la tabla 2 se muestran los progresos registrados respecto a los objetivos de reducción de las emisiones atmosféricas.
+Sólo para los contaminantes atmosféricos que aparecen en esta tabla se han fijado objetivos cuantitativos a escala paneuropea en los convenios y protocolos.
+
+Tabla 2
+
+Progresos hacia los objetivos fijados
+
+Nota:
+Los datos sobre los NEI sólo se refieren a cuatro países (Bielorrusia, Moldavia, la Federación Rusa y Ucrania).
+
+Convenio de NU sobre contaminación fronteriza a larga distancia.
+Aunque la evaluación se refiere a toda la zona, los objetivos son válidos únicamente respecto a los países signatarios de los convenios.
+
+A pesar de los aparentes progresos que se muestran en la tabla 2, deberán reducirse aún más las emisiones de determinados contaminantes atmosféricos para cumplir los objetivos acordados y los que está previsto acordar.
+La mayor parte de las emisiones registradas hasta la fecha se han producido como resultado de los cambios económicos y de las medidas encaminadas a las grandes fuentes contaminantes de los sectores de la industria y la energía.
+A excepción del plomo de las gasolinas, el éxito ha sido menor en la reducción de emisiones procedentes de fuentes difusas como el transporte y la agricultura que, por su propia naturaleza, resultan más difíciles de controlar y requieren una mejor integración de las medidas medioambientales en el conjunto de las políticas.
+
+cambio climático 
+
+Si bien se han conseguido algunas reducciones en las emisiones de gases responsables del efecto invernadero (las emisiones de dióxido de carbono disminuyeron un 12 por ciento en toda Europa y un 3 por ciento en Europa occidental entre 1990 y 1995), la mayor parte de estas reducciones se deben a cambios económicos tales como el cierre de muchas industrias pesadas en Europa oriental y la sustitución del carbón por el gas en los sistemas de generación de electricidad de algunos países de Europa occidental.
+
+El sector del suministro de energía es el principal responsable de las emisiones de dióxido de carbono (cerca del 35% en 1995), seguido de un porcentaje más o menos equivalente de emisiones procedentes de los sectores de la industria, el transporte, los hogares + el sector del comercio (alrededor de un 20% cada uno de estos sectores), y de una aportación cada vez mayor procedente del sector del transporte.
+En el último escenario de "situación sin cambios" realizado por la Comisión Europea, se sugiere un aumento del 8 por ciento en las emisiones de dióxido de carbono en la UE entre 1990 y 2010, lo cual supone un marcado contraste respecto al objetivo acordado en Kyoto en diciembre de 1997 de alcanzar en la Unión Europea una reducción del 8 por ciento (para un "conjunto" de seis gases en el que se incluye el dióxido de carbono).
+No cabe duda de que será necesario emprender acciones a todos los niveles que influyan en la totalidad de los sectores económicos si se pretende realmente cumplir el objetivo de Kyoto.
+
+agotamiento de la capa de ozono 
+
+La implementación del Protocolo de Montreal y sus ulteriores ampliaciones han reducido la producción y emisión de sustancias destructoras del ozono en un 80-90 por ciento a escala mundial.
+En Europa se han conseguido reducciones similares.
+
+No obstante, tendrán que pasar muchos decenios hasta que se recuperen los niveles de ozono de la estratosfera debido a la persistencia de sustancias destructoras en la capa más elevada de la atmósfera.
+
+Esta realidad pone de manifiesto la importancia de reducir las emisiones de las restantes sustancias destructoras (HCFC, bromuro de metilo) y la necesidad de garantizar la adecuada aplicación de las medidas vigentes para activar así la recuperación de la capa de ozono.
+
+acidificación 
+
+Desde el informe Dobris, se han hecho algunos avances en el control del problema de la acidificación, en particular como resultado de la reducción continuada de las emisiones de dióxido de azufre (50% entre 1980 y 1995 en toda Europa).
+Las emisiones de óxidos de nitrógeno y de amoníaco han disminuido en un 15 por ciento.
+Sin embargo, aproximadamente en un 10 por ciento de la cubierta terrestre de Europa el nivel de depósitos ácidos sigue siendo demasiado elevado.
+En cuanto a las emisiones de NOx procedentes del transporte, la política medioambiental no guarda relación con el constante aumento en el uso de este sector; el incremento en la cantidad y la utilización de automóviles ha frenado las ventajas de algunas mejoras técnicas, como el mayor uso de motores más limpios y catalizadores en los vehículos de pasajeros.
+En consecuencia, el sector del transporte se ha convertido en el principal responsable de las emisiones de óxidos de nitrógeno.
+El enorme potencial de crecimiento del transporte privado en los PECO y en los NEI apunta hacia un agravamiento del problema.
+
+ozono troposférico y "smog" fotoquímico 
+
+A pesar del aumento de los niveles de tráfico en toda Europa, en el conjunto del continente se alcanzó una significativa reducción (14%) de las emisiones de precursores del ozono entre 1990 y 1995, gracias a una combinación de medidas de control de los diversos sectores y a la reestructuración económica de Europa oriental.
+No obstante, "smog" fotoquímico, originado por las altas concentraciones de ozono troposférico, sigue siendo frecuente en muchos países europeos, con la consiguiente amenaza para la salud humana y la vegetación.
+
+Será preciso conseguir reducciones más acusadas de las emisiones de NOx y de los COVNM en todo el hemisferio norte para conseguir una disminución significativa de las concentraciones de ozono troposférico.
+
+El segundo paso respecto al Protocolo sobre el NOx de 1988 incluido en el Convenio sobre contaminación fronteriza a larga distancia (CLRTAP) será un protocolo sobre un conjunto de múltiples contaminantes multiefecto, encaminado a atajar la contaminación fotoquímica, la acidificación y la eutrofización.
+Se prevé que el documento esté preparado para su adopción en 1999 y es bastante probable que imponga reducciones más rigurosas de las emisiones.
+
+Será especialmente difícil controlar las emisiones del creciente sector del transporte, principal responsable de las emisiones de NOx en toda Europa y de las emisiones de COVNM en Europa occidental.
+
+En Europa oriental, la industria sigue siendo la fuente principal de las emisiones de COVNM, pero la situación podría cambiar con el crecimiento previsto del transporte.
+
+productos químicos 
+
+El grado de amenaza para el medio ambiente y para la salud humana que entrañan los productos químicos sigue siendo incierto debido al gran número de sustancias de uso común y al desconocimiento sobre su forma de penetración y acumulación en el medio ambiente y sobre sus consecuencias ecológicas y para el ser humano.
+
+Ante la dificultad de evaluar la toxicidad de muchos productos químicos cuyo uso o liberación (y los de sus compuestos) resultan potencialmente peligrosos, algunas de las estrategias actuales de control tienen como objetivo reducir la "carga" de productos liberados al medio ambiente (y, en consecuencia, la exposición a los mismos), mediante la eliminación o reducción de su utilización y de las emisiones.
+Los nuevos instrumentos, como los programas de reducciones de carácter voluntario, los Inventarios de Emisiones Tóxicas y los Registros de Emisiones Contaminantes, acaparan cada día más atención.
+
+residuos 
+
+Se calcula que la generación total de residuos aumentó en un 10 por ciento entre 1990 y 1995.
+No obstante, parte de ese aparente aumento puede deberse a la mejora de los sistemas de control de los residuos.
+
+En la mayoría de los países, la gestión de residuos sigue estando dominada por la opción más económica: los vertederos.
+El reducir la cantidad de residuos y evitar su acumulación son medidas que cada día adquieren más reconocimiento como soluciones más deseables, pero todavía no se aprecia ningún progreso global en esa dirección.
+El reciclado suele tener más éxito en países con una fuerte infraestructura en la gestión de residuos.
+
+Entre las prioridades de los PECO y los NEI, se incluyen la mejora de la gestión municipal de los residuos mediante la separación de los distintos tipos y el mejor control de los vertederos; la introducción de iniciativas de reciclado a escala local; y las medidas de tratamiento de bajo presupuesto en puntos de vertido prioritarios.
+
+biodiversidad 
+
+En términos generales, desde la evaluación Dobris ha aumentado la presión global que ejercen sobre la biodiversidad las actividades humanas (la agricultura intensiva, la silvicultura, la urbanización y el desarrollo de infraestructuras, así como la contaminación).
+
+Estas presiones proceden de una gestión uniforme de la agricultura y la silvicultura cada vez a mayor escala, una fragmentación del paisaje (que origina el aislamiento de especies y hábitats naturales), la liberación de productos químicos, la extracción de agua y el desplazamiento de especies.
+
+Se han emprendido muchas medidas de protección de la Naturaleza a escala nacional e internacional, pero su puesta en práctica acusa un ritmo muy lento.
+A escala local, se han registrado algunos efectos beneficiosos de determinadas medidas de protección, pero no se han hecho apenas progresos hacia la agricultura sostenible .
+
+En algunas partes de la CEE y de los NEI quedan todavía grandes zonas de bosques y otros hábitats naturales todavía intactos, que podrían verse amenazados por las presiones derivadas de los cambios económicos y el desarrollo si no se incorporan las medidas adecuadas de protección en el marco del Programa Medio Ambiente para Europa (PMAE), en las políticas nacionales de desarrollo económico y en los correspondientes mecanismos financieros, así como en los acuerdos de adhesión a la UE por parte de estos países.
+
+aguas continentales y marinas 
+
+El PMAE presta especial atención a la gestión sostenible de los recursos naturales, incluidas las aguas continentales y marinas.
+Sin embargo, todos los recursos siguen estando amenazados.
+
+Aunque en la última década, las tasas de utilización de agua se han mantenido estables o incluso han disminuido en una serie de países de Europa occidental y oriental, persiste la posibilidad de los recortes de agua, principalmente en las áreas urbanas.
+
+Siguen siendo un problema las fugas de agua en los sistemas de distribución de muchos países y la utilización no eficiente de los recursos hídricos en todos ellos.
+
+La calidad de las aguas subterráneas se ve amenazada por las altas concentraciones de nitratos procedentes de la agricultura, con el consiguiente riesgo para la salud humana.
+Las concentraciones de plaguicidas en las aguas subterráneas superan por lo general los niveles máximos admitidos en la UE, y en muchos países se registra contaminación de estas aguas por metales pesados, hidrocarburos e hidrocarburos clorados.
+Considerando los tiempos de penetración de las sustancias contaminantes en las aguas subterráneas, tendrán que pasar muchos años para que se registren mejoras en la calidad de este recurso.
+
+Desde 1990, no ha habido ninguna mejora global en la calidad de las aguas fluviales.
+Aunque en los últimos cinco años se ha registrado una reducción del 40-60 por ciento en las emisiones de fósforo debida a las medidas para el tratamiento de las aguas residuales e industriales y al mayor uso en los hogares de detergentes sin fosfatos, el problema de la eutrofización de las aguas fluviales y marinas, así como de los lagos y embalses, sigue en los mismos niveles que cuando se publicó el informe Dobris, con un exceso de nutrientes en muchas zonas.
+
+Muchos mares europeos siguen estando sobreexplotados, y las poblaciones de una serie de especies están seriamente amenazadas, lo que subraya la importancia de promover los bancos de peces sostenibles a través del PMAE.
+
+degradación del suelo 
+
+La erosión y la salinización del suelo siguen siendo problemas graves en muchas zonas, en particular en la cuenca del Mediterráneo.
+Se han hecho pocos avances en la conservación de los suelos, aspecto al que se presta especial atención en el PMAE.
+Un gran número de lugares contaminados requieren una acción inmediata.
+En la actualidad, se han identificado 300.000 lugares potencialmente contaminados, la mayoría en Europa occidental y sobre todo en zonas con una larga tradición en la industria pesada.
+
+En Europa oriental, donde hay un buen número de emplazamientos militares contaminados, hacen falta más datos para valorar con más precisión la gravedad del problema.
+
+medio ambiente urbano 
+
+La población urbana de Europa no cesa de crecer, y las ciudades europeas muestran todavía signos de tensión medioambiental:
+mala calidad del aire, exceso de ruido, atascos de tráfico, pérdida de zonas verdes y degradación de edificios históricos y monumentos.
+
+Aunque ha habido algunas mejoras desde el informe Dobris (por ejemplo, en la calidad del aire urbano), son muchas las tensiones, sobre todo las derivadas del transporte, que acentúan cada vez más una mala calidad de vida en las ciudades y un deterioro de la salud humana.
+Cabe destacar como avance positivo el creciente interés de muchas ciudades por el movimiento Agenda local 21.
+Más de 290 ciudades europeas han firmado la Carta Alborg de Ciudades y Poblaciones Europeas hacia la Sostenibilidad.
+La implementación de las políticas e instrumentos de la Agenda local 21, con su compromiso de alcanzar mejoras significativas a partir de las acciones concertadas a escala local, se está convirtiendo en el principal motor de progreso en las ciudades.
+
+riesgos naturales y tecnológicos 
+
+Junto con las constantes presiones impuestas por las actividades humanas cotidianas, el medio ambiente europeo se ve esporádicamente afectado por los desastres naturales y los accidentes tecnológicos.
+
+Sólo en determinadas zonas de la UE se dispone de datos relativos a este tipo de accidentes, y aún es menor la información disponible al respecto en los PECO y los NEI.
+De acuerdo con los informes de los sucesos registrados, el número de accidentes industriales por unidad de actividad parece ir en declive en la Unión Europea.
+
+El daño originado por las inundaciones y otras catástrofes de índole climatológica es cada vez mayor en toda Europa a consecuencia probablemente de intervenciones humanas como las alteraciones del paisaje (incluido el sellado de los suelos bajo zonas urbanizadas e infraestructuras), y por la mayor frecuencia de condiciones meteorológicas extremas.
+
+SECTORES 
+
+La evaluación hasta aquí expuesta pone de manifiesto que, si bien se han reducido algunas presiones, no se ha logrado una mejora general del estado o la calidad del medio ambiente en Europa.
+En algunos casos, esto se debe a los prolongados procesos de recuperación (por ejemplo, en problemas como el agotamiento del ozono estratosférico o la acumulación de concentraciones de fósforo en los lagos).
+Con todo, las medidas adoptadas en muchos casos han sido limitadas para la escala y complejidad de los problemas (por ejemplo, en el caso de la niebla tóxica estival o en el de los plaguicidas en las aguas subterráneas).
+
+Tradicionalmente, las políticas medioambientales europeas se centraban en el control de la contaminación en el punto de origen y en la protección de determinadas zonas.
+En fecha más reciente, empiezan a integrarse los aspectos medioambientales en otras áreas de intervención política y a promoverse el desarrollo sostenible.
+
+El transporte, la energía, la industria y la agricultura son los sectores clave que influyen como "fuerzas motrices" en el medio ambiente europeo.
+El desarollo de políticas medioambientales y su puesta en práctica de manera eficaz varía de manera notable entre estos sectores.
+Los sectores de la industria y la energía están, dentro de lo razonable, bien cubiertos por las políticas de intervención aunque algunos aspectos requieren todavía cierta atención (por ejemplo, la eficiencia energética o las energías renovables).
+
+La agricultura está cubierta en mucha menor medida y exige cierta revisión.
+La situación del sector del transporte sigue siendo insatisfactoria.
+
+Transporte:
+El transporte de mercancías por carretera ha aumentado un 54 por ciento en toda Europa desde 1980 (medido en toneladas por kilómetro), el transporte de vehículos de pasajeros ha aumentado un 46 por ciento desde 1985 (medido en pasajeros por kilómetro, sólo en la UE) y el número de pasajeros que viajan en avión ha aumentado un 67 por ciento desde 1985.
+
+En el sector del transporte más que en ningún otro, las políticas medioambientales han sido incapaces de afrontar los constantes ritmos de crecimiento.
+Los problemas de congestión del tráfico, contaminación atmosférica y acústica son cada día mayores.
+Hasta no hace mucho, el aumento de los transportes se veía como un indicador fundamental del crecimiento y el desarrollo económicos.
+Los gobiernos se habían impuesto la tarea de desarrollar la infraestructura necesaria, y las obligaciones ecológicas se limitaban a mejorar las normas relativas a las emisiones de los vehículos y la calidad de los combustibles, y a garantizar que el diseño de la red de carreteras se sometiera a una evaluación del impacto medioambiental.
+
+En este nuevo informe se muestran algunos de los progresos constatados en la mayor parte de Europa respecto a aquellos limitados objetivos.
+Con todo, el crecimiento continuado del tráfico y de las infraestructuras para el transporte ha tenido como consecuencia un aumento global de los problemas medioambientales relacionados con los automóviles y la consiguiente inquietud de la opinión pública.
+Hoy, se pone en cuestión la veracidad del vínculo entre desarrollo económico y aumento del tráfico.
+
+Recientemente se han hecho esfuerzos por limitar el aumento de la demanda de automóviles y promover el uso del transporte público, y por instaurar nuevas pautas de asentamiento y producción que reduzcan la necesidad del transporte.
+Esta transformación hacia un modelo de transporte más sostenible no será fácil ya que sigue teniendo mucha fuerza política el enfoque tradicional a favor del desarrollo de infraestructuras, y el transporte público está perdiendo la batalla frente al transporte privado en toda Europa.
+
+El uso de energía, que constituye la principal fuerza motriz del cambio climático y de una serie de problemas de contaminación atmosférica, sigue siendo elevado en Europa occidental desde el informe Dobris.
+
+En los PECO y en los NEI, el consumo de energía ha disminuido en un 23 por ciento desde 1990 como resultado de la reestructuración económica, pero se prevé que vuelva a aumentar una vez se produzca la recuperación.
+El requisito clave de una política sobre energía más sostenible es alcanzar una mayor eficiencia en la producción y el uso de energía.
+
+En Europa occidental, los precios relativamente bajos de la energía no han sido estímulo suficiente para alcanzar dicho requisito, y si bien se registra actualmente un aumento anual de la eficiencia energética del 1 por ciento, el PIB sigue aumentando a una tasa anual de entre un 2 y un 3 por ciento anual.
+
+Es probable que se incremente este aumento en Europa occidental, en particular en los sectores del transporte y los hogares, pero la experiencia sugiere que, mientras que los precios de los combustibles fósiles sigan siendo bajos, será necesario aplicar medidas políticas más vigorosas para alcanzar dicho aumento.
+
+En Europa oriental, la convergencia económica con Occidente podría invertir la tendencia actual de un menor consumo de energía, y reactivar las emisiones de gases responsables del efecto invernadero y de otros contaminantes atmosféricos, en especial en los sectores de la industria, el transporte y los hogares.
+
+Por tanto, también en los países de esta zona serán necesarias nuevas medidas para promover la eficiencia energética en la producción y el uso de energía.
+
+Industria:
+La aportación del sector de la industria a los problemas del cambio climático, la acidificación, el ozono troposférico y la contaminación de las aguas ha disminuido desde el informe Dobris.
+
+En Europa occidental, los objetivos medioambientales están cada vez más integrados en la toma de decisiones relativas a la industria, lo que da como resultado una reducción del total de las emisiones industriales tanto a la atmósfera como al medio acuático.
+Sin embargo, esta integración no es frecuente en Europa oriental, por lo que se requieren en estos países estructuras administrativas bien diseñadas y dotadas de los recursos necesarios para la implementación y el cumplimiento de los instrumentos jurídicos relativos al medio ambiente y para generalizar el uso de los sistemas de gestión medioambiental en el ámbito de la empresa.
+Cuando se renueve una parte importante de los sistemas de producción es probable que se registren sorprendentes avances tecnológicos.
+
+En toda Europa, es considerable el impacto medioambiental de la pequeña y mediana empresa, al igual que lo es su potencial de mejora.
+En términos generales, estas empresas no se encuentran hoy sometidas a medidas medioambientales eficaces.
+
+Agricultura:
+En el pasado, el objetivo primordial de las políticas agrarias vigentes en Europa era conseguir la máxima producción de alimentos y mantener los ingresos de las explotaciones agrarias.
+En fecha más reciente, estas políticas han empezado a prestar más atención a los requisitos medioambientales y al imperativo de una agricultura más sostenible.
+
+Con todo, en el presente informe se pone de manifiesto el largo camino que queda todavía por recorrer.
+
+En Europa occidental, las cosechas han seguido aumentando durante los últimos cinco años como resultado de los progresos en las prácticas agrarias.
+El uso de fertilizantes inorgánicos y plaguicidas (medido en función del peso de las sustancias activas) se ha estabilizado (si bien, como se ha señalado anteriormente, ello no ha supuesto una mejora inmediata en la calidad de las aguas subterráneas), pero la utilización de los recursos hídricos no ha dejado de aumentar.
+
+Con el incremento de la producción de ganado y abono animal y la emisión de compuestos de nitrógeno reducido, la eutrofización se ha convertido en un problema grave en el noroeste de Europa, y empieza a ser considerable en Europa meridional.
+En muchos lugares, los hábitats naturales y la biodiversidad están sometidos a las presiones de la agricultura intensiva y a la proliferación de nuevos centros urbanos.
+
+A escala nacional, han empezado a fomentarse prácticas agrarias más benignas con el medio ambiente, pero los aspectos relativos a la ecología siguen siendo sólo una pequeña porción de la Política Agraria Común de la Unión Europea (PAC).
+Con la implementación del GATT y la reforma de la PAC, tal vez se consiga una mayor racionalización y especialización de la producción agraria y el abandono de los terrenos más marginales.
+Con todo, no hay una relación directa entre la retirada de tierras del sistema de producción y su impacto en la biodiversidad.
+
+En Europa oriental, la reforma estructural, la modernización y la diversificación del sector agrario siguen siendo prioritarias.
+No obstante, lo complejo e incierto de la situación actual dificulta una posible evaluación global del impacto de estos avances.
+
+En términos generales, para alcanzar niveles sostenibles de las presiones medioambientales y el uso de los recursos, se requieren mayores avances tecnológicos y un cambio más acusado hacia actividades menos intensivas y perjudiciales para el medio ambiente.
+
+Si bien a escala nacional ha habido algunos avances en el desarrollo de políticas que integran los requisitos medioambientales en la toma de decisiones (como los planes de acción ecológicos o los requisitos de las evaluaciones medioambientales estratégicas), queda todavía un largo camino por recorrer para instaurar estas medidas a escala paneuropea.
+No obstante, hay posibilidades de alcanzar mejoras lo suficientemente significativas para atajar los impactos medioambientales del aumento de la producción y el consumo, en particular en los PECO y en los NEI.
+En estos países, la reestructuración económica y la renovación tecnológica brindan una buena oportunidad de descartar algunas de las tecnologías más despilfarradoras que se han aplicado en Europa occidental.
+
+Conclusiones relativas a cada problema medioambiental por separado 
+
+Cambio climático 
+
+La media anual europea de las temperaturas atmosféricas ha aumentado 0,3-0,6°C desde 1900.
+De acuerdo con los modelos climáticos, se prevén nuevos aumentos, por encima de los niveles de 1990, hasta cerca de 2°C para el año 2100, con incrementos superiores en el norte de Europa en comparación con el sur.
+Entre las posibles consecuencias, se contemplan:
+la elevación del nivel del mar, tormentas más frecuentes e intensas, inundaciones y sequías, así como cambios en la biota y en la productividad de alimentos.
+
+La gravedad de estas consecuencias dependerá en parte del grado en que se implementen las adecuadas medidas de adaptación durante los próximos años y décadas.
+
+Para garantizar que la temperatura no se incremente más de 0,1°C por década y que el nivel de los mares no aumente más de 2 cm por década (límites provisionales previstos para asegurar la sostenibilidad), será necesario que los países industrializados reduzcan las emisiones de los gases responsables del efecto invernadero (dióxido de carbono, metano, óxido nitroso y diversos compuestos halogenados), como mínimo en un 30-55 por ciento con respecto a los niveles de 1990, para el año 2010.
+
+Estas reducciones son mucho mayores que los compromisos adquiridos por los países desarrollados en la tercera conferencia de las partes signatarias del Convenio marco sobre el cambio climático (CMCC) de Naciones Unidas, celebrada en Kyoto en diciembre de 1997, que consistían en reducir las emisiones de los gases responsables del efecto invernadero en la mayoría de los países europeos, en un 8 por ciento por debajo de los niveles de 1990 para el año 2010.
+Algunos países de Europa central y oriental se comprometieron a reducir las emisiones de estos gases entre un 5 por ciento y un 8 por ciento en relación con 1990, para el 2010; mientras que la Federación Rusa y Ucrania prometieron estabilizar las emisiones en los niveles de 1990.
+
+No parece probable que la UE cumpla el objetivo original del CMCC, fijado en 1992, de estabilizar las emisiones de dióxido de carbono (principal responsable del efecto invernadero) en los niveles de 1990 para el año 2000, ya que la previsión actual es que las emisiones aumenten un 5 por ciento respecto a los niveles de 1990 en el primer año del siglo que viene.
+Además, en marcado contraste con el objetivo de Kyoto de alcanzar una reducción del 8 por ciento en las emisiones de los gases responsables del efecto invernadero para el año 2010, (para un "conjunto" de seis gases en el que se incluye el dióxido de carbono), en el último escenario de "situación sin cambios" realizado por la Comisión Europea, se sugiere un aumento del 8 por ciento en las emisiones de dióxido de carbono en la UE entre 1990 y 2010, procediendo la mayor aportación (39%) del sector del transporte.
+
+No se ha adoptado todavía la propuesta de una de las medidas clave a escala comunitaria:
+un impuesto sobre la energía y el carbón, pero ya se ha introducido este impuesto en algunos países de Europa occidental (Austria, Dinamarca, Finlandia, Países Bajos, Noruega y Suecia).
+Hay también otras posibles medidas para reducir las emisiones de CO2 que ya se están aplicando en diversos países europeos y en la Unión Europea.
+Entre estas medidas se incluyen los programas de eficiencia energética, las instalaciones combinadas de calefacción y electricidad, el cambio de combustibles del carbón al gas natural y/o la madera, las medidas encaminadas a modificar la división de modalidades en el transporte y a la absorción de carbono mediante la reforestación (ampliación del sumidero de dióxido de carbono).
+
+El uso de energía, dominado por los combustibles fósiles, es el factor clave de las emisiones de dióxido de carbono.
+
+En Europa occidental, las emisiones procedentes del uso de combustibles fósiles descendieron un 3 por ciento entre 1990 y 1995 debido a la recesión económica, la reestructuración de la industria en Alemania y el cambio del carbón al gas natural en la generación de electricidad.
+Los precios de la energía se han mantenido estables en Europa occidental durante la pasada década y relativamente bajos en comparación con los precios habituales en el pasado; esto no ha propiciado el estímulo suficiente para mejorar la eficiencia.
+La intensidad energética (consumo final de energía por unidad de PIB) ha disminuido sólo un 1 por ciento desde 1980.
+
+Entre 1980 y 1995, se registró un cambio sustancial de las pautas vigentes en el uso de la energía.
+En el sector del transporte, creció un 40 por ciento; en el sector industrial, el uso de energía descendió en un 8 por ciento y el de otros combustibles aumentó en un 7 por ciento, lo que refleja principalmente el incremento del transporte por carretera y un alejamiento del uso intensivo de energía por parte de la industria.
+Entre 1985 y 1995, se registró un aumento del 10 por ciento en el consumo total de energía.
+
+La aportación de la energía nuclear al suministro total de energía pasó del 5 al 15% en Europa occidental entre 1980 y 1994; Suecia y Francia dependen de la energía nuclear para cubrir cerca de un 40 por ciento de sus necesidades totales de energía.
+
+En Europa oriental, las emisiones de dióxido de carbono procedentes del uso de combustibles fósiles descendieron un 19 por ciento entre 1990 y 1995 debido principalmente a la reestructuración económica.
+El uso de energía en el sector del transporte descendió un 3 por ciento en los PECO durante este período y un 48 por ciento en los NEI.
+En el sector de la industria, el uso de energía descendió un 28 por ciento en los PECO y un 38 por ciento en los NEI.
+La intensidad energética es, en Europa central y oriental, unas tres veces superior a la de Europa occidental, y en los NEI, unas cinco veces superior, por tanto en ambas regiones es considerable el potencial de ahorro de energía.
+En un hipotético escenario de "situación sin cambios", se prevé que, para el año 2010, el uso de energía sea un 11 por ciento menor al de 1990 en los NEI y un 4 por ciento superior al de 1990 en Europa central y oriental.
+
+Entre 1980 y 1994, la aportación de la energía nuclear al suministro total de energía pasó del 2 al 6 por ciento en los NEI y del 1 al 5 por ciento en la CEE.
+En Bulgaria, Lituania y Eslovenia, la energía nuclear cubre cerca de la cuarta parte de las necesidades totales de energía.
+
+Entre 1980 y 1995, las emisiones de metano descendieron un 40 por ciento en los PECO y en los NEI.
+No obstante, pueden alcanzarse todavía mayores reducciones en toda Europa, en especial en los sistemas de distribución de gas y en las minas de carbón.
+Asimismo, podrían reducirse en toda Europa las emisiones de óxido nitroso procedentes de la industria y del uso de fertilizantes.
+
+Se han registrado una rápida disminución de los niveles máximos de CFC tras la prohibición de su uso y producción.
+
+Sin embargo, van en aumento el uso y la emisión de sus sustitutos, los HCFC (responsables también del efecto invernadero), al igual que los de los siguientes gases, identificados recientemente como responsables del efecto invernadero e incluidos en el "conjunto" de gases para los que se fijaron en Kyoto objetivos de reducción:
+SF6, los HFC y los PFC.
+
+Figura
+
+Emisiones de CO2 en Europa durante el período de 1980 a 1995
+
+Agotamiento del ozono estratosférico 
+
+Las medidas políticas adoptadas a escala internacional para proteger la capa de ozono han dado como resultado una reducción del 80-90 por ciento de la producción máxima anual en todo el mundo de sustancias destructoras del ozono.
+
+También se ha registrado un rápido descenso de las emisiones anuales.
+No obstante, los procesos de recuperación de la atmósfera son tan prolongados que todavía no se advierte un efecto de las medidas internacionales en las concentraciones de ozono en la estratosfera ni en la cantidad de radiación ultravioleta del tipo B (UV- B) que llega a la superficie.
+
+Se prevé que el potencial de agotamiento del ozono de todas las especies de cloro y de bromo que se encuentran en la estratosfera (los CFC, halones, etc.) alcance su nivel máximo entre 2000 y 2010.
+La cantidad de ozono presente en la atmósfera por encima de Europa descendió un 5 por ciento entre 1975 y 1995, con lo cual entra más radiación UV-B a la capa inferior de la atmósfera y llega hasta la superficie de la Tierra.
+
+Recientemente, se han detectado importantes reducciones de la concentración de ozono estratosférico sobre las regiones árticas durante la primavera.
+Por ejemplo, en marzo de 1997 se registró un descenso del 40 por ciento respecto a los niveles normales del total de ozono sobre la zona del Polo Norte.
+Estas reducciones son similares, aunque de menor gravedad, a las observadas sobre la Antártida y subrayan la importancia de mantener la alerta política en relación con el agotamiento del ozono estratosférico.
+
+La recuperación de la capa de ozono, proceso que llevará décadas, podría acelerarse eliminando con más rapidez los HCFC y el bromuro de metilo, destruyendo mediante sistemas seguros los CFC y los halones almacenados e impidiendo el contrabando de sustancias destructoras del ozono.
+
+Figura
+
+Sustancias destructoras del ozono estratosférico, 1950-2100
+
+Acidificación 
+
+Desde el informe Dobris, ha habido algunas reducciones de los efectos del depósito ácido derivados de las emisiones al agua dulce de dióxido de azufre, óxidos de nitrógeno y amoníaco, y como consecuencia se aprecia en muchos lugares una recuperación parcial de la fauna invertebrada.
+La vitalidad de muchos bosques sigue todavía en descenso y, aunque este perjuicio no se relaciona necesariamente con la acidificación, sí desempeñan un papel importante los efectos a largo plazo de los depósitos ácidos en los suelos.
+En zonas especialmente vulnerables, la acidificación provoca una mayor movilidad del aluminio y de los metales pesados, lo que origina la contaminación de las aguas subterráneas.
+
+Aproximadamente desde 1985, ha disminuido el depósito de sustancias acidificantes.
+Sin embargo, se siguen superando las cargas críticas (niveles de depósito por encima de los cuales se prevén efectos perjudiciales a largo plazo) en cerca de un 10 por ciento de la superficie europea, principalmente en Europa central y septentrional.
+
+Entre 1980 y 1995 se han reducido a la mitad las emisiones de dióxido de azufre en Europa.
+Las emisiones totales de nitrógeno (óxidos de nitrógeno más amoníaco), que permanecieron prácticamente constantes entre 1980 y 1990, se redujeron en un 15 por ciento entre 1990 y 1995, registrándose los descensos más acusados en los PECO y en los NEI.
+
+El transporte se ha convertido en la principal fuente de emisiones de óxidos de nitrógeno, y en 1995 este sector fue el responsable del 60 por ciento del total de las emisiones.
+
+Entre 1980 y 1994, el transporte de mercancías por carretera aumentó un 54 por ciento; entre 1985 y 1995, el transporte de pasajeros por carretera aumentó un 46 por ciento, y por aire un 67 por ciento.
+
+En Europa occidental, la introducción de catalizadores en los automóviles ha favorecido una reducción de las emisiones procedentes del sector del transporte.
+No obstante, los efectos de estas medidas tardan en advertirse debido al lento proceso de renovación del parque móvil.
+Para que se produzcan nuevas reducciones, será preciso aplicar medidas fiscales a los combustibles y a los vehículos.
+
+En los PECO y en los NEI, es considerable el potencial de crecimiento del transporte privado, aunque también es bastante posible que se mejore la eficiencia energética de todo el sector del transporte.
+
+Las medidas políticas contra la acidificación han resultado sólo parcialmente satisfactorias:
+
+El objetivo respecto a los óxidos de nitrógeno fijado en el protocolo del Convenio sobre contaminación fronteriza a larga distancia (CLTRAP), de estabilizar las emisiones para 1994 en los niveles de 1987, se alcanzó en el conjunto de Europa, pero no en los 21 países signatarios.
+No obstante, en algunos de los países signatarios, así como en otros que no son parte del Convenio, las reducciones han sido notables.
+
+En el Quinto programa de acción sobre el medio ambiente (5PAMA) de la CE, se fijaba el objetivo de alcanzar una reducción del 30 por ciento de las emisiones de óxidos de nitrógeno entre 1990 y 2000.
+En 1995, sólo se había alcanzado una reducción de 8 por ciento, y no parece probable que pueda cumplirse el objetivo el año 2000.
+
+Está previsto para 1999 un protocolo sobre múltiples contaminantes multiefecto, cuyo objetivo será fijar, tomando como criterio la eficacia con relación al coste, otros niveles máximos de las emisiones nacionales de sustancias acidificantes y compuestos orgánicos volátiles no metano (COVNM).
+
+El objetivo del primer protocolo del CLRTAP sobre el azufre, de reducir en un 30 por ciento las emisiones para 1993 tomando como punto de partida las de 1980, se cumplió en los 21 países signatarios, así como en otros cinco países que no eran parte del protocolo.
+
+No obstante, en algunos países europeos (por ejemplo, Portugal y Grecia) las emisiones de azufre no se redujeron hasta el mismo nivel durante ese período.
+Parece sin embargo menos probable que se alcance para el año 2000 el objetivo provisional del segundo protocolo sobre el azufre, y será necesario ampliar las medidas para cumplir su objetivo a largo plazo, que consiste en no superar las cargas críticas.
+
+El objetivo del 5PAMA en relación con el dióxido de azufre, conseguir para el año 2000 una reducción del 35 por ciento respecto a las emisiones de 1985, se alcanzó en toda Europa en 1995 (se consiguió una reducción global del 40%), y en la mayor parte de los Estados miembros.
+
+Actualmente y como consecuencia del 5PAMA, se están desarrollando en la UE nuevas medidas para alcanzar el objetivo a largo plazo del segundo protocolo del CLRTAP relativo al azufre, entre las que se incluyen reducir el contenido de azufre de los productos derivados del petróleo, disminuir las emisiones de las grandes plantas de combustión y fijar límites a la emisiones de los vehículos rodados.
+Un objetivo provisional de la estrategia de la UE contra la acidificación que está siendo sometido a examen es alcanzar una reducción del 55 por ciento de las emisiones de óxido de nitrógeno entre 1990 y 2010.
+Si se pretende realmente alcanzar este objetivo, deberá prestarse una especial atención a las emisiones procedentes del sector del transporte.
+
+Figura
+
+Área total en que se superan las cargas críticas relativas al nitrógeno y al azufre.
+
+Ozono troposférico 
+
+Las concentraciones de ozono en la troposfera (a una distancia de 10-15 km de la Tierra) por encima de Europa son por lo general entre tres y cuatro veces superiores a las de la era preindustrial, debido principalmente al enorme incremento de las emisiones de óxidos de nitrógeno procedentes de la industria y de los vehículos, desde la década de 1950.
+Las variaciones meteorológicas que se registran de año en año impiden detectar las tendencias relativas a los episodios de alta concentración de ozono.
+
+Los umbrales de concentración fijados para proteger la salud humana, la vegetación y los ecosistemas suelen superarse en la mayor parte de los países europeos.
+Alrededor de 700 admisiones hospitalarias registradas en la UE durante el período comprendido entre marzo y octubre de 1995 (75% de ellas en Francia, Italia y Alemania) pueden atribuirse al hecho de que las concentraciones de ozono superasen en esas fechas los umbrales de protección de la salud.
+Cerca de 300 millones de personas en la UE pueden estar expuestas, al menos, a un episodio anual de superación de dichos umbrales.
+
+El umbral establecido para la protección de la vegetación se superó en la mayor parte de Europa en 1995.
+En varios países se registraron niveles superiores durante más de 150 días en determinadas zonas.
+
+También en ese año se registraron episodios de superación de los umbrales críticos prácticamente en la totalidad de la superficie arbolada y cultivables de Europa.
+
+Las emisiones de los precursores del ozono, los óxidos de nitrógeno y los compuestos orgánicos volátiles no metano (COVNM) aumentaron hasta bien entrada la década de 1980 y disminuyeron después un 14 por ciento entre 1990 y 1994.
+El sector del transporte es el principal responsable de los óxidos de nitrógeno, así como de las emisiones de COVNM en Europa occidental; mientras que en los PECO y en los NEI, el principal sector responsable de estas emisiones es la industria.
+
+Si se cumplen los objetivos relativos a las emisiones de óxidos de nitrógeno, fijados en el Convenio sobre contaminación fronteriza a larga distancia y en el Quinto programa de acción sobre el medio ambiente, las concentraciones máximas de ozono se reducirán únicamente en un 5-10 por ciento.
+
+El objetivo a largo plazo de no superar los umbrales críticos dependerá de que se consiga una reducción global de las concentraciones del ozono troposférico.
+Para ello, será necesario imponer medidas sobre las emisiones de las sustancias precursoras (óxidos de nitrógeno y COVNM) que afecten a la totalidad del hemisferio norte.
+Un primer paso será fijar los umbrales máximos de las emisiones nacionales en el futuro protocolo sobre múltiples contaminantes multiefecto.
+
+Figura
+
+Máximas concentraciones de ozono durante las horas del día en verano
+
+Productos químicos 
+
+Desde el informe Dobris, la industria de productos químicos ha seguido creciendo en Europa occidental, con una producción que desde 1993 aumenta a un ritmo superior al del PIB.
+En los PECO y en los NEI, la producción de este sector ha registrado un notable descenso desde 1989, paralelo a la bajada del PIB, si bien en algunos países la producción se ha recuperado parcialmente desde 1993.
+El resultado neto es que se ha incrementado el flujo de productos químicos en las economías de toda Europa.
+
+Son escasos los datos relativos a las emisiones, pero los productos químicos se dispersan en todos los medios, incluidos los tejidos humanos y animales.
+En el inventario de las Sustancias químicas existentes en Europa se enumeran más de 100.000 compuestos.
+El grado de amenaza de estos productos químicos sigue siendo incierto debido a la falta de conocimientos acerca de sus concentraciones y acerca de sus vías de penetración y acumulación en el medio ambiente y su posterior impacto en los seres humanos y en otras formas de vida.
+
+Se dispone, no obstante, de algunos datos, por ejemplo en relación con los metales pesados y los contaminantes orgánicos persistentes (COP).
+Aunque las emisiones de determinadas sustancias están disminuyendo, las concentraciones en el medio ambiente siguen siendo motivo de preocupación, en especial en algunas zonas con un alto grado de contaminación y en sumideros naturales como el mar Báltico y el Ártico.
+
+Se está procediendo a la eliminación progresiva de algunos de los COP más conocidos, pero se producen todavía grandes cantidades de otras muchas sustancias con propiedades similares.
+
+Recientemente se ha suscitado la alarma en relación con lo que han dado en llamarse "sustancias que alteran las funciones endocrinas":
+los COP y algunos compuestos órganometalicos, por ser una posible causa de alteraciones de las funciones reproductoras en los humanos y en animales y plantas.
+Mientras que los ejemplos de estas alteraciones son incuestionables en animales marinos, hasta la fecha no hay pruebas suficientes para establecer vínculos causales entre dichos productos químicos y determinados síntomas de disfunciones reproductoras en el ser humano.
+
+Debido a las dificultades y al elevado coste de evaluar la toxicidad de un gran número de productos químicos, cuyo uso entraña riesgos, sobre todo por sus posibles efectos neuro-toxicológicos y en las funciones reproductoras, algunas de las estrategias de control que se aplican en la actualidad persiguen la reducción de la "carga" de productos químicos en el medio ambiente mediante la eliminación y disminución de su uso y de sus emisiones.
+Un ejemplo de estas medidas son las estrategias elegidas en el Convenio de OSPAR para la protección del mar del Norte.
+
+Está previsto que la CEPE (NU) concluya en 1998 dos nuevos protocolos sobre las emisiones atmosféricas de tres metales pesados y dieciséis COP incluidos en el Convenio sobre contaminación transfronteriza a larga distancia.
+
+Desde el informe Dobris, se han emprendido nuevas iniciativas a escala nacional e internacional para reducir el posible impacto de los productos químicos en el medio ambiente, entre las que se incluyen los programas voluntarios de reducción, la imposición de medidas fiscales sobre determinados productos y el acceso al público de datos similares a los que se encuentran disponibles en el Inventario de sustancias tóxicas de Estados Unidos, como se especifica, por ejemplo, en la Directiva sobre prevención y control integrados de la contaminación.
+En toda Europa queda todavía mucho por hacer para extender la aplicación de instrumentos de características similares.
+
+Figura
+
+Reducciones de las emisiones de plomo procedentes de la gasolina, 1990-1996 
+
+Residuos 
+
+La generación total de residuos registrada en Europa por la OCDE aumentó casi un 10 por ciento entre 1990 y 1995.
+
+No obstante, este aparente aumento puede deberse parcialmente a la mejora de los sistemas de control y seguimiento de los residuos.
+La falta de datos armonizados y la incompleta recopilación de los mismos siguen dificultando el control de tendencias y la adecuada fijación de objetivos en las iniciativas políticas emprendidas en toda Europa en relación con los residuos.
+
+Se calcula que, entre 1990 y 1995, la generación de residuos municipales aumentó un 11 por ciento en los países europeos pertenecientes a la OCDE.
+En 1995, se generaron cerca de 200 millones de toneladas de residuos municipales, lo que equivale a 420 kilogramos por persona al año.
+Los datos relativos a los residuos municipales en los PECO y en los NEI no son todavía lo suficientemente consistentes para determinar a partir de ellos la tendencia subyacente.
+
+La mayor aportación es atribuible a Francia y Alemania, países que, de acuerdo con los informes relativos a los países europeos pertenecientes a la OCDE, generaron cerca de 42 millones de toneladas anuales de residuos peligrosos durante 1994.
+La Federación Rusa generó unas dos terceras partes de los 30 millones de toneladas de residuos peligrosos que se contabilizaron en el conjunto de Europa oriental durante los primeros años de la década de 1990.
+
+Estas cifras totales deben considerarse meramente indicativas debido a las diferencias de definición entre las regiones.
+
+La gestión de residuos sigue estando dominada en la mayoría de los países por la opción más económica:
+los vertederos.
+Sin embargo, en el coste de estos lugares de evacuación rara vez se incluyen los datos reales (casi nunca se barajan los costes posteriores al cierre de vertederos), ni siquiera en los países en que se gravan con impuestos determinados tipos de residuos (por ejemplo, en Austria, Dinamarca y el Reino Unido).
+El reducir la cantidad de residuos y evitar su acumulación son medidas que cada día adquieren más reconocimiento como soluciones de gestión más deseables.
+Todos los tipos de residuos, en particular los peligrosos, se beneficiarían de una mayor aplicación de las tecnologías más limpias y las medidas de reducción.
+El reciclado suele tener más éxito en países con una fuerte infraestructura en la gestión de residuos.
+
+Muchos países de Europa central y oriental y los NEI afrontan los problemas derivados de una mala gestión de los residuos durante años y del aumento de los mismos.
+
+En estas regiones, son necesarias una mejor planificación estratégica y una mayor inversión en el tratamiento de los residuos.
+Entre las prioridades, destacan las siguientes:
+un mejor tratamiento de los residuos municipales mediante la adecuada separación de los diversos tipos; una mejor gestión de los vertederos; la introducción de sistemas de reciclado a escala local; y la puesta en práctica de medidas de bajo coste para impedir la contaminación del suelo.
+
+El compromiso con el uso sostenible de los recursos, la minimización de los daños medioambientales y el cumplimiento del principio "el que contamina, paga" y el "principio de proximidad" han llevado a la Unión Europea a desarrollar una amplia gama de instrumentos jurídicos con el fin de promover y armonizar las normativas nacionales relativas a los residuos.
+En algunos países de Europa central empiezan a adoptarse enfoques similares, debido en parte a las presiones impuestas por su proceso de adhesión a la Unión Europea.
+No obstante, en la mayoría de los países de Europa central y oriental, así como en los NEI, siguen siendo insuficientes los instrumentos jurídicos vigentes en relación con los residuos.
+
+Figura
+
+Proporción de países con los siguientes instrumentos en las políticas sobre residuos
+
+Biodiversidad 
+
+Persiste la amenaza sobre la vida animal y vegetal de Europa, y el número de especies en declive es cada día mayor.
+
+En muchos países, la mitad de las especies vertebradas conocidas se encuentran en peligro.
+
+Más de una tercera parte de las especies de aves de Europa están en declive, de forma más acuciante en las regiones central y noroccidental.
+Las razones suelen ser los daños ocasionados en sus hábitats por los cambios en el uso de la tierra ocasionados principalmente por las prácticas de la agricultura y la silvicultura intensivas; el incremento en obras de infraestructura; la extracción de agua y la contaminación.
+
+Sin embargo, van en aumento algunas poblaciones de una serie de especies animales que se relacionan con las actividades humanas, y proliferan algunas especies vegetales que toleran los niveles elevados de nutrientes o de acidez.
+Se detecta también cierta recuperación en el número de aves que anidan en zonas donde se practica la agricultura orgánica.
+El desplazamiento de especies no autóctonas es causa de problemas en hábitats acuáticos marinos y continentales, y en hábitats terrestres.
+
+La pérdida de zonas húmedas es más acuciante en Europa meridional, aunque también ha habido grandes pérdidas en muchas zonas agrarias y urbanizadas de Europa central y noroccidental.
+Las causas principales son:
+la retirada de tierras, la contaminación, la desecación, la construcción de instalaciones recreativas y las obras de urbanización.
+
+Algunos grandes proyectos y muchos proyectos menores dirigidos a la recuperación de ríos, lagos, turberas altas y turberas bajas compensan en cierta medida las pérdidas, si bien se trata de iniciativas a pequeña escala.
+
+La extensión de las dunas de arena ha disminuido un 40 por ciento durante este siglo, principalmente en las costas occidentales de Europa; una tercera parte de esta pérdida se produjo en el decenio de 1970.
+Las causas principales fueron las obras de urbanización, la construcción de instalaciones recreativas y la repoblación forestal.
+
+El área total de bosques va en aumento, al igual que el total de la producción maderera.
+La gestión "extensiva" de los bosques, práctica más habitual en el pasado, sigue siendo sustituida por una gestión más intensiva y uniforme.
+El uso de especies exóticas registra todavía un aumento.
+Persiste la pérdida alarmante de antiguos bosques naturales y seminaturales.
+En la actualidad, la mayoría de los bosques antiguos y prácticamente intactos se encuentran en Europa central y oriental y en los NEI, aunque quedan todavía áreas de menor extensión en otras zonas.
+En la cuenca mediterránea, los incendios forestales siguen siendo un problema, si bien ha disminuido la extensión del área afectada.
+
+En la gestión y el uso de los bosques, empieza a introducirse el concepto de silvicultura sostenible, pero todavía no se aprecian efectos globales en la biodiversidad.
+
+A medida que la agricultura se ha hecho más intensiva y se ha extendido la repoblación forestal en zonas de poca cosecha, han empezado a perderse o a deteriorarse a un ritmo bastante rápido algunos hábitats agrarios seminaturales, como, por ejemplo, los prados.
+En el pasado, este tipo de hábitats eran muy frecuentes en Europa y dependían de las prácticas agrarias extensivas, con escaso aporte de nutrientes.
+Hoy, el exceso de nutrientes y la acidificación afectan negativamente a aquellas zonas.
+La biodiversidad de los paisajes abiertos ha experimentado una grave disminución, ya que ha desaparecido la gran variedad de fauna y flora que las caracterizaba.
+
+En todos los países, se han introducido instrumentos jurídicos e iniciativas para la protección de la biodiversidad de escala internacional y nacional, gracias a los cuales se ha logrado proteger amplias zonas terrestres y marinas y se han salvado diversas especies y hábitats.
+Pero la puesta en práctica de dichas medidas resulta con frecuencia difícil y demasiado lenta para compensar el descenso generalizado.
+
+A escala europea, las iniciativas más destacadas actualmente son la implementación de la red Natura 2000, sobre las áreas de protección especial designadas por los Estados miembros de la Unión, y la futura red EMERALD que se contempla en el Convenio de Berna, para el resto de Europa.
+
+En términos generales, la conservación de la biodiversidad suele considerarse de menor importancia que los intereses económicos o sociales a corto plazo de los sectores que más influencia tienen sobre ella.
+Uno de los principales obstáculos a los objetivos de conservación sigue siendo la necesidad de integrar los aspectos relativos a la biodiversidad en las demás áreas de aplicación de políticas.
+Las evaluaciones medioambientales estratégicas de las medidas y los programas, junto con los instrumentos de conservación de la Naturaleza, pueden ser instrumentos de enorme utilidad para mejorar dicha integración.
+
+Figura
+
+Estado de las aves
+
+Aguas continentales 
+
+Desde 1980, ha habido una reducción general de la utilización total de agua en muchos países.
+
+En el sector de la industria, esta reducción ha estado determinada por la desaparición de actividades industriales que requerían gran cantidad de agua, el crecimiento de los servicios, los avances técnicos y el uso cada vez mayor de los sistemas de reciclado.
+No obstante, la demanda de agua de las áreas urbanas sigue siendo excesiva, y no se descartan posibles recortes de suministro.
+También el cambio climático podría influir en el futuro en la cantidad de agua disponible.
+
+El sector de la agricultura es el usuario principal de agua en los países mediterráneos, sobre todo para riego.
+Desde 1980, el aumento de las zonas de regadío y de la utilización de agua para riego ha sido constante.
+
+En los países de Europa meridional, el 60 por ciento del agua extraída sirve para regar.
+En algunas regiones, la utilización de las aguas subterráneas supera la capacidad de regeneración, lo que provoca la bajada de nivel de la capa freática, la pérdida de zonas húmedas y la intrusión marina.
+Entre los instrumentos para limitar la futura demanda de agua, se incluyen las mejoras de la eficiencia en el uso del agua, el control de los precios y las políticas agrarias.
+
+A pesar de los objetivos introducidos en la UE en relación con la calidad del agua y de la atención prestada a este aspecto en el Programa de acción medioambiental para Europa central y oriental, desde 1989/90 no se registra ninguna mejora global en las aguas fluviales.
+Los informes remitidos por los distintos países europeos muestran tendencias diferentes, sin que pueda observarse ningún patrón geográfico homogéneo.
+Con todo, desde el decenio de 1970 ha habido mejoras en la mayoría de los ríos que mostraban un grado elevado de contaminación.
+
+El fósforo y el nitrógeno siguen produciendo la eutrofización de las aguas superficiales.
+En varios países, las mejoras en el tratamiento de las aguas residuales y las reducciones de las emisiones procedentes de las grandes industrias durante el período de 1980 a 1995 han dado como resultado un descenso total de las emisiones de fósforo a los ríos de entre el 40 y el 60 por ciento.
+Las concentraciones de fósforo han disminuido de manera notable en las aguas de superficie, sobre todo en las zonas en que este problema era más grave.
+Se prevé que se registren más mejoras, ya que el período de recuperación, principalmente en los lagos, puede ser de varios años.
+En una cuarta parte de los puntos de control de los ríos, las concentraciones de fósforo son todavía diez veces superiores a las que se detectan en el agua de buena calidad.
+El nitrógeno, cuya principal fuente de vertido es la agricultura, constituye un problema menor en los ríos, pero puede acarrear problemas al ser transportado al mar; es preciso controlar con más rigor las emisiones para proteger el medio ambiente marino.
+
+La calidad de las aguas subterráneas se ve afectada por las crecientes concentraciones de nitratos y plaguicidas procedentes de la agricultura.
+Las concentraciones de nitratos son bajas en Europa septentrional, pero elevadas en varios países de Europa occidental y oriental, en los que se supera con frecuencia la concentración máxima admitida por la Unión Europea.
+
+El uso de plaguicidas descendió en la UE entre 1985 y 1995, pero este descenso no indica necesariamente un menor impacto medioambiental, ya que ha variado el tipo de pesticidas que se utilizan hoy.
+Las concentraciones de determinados plaguicidas en las aguas subterráneas superan con frecuencia el máximo admitido por la Unión Europea.
+
+Asimismo, en los informes remitidos por muchos países, se recoge un grado importante de contaminación debido a metales pesados, hidrocarburos e hidrocarburos clorados.
+
+En muchas zonas de Europa se aplican hoy políticas integradas para la protección de las aguas continentales, por ejemplo en las cuencas del mar del Norte, el mar Báltico, el Rin, el Elba y el Danubio.
+Aunque se han hecho grandes avances, la mejor integración de las políticas medioambientales en las políticas económicas sigue siendo un reto pendiente de cara al futuro.
+
+La política agraria, concretamente, es fundamental para atajar los aportes procedentes de las fuentes difusas, pero esto sigue planteando dificultades técnicas y políticas.
+Aunque la reforma derivada de la Política Agraria Común de la Unión Europea está resultando eficaz para la integración de medidas que reduzcan los aportes de nutrientes, debe hacerse un esfuerzo mayor, por ejemplo, para garantizar realmente las ventajas medioambientales de medidas tales como la retirada de tierras de la producción agraria.
+
+Las Directivas de la UE sobre el tratamiento de las aguas residuales urbanas y sobre los nitratos deberían suponer sustanciales mejoras, pero su eficacia dependerá del grado en que los Estados miembros designen las correspondientes áreas sensibles y zonas vulnerables.
+La propuesta de una directiva marco sobre el agua exigirá programas integrados de gestión y mejora.
+Si llega a aplicarse de forma homogénea en toda la Unión, esta directiva, en combinación con las correspondientes modificaciones en la gestión de la demanda, puede suponer una notable mejora de la calidad del agua y una gestión sostenible de los recursos hídricos.
+
+Figura
+
+Disponibilidad de agua dulce en Europa
+
+Medio ambiente marino y de litoral 
+
+Los mares más amenazados de Europa son:
+el mar del Norte (sobreexplotación pesquera, elevadas concentraciones de nutrientes y contaminantes ); los mares de la península ibérica (es decir, parte del océano Atlántico y el mar Cantábrico:
+sobrepesca, metales pesados); el mar Mediterráneo (elevadas concentraciones de nutrientes en puntos determinados, presiones intensas en las costas, sobrepesca); el mar Negro (sobrepesca, rápido aumento de las concentraciones de nutrientes); y el mar Báltico (elevadas concentraciones de nutrientes, contaminantes, sobrepesca).
+
+La eutrofización, debida sobre todo al exceso de nutrientes procedentes de la agricultura, es un problema grave en algunas zonas de muchos mares europeos.
+Por lo general, las concentraciones de nutrientes se mantienen en los mismos niveles que a principios de la década de 1990.
+El incremento de los efluentes de nitrógeno y las concentraciones resultantes en las aguas marinas de algunas costas occidentales de Europa parece guardar relación con las altas precipitaciones e inundaciones acaecidas entre 1994 y 1996.
+En la mayor parte de los mares de otras zonas no se identifica una tendencia clara respecto a las concentraciones de nutrientes.
+No obstante, entre 1960 y 1992 el aumento de las mismas se multiplicó por diez en el mar Negro, procedentes sobre todo de la cuenca hidrográfica del Danubio.
+
+La contaminación de los sedimentos y de la biota debida a productos químicos antropogénicos parece afectar prácticamente a todos los mares europeos, si bien son limitados los datos de que se dispone a este respecto y se refieren fundamentalmente a las regiones occidental y noroccidental de Europa.
+Se han detectado concentraciones elevadas (por encima de los niveles naturales) de metales pesados y PCB en peces y sedimentos, siendo aún más altas en los puntos cercanos a las fuentes de emisión.
+La acumulación de estas sustancias en los organismos entraña una amenaza tanto para los ecosistemas como para la salud humana (tal como se explica en el capítulo sobre productos químicos).
+
+La situación de la contaminación por petróleo es muy diversa, y no puede hacerse una evaluación fiable de las tendencias generales.
+Las fuentes principales se encuentran en tierra, y la contaminación llega hasta los mares a través de los ríos.
+Aunque el número anual de vertidos de petróleo va en descenso, los vertidos pequeños y en ocasiones grandes en zonas de fuerte tránsito marítimo provocan importantes daños locales:
+deterioro de playas, mortandad de aves marinas y reducción de los bancos de peces y crustáceos.
+No obstante, no hay pruebas de que sean irreversibles los daños causados en los ecosistemas marinos por los grandes vertidos accidentales de petróleo ni por las fuentes comunes de emisión.
+
+La sobrepesca sigue siendo muy frecuente en muchos mares, y es un problema especialmente grave en los mares de la Península Ibérica, el mar Mediterráneo y el mar Negro.
+El exceso de actividad de la flota pesquera resulta preocupante, y debería conseguirse una reducción del 40 por ciento para adecuar la actividad pesquera a los recursos disponibles.
+
+Figura
+
+Descargas de fósforo y de nitrógeno
+
+Degradación del suelo 
+
+En Europa occidental se han identificado más de 300.000 lugares potencialmente contaminados, y el número que se calcula para toda Europa es mucho mayor.
+
+Aunque en el programa Medio Ambiente para Europa se exigía la identificación de todos los lugares contaminados, en muchos países no se dispone todavía del cuadro completo.
+El alcance del problema es difícil de valorar debido a la falta de acuerdo en las definiciones aplicadas.
+La Comisión Europea trabaja actualmente en la elaboración de un Libro Blanco sobre responsabilidad medioambiental; para las acciones de seguimiento será preciso disponer de definiciones armonizadas.
+En la mayoría de los países de Europa occidental se han establecido marcos reguladores de actuación para impedir futuros incidentes y limpiar la contaminación actual.
+
+En Europa oriental, la contaminación del suelo en las áreas situadas en torno a antiguos emplazamientos militares plantea el riesgo más grave.
+En la mayoría de los países de esta región han empezado a evaluarse los problemas existentes, pero en muchos PECO y en los NEI faltan todavía los marcos financieros y reguladores necesarios para acometer el tratamiento de los lugares contaminados.
+
+Otro problema grave es la pérdida de suelo debida a los materiales de sellado que se utilizan en la construcción de instalaciones industriales o en las obras de infraestructuras, que reduce los posibles usos del suelo para las generaciones futuras.
+
+Cada vez es mayor la erosión de los suelos.
+Cerca de 115 millones de hectáreas muestran signos de erosión hídrica y 42 millones de hectáreas, de erosión eólica.
+El problema es más acuciante en la región mediterránea debido a las frágiles condiciones medioambientales, pero se da también en la mayoría de los países europeos.
+La erosión del suelo se intensifica con el abandono de tierras y los incendios forestales, principalmente en las zonas marginales.
+En muchas áreas faltan estrategias para luchar contra el ritmo acelerado de la erosión, por ejemplo, las medidas de reforestación.
+
+La salinización del suelo afecta a casi 4 millones de hectáreas, situadas principalmente en los países mediterráneos y en Europa oriental.
+Las causas principales son la sobreexplotación de los recursos hídricos como resultado de la extracción de agua para la agricultura de regadío, el aumento de la población, el desarrollo industrial y urbano, y la expansión del turismo en las zonas costeras.
+En las áreas cultivadas, los efectos más destacados son la baja productividad de las cosechas o incluso la pérdida total de las mismas.
+En muchos países faltan estrategias para luchar contra la salinización del suelo.
+
+La erosión y salinización del suelo incrementan el riesgo de desertización, sobre todo en las zonas más vulnerables, situadas principalmente en la región mediterránea.
+Se dispone de información limitada respecto al alcance y gravedad de la desertización; hacen falta más esfuerzos en el desarrollo y aplicación de estrategias preventivas, posiblemente en el marco del Convenio de Naciones Unidas sobre la lucha contra la desertización.
+
+Datos sobre los lugares con contaminación potencial y contaminados.

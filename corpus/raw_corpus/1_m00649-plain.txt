@@ -1,0 +1,165 @@
+
+Micromatrices de ADN
+
+Con unas ingeniosas herramientas de investigación llamadas micromatrices de ADN ("microarrays" si nos dejamos llevar por el anglicismo al uso), la ciencia se está adentrando en las raíces moleculares de la salud y la enfermedad, al tiempo que acelera el paso en el descubrimiento de nuevos fármacos.
+Merced a esas plantillas podría también adelantarse el día en que los tratamientos uniformes de las enfermedades se sustituyan por terapias personalizadas. 
+
+La mayoría de los pacientes que sufren linfoma difuso de células grandes tipo B responde bien a la terapia estándar. 
+Pero, en más de la mitad de los casos, el cáncer no tarda en reaparecer con violencia letal.
+Los médicos venían atribuyendo el hundimiento rápido de unos y la resistencia de otros a diferentes formas del tumor causadas por anomalías moleculares distintas.
+Pero hasta hace dos años la ciencia carecía de medios para detectar qué pacientes sufrían la forma más virulenta y debían, por tanto, recibir un tratamiento más enérgico y arriesgado.
+
+El problema lo resolvió una herramienta poderosa, la micromatriz de ADN ("DNA microarray").
+Recurriendo a la misma, investigadores del norteamericano Instituto Nacional de la Salud, la Universidad de Stanford y otros centros pudieron distinguir entre supervivientes a corto y a largo plazo.
+Basábanse para ello en las diferencias observadas en el patrón general de actividad que mostraban cientos de genes de sus células malignas en el momento del diagnóstico. 
+Aquel logro debería llevar a una prueba discriminante, capaz de identificar a los pacientes expuestos a un riesgo mayor. 
+
+Las micromatrices de ADN existen en el comercio desde 1996. 
+Constituyen hoy uno de los pilares de la investigación farmacológica.
+Más de 20 compañías se dedican a su distribución o a la venta de los programas informáticos asociados.
+Gracias a esas plantillas asistimos a una revolución en el modo en que se estudia el funcionamiento molecular, normal y patológico, de las células.
+En ellas se confía para obtener diagnósticos más rápidos y exactos de muchas enfermedades, así como para facilitar la personalización de los tratamientos clínicos, lo que implica elegir los fármacos más eficaces y con menores efectos secundarios en cada paciente.
+
+Punteados de identificación 
+
+Aunque hay varias clases de micromatrices, todas se ordenan a descubrir la composición del material genético en una muestra de tejido.
+Todas las variedades constan de una serie de moléculas de ADN unicatenario (sondas), dispuestas en una rejilla a menudo no mayor que la huella del pulgar.
+Las plantillas en cuestión se fundan en una propiedad muy útil del ADN: el emparejamiento complementario de sus bases.
+
+De ADN están formados los más de 30.000 genes de la célula humana, las secuencias codificadoras de la composición de las proteínas.
+El ADN consta de cuatro bloques de construcción, reconocidos por la primera letra de sus bases químicas: A, C, G y T.
+En una cadena de ADN la base A sólo se emparejará con una T (la complementaria de A) de otra cadena; la C hará lo propio con G. Por tanto, si una molécula de ADN de una muestra de tejido se une a una sonda que tiene la secuencia ATCGGC, deduciremos que la muestra presenta la secuencia complementaria: TAGCCG.
+El otro ácido nucleico fundamental, el ARN, sigue también esta estricta norma de emparejamiento de bases cuando se une al ADN; podemos, pues, deducir también la secuencia de una cadena de ARN que se empareja con ADN en una micromatriz.
+
+Las reacciones de emparejamiento complementario de las bases han resultado cruciales para la ejecución de numerosas pruebas biológicas durante años.
+Pero lo asombroso de nuestro caso es que las micromatrices de ADN pueden rastrear decenas de miles de estas reacciones a la vez en una sola tarjeta.
+¿En virtud de qué?
+Porque cada una de las sondas -trátese de un gen o de una secuencia de código más corta- se dispone en un lugar determinado de la rejilla, parecida a un tablero de ajedrez, y porque las moléculas de ADN o de ARN que se vierten sobre la plantilla portan un marcador fluorescente u otra etiqueta que puede detectarse con un escáner.
+Una vez leída la micromatriz por el escáner, los datos se convierten en una impresión con un código de colores.
+
+En el dominio de la investigación las micromatrices de ADN se aplican a dos usos muy distintos.
+Las aplicaciones genotípicas comparan el ADN de una microplantilla con el ADN de una muestra de tejido para determinar qué genes hay en la muestra o para descifrar el orden de las letras de código en cadenas de ADN sin secuenciar.
+Además de ese uso explorador de la presencia de genes en una muestra, importa otro, el de detectar la expresión, o nivel de actividad, de tales genes. Se dice que un gen se expresa cuando se transcribe en un ARN mensajero (ARNm) y se traduce en una proteína.
+Las moléculas de ARN mensajero son los transcriptos móviles de los genes y sirven de molde para la síntesis de proteínas.
+
+A la caza de genes
+
+Se recurre al enfoque genotípico para comparar los genes de organismos diferentes (por ejemplo, para buscar claves sobre la historia de la evolución de los organismos) y para cotejar los genes de los tumores con los de tejidos normales (en busca de sutiles diferencias de composición o número de genes).
+Algún día, las comparaciones de genes mediante micromatrices de ADN podrán mostrar su valor en clínica.
+
+Sin ir más lejos, una micromatriz bien pergeñada podría establecer la causa exacta de la infección en un paciente cuyos síntomas, parecidos a los de un resfriado (dolor de cabeza, fiebre alta y dificultad para respirar), no denuncian un responsable claro.
+Podría componerse una superficie con ADN que represente genes que aparecen sólo en patógenos causantes de enfermedades similares;
+el laboratorio hospitalario podría extraer y marcar ADN de una muestra de tejido infectado (por ejemplo, de las fosas nasales del enfermo).
+La unión del ADN del paciente a alguna secuencia de un gen del la microplantilla nos descubriría al agente infeccioso responsable.
+De modo similar, las micromatrices que se están desarrollando podrían detectar si los bioterroristas han liberado cepas específicas de carbunco u otros gérmenes exóticos.
+
+Para bien o para mal, las micromatrices de ADN podrían también determinar la predisposición genética de los individuos a numerosas enfermedades.
+La mayoría de las diferencias genéticas que se dan entre las personas revisten la forma de polimorfismos de un solo nucleótido, o SNP, en los que aparece cambiada una letra.
+Se podría construir una micromatriz con variantes de genes asociadas a enfermedades para detectar SNP individuales y predecir la probabilidad de que el sujeto en cuestión padezca Alzheimer, diabetes o un tipo de cáncer.
+Las personas proclives podrían someterse a un control estricto, recibir un tratamiento preventivo o pasar antes por el quirófano.
+Queda, empero, abierta la duda de hasta qué punto estas pruebas serán aceptadas por el público;
+ese conocimiento podría alimentar la ansiedad del interesado y facilitar su posible discriminación por aseguradoras o patronos.
+
+De esos inconvenientes queda exenta otra información valiosa que proporcionan las micromatrices de SNP.
+Las variantes de genes influyen en la reacción del cuerpo a las medicinas que tomamos, lo que a su vez influye en la eficacia de los fármacos y en la intensidad de sus efectos secundarios. 
+Las plantillas que pongan de relieve nuestras peculiares sensibilidades genéticas ayudarían a los clínicos a elegir las medicinas que convinieran más a cada paciente. 
+Las micromatrices de SNP que revelan las mutaciones genéticas que incrementan la virulencia de los tumores permitirían que los anatomo-patólogos determinaran la malignidad escondida de un tumor en apariencia benigno.
+Ambos tipos de microplantillas se están investigando ya con fines hospitalarios.
+
+Expresión génica
+
+No acaban ahí las apasionantes aplicaciones de la técnica.
+Desde otra óptica particular, ha atraído también el interés de los investigadores en los últimos años.
+Nos referimos al estudio de perfiles de expresión génica.
+Para obtenerlos, se mide la cantidad de diferentes ARNm en una muestra de tejido. 
+En general, cuantas más copias de ARNm produce una célula, más copias de proteína sintetizará también.
+Por consiguiente, la cuantía de diversos ARNm apreciados en una muestra revelará, indirectamente, los tipos y cantidades de proteínas presentes.
+Compete a las proteínas controlar y llevar a cabo la mayoría de las funciones de nuestras células y tejidos.
+Se hallan en fase de desarrollo las micromatrices que miden directamente los niveles de proteína, aunque su construcción aparece rodeada de dificultades.
+
+Con el uso del genoma como sensor para determinar cambios de actividad en genes de la célula, se obtendrán "instantáneas" detalladas del estado de alteración de las funciones celulares provocado por fármacos o enfermedades. 
+A veces, resulta más útil conocer el esquema general de actividad de los genes en una muestra que saber qué genes concretos se activan en respuesta ante un estímulo. 
+En esos casos, como veremos, el esquema sirve de "firma" taquigráfica que refleja el estado molecular de una muestra bajo unas condiciones particulares.
+
+Los perfiles de expresión han demostrado su utilidad única en muchos frentes.
+Los biólogos celulares los usan porque, si sabemos qué proteínas predominan después de exponer un tejido a diferentes condiciones, podemos inferir el modo en que el tejido compensa las agresiones y qué es lo que deja de funcionar cuando se desarrolla una enfermedad.
+
+Se recurre también a las plantillas de expresión génica para descubrir las funciones de genes identificados a través de la secuenciación del ADN nuclear.
+Hay otras técnicas que no utilizan micromatrices para mostrar las funciones de esos genes recientemente descubiertos (o, dicho con exactitud mayor, de las proteínas por ellos cifradas), pero tales métodos no siempre operan bien o con la presteza requerida.
+Las micromatrices de expresión génica pueden subsanar tales lagunas mediante la aplicación que se ha venido a llamar "culpable por asociación", incluso sin ninguna pista previa sobre el papel de los genes en el organismo. 
+
+El método en cuestión se funda en el hallazgo de la interrelación génica.
+Los genes no son islas.
+Si los de un tejido se activan e inactivan juntos en respuesta a un estímulo -un fármaco, una infección o una mutación inducida-, nos es dado suponer que esos genes que operan a coro intervienen en la misma vía reguladora; es decir, los genes trabajan juntos o en serie para inducir una respuesta celular.
+Resulta, pues, razonable pensar que las funciones de un gen del grupo, en principio desconocidas, se parecen a las de los otros genes cuya responsabilidad se ha resuelto ya.
+
+Aplicación en farmacología 
+
+Los investigadores en el dominio de los fármacos se benefician también de las ventajas de ese método "culpable por asociación", cuando buscan proteínas cuya participación en procesos biológicos implicados en enfermedades se desconocía de antemano.
+Una vez descubiertas esas proteínas, pueden engrosar la lista de blancos para desarrollar nuevas y mejores medicinas.
+
+Peter S. Linsley, colaborador nuestro en Rosetta Inpharmatics, se propuso identificar nuevos blancos para fármacos contra enfermedades inflamatorias, en las que el sistema inmunitario pervierte su misión y lesiona partes del cuerpo.
+Investigó, por tanto, qué genes de los leucocitos del sistema inmunitario aumentaban y disminuían su producción de proteínas en paralelo con el gen de la interleucina - 2 (IL-2), una proteína involucrada en los procesos inflamatorios. 
+
+Obtuvo la respuesta tras conseguir perfiles de expresión génica de leucocitos expuestos a diversas sustancias químicas y ejecutar después un complejo programa de ajuste de pautas para detectar un conjunto de genes que se activaban o desactivaban al tiempo que se activaba el gen IL-2.
+En ese conjunto de genes había uno cuya función no se había determinado todavía por otros medios.
+Más o menos al mismo tiempo, otros investigadores del Instituto Pasteur de París confirmaron, por su lado, con un método diferente, que este gen intervenía en el metabolismo del IL-2.
+Los hallazgos combinados sugieren que la proteína codificada por el gen en cuestión podría convertirse en óptimo blanco para los antiinflamatorios.
+
+En los departamentos de investigación de los laboratorios farmacéuticos se utilizan los perfiles de expresión génica de una manera distinta: para detectar (y eliminar) fármacos que ejercerían efectos secundarios inaceptables. 
+Quienes estudian si un determinado compuesto podría dañar el corazón pueden compilar un compendio de perfiles de expresión génica para células cardíacas expuestas a fármacos ya existentes o a sustancias químicas.
+Si tratan células cardíacas con el fármaco ensayado, pueden esperar que el ordenador compare la firma resultante con el compendio de perfiles.
+Una firma que se corresponda con la producida por sustancias que se sabe que dañan a las células cardíacas haría saltar la alarma.
+
+Un compendio de perfiles de expresión génica puede también ayudar a explicar por qué un fármaco produce determinados efectos secundarios.
+Apremia hoy saber por qué los inhibidores de la proteasa, que están salvando la vida de los infectados con el VIH (el virus del sida), pueden producir altos niveles de colesterol y triglicéridos en sangre, provocar extrañas distribuciones de la grasa corporal e inducir resistencia a la insulina.
+Conscientes de que el hígado influye en la síntesis y degradación de los lípidos (el grupo que incluye el colesterol y los triglicéridos) y las lipoproteínas, nuestro grupo de Rosetta, en colaboración con Roger G. Ulrich y su equipo en Abbott Laboratories, decidimos comprobar si un inhibidor de la proteasa -ritonavir- inducía algunos de estos efectos secundarios interesando al hígado.
+
+Mediante una microplantilla que representaba unos 25.000 genes de rata obtuvimos perfiles de expresión génica de tejido hepático de rata expuesto a diversos compuestos con toxicidad potencial para el hígado.
+Agrupamos luego los compuestos en razón de la similaridad de sus firmas de expresión sobre unos 2400 genes que respondían intensamente a estas substancias.
+A continuación, administramos ritonavir a hígados de rata y comparamos los perfiles de expresión génica resultantes con los que habíamos conseguido antes.
+
+Descubrimos que el ritonavir activaba genes que normalmente permanecían silentes en respuesta a un agente, bien conocido, que rebaja los niveles de lípidos.
+El ritonavir frena también la síntesis de proteínas que acostumbran ensamblarse en proteosomas, unas estructuras que degradan proteínas que han perdido su utilidad, entre ellas las lipoproteínas.
+De tales descubrimientos se desprendía que el ritonavir incrementaba los niveles de lípidos en el hígado -y por consiguiente en sangre- en parte elevando la síntesis hepática de lípidos e inhibiendo la degradación de lipoproteínas. 
+Una investigación más detenida de la interacción entre el ritonavir y las vías metabólicas de lipoproteínas y de proteosomas habrá de proporcionarnos claves para reducir sus efectos secundarios.
+
+Ajuste de tratamientos
+
+Disponer de un arsenal de fármacos con menos efectos secundarios constituirá un fruto valioso de los perfiles moleculares obtenidos con las plantillas de ADN.
+Pero muchos médicos confían en resultados incluso mejores: sueñan con herramientas rápidas de diagnóstico que dividirían a los pacientes con síntomas similares en grupos distintos;
+cada grupo recibiría un tratamiento diferente y apropiado.
+Igual que quedó demostrado en el caso del linfoma, al que nos referíamos al principio de este artículo, los oncólogos necesitan imperiosamente un procedimiento para identificar a los pacientes que requieran, desde el principio, un tratamiento radical.
+
+La investigación de nuestro grupo de Rosetta, junto con el Instituto Oncológico de Amsterdam, sobre el cáncer de mama pone de relieve la forma en que podemos servirnos de las matrices de expresión génica.
+En este caso, buscábamos una prueba para determinar qué jóvenes pacientes con cáncer precoz de mama (sin metástasis en los ganglios linfáticos) necesitaban, y cuáles no, un tratamiento sistémico con quimioterapia para evitar la extensión del tumor después de la cirugía.
+Aunque las normas en uso recomiendan un tratamiento sistémico para el 90% de estas mujeres, muchas de ellas probablemente evitarían metástasis incluso sin ese tratamiento.
+Desgraciadamente, los métodos estándar no detectan a las mujeres con mayor riesgo.
+
+Empezamos por generar perfiles de expresión génica para tumores en cerca de 100 mujeres de menos de 55 años de edad cuyo curso clínico posquirúrgico se había seguido durante más de cinco años.
+Al principio trabajamos con una micromatriz que representaba 25.000 genes humanos.
+Descubrimos, por fin, que cierta firma producida por unos 70 genes indicaba claramente que no tardarían en aparecer metástasis.
+Además, la pauta opuesta revelaba un pronóstico esperanzador.
+Resulta evidente que algunos tumores están programados para producir metástasis antes de alcanzar el tamaño de un guisante, mientras que otras masas mayores no están programadas para propagarse.
+
+Nuestros resultados tendrán que ser confirmados por otros antes de que los perfiles de expresión génica se conviertan en una rutina en el tratamiento del cáncer de mama.
+De aquí a dos años, es probable que muchos hospitales empiecen a ensayar los perfiles de expresión génica en su orientación diagnóstica, no sólo para el cáncer de mama, sino también para otros tipos.
+Hay enfermedades que necesitan mejores herramientas de diagnóstico.
+Los perfiles de expresión génica podrían ayudar a distinguir subgrupos de pacientes asmáticos, diabéticos u obesos que demandan una terapia específica.
+Hablamos de aplicaciones en las que se está trabajando ya.
+
+Antes de que las micromatrices desarrollen todo su potencial en investigación y diagnóstico, deberemos allanar algunos obstáculos.
+Las plantillas, los escáneres y otros accesorios siguen siendo caros.
+Podemos suponer que los costes bajarán con el tiempo.
+
+Ahora bien, aunque bajen los precios, las técnicas pueden ser inaplicables, cuando menos al principio, para las consultas de los médicos o los laboratorios normales. 
+Escasean los médicos y los técnicos que posean los conocimientos o el instrumental para preparar correctamente las muestras de tejido a utilizar con matrices.
+Lo que es más, para diagnosticar, pongamos por caso, una enfermedad del hígado por los cambios de expresión génica en células hepáticas, un médico tendría que obtener tejido de ese órgano.
+Y éste no es fácilmente accesible.
+
+Tales problemas, hoy graves, se resolverán con un grano de ingenio.
+A veces, los tejidos más accesibles pueden funcionar como aceptables sustitutos de los inaccesibles. 
+Además, en algunos casos, no tendrán que usarse las micromatrices; podrían aportar la información necesaria para idear nuevas pruebas diagnósticas, que pueden revestir otras formas.
+
+Conforme mejore nuestra comprensión de las células y del organismo entero, los médicos podrán diagnosticar con mayor precisión, indicar terapias más depuradas (incluidas probablemente las genéticas) y ajustar sus tratamientos a las características genéticas y al estado fisiológico real de cada paciente.
+Hacia el año 2020, las organizaciones sanitarias podrían conservar, en sus ordenadores, modelos del estado molecular de sus afiliados, simulaciones virtuales que podrían actualizarse constantemente con datos de micromatrices u otros a partir de sus visitas al médico y con nueva información científica sobre biología celular.

@@ -1,0 +1,57 @@
+french,glosa,spanish
+ABR,abbreviation,ACRNM
+ADJ,adjective,ADJ
+ADV,adverb,ADV
+DET:ART,article,ART
+DET:POS,"possessive pronoun (ma, ta, ...)",PPO
+INT,interjection,ITJN
+KON,conjunction,CC
+KON,conjunction,CCAD
+KON,conjunction,CCNEG
+KON,conjunction,CQUE
+KON,conjunction,CSUBF
+KON,conjunction,CSUBI
+KON,conjunction,CSUBX
+NAM,proper name,NP
+NOM,noun,NC
+NOM,noun,NMON
+NOM,noun,NMEA
+NUM,numeral,CARD
+NUM,numeral,CODE
+NUM,numeral,ORD
+PRO,pronoun,INT
+PRO:DEM,demonstrative pronoun,DM
+PRO:IND,indefinite pronoun,QU
+PRO:PER,personal pronoun,PPX
+PRO:PER,,PPC
+PRO:POS,"possessive pronoun (mien, tien, ...)",PPO
+PRO:REL,relative pronoun,REL
+PRP,preposition,PREP
+PRP,,PREP/DEL
+PRP:det,"preposition plus article (au,du,aux,des)",PDEL
+PRP:det,"preposition plus article (au,du,aux,des)",PAL
+PUN,punctuation,FS
+PUN,punctuation,DOTS
+PUN,punctuation,DASH
+PUN,punctuation,LP
+PUN,punctuation,RP
+PUN,punctuation,SLASH
+PUN,punctuation,COLON
+PUN,punctuation,SEMICOLON
+PUN,punctuation,BACKSLASH
+PUN,punctuation,CM
+PUN:cit,punctuation citation,QT
+SENT,sentence tag,
+SYM,symbol,SYM
+SYM,symbol,PERCT
+VER:cond,verb conditional,
+VER:futu,verb futur,
+VER:impe,verb imperative,
+VER:impf,verb imperfect,
+VER:infi,verb infinitive,
+VER:pper,verb past participle,
+VER:ppre,verb present participle,
+VER:pres,verb present,
+VER:simp,verb simple past,
+VER:subi,verb subjunctive imperfect,
+VER:subp,verb subjunctive present,

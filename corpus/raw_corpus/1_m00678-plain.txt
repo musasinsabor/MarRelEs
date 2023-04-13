@@ -1,0 +1,217 @@
+
+Integrinas y salud
+
+Descubierta muy recientemente, estas moléculas adhesivas presentes en la superficie celular se han revelado imprescindibles para el buen funcionamiento del cuerpo y para la vida propia. 
+
+Las células del cuerpo se mantienen pegadas unas a otras y a un material cohesivo, o matriz extracelular, que las circunda.
+Esa cohesión es esencial para la supervivencia, ya que mantiene unidos los tejidos.
+Resulta importante también para el desarrollo embrionario y toda una serie de procesos que acontecen en el organismo adulto, como la coagulación sanguínea, la curación de las heridas y la erradicación de las infecciones.
+Paradójicamente, esa misma adhesividad celular puede facilitar la aparición de la artritis reumatoide, los ataques cardíacos, los accidentes cerebrovasculares y el cáncer, entre otras condiciones patológicas. 
+
+Aunque se conocía desde tiempo atrás la importancia de las interacciones adhesivas que se producen en el cuerpo, sólo recientemente se ha empezado a desentrañar sus diversos efectos fisiológicos.
+Los primeros resultados esclarecedores se obtuvieron hace unos 20 años, al aislarse algunas de las moléculas de la matriz que se pegan a las células.
+Las investigaciones de los últimos 15 años han puesto de manifiesto que unas moléculas presentes en la superficie celular, las integrinas, desempeñan un papel fundamental en muchos fenómenos relacionados con la adhesión.
+Como no podía ser menos, los laboratorios farmacéuticos están ya aplicando esos conocimientos al desarrollo de nuevos tratamientos contra ciertas enfermedades.
+
+Me cupo la fortuna de ser uno de los investigadores que identificaron las primeras integrinas y descubrieron su actividad. 
+La historia de las integrinas, sin embargo, no es patrimonio de un solo centro.
+Antes al contrario, el conocimiento de su mecanismo de funcionamiento ha sido posible gracias a la cooperación entre equipos que investigaban procesos muy distintos.
+A unos nos interesaba el desarrollo embrionario; a otros, el funcionamiento del cuerpo adulto o el desarrollo de determinadas enfermedades.
+Pero el flujo de información entre todos los comprometidos ha sido incesante, lo que ha permitido progresar a un ritmo acelerado.
+
+Las interacciones que se establecen entre los componentes de la matriz y las células del epitelio mamario constituyen un ejemplo espectacular de la importancia que la adhesión encierra para el correcto funcionamiento celular.
+Las células epiteliales, en general, forman la piel y el revestimiento de la mayoría de las cavidades del organismo.
+Acostumbran disponerse en una monocapa que se apoya sobre la lámina basal, una matriz peculiar.
+Las células epiteliales que recubren las glándulas mamarias producen leche en respuesta a un estímulo hormonal.
+Si se extraen las células epiteliales mamarias de un ratón y se cultivan en el laboratorio, pierden rápidamente su forma cuboide regular, así como la capacidad para fabricar proteínas lácteas.
+Sin embargo, si se cultivan en presencia de laminina (la principal proteína adhesiva de la lámina basal), recuperan su morfología propia, organizan una lámina basal y configuran estructuras pseudoglandulares capaces nuevamente de producir componentes de la leche.
+
+A principios de los años ochenta, los empeñados en descubrir de qué modo la matriz extracelular controlaba la actividad de las células habían conseguido algunos progresos a partir del estudio de la propia matriz.
+Averiguaron que la matriz venía a ser un gel formado por cadenas de azúcares y proteínas fibrosas interconectadas, si bien la cantidad de matriz y los pormenores de su estructura variaban de un tejido a otro.
+Proteínas de la matriz son, por ejemplo, la laminina, fibronectina (otra molécula adhesiva) y el colágeno; este último, aunque a veces es adhesivo, constituye el componente estructural primario de la mayoría de las matrices.
+Y gracias a la microscopía se sabía que las moléculas adhesivas de la matriz estaban ligadas, presumiblemente a través de una o más moléculas intermediarias, al sistema de fibras intracelulares (citoesqueleto) que proporciona a las células su forma tridimensional.
+
+También se sabía que las uniones célula-matriz podían afectar a las células de diversas maneras según el tipo celular, el estado de la célula en ese momento y la composición específica de la matriz. 
+Unas veces, las células responden cambiando su forma; otras, emigran, proliferan, se diferencian (se especializan) o modifican ligeramente sus actividades.
+Los cambios pueden deberse a una alteración en la actividad de algunos genes. 
+Los genes especifican la secuencia de aminoácidos de las proteínas, moléculas encargadas de ejecutar la mayoría de las funciones celulares.
+Cuando los genes se activan, esto es, se expresan, producen la proteína especificada.
+Según qué genes se hallen activos o inactivos, el contenido proteínico de las células cambia y, por tanto, el tipo de operaciones que dichas células pueden acometer.
+
+Para acotar de qué manera la matriz extracelular provocaba tales cambios en las células, había que identificar los receptores celulares, que son los sitios que reconocen las proteínas de la matriz.
+Un método usual de aislar el receptor para una molécula determinada consiste en purificar los componentes del extracto celular que se adhieren a dichas moléculas.
+En este caso, sin embargo, los receptores se resistían a la purificación. 
+
+Culpable de ello, lo sabemos ahora, era, por un lado, cierto fenómeno:
+las moléculas de adhesión de la matriz pueden unirse a muchos tipos de sustancias, algunos de los cuales son también componentes de la matriz.
+El problema pudo resolverse al descubrirse el sitio por donde la fibronectina se engarzaba en las células.
+Curiosamente, esa región es una secuencia de tres aminoácidos: arginina, glicina y aspartato. (Se le suele denominar RGD, por ser esas letras las correspondientes al código utilizado para nombrar a los aminoácidos.) Por otro lado, ocurre a menudo que los receptores, individualmente considerados, no se traben con fuerza a las proteínas de la matriz.
+La adhesión fuerte se logra mediante una suerte de "efecto velcro", en virtud del cual muchas uniones relativamente débiles forman en conjunto una vinculación muy intensa.
+Por ello, las uniones con los receptores individuales no duraban lo suficiente para "cazarlos" a la primera.
+
+A pesar de las dificultades, a mediados de los años ochenta se habían aislado ya varios receptores.
+Se conocía la secuencia de algunos aminoácidos de esas moléculas.
+En 1987, gracias a esa conjunción de resultados, se comprobó que los receptores pertenecían a una gran familia de moléculas estructuralmente emparentadas, algunas de las cuales estaban presentes en prácticamente todos los tipos celulares del reino animal.
+En reconocimiento a la importancia de esa familia para la integridad estructural de células y tejidos, se impuso a las moléculas el nombre de "integrinas".
+Andando el tiempo, y por otras razones que explicaré, se vio cuán pertinente había sido tal denominación.
+
+Mientras tanto, las investigaciones sobre la estructura y función de las integrinas empezaban a dar sus frutos. 
+El descubrimiento de la ubicuidad de las integrinas en la mayoría de los tejidos celulares nos hizo caer en la cuenta de que algunas preguntas de difícil respuesta en ciertos tipos celulares podrían abordarse en otros de más fácil manipulación.
+Merced a tamaña flexibilidad y al intercambio de resultados de muchas disciplinas distintas, se avanzó rápidamente y se abrieron nuevas perspectivas.
+
+Comprobamos muy pronto que las integrinas constaban de dos cadenas o subunidades.
+De la subunidad denominada "alfa" conocemos unas 15 variantes y de la "beta", unas ocho. 
+Las cadenas, que se designan con un número o una letra, se combinan para crear al menos 20 integrinas diferentes. 
+También comprobamos que ciertas integrinas se adhieren a un solo tipo de moléculas efectoras, en tanto que otras reconocen varias dianas distintas.
+La mayoría de las integrinas interaccionan con la matriz extracelular.
+Algunas participan en las adhesiones intercelulares y la mayoría de las moléculas responsables de ese tipo de adhesión célula-célula pertenecen a grupos que se conocen con los nombres de cadherinas, selectinas o inmunoglobulinas. 
+Hallamos, asimismo, que las integrinas atraviesan la membrana celular.
+La parte de las cadenas alfa y beta que sobresale de las células forma el receptor de la fibronectina y de otras moléculas extracelulares o ligandos. Para que las conexiones extracelulares permanezcan prietas, la porción de integrina que se insiere en el citoplasma (o fluido interno de la célula) debe anclarse en el citoesqueleto.
+Vale la pena exponer cómo se establecen tales engarces. 
+Cuando se produce la unión molécula-receptor fuera de la célula y el receptor se agrega a otras integrinas, que a su vez se han unido con otras moléculas, se crean unos complejos muy organizados: las "formas de adhesión focales".
+Estas adhesiones, que pueden variar en tamaño y estructura, incorporan varios tipos de moléculas, incluidas las colas citoplásmicas de las agrupaciones de integrinas y algunos componentes del citoesqueleto.
+La unión y la agregación con el receptor provocan también la reorganización del citoesqueleto; las células, que eran redondeadas, adoptan una estructura definida.
+
+La unión, mediada por integrinas, de las células a una matriz facilita el movimiento de las células, sobre todo durante el desarrollo embrionario de los organismos y en el caso de los leucocitos del sistema inmunitario.
+La emigración comienza con el despliegue de una suerte de pseudópodos en la región frontal de la célula. 
+A continuación, las moléculas de integrina cercanas al extremo delantero de ese pseudópodo interaccionan con la matriz sobre la que se sustentan;
+esa interacción genera una tracción que va a permitir el movimiento celular. 
+Contemporáneamente, se sueltan otros ligámenes de la región posterior de la célula, lo que provoca que esta parte trasera se mueva hacia delante, como si se dejara libre el extremo de un resorte.
+Desconocemos qué fuerzas son las responsables de que se liberen las conexiones de la matriz con la región trasera de la célula. 
+E ignoramos qué fuerzas mecánicas y bioquímicas inducen el avance celular, desde la región frontal o desde el impulso trasero, en un ciclo que se repite una y otra vez. 
+
+Además de hacer las veces de "pegamento" celular y de facilitar la emigración, las integrinas ejercen un tercer efecto, muy potente, sobre las células.
+Alrededor del año 1990, se supo que la unión extracelular entre las integrinas y las moléculas provocaba, en el interior de las células, la activación de las rutas de transducción de señales.
+Esas vías, constituidas por moléculas que liberan mensajes a través del citoplasma, desencadenan, entre otras respuestas, la expresión génica, división celular y la inducción de procesos que impiden la autolisis de las células.
+
+Poco después, se descubrió que las integrinas modulaban los mensajes que los factores de crecimiento transmiten a las células.
+Ya se sabía que los factores de crecimiento, que viajan de una célula a otra, activaban rutas específicas de transmisión de señales que controlan qué genes deben expresarse y si una célula debe reproducirse o incluso sobrevivir.
+Lo que el estudio de las integrinas demostraba era que las células normales (no malignas), para vivir y reproducirse, debían anclarse en una matriz específica cuando las estimulaban los factores de crecimiento.
+La falta de factores de crecimiento o la pérdida de los contactos adhesivos hacen que una célula en división deje de proliferar y termine por morir.
+Casi tres años después de recibir su bautismo, las integrinas hacían honor a su nombre por un motivo distinto.
+Estas moléculas participan en la integración de muchos de los tipos de señales que afectan a las células y determinan, en tal cometido, su destino.
+
+Parece que buena parte de estos sistemas de señalización interna dependen de la activación de moléculas que también están presentes, junto con las integrinas, en las adhesiones focales.
+Esta función se ha estudiado más a fondo en fibroblastos (células del tejido conectivo), donde los complejos son bastante grandes, pues constan de una veintena larga de moléculas diferentes.
+
+Se sabe, desde hace tiempo, que algunas de las moléculas presentes en esas adhesiones focales (como las enzimas de la familia de quinasas Src) intervienen en rutas de señales que se activan por factores de crecimiento.
+Su presencia en los complejos sugiere que las moléculas de la matriz y los factores de crecimiento pueden a veces modular sus mensajes mutuamente, enviando señales allá donde las rutas convergen o se cruzan.
+Otras moléculas de adhesión focal que se activan por integrinas (quinasas de adhesión focal, paxilinas y tensinas) apenas si experimentan los efectos de los factores de crecimiento.
+No obstante, ofrecen sitios de unión para componentes conocidos de transducción de señales, una propiedad que sugiere que ellas también coadyuvan a transmitir mensajes desde las integrinas a los genes y a otras partes de la célula.
+
+Lo que no está tan claro es cómo las integrinas estimulan a las moléculas señalizadoras presentes en las adhesiones focales.
+Ciertos tipos de moléculas de superficie celular, en particular muchos receptores de factores de crecimiento, son quinasas de tirosinas.
+Estas moléculas añaden grupos fosfato a residuos de tirosina que hay en otras proteínas, regulando así la actividad de las moléculas diana.
+Pero las integrinas carecen de actividad quinasa.
+Tampoco son fosfatasas, enzimas que controlan a otras moléculas, quitándoles grupos fosfatos.
+Ni poseen las integrinas sitios normales de acoplamiento mediante los cuales las moléculas transductoras de señales se traban entre sí; lo que significa, a buen seguro, que las integrinas no alteran directamente esas moléculas.
+¿Cómo provocan, entonces, tal profusión de señales internas?
+Podría ser que coadyuvaran a que las moléculas señalizadoras entraran en contacto unas con otras; podría ser, pero nadie tiene aún una respuesta definitiva.
+
+Las integrinas no responden sólo a señales recibidas desde el exterior de las células.
+También reaccionan a mensajes recibidos desde el interior.
+Estas señales de dentro a fuera pueden hacer que las integrinas se vuelvan más o menos selectivas a la hora de aceptar las moléculas con las que deben unirse y, asimismo, pueden cambiar la fuerza con que las integrinas se traban.
+La integrina xxx , por ejemplo, puede estar inactiva, ser un receptor para el colágeno o un receptor para el colágeno y la laminina, según la célula que la produzca y las señales que reciba desde el interior celular.
+
+Las señales de dentro a fuera han sido objeto de exhaustiva investigación en las plaquetas, glóbulos rojos sin núcleo que participan en la formación de los coágulos sanguíneos o trombos.
+Los trombos se forman en las zonas dañadas de los vasos sanguíneos e impiden, momentáneamente, que se pierda sangre.
+Las plaquetas que circulan por la sangre lo hacen de forma independiente, y no se pegan unas a otras.
+No obstante, cambian su comportamiento cuando los vasos sanguíneos, que están recubiertos por una monocapa de células endoteliales, resultan dañados. 
+
+En primer lugar, las plaquetas se pegan (sin ayuda de las integrinas) a zonas de la matriz extracelular que quedan a la vista tras la desorganización de las células endoteliales. 
+Esta adhesión, o la posterior unión con una proteína denominada trombina, envía una señal al citoplasma, que finalmente determina la activación de la integrina xxx , ubicada en la superficie de las plaquetas.
+En este caso, la señal provoca que la integrina se torne más adhesiva.
+Una vez activada, la integrina xxx se aferra a las moléculas circulantes de fibrinógeno o factor de von Willebrand, tendiendo puentes moleculares con otras plaquetas y con la matriz.
+El agregado de plaquetas y proteínas resultante culmina en un denso entramado de células y fibras.
+
+Además de examinar los efectos de las integrinas sobre células individuales, los expertos se han interesado por el papel de esas moléculas en el conjunto del cuerpo. 
+Paradójicamente, sabemos menos del papel que desempeñan las integrinas en la maduración de un embrión que de su participación en algunos otros procesos, a pesar de que fue el interés por conocer las bases moleculares del desarrollo lo que fomentó las investigaciones que han llevado al descubrimiento de las integrinas y otras moléculas de adhesión.
+
+Tenemos pruebas, no obstante, de que el desarrollo normal requiere el funcionamiento correcto de las integrinas.
+A medida que las células de un embrión proliferan y se diferencian para formar los tejidos y órganos del cuerpo, van añadiendo y quitando integrinas de su superficie, indicio claro de que las integrinas que se añaden participan en la transición de un estadio a otro nuevo.
+Otra prueba de la necesidad de su presencia la tenemos en el descubrimiento de que las células embrionarias poseen integrinas específicas que les ayudan a moverse y encontrar sus destinos finales.
+
+La ingeniería genética ha permitido producir moscas de la fruta y ratones que carecen de una u otra integrina. 
+Esos animales son deformes o mueren durante el desarrollo, demostrando así que la falta de tales integrinas es la causa de su fallo.
+En los embriones con malformaciones, la desorganización de los tejidos se debe, aparentemente, a que las células son incapaces de moverse hasta los sitios adecuados o no producen los contactos adhesivos que se necesitan para la cohesión.
+En efecto, en ciertos mutantes de la mosca de la fruta, los músculos recién formados se deshacen a las primeras contracciones, pues las células musculares se separan del tejido conectivo.
+
+Las integrinas cumplen una misión importante en la fisiología normal de los organismos maduros.
+Sabemos, además, de su intervención en determinadas patologías. Un proceso crítico que requiere integrinas es la inflamación, serie compleja de respuestas que se ponen en marcha tras una lesión o una infección. 
+Cuando se lesiona un tejido o lo coloniza un microorganismo patógeno, ciertos leucocitos, como los neutrófilos y los monocitos, abandonan el torrente sanguíneo y se dirigen a la zona afectada.
+Allí eliminan restos y sustancias extrañas y atacan a los patógenos. 
+Además, los leucocitos secretan sustancias que retrasan el avance de la infección.
+Si es necesario, las células reclutan también linfocitos para destruir a los invasores.
+
+Para que los leucocitos puedan viajar al tejido interesado, deben primero abandonar el torrente sanguíneo principal. 
+De ello se encargan las células endoteliales que detectan un problema en sus cercanías.
+Reacciones adhesivas que suelen implicar a las selectinas, no a las integrinas, hacen que los leucocitos reduzcan su velocidad y se desplacen por la capa endotelial de los vasos sanguíneos.
+A continuación, las señales procedentes del interior instan a que ciertas integrinas de los leucocitos (principalmente las que contienen subunidades de tipo xxx o xxx ) adquieran afinidad por las moléculas de la familia de las inmunoglobulinas, en especial las ICAM (moléculas de adhesión intercelular), presentes en las células endoteliales.
+En virtud de esas interacciones, los leucocitos se detienen, se abren paso entre las células endoteliales y atraviesan la pared de los vasos sanguíneos en el tejido dañado o infectado.
+
+La importancia de las integrinas en las inflamaciones se pone de manifiesto en la deficiencia de adhesión leucocitaria. 
+Los individuos que padecen esta enfermedad carecen de la subunidad xxx de la integrina o sintetizan una versión defectuosa.
+Puesto que sus leucocitos no pueden llegar a los sitios dañados, esas personas suelen sufrir infecciones que amenazan su vida.
+
+La respuesta inflamatoria protege de infecciones graves al cuerpo.
+Pero puede contribuir a una enfermedad si persiste durante demasiado tiempo o se produce de forma inadecuada.
+Para mejorar el tratamiento de los casos en los que se sufren inflamaciones crónicas, se están desarrollando compuestos (dirigidos contra las integrinas xxx y xxx ) que impiden las interacciones, mediadas por integrinas, entre leucocitos y células endoteliales.
+Esos fármacos se hallan en fase de prueba en pacientes asmáticos, con inflamaciones del aparato digestivo y artritis reumatoide.
+
+Las inflamaciones pueden ser también muy destructivas durante la reperfusión; así se llama el proceso de restauración de flujo sanguíneo a los tejidos que han quedado desprovistos de sangre durante, por ejemplo, un episodio de congelación, un ataque al corazón o un accidente cerebrovascular. (Muchos ataques al corazón y accidentes cerebrovasculares se deben a la oclusión de algún vaso sanguíneo importante que abastece el corazón o el cerebro.) La pérdida transitoria de sangre puede dañar o destruir el tejido.
+Cuando se restablece el flujo sanguíneo, los neutrófilos de la sangre detectan el daño, emigran a las zonas afectadas y liberan oxidantes.
+
+Los oxidantes pueden destruir a los patógenos, pero pueden también causarles más daños a las ya frágiles células.
+Los investigadores intentan frenar la agresión debida a la reperfusión con fármacos cuyas dianas son las integrinas xxx de los neutrófilos o las ICAM de las células endoteliales. 
+Separando las integrinas de las ICAM, los fármacos impedirían que los neutrófilos salieran del torrente sanguíneo para invadir el tejido sometido a reperfusión. 
+
+Igual que sucede con las inflamaciones, un exceso o un defecto en la formación de trombos resultan peligrosos. 
+Las personas que carecen de integrina xxx (de suma importancia para la agregación plaquetaria) padecen trombastenia de Glanzmann.
+Las plaquetas no se agregan correctamente y las víctimas corren riesgo de desangrarse. 
+En el otro extremo del espectro, un desarrollo excesivo de los trombos, algo que suele ocurrir cuando hay una acumulación de depósitos grasos (placas ateroscleróticas) en los vasos sanguíneos, puede ocasionar un ataque al corazón o un accidente cerebrovascular si el trombo acaba obstruyendo el vaso.
+
+Existen procedimientos angioplásticos para desatascar las arterias ateroscleróticas.
+Pero tales medidas pueden interesar las células endoteliales y hacer que ocasionalmente se formen trombos en las arterias al día siguiente del tratamiento.
+Además, en el proceso de restenosis, los vasos sanguíneos de muchos pacientes pueden resultar obstruidos nuevamente en un período de muchos meses, debido en este caso a la emigración y proliferación de las células del músculo liso.
+Según parece, este proceso se produce en respuesta a determinadas sustancias presentes en los trombos que se forman cerca de los sitios dañados. 
+Para impedir la aparición de trombos en los días posteriores al tratamiento, se emplean fármacos que impiden, transitoriamente, que la integrina xxx interaccione con el fibrinógeno.
+Por demorar la formación de trombos, ese tipo de fármacos podría colaborar, además, en el control de la restenosis.
+
+En principio, la restenosis se evitaría actuando contra una integrina diferente, la xxx , que abunda en las células de la musculatura lisa cuando se lesionan los vasos sanguíneos.
+Puesto que se trata de una integrina que promueve, así parece, la supervivencia y el movimiento de esas células, el bloqueo de su actividad podría limitar la participación de las células a la restenosis.
+
+Entre los trastornos en los que se detecta una actividad de las integrinas indeseable recordaremos la osteoporosis, un número cada vez mayor de enfermedades infecciosas y el cáncer.
+La osteoporosis se caracteriza por la pérdida de tejido óseo y el consiguiente incremento del riesgo de fracturas, principalmente en las mujeres de edad madura.
+Este tipo de problemas puede obedecer a la hiperactividad de células que se unen al tejido óseo y lo degradan. 
+El engarce en cuestión viene mediado por la integrina xxx ; y ése es el motivo de que se esté ensayando el empleo de señuelos, que esconden la integrina, para impedir que las células destructivas se adhieran al tejido óseo.
+
+En el caso de infecciones, parece ser que ciertos microorganismos entran en las células sirviéndose de las integrinas. 
+Procederían así los agentes de la gripe, meningitis, diarreas y parálisis.
+Ante tales hallazgos, se habla de la posibilidad de diseñar nuevos fármacos contra las integrinas implicadas en esos procesos.
+
+Aunque no cabe la menor duda de que las integrinas participan también en el cáncer, queda mucho por averiguar sobre el mecanismo responsable.
+Aparece cáncer cuando las células se saltan los controles normales sobre la división y movimiento celular;
+las células se multiplican entonces sin freno y adquieren la capacidad de invadir tejidos y metastizar, esto es, propagarse a sitios distantes y desarrollarse en regiones que no les son propias.
+Se ha observado que, en ciertos tumores, la producción de integrinas específicas se ha detenido, no son éstas las de esperar o su distribución normal se encuentra alterada. 
+Las consecuencias de esos cambios no son siempre manifiestas, aunque se supone que algunas integrinas facilitan la emigración de células que de suyo no se moverían.
+
+Las integrinas promueven la formación de vasos sanguíneos (angiogénesis) en los tumores.
+Esos vasos nutren a los tumores y proporcionan a las células metastásicas vías de acceso a la circulación.
+Para crear nuevos vasos sanguíneos, las células endoteliales en proliferación deben formar uniones adhesivas unas con otras y con la matriz circundante.
+Existen pruebas de la presencia de grandes cantidades de integrina xxx en las células endoteliales que están formando nuevos vasos, presencia que evita la muerte de las células proliferantes. 
+A este respecto, los compuestos que arruinan la adhesión de las células endoteliales mediada por integrina xxx inducen la autoaniquilación de las células endoteliales que proliferan de una manera indebida.
+Se trata de agentes que inhiben, además, la formación de nuevos vasos y producen la regresión de tumores en animales, por la presumible razón de que cortan el suministro de sangre a los tumores.
+
+Espoleados por tales resultados, los expertos se aprestan a investigar la eficacia anticancerígena de los inhibidores de xxx .
+Esos agentes u otros del mismo tenor pueden acudir en auxilio de las personas que padecen retinopatía proliferativa, una de las complicaciones derivadas de la diabetes. 
+En este trastorno se produce una proliferación de vasos sanguíneos anormales, que daña la retina y causa ceguera.
+Los fármacos en cuestión no deben afectar a los vasos sanguíneos sanos, ya que la integrina xxx no abunda en las células endoteliales de los vasos que no están desarrollándose.
+
+La mayoría de las posibles terapias contra enfermedades vinculadas con la adhesión se proponen impedir el engarce de las integrinas con las moléculas extracelulares.
+Pero a su vez, los agentes que favorecen esos anclajes podrían facilitar el movimiento de células dérmicas sanas hacia zonas de la piel dañadas gravemente, acelerando de esa manera la curación de las heridas.
+Productos similares podrían incorporarse en matrices artificiales, para guiar el desarrollo de nuevos tejidos que sustituyan a los dañados por enfermedades, tratamientos agresivos o lesiones de cualquier tipo.
+
+A la mayoría de los que nos venimos dedicando al estudio de las integrinas nos interesan, sobre todo, los aspectos básicos de la investigación: averiguar los mecanismos en virtud de los cuales las integrinas y otras moléculas de adhesión gobiernan el desarrollo y la fisiología. 
+Independientemente de nuestra óptica de partida, la experiencia científica está resultando apasionante. 
+Lo que en un principio fue estudio de un aspecto de un problema ceñido ha terminado por llevarnos al inmenso campo de los efectos producidos por las integrinas y otras moléculas de adhesión.
+Los progresos obtenidos ponen una vez más de manifiesto la importancia de la cooperación entre las diferentes áreas de la ciencia.

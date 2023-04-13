@@ -1,0 +1,4 @@
+id,presence,candidate_term_left,candidate_term_right,occurrence,full_context
+H22_economy_1,left,['opciones'],[None], opciones son la agrupación de cargas,"tipo de medidas podrían adoptarse para corregir estas distorsiones? Algunas opciones son la agrupación de cargasa granel para alcanzar economías de escala, la racionalización de los"
+H22_economy_2,both,"['unidad', 'salarios', 'unidad de salarios']",['inflación'], la unidad de salarios son posiciones de inflación,efectiva en términos de dinero puede ocasionar un alza discontinua en la unidad de salarios son posiciones de inflaciónque tienen cierta analogía (aunque muy imperfecta) con la inflación
+H22_economy_3,both,['generalizaciones'],['cifras'], generalizaciones son la combinación de cifras,"desprecian cordialmente todos los demás; uno de esos teóricos cuyas generalizaciones son la combinación de cifrasy razonamiento, nunca tolerados separadamente. La relación entre este procedimiento"

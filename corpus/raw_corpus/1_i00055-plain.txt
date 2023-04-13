@@ -1,0 +1,200 @@
+
+Ya llega Windows NT 4.0
+
+Exploramos sus nuevas funciones
+
+En el momento de escribir este artículo, Windows NT 4.0 está todavía en fase beta 2, estando previsto su lanzamiento definitivo a finales de Septiembre.
+NT 4.0 combina (y mejora) el interfaz de usuario del Windows 95, sin comprometer de ninguna forma la robustez de la arquitectura de Windows NT.
+Si bien Windows NT 4.0, ofrece además una interoperabilidad mejorada con otros sistemas, lo más destacable es su interoperabilidad con los sistemas informáticos heredados 
+
+Interfaz de usuario 
+
+Esta nueva versión ha sido llamada hasta hace bien poco Shell Update Release, puesto que tanto Windows NT Workstation como Server obtenían el interfaz de usuario (conocido como shell) del Windows 95.
+Esto es de hecho bastante irónico puesto que mucho del trabajo realizado para este interfaz fue originariamente previsto para el futuro (aún no determinado) sistema operativo Cairo (el cual se ha convertido en un cúmulo de nuevas funcionalidades que van a formar parte de las nuevas versiones de NT).
+Y entre las nuevas funcionalidades que nos deparará el futuro Cairo, la primera en ser implementada por los equipos de desarrollo de Windows 95 y Windows NT ha sido el interfaz de usuario.
+De alguna forma, la aparición del nuevo interfaz en Windows 95 ha hecho que nos familiaricemos con él.
+Mientras, el equipo de desarrollo de Windows NT se ha preocupado de cómo hacer de él un interfaz más seguro, que soporte múltiples perfiles y que sea compatible con Unicode.
+Desde un punto de vista técnico, el nuevo interfaz de Windows NT 4.0 consiste en varias piezas del interfaz de usuario de Windows 95 que nos son familiares.
+Algunos de esos elementos son la Barra de Tareas, el botón Inicio, el Escritorio y el Explorador.
+Si usted es usuario de Windows 95, podrá además reconocer como ya familiares los llamados common controls y common dialogs (por ejemplo, la caja de diálogo Guardar archivo), forms en tres dimensiones, fonts Sans Serif para los menús, e incluso el nuevo formato de las ayudas que dispone entre otras de las funciones de búsqueda y de ayudas puntuales del tipo ¿Qué es esto?.
+Algunas de estas funcionalidades del nuevo shell ya fueron incluidas en Windows NT 3.51.
+Por ejemplo, los controles comunes (implementados en COMMCRTL.DLL ), que ofrecen los más frecuentes paneles para el nuevo interfaz como es el Explorador (ver figura 1 ).
+En su panel doble, con todas las opciones activadas, el Explorador consta de Treeview , Listview , Toolbar , Tooltip , y Status control .
+Sorprendentemente, aunque el soporte para estas opciones ya estaba implementado en la versión 3.51, hemos tenido que esperar hasta la aparición de Windows 95 y de las aplicaciones específicamente diseñadas cumpliendo con los requerimientos que exigía el Windows 95 compatibility Logo.
+Eventualmente, la mayoría del sistema operativo y la mayoría de las aplicaciones utilizarán esos controles comunes y se verán y reaccionarán igual tanto en Windows 95 como en Windows NT.
+Pero muchos otros aspectos del nuevo interfaz nos serán habituales una vez que tengamos la oportunidad de utilizarlos.
+Por ejemplo, el uso del botón derecho del ratón, el cual despliega un menú y subsiguientes diálogos con pestañas para personalizar las propiedades del objeto no es precisamente del tipo de sugerencias a desarrolladores de aplicaciones que encontrará en la columna NT 4.0 y los desarrolladores de este mismo artículo, sino bastantes más simples.
+Algunas de las características del nuevo interfaz ni tan sólo son visibles.
+Un buen ejemplo de ello es la función ShellExecuteEx , la cual es invocada cuando el usuario entre algo en el diálogo Ejecutar del menú Inicio.
+En este caso, la cadena de caracteres puede contener un programa, un tipo de archivo registrado, una carpeta que abrir o explorar, o incluso un HTTP (Hipertext Transfer Protocol), un FTP (File Trasfer Protocol) o un URL (Universal Resource Locator).
+Windows NT sabrá cómo actuar ante cada situación, ejecutando la aplicación pertinente en cada caso, incluso apuntando a una dirección del WEB o inicializando el servicio de RAS, marcando automáticamente el número de teléfono predefinido (a diferencia de lo que ocurre actualmente con la versión 3.51 del Windows NT, en el cual, y como podemos ver en las páginas 38 a 41 de este mismo ejemplar, la inicialización es necesariamente manual).
+
+Diferencias en cuanto al Shell 
+
+Aunque el interfaz de Windows 95 y de Windows NT son muy similares, algunas de las funciones tan sólo existen en Windows NT 4.0.
+De hecho, parece que estarán disponibles en la próxima actualización de Windows 95.
+Quizás el mejor punto desde donde comenzar a detallar las diferencias entre Windows 95 y NT respecto al shell es a partir de que el usuario inicia la sesión.
+Tanto los Administradores de Redes como los usuarios avanzados de Windows NT saben que en versiones anteriores, Windows NT almacenaba la información de cada usuario de forma individual en el registro, y mantenía un archivo por cada usuario en el directorio %systemroot%\system32\config . 
+El Administrador de Programas del NT 3.51, utiliza esta información para implementar o no los grupos de programas comunes o específicos de usuario requeridos por cada usuario y según sus autorizaciones.
+El nuevo shell sustituye los grupos de programas por carpetas y accesos directos bajo el directorio %systemroot%\profiles\All Users . 
+Tal y como podemos ver en la figura 2.
+Pero además, en la misma figura 2, podemos ver la estructura de subdirectorios generada para los usuarios Administrador, All Users, Default User y uno para cada usuario del sistema que se haya creado.
+Como probablemente debía esperar, la implementación de este nuevo shell tiene muy presentes los aspectos relativos a la seguridad.
+La seguridad del shell NT4.0 incluye las usuales protecciones según perfiles y las extiende a nuevos elementos del sistema como puede ser por ejemplo, la Papelera de Reciclaje.
+Un punto importante de esta nueva versión es que ofrece varios interfaces Unicode, los cuales no aparecen ni por asomo en el Windows 95.
+Si bien estos interfaces Unicode son un tema esencialmente orientados al desarrollo, tienen unas importantes ramificaciones.
+Por ejemplo, la versión NT de Mi Maletín es capaz de convertir los nombres de archivos largos de Unicode a ANSI, y la opción de Buscar archivos o carpetas del menú Inicio, incluye la opción de búsqueda sólo ANSI.
+Una de las características del shell NT más útiles es sin duda la capacidad de visualizar las propiedades de los documentos OLE (Object Linking and Embedding), como son todos los creados por Microsoft Office.
+En Windows 95, la página de propiedades de los documentos OLE viene a ser parecida a la reproducido en la figura 3.
+En cambio, NT4.0 reconoce la última versión del sumario de cada objeto OLE y añade pestañas de propiedades de contenido y personalización.
+Los usuarios podrán seleccionar entre un abanico de propiedades, e incluso desarrollar de propias, asignando textos, fechas, números y valores del tipo Si/No, tal y como reproducimos en la figura 4.
+Además, en la beta 2 ya se ha implementado un Administrador de Tareas muy completo, con el que podremos ver los procesos en ejecución, sus consumos de CPU, y un sinfín de opciones, como podemos ver reflejado en la figura 5.
+Para facilitar la gestión del sistema, y siguiendo la tónica de la mayoría de los productos Microsoft, esta versión ofrecerá Asistentes de trabajo para crear usuarios, gestionar grupos, controlar accesos y permisos a archivos y carpetas, añadir impresoras y módems, gestionar licencias y añadir/eliminar aplicaciones.
+En la figura 6 podemos ver una instantánea del proceso de instalación de una impresora en el sistema utilizando el asistente correspondiente.
+Derivado de Microsoft SMS 1.1 (parte integrante de BackOffice), se incluye Network Monitor (figura 7), con el que los administradores de redes podrán determinar los problemas de rendimiento que puedan surgir entre el servidor y los nodos.
+Por último, alguna de las características del shell de Windows 95 no están disponibles o están limitadas en Windows NT 4.0.
+Un buen ejemplo, es la ausencia de la posibilidad de cambiar la resolución de la pantalla sin necesidad de reiniciar el sistema.
+Windows 95, en cambio, lo permite.
+Algunas de las funcionalidades de Microsoft Plus!, que muchos han instalado sobre Windows 95, ya formaban parte de Windows NT.
+Por ejemplo, la posibilidad de mover y redimensionar las ventanas sin que desaparezca su contenido (algo que ya existía en la versión 3.51), el servidor RAS, e iconos animados.
+Otras de las características de Microsoft Plus! para Windows 95, como son los esquemas de sonidos, también se incluyen en Windows NT 4.0, mientras que otras, como el defragmentador de disco, jamás funcionarán bajo Windows NT.
+Afortunadamente, NT 4.0 incluye el juego tipo " arcade"; Pinball.
+
+Internet 
+
+En los últimos meses, Microsoft ha hecho mucho ruido acerca de lo importante que es Internet para todos los productos de la compañía.
+Pero sea como sea, Windows NT 4.0 no incorpora mucha de esa nueva tecnología.
+Lo más importante de la nueva versión de Windows NT es que se incluye como parte del sistema operativo el servidor de Internet Microsoft Internet Information Server 2.0 (IIS 2.0), sucesor del ya popular IIS 1.0 y que, según Microsoft, mejora su rendimiento en un 40%, además de incorporar ligeras mejoras, como la posibilidad de configuración del servidor de forma remota mediante la utilización de un browser Internet.
+Según las últimas informaciones, NT 4.0 incorporará MS FrontPage 1.1, herramienta originaria de la compañía independiente Vermeer, hasta que fue absorbida, tanto producto como profesionales, de una sola tacada, por Microsoft a principios de año.
+MS FrontPage es una inteligente herramienta de desarrollo de WEBs, que incluye no tan sólo la fase de diseño si no toda la gestión necesaria para el mantenimiento de un sitio en Internet con asignación de tareas, visualización de la estructura de documentos, etc .
+y que estará totalmente integrado con IIS 2.0.
+Además, incluirá MS Search Server (llamado Trípoli" en su fase beta), un indexador y buscador de contenidos de páginas HTML, búsqueda que además integra las propiedades de los documentos OLE y de los mismos tags de los documentos HTML.
+Desde el punto de vista cliente, Microsoft ha incluido diversos componentes pensando en los desarrolladores que diseñen aplicaciones con acceso a Internet.
+Por supuesto, Microsoft incluirá una nueva versión mejorada del Internet Explorer 2.0, específica para Windows NT.
+
+Network OLE 
+
+Una de las más importantes características de Windows NT 4.0, oculta entre todas ellas, es la primera versión de Network OLE.
+De hecho, nunca verá nada que esté en Network OLE y, probablemente, sus usuarios ignorarán que existe.
+Y aún así, va a permitir a los desarrolladores de aplicaciones y a todos aquellos que ofrecen soluciones informáticas para Windows NT, utilizar componentes OLE prefabricados de la misma forma que personalizar otros para crear robustas aplicaciones distribuidas.
+Sin entrar en mucho detalle, diré que Network OLE utiliza el estándar del mercado RPC (Remote Procedure Call) para permitir que una aplicación basada en OLE pueda iniciar y manipular un servidor OLE remoto o conectado a la red local.
+Para permitir esta arquitectura, el SCM (Service Control Manager) gestionará la creación de objetos en la máquina local examinando el caché de los objetos en ejecución, haciendo que se creen remotamente cuando sea preciso.
+Casi la misma tecnología está disponible en Microsoft Visual Basic 4.0 Enterprise Edition, con las funciones de automatización remota.
+De todas formas, esa solución únicamente funciona con la automatización OLE, en donde Network OLE soporta cualquier servicio OLE sea éste desarrollado por nosotros o sea estándar.
+Además, Network OLE tiene mejor rendimiento que la automatización remota.
+Nota: A diferencia de Windows NT, Windows 95 no incorpora del Service Control Manager o SCM del que hacíamos referencia hace un momento, por lo que no puede utilizar Network OLE.
+Microsoft ha indicado hace poco que Windows 95, en un futuro por determinar, también soportará de alguna u otra forma Network OLE, aunque no ha aclarado cómo va a hacerlo.
+NT 4.0 incluye además soporte para lo que llaman OLE free threading&.
+Para aislar dichas hebras, en implementaciones previas de OLE, tenían que utilizar lo que Microsoft calificaba como apartment-model o conformarse con no poder ofrecerlas.
+Si bien este nuevo tipo de hebras OLE significan un trabajo adicional en el momento de desarrollo, han conseguido apartar al OLE del ciclo que utilizan los mensajes, lo cual comporta menos transacciones y un mejor rendimiento.
+Las aplicaciones que estén desarrolladas habiendo previsto hebras OLE, pueden iniciar pools de hebras de trabajo, lo que permite que la aplicación se escale o procese mejor.
+Esta capacidad es particularmente útil en aplicaciones servidoras.
+Además, en una aplicación pueden convivir ambos métodos a la vez, lo que facilita considerablemente el trabajo a los desarrolladores para que paulatinamente vayan modificando sus aplicaciones sin necesidad de hacerlo de una sola vez, evitando lo traumático que puede significar este proceso.
+Puesto que Visual Basic 4.0 no soporta este nuevo tipo de hebras OLE, esa coexistencia se convierte en una necesidad, dada la cantidad de desarrolladores que emplean Visual Basic.
+Por último, el OLE bajo NT 4.0 saca partido de la seguridad implícita del segundo, y elimina una de las quejas más frecuentes de los programadores asociada con las aplicaciones OLE que intentaban ejecutarse como servicios del sistema.
+Normalmente, la seguridad propia de Windows NT no permite a los servicios OLE comunicarse entre aplicaciones puesto que la mayoría de aplicaciones son ejecutadas desde el escritorio, y por tanto, en diferente contexto que los servicios del sistema.
+A partir de NT 4.0, la utilización de Network OLE va a permitir la comunicación entre diferentes contextos de seguridad.
+
+Kernel Mode User y GDI 
+
+Otra característica que se oculta en las entrañas de Windows NT 4.0 es la incorporación de un subsistema Win32 dentro del Kernel.
+- Usuario: inputs de teclado y ratón, outputs del interfaz (ventanas, iconos, menús, ...) y mensajes de sistema.
+- Kernel: Servicios de entrada/salida, gestión de la memoria virtual y planificación de tareas.
+- Graphics Device Interface (GDI): bitmaps, fuentes, colores, etc .
+
+
+En las versiones de 16 bits de Windows, todas las aplicaciones compartían el mismo espacio de memoria.
+Cuando Microsoft (de hecho, el programador Dave Cutler) diseñó Windows NT, tomó la decisión de otorgar a cada proceso un espacio de memoria separado, aislando el Kernel del resto del sistema operativo, creando por añadidura un proceso separado Win32 para gestionar los objetos User y GDI.
+Bajo este diseño, cada aplicación se encuentra aislada no sólo del sistema operativo, sino también de sus ventanas, menús, etc .
+Desgraciadamente, muchas de las invocaciones a rutinas User o GDI pasan de hecho a través del subsistema cliente/servidor en el Kernel executive, que es el kernel básico de Windows NT.
+Este paso por el kernel comporta un incremento sustancial en el número de transacciones en las hebras, por lo que afecta significativamente al rendimiento.
+Los desarrolladores de NT han hecho todo lo posible para mejorar este aspecto, para lo cual han añadido dos nuevas técnicas de optimización: Primero, implementaron procesos por lotes en las invocaciones a rutinas User o GDI, que ayudaron a amortiguar la sobrecarga de las transacciones sobre las hebras, y segundo, implementaron valores caché en el lado del cliente que potencialmente reduciría el proceso de algunas invocaciones.
+En la figura 8 podemos ver un diagrama que representa el proceso habitual de cualquier invocación que se haga a User32.DLL en Windows NT 3.51.
+Con NT 4.0, Microsoft ha querido incorporar el nuevo shell e interfaz de usuario sin, por ello, afectar al rendimiento.
+De manera que movieron todo el subsistema Win32 al Kernel, con el objetivo de evitar al máximo la saturación del sistema, a la vez que eliminaban un gran número de transacciones.
+Microsoft supuso que, después de todo eso, el rendimiento sería tan bueno que no harían falta ni procesos por lotes ni cachés y con esa esperanza, los eliminaron.
+Desgraciadamente, los test de laboratorio demostraron que habían mejorado el rendimiento para las rutinas User, pero que para las rutinas GDI, el rendimiento era peor, por lo que volvieron a implementar los procesos por lotes y los cachés, obteniendo con la mixtura los niveles de rendimiento que se habían propuesto.
+Microsoft asegura que esos cambios no van a afectar a la estabilidad del producto, pero serán muchos los que van a adoptar una actitud prudente, y van a esperar a ver que ocurre con los más confiados.
+En la figura 9 podemos ver una representación de la nueva arquitectura tras recolocar al subsistema Win32 dentro del Kernel.
+Advierto que el subsistema runtime cliente/servidor sigue presente en Windows NT 4.0 (se trata del programa CSRSS.EXE que sigue invocando a CSRSRV.DLL ), fundamentalmente para aplicaciones de cónsola.
+
+Soporte a perfiles de Hardware 
+
+Otra de las más importantes peticiones de los clientes de Microsoft fue que soportara múltiples configuraciones de hardware.
+Si bien es cierto que el soporte Plug and Play del que ya dispone Windows 95 ha sido demorado hasta la aparición de Cairo, NT 4.0 incluye soporte para múltiples configuraciones de hardware.
+Por lo tanto, podemos seleccionar una configuración para el momento de arranque, que permite reconocer dock-stations, periféricos externos, e incluso dispositivos PCMCIA (Windows NT 4.0 incluye dentro del panel de control un nuevo icono para su gestión y administración, aunque no permite cambiar en marcha las tarjetas PCMCIA pues no las reconoce sin reiniciar el sistema.
+Por otro lado, NT 4.0 tampoco soporta APM (Advanced Power Management), si bien es cierto que soporta nuestras configuraciones de hardware.
+
+Otras características
+
+Ahora que ya hemos repasado, desde mi punto de vista, las más importantes características de NT 4.0, podemos comentar algunas no menos interesantes: DirectX : El Windows 95 Game Software Developer's Kit (SDK) introdujo la familia de APIs DirectX, que permite a los desarrolladores de juegos obtener mejor rendimiento al dejar al programa operar más cerca del hardware.
+Entre esas APIs específicas se encuentra DirectDraw para gráficos y animaciones de alta velocidad, DirectPlay, para comunicaciones con múltiples participantes, DirectInput para el manejo de los dispositivos de entrada que utilizan habitualmente los juegos (Joysticks, etc.) y DirectSound, para obtener funciones de altas prestaciones en audio.
+Desgraciadamente, no todas estas APIs estarán totalmente implementadas en NT 4.0.
+Por ejemplo, DirectSound funcionará en modo de emulación utilizando los drivers de sonido ya instalados en Windows NT.
+
+RAS
+
+El RAS, tal y como lo conocíamos (del que podemos leer un artículo referente al funcionamiento de los scripts en la página 38 de este mismo número) cambia totalmente.
+A partir de NT 4.0 se integrará en el shell de la misma forma en que lo hace bajo Windows 95: bajo el icono Acceso telefónico a redes y dentro de la carpeta Mi PC.
+Se incluye la API AutoDial presentada en Windows 95 con soporte a MSN (Microsoft Network) e Internet Explorer, que puede ser activada o desactivada para determinado nombre de host, una dirección IP en concreto o para el nombre de un servidor NetBios que queramos.
+También se añade una nueva API de agenda telefónica que tiene como finalidad la visualización de paneles donde añadir o modificar las entradas de la agenda.
+
+Telephone API : de hecho, TAPI ya está disponible en Windows NT 3.51, pero sólo da soporte a algunas funciones del RAS.
+Con NT 4.0, TAPI está soportado completamente, por lo que puede ser ejecutado con aplicaciones MSN, Exchange Client (o Windows Messaging) Internet Explorer y aplicaciones de fax.
+Desafortunadamente, tanto el cliente MSN como el soporte de fax no se distribuirán conjuntamente con el resto de NT 4.0, aunque estarán disponibles en un plazo posterior que se prevé corto (unos tres meses después de la fecha de lanzamiento de Windows NT 4.0).
+Otras aplicaciones menores, como Microsoft Phone, que necesita soporte Unimodem/V, no han sido portadas a NT 4.0.
+Emulación 486 : las versiones previas de NT para ordenadores RISC tan sólo ofrecían soporte de emulación 286.
+Con NT 4.0, podrá ejecutar aplicaciones 386-extendidas de 16 bits sobre sistemas RISC.
+CD File System (CDFS):NT 4.0 soporta Autoplay y CD con formato XA.
+Windows Messaging Subsystem (NT-WMS) : NT-WMS incluye Exchange Client, Mail API (MAPI), herramienta de migración desde MS Mail e Internet Mail, siendo equivalente a Exchange Client incluido en Windows 95.
+Hay quienes opinan que es un cambio estratégico de nombre, ante la confusión creada por el lanzamiento de Microsoft Exchange, aunque Microsoft indica que la versión para Windows 95 ya disponible para todos sus usuarios en Internet, corrige ciertos bugs reportados por los clientes ofreciendo una mayor velocidad.
+NetWare Directoy Services ( NDS) client para Windows NT Workstation ofrece scripts de inicio de sesión (login) y funciones de archivos e impresoras.
+Windows Internet Name Service (WINS) y Domain Name System (DNS) : NT 4.0 incluye DNS (ver figura 10).
+Es equivalente al BIND de UNIX, el cual ya estaba portado a la plataforma Windows NT por varios fabricantes, que incluso lo ofrecían gratuitamente.
+El DNS devuelve direcciones IP a los nombres Internet del tipo WWW.MICROSOFT.COM, y es un elemento imprescindible en cualquier máquina host conectada a la red de redes.
+También se ha mejorado la base de datos de WINS utilizada para el mapeo de nombres y sus respectivas direcciones IP.
+Editor de planes de sistema y de perfiles de usuario : Ofrece la posibilidad de definir un entorno de trabajo consistente a los usuarios de la red.
+Utilizando el editor de planes del sistema junto con los perfiles de usuario, los administradores de redes podrán por fin ofrecer un entorno que cumpla los estándares de la empresa.
+En la figura 11 podemos ver un detalle del editor de planes.
+Point-To-Point Tunneling Protocol (PPTP) : Se trata de una nueva tecnología incluida en NT 4.0 que permite la encapsulación de protocolos y la encriptación de datos sobre conexiones RAS.
+Esto permite crear redes privadas virtuales y seguras a través de Internet.
+Además, permite a los clientes utilizar PPTP para acceder a su red corporativa a través de su proveedor habitual de acceso a Internet.
+Funciona sobre cualquier protocolo, sea éste IP, IPX o NetBEUI.
+
+Un ganador 
+
+NT 4.0 tiene mucho que ofrecer; un gran interfaz de usuario, una robusta arquitectura, tanta seguridad como seamos capaces de administrar, y un abanico de nuevos servicios para que los desarrolladores de aplicaciones trabajen con ellos.
+Quizás sea demasiado pronto para decirlo, pero lo más probable es que aquellos equipos en las empresas que puedan trabajar con NT 4.0, no se van a conformar con menos.
+NT 4.0 Workstation va a ser, según la opinión de muchos, el ganador de la llamada batalla por el desktop en el plazo de uno o dos años, relegando a Windows 95 a los equipos domésticos o a portátiles que cambien frecuentemente de adaptador PCMCIA.
+Pero sea como sea, si lo que busca es una solución robusta para los PC de su empresa, Windows NT 4.0 es su próximo sistema operativo.
+
+Volver al principio 
+
+NT y los Desarrolladores 
+
+Microsoft irá distribuyendo versiones actualizadas del Win32 SDK y del Driver Developer's Kit (DDK) para reflejar los cambios de Windows NT 4.0.
+Los desarrolladores que se suscriban al nivel 2 de Microsoft Developer's Network (MSDN) recibirán las betas como parte de su suscripción.
+Microsoft actualizará el SDK para reflejar las nuevas APIs y servicios adicionales como Internet Server API (ISAPI).Repasar todas las APIs exigiría más espacio del que tengo reservado, pero quisiera destacar una nueva API del sistema llamada LoadUserProfile.
+El SCM (Service Control Manager) invoca a esta API antes de que un servicio se inicie bajo una cuenta de usuario, y inicializa el perfil dándole una clave de registro en HKEY_CURRENT_USER.
+Esta API es importante porque en anteriores versiones de NT, si bien es cierto que se podían ejecutar servicios desde usuarios particulares, no se les daba acceso a la correspondiente área de usuario dentro del registro.
+Otras nuevas APIs importantes que merece la pena destacar ahora son:Cryptography API: CAPI ofrece a los desarrolladores la posibilidad de codificar datos para obtener transmisiones seguras así como almacenamiento de seguridad.
+Podremos encriptar y firmar digitalmente los datos, y seguir manteniendo la integridad de los datos.
+Como en el caso de la arquitectura TAPI, componentes separados conocidos en esta caso como cryptographic service providers (CSP) realizan estas operaciones.
+Microsoft ha anunciado un CSP con NT 4.0, llamado RSA Base Provider, y se espera que aparezcan otros en breve plazo.
+Internet Client (Sweeper): Mientras que todos hemos oído hablar sobre la estrategia de Microsoft sobre Internet como servidor, poco se ha podido ver sobre la parte cliente y de las herramientas de la compañía.
+Agrupadas en una colección de herramientas, bajo el nombre en código Sweeper, posiblemente vayan a formar parte en un futuro por determinar del Win32 SDK.
+Sweeper permite a los desarrolladores crear aplicaciones Internet que se integren fácilmente en Internet Explorer o que utilicen los recursos propios de Sweeper (por ejemplo, extraer información de la empresa del Web y enviarlos a una aplicación ya existente).
+Actualmente, Sweeper incluye los siguientes componentes.
+Datapath properties con notificación de progreso.
+URL Monikers Nueva especificación de controles OLE (OCX), que manejarán las transferencias de objetos OLE desde la Internet.
+Este mecanismo, por otra parte, será incluido en la próxima versión de Visual Basic 5.0 prevista para finales de año.
+WININET.DLL , que para resumir es un layer o capa de abstracción sobre el WinSock (Windows Sockets).
+OLE Script y VB Script, un subset del conocido Visual Basic for Applications (VBA) que se incluye en VB 4.0 y en varias aplicaciones del Microsoft Office.
+
+Desde que el 7 de Diciembre, Bill Gates decidió cambiar el rumbo del barco Microsoft respecto a Internet, están siendo anunciados una avalancha de productos.
+A diferencia de la mayoría de fabricantes, Microsoft no se muestra recelosa, y expone sus estrategias y planes sin recelos.
+Para más información, les recomiendo que repasen frecuentemente la página siguiente en Internet http://www.microsoft.com/intdev .
+
+Volver al principio 
+
+Volver a Página Principal

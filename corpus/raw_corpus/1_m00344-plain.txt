@@ -1,0 +1,614 @@
+
+ADN: modelos y significado
+
+Mediante la observación, la experimentación y la especulación inspirada, lo que al principio eran nociones vagas e incipientes acerca del gen se afinaron cada vez más.
+Sin embargo, a pesar de las conclusiones precisas que se estaban obteniendo acerca del gen -su localización en el cromosoma y su papel clave en la vida de la célula y en la herencia- la arquitectura molecular y la función exacta del gen seguían siendo misterios a mediados del siglo XX.
+Para poder contar la historia de la comprensión de estos misterios, debemos introducir aquí algunos detalles técnicos.
+Estos detalles giran en torno a la molécula de ADN y sus actividades dentro de la célula.
+
+De hecho, son los tecnicismos que debemos aprehender para comprender cuál es la interpretación actual del genoma humano.
+Deben entenderse para poder apreciar, más allá de simples generalidades, cómo la información creciente acerca del genoma puede, primero, ser interpretada significativamente y, luego, aplicada para manipular genes con propósitos científicos y médicos.
+Tal comprensión se ha hecho un común denominador entre los biólogos.
+También debe serlo para todos aquellos que deseen tener un conocimiento claro acerca de cómo y por qué el conocimiento derivado de este análisis tendrá un impacto tan profundo no sólo sobre los hombres sino también sobre todos los sistemas vivientes.
+
+Con el trabajo de Watson y sus colegas comenzó una época dorada de la biología molecular.
+Surgirían nuevas tecnologías capaces de hacer avanzar el conocimiento de las funciones del gen.
+El Proyecto Genoma Humano sólo ha sido posible gracias a esta serie de desarrollos.
+Sus herramientas y metodologías son en gran medida las iniciadas entre los años 50 y 70.
+La nueva era comenzó con lo que se considera la síntesis más significativa en las ciencias biológicas desde el trabajo de Charles Darwin.
+Nos referimos a la historia de la «doble hélice».
+
+James Dewey Watson fue siempre brillante.
+Había sido uno de los «niños prodigio» en un programa de radio durante la guerra y había ingresado en la Universidad de Chicago a la edad de quince años.
+Aunque no podía saberlo en esa época, la Universidad era entonces la sede de la primera «pila atómica» del mundo.
+Como parte del Proyecto Manhattan, la «pila», muy secreta, era un apilamiento gigante de bloques de grafito que rodeaban barras de uranio.
+La pila clandestina, ignorada hasta por el rector de la universidad, había sido montada bajo las gradas de un estadio de fútbol inutilizado.
+
+El 2 de diciembre de 1942, bajo el ojo vigilante de Enrico Fermi, diseñador de la pila, las barras de control de cadmio fueron cuidadosamente quitadas y el uranio altamente radiactivo produjo la primera reacción en cadena atómica. 
+Sólo funcionó 4,5 minutos a medio vatio de potencia, pero conduciría a la tecnología que hizo posible el desarrollo de la bomba atómica sólo tres años después.
+Entre el pequeño grupo de científicos presentes en ese día histórico estaba Leo Szilard, un físico teórico húngaro y uno de los principales arquitectos de la bomba.
+En 1947, Szilard, que se había opuesto vigorosamente al uso de la misma, abandonó la física por la biología. 
+Fue a Cold Spring Harbor para unirse al «grupo de fagos» de Luria y Delbrück.
+
+El interés de Watson, sin embargo, había sido siempre la biología.
+
+Obtuvo su título en 1946 y se quedó un año adicional para tomar clases de zoología.
+En 1944 leyó por casualidad un libro recién publicado por Erwin Schrödinger: ¿Qué es la vida? El libro había sido inspirado por un artículo breve escrito por Max Delbrück acerca de las propiedades físicas del gen.
+Schrödinger especuló acerca de la naturaleza del gen a la luz de los principios establecidos de la química y la física.
+El tema del libro es que los genes son los componentes clave de las células vivientes y que para comprender qué es la vida debemos saber cómo actúan.
+
+Watson, en seguida, «quedó polarizado hacia descubrir el secreto del gen».
+
+Cuando Watson llegó a la escuela de graduados de la Universidad de Indiana, en 1947, su académico más prominente era Herman Mullen, quien acababa de ganar el premio Nobel por su trabajo con las mutaciones inducidas por los rayos X.
+Aunque atraído a Indiana por la presencia de Muller, Watson fue influenciado allí, fundamentalmente, por Salvador Luria y, a través de él, por Max Delbrück y el «grupo de fagos».
+Luria y Delbrück habían huido de Europa cuando la guerra se hizo más cercana, Luria de Italia y Delbrück de Alemania.
+Luria asignó a Watson a un proyecto de investigación acerca de los efectos de los rayos X sobre los fagos, y éste completó su doctorado en mayo de 1950, a los veintidós años.
+Después de unas últimas seis semanas en Cold Spring Harbor, partió hacia Europa.
+
+Su experiencia en el laboratorio de Herman Kalckar rápidamente se transformó en un desastre.
+La indiferencia de Watson hacia la química del ácido nucleico no se curó por el hecho de estar en Europa.
+Se sentía cada vez más frustrado al advertir que su permanencia en Copenhague con Kalckar no lo aproximaría más a la naturaleza del gen.
+
+Entonces, mientras asistía a una conferencia en Nápoles, su suerte cambió.
+Entre los conferenciantes estaba Maurice Wilkins, del King's College de Londres.
+Wilkins repasó sus datos preliminares acerca de la estructura molecular del ADN, que había obtenido mediante el uso de la cristalografía con rayos X.
+Básicamente, esta técnica implica exponer las moléculas, en una forma cristalina, a los rayos X.
+Algunos de estos rayos golpean los átomos y son desviados de la sustancia cristalina. 
+Una rotación del cristal cambia los ángulos en los que los rayos X inciden y la imagen de los rayos desviados puede captarse en película.
+Este patrón de «difracción» puede suministrar información acerca de la configuración tridimensional de los átomos que forman la molécula.
+
+La técnica es precisa y exige una interpretación habilidosa para examinar las moléculas, de un modo que ninguna otra técnica permite.
+Watson había estado preocupado por el hecho de que la estructura de los genes pudiera ser frustrantemente irregular.
+Ahora, sabía que podían cristalizarse, esto es, debían tener una estructura regular que podría ser analizada de un modo sistemático.
+Mientras Wilkins hablaba.
+Watson decidió unírsele en su trabajo del ADN, en Inglaterra.
+
+Wilkins, un físico de Nueva Zelanda, había ido a los Estados Unidos durante la Segunda Guerra Mundial para trabajar en la separación del uranio para el Proyecto Manhattan.
+Pronto dejó el estudio del núcleo atómico para trabajar en el núcleo de la célula, como tantos físicos que decidieron volcar sus habilidades hacia la comprensión de los problemas biológicos. 
+Watson, incapaz de obtener una invitación para trabajar directamente con Wilkins, consiguió, sin embargo, y gracias a los esfuerzos de Luria, una invitación para unirse al grupo de Max Perutz en el Laboratorio Cavendish, en la Universidad de Cambridge, cerca del King's College.
+
+En esa época se hallaba en marcha un esfuerzo concertado, encabezado por Perutz, para analizar moléculas biológicas grandes.
+Su grupo estaba particularmente interesado en la cristalografía con rayos X de la proteína de hemoglobina.
+El Cavendish estaba entonces dirigido por sir Lawrence Bragg, uno de los inventores de la cristalografía. 
+Había sido la sede del primer triturador de átomos y el acelerador original de Ernest Rutherford todavía se encontraba allí.
+Ahora, el Cavendish sería la escena de otra revolución científica extraordinaria. 
+ya había liberado la sorprendente energía encerrada dentro del átomo.
+Finalmente había llegado el momento de abrir los misterios del gen para liberar su potencial.
+
+Como herederos de un pasado en el cual los norteamericanos arrojaron bombas atómicas, sabemos demasiado bien cuánta destrucción en nuestros congéneres provocó ese triunfo de la física.
+También nos permitió una comprensión profunda de la naturaleza del universo y la materia.
+Esa comprensión llevó a extraordinarios desarrollos, como los ordenadores, los aviones supersónicos, los cohetes y los láser.
+Estos adelantos, aunque en sí mismos moralmente neutros, pueden ser usados con propósitos sabios o destructivos.
+
+En forma similar, una nueva frontera de la biología molecular está ante nosotros.
+Sólo ahora, con el Proyecto Genoma Humano y toda la investigación que inspirará, estamos aproximándonos a una comprensión íntima de nuestros genes.
+Junto con ella vendrá un poder sobre la vida humana que debe ser usado sabiamente. 
+Habrá mucho más por decir acerca de este tema en los capítulos siguientes, de modo que volvamos al drama que nos ocupa: el descubrimiento revolucionario de la estructura y esencia del gen.
+
+Durante su primer día en Cambridge, Watson conoció al entusiasta Francis Crick y los dos se entendieron inmediatamente. 
+No sólo tenían intereses similares sino que, como Crick escribiría en su retrospectiva de 1988, What Mad Pursuit : «(teníamos) una cierta arrogancia juvenil una crueldad y una impaciencia junto con un pensamiento torpe (que) nos surgía naturalmente a los dos».
+Por su parte, Watson comenzaba su libro más conocido, La doble hélice , en 1968 con la frase: «Nunca he visto a Francis Crick en una actitud modesta».
+
+En esa época Francis Crick tenía 35 años y era todavía un estudiante graduado.
+Era otro convertido a la biología desde la física y se había unido a Perutz en Cavendish para trabajar en la estructura de las proteínas.
+Como Watson, Crick había decidido con anterioridad que sólo un análisis molecular detallado del ADN podría descubrir la verdadera naturaleza del gen.
+Pronto, estuvieron de acuerdo en colaborar en base a que Crick uniese sus conocimientos de cristalografía con rayos X y de física a los conocimientos de Watson en genética.
+
+Como entusiastas de talento, pero virtuales desconocidos en el mundo de la ciencia, tenían un formidable competidor. 
+Linus Pauling, profesor en Cal Tech, era considerado el químico más adelantado en el mundo.
+Era el autor del libro clásico La naturaleza del enlace químico, y recientemente había descrito la estructura de la primera proteína analizada mediante cristalografía con rayos X, llamándola una «hélice alfa».
+Por ello quería decir que la molécula de proteína en estudio tenía una forma helicoidal, esto es, una configuración con un diámetro constante en toda su longitud, como un trozo de alambre que estuviese enrollado en torno a un cilindro.
+
+La insistencia de Pauling en que el conocimiento de la química de los átomos y los enlaces de las moléculas grandes de los sistemas vivientes sería suficiente para descubrir sus misterios ya había sido la inspiración de Watson y Crick.
+Parecía ser sólo cuestión de tiempo que el gran Pauling descubriese la forma exacta de la molécula de ADN.
+Con la temeridad de la juventud, decidieron ganarse a Pauling en su propio juego.
+
+Para aumentar su frustración, el trabajo en la molécula de ADN en Cambridge estaba ahora centrado en el laboratorio de Maurice Wilkins, en el King's College.
+En 1950, sir John Randall, director de la sección biofísica, había invitado a Rosalind Franklin, que entonces estaba trabajando en Paris como especialista en análisis de moléculas mediante rayos X, a que fuera al King's College y que estableciese una unidad de difracción por rayos X.
+Wilkins ya había realizado algunos análisis del ADN mediante rayos X, pero, sabiendo que no tenía los conocimientos necesarios para avanzar mucho más había acordado con Randall que debía emplearla para seguir donde él se había detenido.
+La historia de Rosalind Franklin es un capítulo complejo y oscuro en la historia del ADN.
+
+Rosalind Franklin, una mujer de treinta años, brillante, analítica e independiente, era percibida generalmente como una anomalía en la atmósfera de club masculino del King's College.
+Poco después de su llegada comenzó a trabajar bajo la impresión perfectamente lógica de que el ADN era ahora su territorio.
+Pronto se sintió abiertamente molesta ante el trato de Wilkins hacia ella, como asistente y no como colega.
+Los dos, como Wilkins lo formuló discretamente, «nunca congeniaron». 
+La relación entre Wilkins y Franklin y las dificultades que ella tuvo que enfrentar están documentadas cuidadosa y reflexivamente en el libro de Anne Sayre Rosalind Franklin y el ADN .
+Arthur Cooper, del Newsweek , dijo del libro en su comentario: «Cualquiera que lea La doble hélice le debe a Franklin leer su historia también».
+
+El bestseller de Watson, La doble hélice , publicado por primera vez en 1968, es un ejemplo de chauvinismo masculino.
+Watson se refiere a Franklin como «Rosy» y se pregunta «cómo sería si se quitase las gafas e hiciese algo distinto con su cabello».
+En el epílogo de su libro admite que sus impresiones iniciales de ella «frecuentemente eran erróneas» y advirtió «algunos años demasiado tarde, las luchas que debe enfrentar una mujer inteligente...»
+
+Francis Crick, en su retrospectiva de aquellos años, What Mad Pursuit , enfocó el tema de forma algo diferente.
+Notó que había «restricciones irritantes-no se le permitía tomar café en una de las salas reservada sólo para los hombres-, pero éstas eran relativamente triviales o así lo parecían en la época».
+No se puede imaginar que sean triviales para la parte excluida.
+
+Privados de cualquier oportunidad oficial para atacar el problema de la estructura del ADN, Watson y Crick, de todos modos, procedieron a emular el trabajo de Pauling sobre las proteínas. 
+En base a lo que podían aprender de los datos de rayos X, ya reunidos por Wilkins y Franklin, se preguntaron qué átomos en la molécula de ADN era más probable que estuviesen asociados.
+Todo lo que tenían que hacer, según Watson, con la confianza de la retrospección, era «construir un conjunto de modelos moleculares y entonces empezar a jugar...»
+
+A comienzos de los años cuarenta los científicos habían pensado erróneamente que el ADN era una molécula pequeña y relativamente simple.
+El experto principal en ácidos nucleicos en la década de los veinte había sido Phoebus Levine, del Instituto Rockefeller.
+Había descrito la molécula de ADN como una serie regularmente repetida de bloques de construcción llamados nucleótidos, cada uno compuesto por azúcar, fosfato y una base nitrogenada, en la cual los cuatro tipos diferentes de nucleótidos se siguen uno a otro en un orden fijo, en conjuntos repetidos de cuatro.
+Esto formaría un polímero, una larga cadena hecha de muchos bloques de construcción individuales.
+La hipótesis del «tetranucleótido», como se la llamó, dejaba poco lugar para la variación de la molécula de ADN.
+Esto fortaleció la candidatura de las proteínas como material genético. 
+
+Se sabía que las proteínas eran polímeros definidos, cuyos bloques de construcción eran aminoácidos. 
+Éstos se asociaban entre si como cuentas en un hilo.
+Se sabe que comúnmente hay veinte tipos diferentes de aminoácidos en los sistemas vivientes.
+A diferencia de los conjuntos hipotéticamente monótonos repetidos una y otra vez en los ácidos nucleicos, una proteína tendría muchas más posibilidades de variabilidad. 
+
+Esto se debe a que los 20 aminoácidos podían ser dispuestos en literalmente millones de secuencias diferentes. 
+Una proteína consiste en una o más cadenas individuales, «polipéptidos», usualmente formados por varios cientos de aminoácidos.
+Las cadenas polipeptídicas están ligadas entre sí por enlaces químicos y todo el complejo está contorsionado en una forma aproximadamente esférica o alargada como un filamento.
+
+El análisis de rayos X de numerosas proteínas había mostrado que cada proteína particular tiene una forma específica invariante.
+Si se la calienta, algunos de los enlaces de la proteína se rompen.
+Ésta, entonces, literalmente, se despliega, perdiendo su forma precisa normal.
+Esto se conoce como «desnaturalizar» la proteína.
+Un ejemplo familiar de esto ocurre cuando se calienta la clara del huevo, que está formada por la proteína albúmina.
+Esta desnaturalización cambia la clara del huevo de una forma líquida a una sólida, reflejando el cambio en la forma de las moléculas de albúmina. 
+
+Como los científicos hallaron que las proteínas desnaturalizadas ya no pueden funcionar como enzimas, conjeturaron que la función de una proteína depende de su estructura tridimensional exacta.
+Por ende, si los genes estaban hechos de proteína, parecía lógico que cada gen tuviera su propia y única organización tridimensional, exactamente como los enzimas.
+¿Cómo podía una tal estructura complicada funcionar como gen?
+¿Cómo podía sintetizar proteínas con formas diferentes, para ser usadas como enzimas?
+¿Cómo podía ese tipo de gen complejo copiarse una generación tras otra con pocos errores?
+
+Hacia finales de la década de los cuarenta se habían hecho varios descubrimientos importantes que clarificaban la química del ADN.
+Los científicos habían establecido que las moléculas de ADN eran bastante largas y ciertamente más complejas que la secuencia invariante descrita por Levine.
+Los bloques de construcción del ADN, los nucleótidos, consistían, cada uno, en un azúcar (desoxirribosa), un grupo fosfato y una de entre cuatro moléculas orgánicas complejas denominada bases nitrogenadas.
+
+Aunque es difícil de visualizar, debemos comprender que las moléculas ocupan espacio en todas las dimensiones. 
+Tienen formas específicas, donde los átomos constituyentes están asociados entre sí en una variedad de ángulos.
+Los fisicoquímicos se especializan en estudiar estas configuraciones y han construido modelos tridimensionales a escala para un gran número de moléculas.
+Las fuerzas internas que mantienen juntas las moléculas obedecen a ciertas leyes físicas bien definidas que imponen restricciones estrictas a la forma de las mismas.
+
+Esto significa, por ejemplo, que una molécula de agua o una molécula de glucosa sólo pueden adoptar una cierta forma específica.
+Sin embargo, aun si se tuviese un análisis exhaustivo de todas las diversas partes de una molécula altamente compleja, todavía quedan numerosas configuraciones posibles que podrían parecer razonables a cualquiera que intente construir un modelo tridimensional de esa molécula.
+Tomando las partes de la transmisión de un automóvil, ¿de cuántos modos podrían montarse para que el motor funcione tal como se lo diseñó?
+Sin importar las posibilidades teóricas, sólo una disposición sería la correcta.
+
+Irwin Chargaff, un refugiado austríaco y más tarde químico en la Universidad de Columbia, había hecho un descubrimiento problemático hacia finales de la década de los cuarenta.
+Descubrió que la composición del ADN de diferentes organismos era bastante similar, en ciertos aspectos.
+Dos de las cuatro bases nitrogenadas componentes del ADN, las purinas llamadas adenina (A) y guanina (G), estaban hechas de sendos anillos de átomos similares, uno de cinco lados y el otro de seis.
+Los anillos estaban hechos de carbono, hidrógeno, oxígeno y nitrógeno.
+Las otras dos bases eran las pirimidinas citosina (C) y timina (T), ambas anillos de seis lados.
+Más todavía, Chargaff determinó que la cantidad de adenina en una muestra de ADN dada era siempre igual a la cantidad de timina.
+Del mismo modo, la cantidad de guanina era igual a la de citosina.
+Sin embargo, había una diferencia crítica entre el ADN aislado de diferentes especies de organismos.
+Aunque la cantidad de A era igual a la de T y la de G a la de C, las cantidades relativas de A + T y G + C variaban mucho.
+No había ninguna explicación clara.
+
+Las bases nitrogenadas, con sus cantidades relativas acordes a lo que fue conocido como las reglas de Chargaff, se sabía que estaban asociadas a una larga cadena de grupos del azúcar desoxirribosa y fosfato alternantes.
+Una de las cuatro bases nitrogenadas posibles estaba enlazada con cada desoxirribosa. 
+Un nucleótido consistía en una combinación de desoxirribosa, fosfato y base nitrogenada.
+
+Watson y Crick podían ver que la solución al problema del ADN podría llegar a ser más truculenta que la de la hélice alfa descrita por Linus Pauling.
+En la hélice alfa, una sola hilera de aminoácidos asociados se enroscaban en forma de muelle.
+La forma se mantenía intacta mediante «enlaces de hidrógeno» que ligaban las espiras cercanas de la cadena helicoidal.
+Un enlace de hidrógeno se forma cuando un átomo de hidrógeno ligado a un átomo cargado negativamente es atraído hacia otro átomo negativo.
+En una célula viviente, estos átomos negativa mente cargados son usualmente el oxígeno y el nitrógeno. 
+Un enlace de hidrógeno es relativamente débil y se rompe fácilmente, pero en el caso de las proteínas y otras moléculas complejas pueden haber muchos de estos enlaces, y el total de fuerzas atractoras es entonces mucho más fuerte.
+
+Los datos iniciales de Wilkins usando rayos X habían indicado que la molécula de ADN era más ancha de lo que debería ser si consistiese sólo en una cadena de nucleótidos.
+Eso le había llevado a la conclusión de que el ADN era quizás una espiral compuesta de varias cadenas de nucleótidos que se trenzaban entre sí.
+Las cadenas podrían ser mantenidas juntas por enlaces de hidrógeno o quizás por enlaces entre los grupos fosfato.
+
+Watson y Crick partieron del supuesto de que los nucleótidos estaban hechos por un «espinazo de azúcar-fosfato», una larga cadena no ramificada alternante de desoxirribosa y fosfatos.
+Cada una de las unidades de desoxirribosa del «espinazo» tenía una base nitrogenada asociada. 
+La secuencia de bases nitrogenadas, cada una asociada a una molécula de desoxirribosa, se suponía era bastante irregular.
+Si la secuencia de bases era regular, como ATGCATGCATGC, entonces la molécula de ADN sería una serie homogénea de nucleótidos sin nada para distinguir un gen (fuera lo que fuere) de otro.
+Por otro lado, si el orden de las bases era irregular, tal como AATGCTACT, entonces este tipo de disposición de las bases podía proveer una increíble variabilidad a la molécula de ADN. 
+
+Lo que se necesitaba era fotografías de rayos X con mayor definición.
+Rosalind Franklin debía dar una conferencia acerca de su trabajo en los últimos seis meses, y la atención de Watson y Crick se enfocó en sus últimos descubrimientos.
+Watson, que había asistido a la charla con Maurice Wilkins, detalló sus observaciones a Crick, quien advirtió el hecho de que sus imágenes con rayos X habían sido realizadas usando ADN hidratado.
+Eso significaba que el ADN estaba en la denominada forma B, un término descriptivo acuñado por Franklin, es decir que contenía muchas moléculas de agua y era así más fibrosa por naturaleza que la forma cristalina previamente vista por Wilkins.
+El problema con la presencia de tanta agua era que la claridad de las imágenes obtenidos era pobre, haciendo que el resultado fuese difícil de interpretar Usando el recuerdo de Watson de la cantidad de agua en las muestras Crick determinó que el ADN podía estar compuesto por dos, tres o cuatro cadenas de nucleótidos.
+Era «meramente» cuestión del modo en que dichas cadenas estaban enroscadas en torno al eje.
+
+Unos pocos días después construyeron un modelo de espiral con tres miembros usando figuras de chapa metálica con la forma y el tamaño de los átomos constituyentes, con alambres, tuercas y bulones para mantenerlas unidas entre sí.
+Las bases nitrogenadas miraban hacia afuera y la espiral se mantenía unida en el centro mediante enlaces entre grupos fosfato.
+Al mostrar orgullosamente su construcción a Wilkins y Franklin para su aprobación, quedaron desolados al saber que Watson había malentendido la cantidad de agua en su muestra por un factor de 10.
+
+Para empeorar las cosas, la creciente tensión causada por el sentimiento de propiedad que el King's College tenía sobre el ADN y los trabajos no oficiales sobre el mismo realizados por Watson y Crick, se tradujeron en una orden oficial desde arriba.
+Sir Lawrence Bragg indicó en términos nada vagos que de allí en adelante debían dejar tranquilo el problema del ADN.
+Watson, con su agudeza característica, escribió acerca de esta moratoria: «Quedarnos quietos tiene sentido, porque estábamos hasta las orejas de modelos basados en núcleos de azúcar y fosfato».
+Su construcción activa de modelos fue detenida, pero sus conversaciones y especulaciones continuaron sin mella.
+
+Entre tanto, Watson había recibido una larga carta de Alfred Hershey, desde Cold Spring Harbor, llena de excitantes novedades acerca de sus últimos experimentos.
+Él y Martha Chase habían establecido que la característica fundamental de la infección de bacterias por virus era la inyección del ADN del virus en la bacteria.
+El ADN dominaba las operaciones de la célula bacteriana, haciendo que construyera nuevos virus.
+Era una demostración poderosa de que el ADN era el material genético principal. 
+No mucho después, un químico norteamericano se detuvo en Cavendish para una breve visita.
+Erwin Chargaff, ahora uno de los expertos mundiales en la química del ADN, no se sintió muy divertido cuando conoció a los dos desconocidos que proclamaban haber estado en la carrera por ser los primeros en comprender la estructura tridimensional del ADN.
+Quedó doblemente desconcertado al hallar que Crick había olvidado justo en ese momento las fórmulas para las bases nitrogenadas.
+Se fue muy poco impresionado, pero las reglas de Chargaff entraron ahora en sus cálculos. 
+Esto resultaría crucial para su éxito. 
+
+Una mañana, llegó un manuscrito del renombrado Linus Pauling en el cual detallaba sus conclusiones acerca de la estructura del ADN.
+Había sido enviado a su hijo Peter, que era en esa época, irónicamente, compañero de oficina de Crick y Watson.
+Su desconsuelo se transformó en incredulidad a medida que devoraban el informe y advirtieron que Pauling había cometido un error fundamental en la química.
+Los químicos ya habían establecido hacía mucho tiempo que los grupos fosfato de los nucleótidos se ionizaban, esto es, liberaban hidrógeno en su entorno.
+Esta propiedad de ser un «donante de hidrógeno» hacía que la molécula de ADN fuese un ácido.
+Increíblemente, Pauling había dibujado el grupo fosfato en la espiral de tres miembros con los átomos de hidrógeno todavía asociados.
+La carrera no estaba terminada de ningún modo.
+
+Watson corrió al King's College con las noticias de Pauling.
+Se topó con Rosalind Franklin, quien trabajaba sola en su laboratorio.
+Había estado ofendida con él durante bastante tiempo, debido a su continua insistencia en darle clases acerca de la interpretación de la evidencia surgida de la cristalografía por rayos X.
+De acuerdo con el relato de Watson, que es el único registro de este encuentro, mientras él blandía el manuscrito de Pauling excitadamente, ella se ofuscó. 
+Su enojo estaba aumentado por el hecho de que el manuscrito que él tenía en su mano contenía información que ella hacia un mes había solicitado infructuosamente al laboratorio de Pauling.
+
+Watson rápidamente retrocedió a través de la puerta abierta, cuando Wilkins apareció y lo empujó hasta su oficina.
+Con un espíritu de camaradería quizá generado por su común animosidad hacia Rosalind Franklin, Wilkins mostró a Watson una imagen de un patrón de rayos X, una de dos excelentes fotografías de la forma B del ADN que Franklin había tomado diez meses antes. 
+Watson escribió acerca de la experiencia: «En el instante en que vi la imagen mi boca se abrió y mi pulso comenzó a acelerarse».
+
+Tenían ya los nuevos hechos críticos necesarios. 
+La forma B del ADN era una hélice que tenía un intervalo regular de repetición de 34 angstroms de distancia entre cada espira (un angstrom es un diez mil millonésimo de metro).
+Esto era precisamente 10 veces la distancia de 3,4 angstroms entre un nucleótido y el siguiente.
+La propia espiral era un cilindro regular de 20 angstroms de ancho.
+
+Watson ya era consciente de algunas de estas medidas.
+Si Wilkins discutió o no las otras, en ese momento, todavía no está aclarado.
+El hecho es que mostró a Watson la imagen sin el conocimiento de Rosalind Franklin. 
+Ella ya había deducido que las bases nitrogenadas tenían que estar en el centro de la espiral con el espinazo de azúcar-fosfato en el exterior.
+Sus propias notas dicen que «los resultados sugieren una estructura helicoidal... que contiene 2, 3 o 4 cadenas de ácidos nucleicos coaxiales por unidad helicoidal y que tienen los grupos fosfato cerca del exterior».
+Wilkins le había mostrado a Watson la fotografía de Rosalind Franklin que sería crucial para la construcción del modelo molecular correcto.
+
+Al enterarse del fiasco de Pauling y convencido de que Watson y Crick, ahora armados con su nueva información, estaban preparados para completar su síntesis, Bragg los autorizó a retomar la construcción del modelo. 
+Siguieron días de frustración.
+Un mes después de que Watson viera la forma B del ADN en el laboratorio de Wilkins, le entregaron a Crick un documento que había sido hecho circular por sir John Randall.
+Contenía un informe de Rosalind Franklin, en el que daba las mediciones críticas de la forma B, pero no la fotografía. 
+Crick, con una comprensión mucho más profunda que Watson de la cristalografía por rayos X, extrajo de los números de Franklin el último trozo del rompecabezas. 
+
+Crick sugirió que los espinazos de azúcar-fosfato de la doble hélice deberían estar alineados de modo de que corriesen en direcciones opuestas, un modo denominado antiparalelo.
+Esta orientación era necesaria para que los dos lados de la hélice, reunidos por los pares de bases, se ajustasen al diámetro conocido de 20 angstroms. 
+
+Provisto de esta nueva revelación, Watson duplicó sus esfuerzos.
+El momento del «eureka» llegó. 
+Repentinamente advirtió que un par adenina y timina, cuando se los mantiene juntos mediante dos enlaces de hidrógeno, serían de un tamaño idéntico al par guanina y citosina mantenidos unidos por tres de tales enlaces.
+¡Las reglas de Chargaff! Si estos pares AT y GC fuesen colocados en un modelo de doble hélice hecho de dos espinazos entrelazados de azúcar-fosfato de modo que los pares de bases tuviesen una posición plana, sus dimensiones permitirían precisamente que diez pares de bases cupiesen en cada giro completo de 34 angstroms de las espiras helicoidales.
+Al hacerlo, cada par de bases no estaba alineado con los pares inmediatamente por encima y por debajo, sino levemente desplazado del siguiente como los escalones en una escalera de caracol.
+Cada uno estaba rotado 36 grados respecto de los pares adyacentes.
+Todo encajaba.
+
+Este apareamiento se ajustaba a la configuración de dos espinazos de unidades de azúcar-fosfato unidas por estos pares de bases nitrogenadas.
+La doble hélice era «diestra».
+Si uno pudiese mirar hacia abajo desde el eje longitudinal, los dos espinazos de azúcar-fosfato girarían en un sentido antihorario al aproximarse al observador. 
+El modelo estaba completo.
+Según Watson: «Era demasiado hermoso para no ser verdadero».
+
+Un artículo de 900 palabras fue enviado por James Watson y Francis Crick el 2 de abril de 1953 a los editores de Nature , una revista científica internacional muy importante.
+Comenzaba modestamente: «Deseamos sugerir una estructura para... el ADN.
+Esta estructura tiene características novedosas que son de considerable interés».
+Las «características novedosas» de la molécula incluirían al mismo gen.
+
+«Esta estructura», cuyo análisis había sido durante mucho tiempo la provincia de los químicos, a los que se unieron más tarde los cristalógrafos por rayos X, finalmente, había sido descubierta por dos mentes creativas que no estaban entre sus filas.
+No habían usado ni tubos de ensayo, ni incubadoras, ni sustancias químicas; sólo el brillante poder intelectual de síntesis. 
+Una parte significativa de los datos que habían entrado en su síntesis procedían de Rosalind Franklin. 
+Ella había tomado la fotografía por rayos X definitiva y sus cálculos fueron vitales en la formación del modelo final.
+¿Hubiera ella, eventualmente, hallado la respuesta?
+Es muy probable.
+
+Sin embargo, no sería elegida para compartir la gloria de Watson Crick y Wilkins, quienes recibieron el premio Nobel en 1962 ni siquiera en forma póstuma.
+Rosalind Franklin murió de cáncer en 1958, a la edad de 37 años.
+Según Watson, «continuó trabajando a un alto nivel hasta pocas semanas antes de su muerte». 
+
+Figura 1
+
+La doble espiral del ADN
+
+Las dos líneas enroscadas representan las cadenas de azúcar-fosfato.
+Nótese que su disposición antiparalela está indicada por un 5' y un 3' en los extremos opuestos.
+Véase el capítulo 5 para más detalles.
+
+Mapas y marcadores
+
+La búsqueda de los genes humanos comienza, bastante lógicamente, con un mapa.
+Los mapas ordinarios van desde los que indican los puntos sobresalientes de grandes áreas hasta los más útiles y detallados que guían al visitante casual hacia su nuevo destino. 
+
+Para registrar con precisión las fronteras, las carreteras, las ciudades y pueblos de un estado se requiere que una enorme cantidad de información esté a disposición del cartógrafo.
+Para magnificar las dimensiones de una ciudad en la forma de un mapa de calles individuales se requiere aún más datos.
+El cartografiado de cromosomas es el proceso de determinar la posición relativa de los genes u otros hitos reconocibles sobre los cromosomas, y requiere información obtenido de la genética tradicional y la biología molecular.
+
+Si se parte de un punto de referencia tal como un edificio prominente, un buen mapa de la ciudad permitirá encontrar una calle particular.
+
+El establecimiento de hitos reconocibles sobre los cromosomas puede conducir a la localización de genes especificas sobre ellos.
+El Proyecto Genoma Humano intenta desarrollar mapas que finalmente conduzcan a los científicos a la localización de cada gen en todo cromosoma humano (como también la de los genes en varios genomas no humanos). 
+
+¿Para qué servirían esos mapas?
+¿Es realmente necesario dedicar años de esfuerzo al intento de determinar las localizaciones cromosómicas de los genes? 
+¿Por qué no limitarse a aislar y estudiar los genes como unidades individuales y dejar la construcción del mapa para más adelante, si fuera posible?
+
+Esto suena lógico, pero si continuamos con la analogía del mapa podremos ver por qué esa objeción, aunque en apariencia plausible, no es válida.
+Recuérdese que el genoma humano es un cordón de ADN, de dos metros de largo en su estado no enroscado, que comprende de 50.000 a 100.000 genes.
+Así como sería imposible localizar una casa particular en una cierta calle de una ciudad no conocida sin la asistencia de un mapa, así también necesitamos, primero, un mapa cromosómico, antes de poder determinar la localización aproximada de los genes individuales. 
+
+Mostrando la extraordinaria utilidad de, incluso, un mapa incompleto de los cromosomas, los mapas preliminares del genoma humano ya construidos nos han permitido localizar los genes ligados a diversas enfermedades humanas.
+Hasta agosto de 1990, han sido localizadas las posiciones relativas de casi 5.000 genes. 
+Entre ellos están los genes responsables de dolencias tan devastadoras como la hemofilia, la fibrosis cística, la anemia de células falciformes y la enfermedad poliquística del riñón.
+
+El cartografiado de estos genes ha conducido en algunos casos a pruebas que diagnostican una enfermedad y permiten un estudio detallado del gen causante, lo que podría conducir al tratamiento o la cura.
+
+Se deduce que a medida que crezca la resolución de los mapas genéticos podremos localizar la mayoría de los miles de genes que juegan algún papel en la enfermedades humanas.
+
+Debe reconocerse que el ímpetu principal del cartografiado de los genes radica en su potencial para mejorar la salud humana. 
+Además, en el área de la ciencia básica, una comprensión detallada del genoma del hombre, como también del de otras especies, profundizará nuestra comprensión de las preguntas fundamentales acerca de la organización del genoma, el control de la función de los genes, el crecimiento y desarrollo celular y la biología evolutiva.
+Por ejemplo, ¿por qué envejece nuestro cuerpo?
+¿Por qué tenemos un intervalo de tiempo tan breve antes de que nuestras células y tejidos se desgasten?
+Quizá los genes nos lo dirán. 
+
+Finalmente, los mapas son un sine qua non para determinar la secuencia de bases nitrogenadas del genoma, el código que detalla las instrucciones de las actividades de la vida. 
+Una vez que se obtenga el código en forma completa, según James Watson «estaremos interpretando hasta dentro de más de mil años».
+
+Con ello quiere decir que aun cuando conozcamos la secuencia y localización de los genes, éste es sólo el primer paso.
+Debe seguirle un proceso prolongado de determinación de las funciones e interrelaciones de estos genes en la vida del organismo humano.
+
+Para explicar el cartografiado y su papel bajo la égida del Proyecto Genoma Humano, necesitaremos repasar brevemente la topografía y los movimientos de los cromosomas para poder seguir la lógica que hay detrás de los protocolos de cartografiado.
+
+Se recordará que cada célula humana contiene 46 cromosomas, excepto las células espermáticas del hombre y los óvulos maduros de la mujer, cada uno de los cuales contiene 23.
+Los 46 cromosomas son en realidad 23 pares.
+Sólo uno de estos pares determina el sexo del ser humano.
+Los cromosomas sexuales se denominan XX en las mujeres y XY en los hombres.
+
+Un miembro de cada par de cromosomas se origina en el padre (el cromosoma paterno) del individuo y el otro (el cromosoma materno) en la madre.
+Durante la vida de la célula los dos miembros de cada par no están físicamente unidos.
+Se habla de ellos como de pares, no porque estén unidos o sean idénticos, sino porque son «homólogos». 
+Esto significa que todo a lo largo de los dos cromosomas hay genes que rigen la misma característica en la misma posición (locus) de cada cromosoma.
+Dicho simplemente, si el cromosoma materno tiene un gen para color de ojos en el locus B, por ejemplo, entonces el cromosoma paterno de ese par también tendrá un gen para el color de ojos en la misma posición.
+
+Como hemos visto en nuestra exposición de la genética básica, estos pares de genes, también llamados alelos, no siempre son genes idénticos.
+Ambos genes pueden ser dominantes, ambos pueden ser recesivos o uno puede ser dominante y el otro recesivo.
+Se recordará que un gen recesivo funcionará sólo si el otro miembro del par también es recesivo, mientras que un gen dominante siempre lo hará.
+
+Durante la división celular (mitosis), cuando una célula se divide en dos, cada cromosoma es copiado, resultando en un total de 92 cromosomas, la mitad de los cuales pasan a la nueva célula.
+Cuando ciertas células son transformadas en células espermáticas o en óvulos, esta duplicación del número de cromosomas también ocurre, pero existen dos divisiones celulares. 
+Por ende, a partir de una célula original con 46 cromosomas, se producen cuatro células (los gametos), cada uno con 23 cromosomas.
+Esta reducción del número de cromosomas es críticamente importante como fuente de variabilidad en la herencia, porque cada gameto termina teniendo uno de cada uno de los 23 pares originales. 
+Cuál, ya sea de origen materno o paterno, es un evento aleatorio.
+Entonces, cuando el esperma y el óvulo se unen, una combinación completamente única de 46 cromosomas se forma, aun cuando sigue habiendo 23 pares.
+
+Ahora, viene la clave de la forma tradicional de cartografiado de cromosomas.
+Aunque pueda parecer extraño, en las etapas tempranas de la producción del esperma y los óvulos, los cromosomas emigran dentro del núcleo de modo que cada par de cromosomas se alinea uno al lado del otro y los dos miembros del par, literalmente, se enroscan entre si.
+Nadie sabe qué fuerzas atraen mutuamente a estos socios.
+Después de su estrecho pero breve abrazo, se separan.
+Al hacerlo, con frecuencia, intercambien trozos en un proceso llamado «sobrecruzamiento».
+Sorprendentemente, los cromosomas se rompen y vuelven a reunir con trozos del otro miembro del par.
+Si un cromosoma fuese rojo y el otro blanco, después del sobrecruzamiento y el intercambio de trozos ambos cromosomas serian en parte rojos y en parte blancos.
+
+Esto altera el orden original de los genes en cada cromosoma. 
+Ya hemos señalado que los genes en el mismo sitio especifico en ambos miembros de un par cromosómico con frecuencia son diferentes.
+Este intercambio de trozos entre los miembros de estos pares crea cromosomas con nuevos grupos de genes, agregando así otra fuente de variabilidad al descendiente.
+Recuérdese que el niño hereda sólo un miembro de cada uno de los 23 pares originales de cromosomas.
+
+El concepto de disposición lineal de los genes sobre los cromosomas data del tiempo de Mendel.
+Sin embargo, la primera demostración experimental del sobrecruzamiento fue realizada por Alfred Sturtevant, en 1913.
+Sturtevant produjo el primer mapa cromosómico, en el cual calculó las posiciones relativas de seis genes, incluyendo los de ciertos colores del cuerpo y tamaños de ala sobre el cromosoma X de la mosca de la fruta, Drosophila.
+En este organismo, como en el hombre, la hembra tiene dos cromosomas X y los machos tienen un cromosoma X y uno Y. El tipo de cartografiado que Sturtevant inició, y que todavía se hace actualmente, aunque con técnicas mucho más sofisticadas, es el cartografiado por «ligamiento genético».
+Este tipo de mapa muestra la disposición de los genes u otros segmentos reconocibles de ADN llamados «marcadores» a lo largo del cromosoma.
+Este mapa se construye aprovechando el fenómeno de sobrecruzamiento.
+Esto significa, simplemente, que si dos genes, que llamaremos A y B, están cerca uno del otro sobre el mismo cromosoma, por lo general se heredan juntos.
+El único modo en que esto no ocurriera sería que ese cromosoma fuese a cruzarse con el otro miembro de su par, en este caso en algún punto entre A y B. Estos dos genes terminarían entonces en cromosomas separados. 
+
+Es evidente que cuanto más separados están los genes sobre un cromosoma, mayor es la probabilidad de que ocurra un cruzamiento entre ellos.
+Si se puede determinar la frecuencia de cruzamiento, se puede trazar un mapa que indicará las posiciones relativas de los genes sobre un cromosoma.
+Usando ese mapa no se puede decir «el gen A está en este sitio exacto sobre el cromosoma».
+Sólo se puede decir: «El gen A esta localizado lejos del gen B, pero cerca del gen C, etc.».
+
+Como un solo miembro de cada par de cromosomas termina normalmente en una célula espermática o en un óvulo, entonces A y B no se heredarán juntos si entre ellos ocurrió un sobrecruzamiento.
+Supóngase que haya un modo de detectar la presencia de A y B. Se podría buscar estos genes en los niños, padres o incluso abuelos y se podría rastrear el patrón de sobrecruzamientos en estas generaciones. 
+Si se hace esto con un cierto número de genes, entonces se termina teniendo un mapa de ligamiento genético. 
+Las distancias entre los genes en un mapa genético humano típico son grandes.
+En promedio, son de aproximadamente diez millones de pares de bases nitrogenadas de longitud, lo que es más o menos el 5% del tamaño de un cromosoma.
+
+Una limitación del cartografiado genético es la necesidad de tener que rastrear genes específicos u otros fragmentos de ADN en varias generaciones de familias humanas.
+A pesar de tales dificultades, fue precisamente el desarrollo de las herramientas de cartografiado genético, posibilitadas por el advenimiento de la biología molecular, lo que condujo a la consideración de la factibilidad del Proyecto Genoma Humano.
+
+En 1980, David Botstein del Instituto Tecnológico de California, señaló que se podría construir un mapa de ligamiento completo del genoma humano usando enzimas de restricción para cortar el cromosoma en patrones cuya herencia podría ser seguida en familias.
+
+En 1987, cuando un mapa parcial ya había ayudado a estrechar la búsqueda de varias enfermedades importantes relacionadas con los genes, el comité del National Research Council (NRC) del National Institutes of Health pidió un esfuerzo inmediato para desarrollar un mapa de ligamiento genético como meta de un proyecto concertado sobre el genoma.
+
+Varios miembros del comité comenzaron con serias reservas acerca de la utilidad de una iniciativa especial en la «genómica», un término acuñado en 1986 por Thomas Roderick, del Laboratorio Jackson en Bar Harbor, Maine, para referirse al cartografiado, secuenciamiento y otros procesos de análisis de genomas complejos.
+El término sobrevivió en el titulo de la revista Genomics , una publicación periódica internacional acerca del cartografiado y secuenciamiento de genes, que fomenta los análisis de genomas humanos y de otros genomas complejos.
+A pesar de sus dudas iniciales, el concepto de un esfuerzo a gran escala para crear un mapa y una secuencia completas del genoma humano, dentro de los siguientes quince años, también sobrevivió como una recomendación unánime.
+
+El comité del NRC recomendó que los investigadores cartografiasen primero y secuencias en después, por dos razones.
+Primero, se preveían rápidos adelantos en la cartografía debido a nuevas técnicas moleculares, mientras que el secuenciamiento requeriría de mejoras en la tecnología, anticipadas pero aún no disponibles. 
+Segundo, tener un mapa es esencial para un secuenciamiento eficiente.
+
+El comité también recomendó que debían estimularse los desarrollos tecnológicos desde el comienzo. 
+Los métodos existentes de cartografiado y secuenciamiento no eran suficientes para alcanzar las metas anunciadas en el período propuesto de quince años.
+También, sugirieron que se estudiasen organismos no humanos modelos, debido al valor que semejante información tendría para el análisis y comprensión del genoma humano.
+
+Un informe subsiguiente, de la Oficina de Análisis Tecnológico, en 1988, repitió las recomendaciones generales acerca del cartografiado y secuenciamiento de los genomas del hombre y otros organismos.
+En un esfuerzo por reducir las críticas de que la empresa era demasiado masiva y sin precedentes, afirmaban que «no hay un solo proyecto del genoma humano sino muchos proyectos».
+
+Resultó que el intento por describir esta empresa como un complejo de series paralelas, pero difusas, de programas tuvo corta vida.
+A medida que se sucedieron las reuniones organizativas entre los departamentos, agencias e individuos liderantes, se desarrolló un consenso que se expresa, sucintamente, en el título del plan quinquenal de las DOE/ NIH, dado a conocer en febrero de 1990.
+Se lee: «La comprensión de nuestra herencia genética, el Proyecto Genoma Humano: Los primeros cinco años, Años fiscales 1991-1995».
+Según el documento, «se cree que un proyecto coordinado centralmente y concentrado en objetivos específicos es el modo más eficiente y el menos costoso» de lograr los objetivos de cartografiado y secuenciamiento.
+
+El Congreso recibió estas recomendaciones en febrero de 1990, en respuesta a su petición de un informe que describiese un plan de gastos y una estrategia óptima para cartografiar y secuenciar el genoma humano.
+En términos del cartografiado, las recomendaciones se habían hecho más específicas.
+Las metas, en un lenguaje que descifraremos en breve, se formularon así:
+
+1. Realizar un mapa genético humano completamente conectado con marcadores espaciados en promedio de dos a cinco centimorgans.
+Identificar cada marcador por un STS.
+
+2. Reunir mapas STS de todos los cromosomas humanos con la meta de tener marcadores espaciados a intervalos de aproximadamente cien mil pares de bases [nitrogenadas].
+
+3. Generar conjuntos superpuestos de ADN clonado o marcadores cercanamente espaciados y ordenados no ambiguamente con continuidad, sobre longitudes de dos millones de pares de bases para partes grandes del genoma humano.
+
+
+¿Cuáles son los significados de estos nuevos términos, centimorgans y STS?
+¿Cómo pueden satisfacerse estas ambiciosas metas?
+Necesitamos observar un poco más de cerca el cartografiado para responder estas preguntas.
+
+La primera meta se refiere a la construcción de un mapa genético de ligamiento detallado.
+Como hemos explicado, un mapa semejante usa la frecuencia de sobrecruzamiento como medida de la distancia entre dos genes u otros segmentos detectables de ADN.
+Una tasa de sobrecruzamiento del 1% entre dos puntos de un cromosoma ha sido arbitrariamente denominada una «unidad de mapa».
+Así, dos genes sobre el mismo cromosoma se dice que están a diez unidades de mapa de distancia si los experimentos muestran una frecuencia de sobrecruzamiento del 10% entre ellas.
+Esta unidad de mapa se expresa como un centimorgan, o cM, en honor al gran genetista Thomas Hunt Morgan.
+
+Este método de cartografía tiende a producir una distancia de mapa imprecisa entre los genes que están muy separados, debido a los múltiples sobrecruzamientos que con frecuencia ocurrirán entre ellos.
+Los mapas de ligamiento genético más precisos son aquellos para los cuales las observaciones se han hecho sobre los valores de sobrecruzamiento entre tantos puntos diferentes sobre el cromosoma como sea posible.
+
+Realizado con los datos de sobrecruzamientos en laboratorio hechos entre más de 1.000 generaciones de Drosophila, el mapa de ligamiento genético de la mosca de la fruta es uno de los más completos para un organismo, con la excepción de la bacteria E. Coli .
+Tenemos mapas excelentes, también, de los ratones de laboratorio, el maíz y la Neurospora. 
+Obviamente, los sobrecruzamientos genéticos planificados no son posibles en humanos y el número de descendientes de cualquier apareamiento es relativamente pequeño.
+En comparación con el intervalo de vida de la Drosophila, el período de tiempo requerido para que haya otra generación en los humanos sólo permite, en el mejor de los casos, el estudio de tres generaciones, los niños, sus padres y sus abuelos.
+Como consecuencia de ello, hasta hace poco muy pocos genes humanos hablan sido colocados en un mapa de ligamiento genético y la mayoría estaban en el cromosoma X. 
+
+Es fácil ver por qué el cromosoma X se presta al cartografiado.
+El sobrecruzamiento entre los cromosomas X puede ocurrir sólo en la hembra, ya que ella es XX. 
+Los cromosomas X e Y del macho son sólo parcialmente análogos.
+Son el único par de cromosomas humanos que difiere mucho en su tamaño, ya que el Y es mucho más pequeño.
+Como consecuencia de ello, hay machos genes en el cromosoma X, más grande, que no tienen un gen correspondiente en el Y. Por ende, aun si un gen en el cromosoma X fuera recesivo, podría estar activo, debido a que no habría posibilidad de que un gen dominante en el cromosoma Y reprimiese su actividad.
+La hemofilia y ciertas formas de ceguera al color, que se dan casi exclusivamente en los hombres, son ejemplos clásicos de genes que están, obviamente, en el cromosoma X debido a su patrón de herencia.
+Tales trastornos son posibles en las mujeres sólo si ambos cromosomas X tienen los mismos genes recesivos, una coincidencia muy rara.
+
+Ya hemos señalado que cuanto más cercanos entre sí están los genes sobre un mismo cromosoma, tanto menos frecuente será su sobrecruzamiento.
+Por ende, en lugar de intentar seguir la herencia de solamente genes enteros, se puede estimar la distancia entre un gen de interés particular y cualquier otra secuencia de ADN que sea identificable (un «marcador») en el mismo cromosoma. 
+Este procedimiento es muy importante, porque el problema principal del ligamiento genético está en la detección de la presencia de los genes en las células de una persona. 
+Esta identificación se hace más fácil si se rastrean los genes que causan una enfermedad genética detectable.
+Estos genes pueden seguirse durante varias generaciones si los síntomas de la enfermedad son obvios. 
+
+Examinemos un ejemplo práctico del uso de un marcador. 
+Si las personas que desarrollan una enfermedad genética casi siempre heredan la misma versión de un cierto marcador, el gen de la enfermedad y el marcador deben estar muy cerca entre sí en el mismo cromosoma.
+Para poder correlacionar el marcador y el gen de la enfermedad se deben cumplir dos condiciones. 
+Primero, el marcador debe ser detectable y, segundo, debe hallarse en varias formas distinguibles.
+Si las dos formas del marcador en el par cromosómico fueran idénticas, entonces los cruzamientos entre el gen de la enfermedad y el marcador no serían rastreables en la descendencia.
+Para usar una hipótesis fantasiosa, supóngase que el gen de la enfermedad estuviese cerca de un marcador púrpura. 
+Si el sitio correspondiente en el otro miembro de ese par cromosómico fuese también púrpura, entonces un intercambio por sobrecruzamiento entre los dos puntos resultaría en que ambos cromosomas tuviesen un punto púrpura.
+Si el punto correspondiente no fuese púrpura sino amarillo, el sobrecruzamiento sería fácilmente detectable. 
+
+Hasta hace poco, solamente algunos marcadores satisfacían estos criterios.
+La primera asignación de un gen a un cromosoma no sexual específico ocurrió en 1968, cuando los científicos mostraron que la herencia de cierto grupo de proteínas de la sangre estaba ligado al cromosoma número 1.
+Sólo unas pocas docenas de marcadores eran conocidos entonces, y por la carencia de tales marcadores la mayor parte del genoma humano permanecía inaccesible.
+
+Debe resaltarse aquí que la decisión de cartografiar el genoma humano surgió en realidad mucho antes de la iniciativa actual de coordinación a gran escala.
+El científico que tuvo la mayor influencia en esos tempranos años fue Víctor McCusick, de la Universidad Johns Hopkins.
+En 1968, comenzó a trabajar en su libro La herencia mendeliana del hombre.
+En 1971, había 15 genes que habían sido cartografiados en los cromosomas humanos.
+La novena y última edición de 1990, todavía compilada y editada por McCusick, lista 4.937 genes cartografiados.
+
+Figura 1
+
+Los genes-representados aquí por letras-vienen en pares llamados alelos
+
+Estos alelos están en la misma posición (locus) sobre un par de cromosomas homólogos.
+
+Figura 2
+
+Cada célula comienza con 46 cromosomas
+
+Los cromosomas se replican dando lagar a 92 por célula.
+En la mitosis, los cromosomas se dividen igualmente en dos células idénticas.
+En la meiosis, ocurren dos divisiones celulares, dando lugar a 4 gametos, cada uno con 23 cromosomas.
+Cada uno de estos cromosomas es un miembro de un par homólogo original. 
+
+A finales de los sesenta, aun antes de los descubrimientos de la biología molecular de la década siguiente, se desarrolló un método que expandía la posibilidad de correlacionar genes específicos con cromosomas particulares.
+La técnica usa células humanas y de roedores en cultivos.
+
+También incluye el uso de un virus con una propiedad muy útil.
+La mayoría de los virus tienen un punto específico de asociación con la célula. 
+Un virus «Sendai» tiene varios puntos de asociación, de modo que puede simultáneamente asociarse a dos células diferentes, si están lo suficientemente cerca.
+Un virus es tan pequeño, en comparación con las células, que esta asociación con dos células adyacentes muy cercanas causa, con frecuencia, que las membranas de las dos se fusionen y ambas se mezclen en una sola célula. 
+Si suspensiones de células tumorales de ratón y de tejido conectivo humano se mezclan en la presencia del virus Sendai, el virus puede causar la formación de células híbridas de hombre y ratón.
+La vieja pregunta «¿Eres un hombre o un ratón?
+» puede ahora responderse por «Ambos».
+Cuando se los mira en un microscopio, los cromosomas humanos y los del ratón pueden distinguirse con facilidad.
+
+Afortunadamente para la técnica experimental, los cromosomas humanos son eliminados gradualmente, a medida que las células híbridas se dividen.
+Una manipulación cuidadosa de esta característica puede dar lugar a una población de células que contenga un solo cromosoma o incluso una parte de un cromosoma humano.
+Eventualmente, pueden desarrollarse líneas germinales de células que contengan, en total, todos los cromosomas humanos.
+Estudiando tales células, entonces, puede buscarse ADN humano que no se encuentre ordinariamente en las células de los ratones.
+La presencia de tal ADN en una célula híbrida significa que se ha descubierto parte del genoma. 
+De los aproximadamente 5.000 genes cartografiados hasta ahora, casi 1.000 han sido localizados por este proceso de fabricación de células híbridas.
+
+El virus Sendai había dado nueva vida a la cartografía del genoma pero, a pesar de este enfoque ingenioso, su uso todavía estaba limitado a la asignación de algunos genes a ciertos cromosomas, algo análogo a determinar que una ciudad concreta está en un país específico.
+
+La revolución del ADN recombinante de la década de los setenta proveyó las herramientas para producir avances sin precedentes en la cartografía de ligamientos genéticos.
+Reconociendo el potencial del nuevo enfoque molecular, en 1978, Raymond White, de la Universidad de Utah, dedicó su laboratorio a desarrollar un conjunto de marcadores basado en la detección de secuencias únicas de ADN.
+
+Él y otros pronto desarrollaron una estrategia que condujo a la posibilidad de cartografiar los genes humanos a la escala prevista por el Proyecto Genoma Humano.
+Se basa en la variación normal entre secuencias de bases nitrogenadas en pares de cromosomas.
+Una diferencia en estas secuencias entre los dos cromosomas ocurre, en promedio,cada 200 a 500 pares de bases.
+
+Se recordará que los enzimas de restricción cortan los nucleótidos en secuencias de bases nitrogenadas específicas.
+Eso significa que una variación en la secuencia del ADN que cree o elimine un punto donde un enzima puede cortar, alterará la longitud de algunos de los fragmentos de ADN, cuando ese ADN sea tratado con el enzima. 
+Esta variación en los puntos de corte del enzima de restricción entre las mismas áreas de los pares de cromosomas crea un «polimorfismo de longitud de los fragmentos por restricción» (RFLP) (pronunciado «riflips» por los expertos).
+Este fenómeno ha llevado la cartografía de ligamiento genético a una nueva era.
+Los RFLP proporcionan una provisión enormemente rica de marcadores detectables.
+
+Si consideramos el genoma humano completo, sin embargo, un enzima de restricción típico tiene millones de puntos de corte en los que trabajar.
+¿Cómo puede uno 0 unos pocos fragmentos de diferentes tamaños ser localizados entre millones que son iguales?
+La respuesta yace, una vez más, en el uso de la gel electroforesis. 
+Los fragmentos cortados del genoma son extendidos en un gel según su tamaño.
+Entonces, una sonda de ADN puede ser aplicada para seleccionar una mancha específica en el surtido de fragmentos.
+
+Si las bandas radiactivas aparecen en diferentes lugares sobre los patrones de gel del ADN de diferentes individuos, la sonda de ADN ha detectado una variación en el patrón de corte del enzima entre el ADN de esos dos individuos.
+Muchos cientos de sondas deben ser examinadas antes de encontrar una útil.
+Cuando se halla una, se tiene un sistema poderoso de marcadores, la sonda y el RFLP que detecta.
+Puede entonces rastrearse el patrón de herencia del RFLP, en lugar de apoyarse en el rastreo de una enfermedad.
+Los RFLP están dispersos abundantemente a través de todo el genoma humano y han multiplicado, en muchas veces, los marcadores disponibles para cartografiar nuestros cromosomas. 
+
+Los RFLP han sido una herramienta útil en la provisión de un diagnóstico definitivo de diversas enfermedades, incluyendo la anemia de células falciformes y la enfermedad de Huntington.
+Además del diagnóstico, el ligamiento entre un marcador, como un RFLP, y un gen de una enfermedad es el primer paso crucial en el estrechamiento de la búsqueda de ese gen y un medio para aislar grandes cantidades de un segmento cromosómico específico con el propósito de aislar y caracterizar al propio gen.
+
+El conjunto individual de marcadores RFLP de una persona puede ser usado para producir una «huella digital genética». 
+Estas «huellas» han resultado ser muy útiles en la medicina forense, ya que la probabilidad de que dos personas tengan el mismo conjunto de marcadores RFLP es infinitesimalmente pequeña.
+Los tribunales, actualmente, aceptan la evidencia basada en la identificación de individuos a través de un tal análisis del ADN.
+
+Los científicos estiman que serán necesarios 3.000 marcadores bien espaciados para lograr un mapa completamente ligado, con los marcadores a una distancia promedio de un centimorgan. 
+Cada centimorgan cubre unos 30 a 40 genes.
+Para los primeros cinco años del Proyecto Genoma Humano se fijó como meta el desarrollo de un mapa en el cual los marcadores estén separados por un mínimo de dos a cinco centimorgans, lo que requeriría de 600 a 1.500 marcadores.
+Tener marcadores a intervalos iguales sobre los cromosomas, sin embargo, requiere un conjunto mucho mayor de marcadores aleatorios sobre el mapa.
+También, debe recolectarse el ADN de cientos de individuos en docenas de familias grandes y deben determinarse las características de cada marcador.
+
+Una innovación reciente ha hecho que el uso del RFLP sea aún más efectivo.
+En muchos puntos del cromosoma humano, el ADN tiene secuencias simples de bases que no codifican proteínas y se repiten muchas veces. 
+El origen y significación de estas «repeticiones en tándem» es un misterio, pero han resultado ser de mucho uso en el cartografiado de ligamiento.
+El número de repeticiones en un locus dado puede variar de unos pocos a unos cientos de copias.
+Si un enzima de restricción corta cerca de estas repeticiones en tándem de número variable, los fragmentos resultantes variarán en su longitud de la misma forma.
+La variación en el número de repeticiones en tándem (VNTR) es tan común que las probabilidades de que un individuo tenga diferentes versiones de ellas en cromosomas homólogos es grande.
+
+Incluso, se han desarrollado métodos más nuevos de cartografía.
+En 1988, David Cox y Richard Myers, de la Universidad de California, en San Francisco, anunciaron que habían diseñado un enfoque totalmente nuevo de la cartografía de ligamiento genético que denominaron «cartografía híbrida por radiación». 
+En lugar de buscar cuán frecuentemente dos marcadores quedan separados debido al sobrecruzamiento, su método busca cuán frecuentemente los marcadores quedan divididos si los cromosomas son bombardeados con rayos X.
+Los ensayos iniciales mostraron que este enfoque puede conducir a una resolución veinte veces mayor que el cartografiado de ligamiento de la actualidad. 
+
+Figura 3
+
+El patrón de los trozos de ADN cortados por el mismo enzima de restricción varía con la fuente del ADN
+
+La variación (RFLP) se ve en las velocidades de traslación a lo largo de un gel de electroforesis, debido al tamaño diferente de los fragmentos.
+
+Aunque la cartografía de ligamiento genético provee una herramienta útil para estrechar la búsqueda de genes, no basta para poder aislar concretamente un gen y aislarlo para su estudio.
+Este tipo de especificidad debe provenir de un segundo enfoque, la «cartografía física». 
+El mapa físico provee la distancia física real entre dos hitos sobre el cromosoma.
+Para analizar el mapa físico, necesitamos explicar el concepto de STS, cuyo uso se aplica tanto a la cartografía física como a la genética.
+
+La cartografía física depende de la tarea compleja y difícil de intentar determinar el orden exacto en el cual los trozos de ADN que están siendo analizados habían existido originalmente en el cromosoma.
+La distancia entre puntos en un cromosoma se mide en términos de longitud física, tal como números de pares de nucleótidos.
+El mapa físico último seria el orden exacto de los 3.000 mil millones de bases nitrogenadas de los nucleótidos que constituyen el genoma humano.
+
+Los mapas físicos pueden realizarse de diversos modos, algunos de los cuales datan de los años iniciales del análisis genético humano mientras que otros aprovechan los desarrollos más recientes de la biología molecular.
+Hay dos categorías principales de mapas físicos.
+El primero es el de los mapas «citogenéticos», que exhiben un patrón de hitos que son realmente visibles en los cromosomas.
+Aquí, la herencia de los genes está ligada a la herencia de las áreas de los cromosomas que pueden verse a través del microscopio.
+
+Se han desarrollado diversas técnicas de teñido que destacan ciertas regiones o «bandas» en los cromosomas. 
+Cada uno de los 46 cromosomas resulta tener un patrón intrincado y único de bandas.
+No se conoce la base molecular de estas bandas, que se dan también en otros organismos.
+Se supone que se deben al plegamiento producido por la interacción del ADN y las proteínas.
+Una sola banda representa unos 10 millones de pares de bases. 
+Casi 1.000 bandas han sido detectadas en los cromosomas humanos mediante teñido y microscopía lumínica. 
+Una sola banda representa un promedio de 100 genes.
+
+Se ha desarrollado un mapa estandarizado de bandas en los cromosomas humanos, que ha resultado útil para correlacionar cambios visibles. aunque con frecuencia sutiles, en la estructura cromosómica de ciertas enfermedades genéticas. 
+Por ejemplo, algunos cánceres están asociados a la producción de secuencias de ADN anormales que aparecen como cambios en los patrones de banda.
+También, la detección de una «elisión», la pérdida de una pequeña parte de un cromosoma, se ve facilitada mediante la búsqueda de pérdidas en las bandas. 
