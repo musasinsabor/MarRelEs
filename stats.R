@@ -6,6 +6,8 @@ all = read.csv("all_data_annotation_file.csv", header=TRUE, encoding = "UTF-8", 
 original_med = read.csv("medicine_annotation_file.csv", header=TRUE, encoding = "UTF-8", stringsAsFactors=TRUE)
 original_economy = read.csv("economy_annotation_file.csv", header=TRUE, encoding = "UTF-8", stringsAsFactors=TRUE)
 full = read.csv("full_data_annotation_file.csv", header=TRUE, encoding = "UTF-8", stringsAsFactors=TRUE)
+etape4 = read.csv("hyperonym_patterns/Hyp/etape4/sample_data_economy_annotated.csv", header=TRUE, encoding = "UTF-8", stringsAsFactors=TRUE)
+
 
 ## descripción de variables
 
@@ -125,3 +127,28 @@ subset_all <- all[all$global_freq_oui > all$global_freq_non, ]
 summary(subset_all$tag)
 
 table(subset5$relational_semantic_type)
+
+## etape 4
+prop.table(table(etape4$annotation, etape4$id), 2)* 100
+
+# Crear un subset filtrado
+subset_df <- all[all$id %in% c("H01", "H34"), ]
+# Crear la nueva variable 'presence_bool' en el subset 'etape4'
+etape4$presence_bool <- ifelse(etape4$presence == 'none', FALSE, TRUE)
+summary(etape4$presence_bool)
+V1
+table(etape4$presence_bool, etape4$annotation)
+chisq.test(etape4$presence_bool, etape4$annotation)
+assocplot(table(etape4$presence_bool,etape4$annotation))
+assocplot(table(etape4$presence,etape4$annotation), main = 'Croisement des variables: annotation et presence des CT', xlab = 'presence des CT', ylab = 'annotation')
+assocplot(table(all$presence,all$annotation), main = 'Croisement des variables: annotation et presence des CT', xlab = 'presence des CT', ylab = 'annotation')
+mosaicplot(table(all$presence,all$annotation), shade=T)
+
+table(all$presence, all$annotation)
+table(all$presence)
+prop.table(table(all$presence, all$annotation), 2)* 100
+chisq.test(all$presence, all$annotation)
+prop.table(table(all$presence), 1)* 100
+table(subset_df$annotation, subset_df$id)
+prop.table(table(subset_df$annotation, subset_df$id), 2)* 100
+
