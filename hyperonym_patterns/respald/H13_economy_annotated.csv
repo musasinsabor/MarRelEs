@@ -1,3 +1,0 @@
-Reference,LeftContext,Pivot,RightContext,presence,candidate_term_left,candidate_term_right,occurrence
-1_e00004-plain,economía en conjunto. El desarrollo efectivamente beneficia a algunos de estos,"grupos_NC_grupo (_LP_(en_PREP_en particular_ADJ_particular,_CM_, las_ART_el diferencias_NC_diferencia",de remuneración entre hombres y mujeres suelen disminuir) pero otros quedan,right,[None],['diferencias'], grupos en particular las diferencias
-1_e00091-plain,supone encarecer el precio de las materias primas que se cotizan en,"dólares_NC_dólar (_LP_(en_PREP_en particular_ADJ_particular,_CM_, la_ART_el energía_NC_energía",) y por tanto constituye un riesgo inflacionario. En cualquier caso,left,['dólares'],[None], dólares en particular la energía

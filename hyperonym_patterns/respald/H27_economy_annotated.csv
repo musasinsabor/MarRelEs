@@ -1,2 +1,0 @@
-Reference,LeftContext,Pivot,RightContext,presence,candidate_term_left,candidate_term_right,occurrence
-1_e00051-plain,es el enfoque que hemos escogido en nuestro modelo dinámico.,El_ART_el progreso_NC_progreso tecnológico_ADJ_tecnológico se_SE_se presenta_VLfin_presentar bajo_PREP_bajo la_ART_el forma_NC_forma de_PREP_de un_ART_un aumento_NC_aumento,"constante del número de inputs, xxx. El hecho de que",left,"['progreso', 'progreso tecnológico']",[None], El progreso tecnológico se presenta bajo la forma de un aumento
