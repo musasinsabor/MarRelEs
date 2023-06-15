@@ -61,11 +61,13 @@ summary(subset2$id)
 # Crear un subset para cada valor único de "topic"
 subset1 <- subset(full, topic == "economy")
 subset2 <- subset(full, topic == "medicine")
+subset3 <- subset(all, annotation == "« OUI »")
 subset3 <- subset(all, topic == "economy" & annotation == "« OUI »")
 subset4 <- subset(all, topic == "medicine" & annotation == "« OUI »")
 subset5 <- subset(all, relational_semantic_type == "hyp_coordonné" & annotation == "« OUI »")
 
 ## 
+p = data.frame(summary(subset3$id))
 
 table(subset5$id)
 # Combinar los subsets en un solo dataframe

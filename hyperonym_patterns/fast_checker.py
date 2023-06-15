@@ -2,7 +2,8 @@ import pandas as pd
 import re
 import os
 import sys
-sys.path.append('../')
+
+sys.path.append("../")
 import manual_annotation
 
 
@@ -80,26 +81,31 @@ class CTProjection:
             target_path = os.path.join(os.path.dirname(__file__), path)
             return target_path
 
-
     def terminology_settings(self, corpus):
         """
         Full creation of the CT attributes. From a corpus name, settings the CT with self.candidate_terms_settings()
-        :param corpus: string with a value from the available list (economy or medicine)
-        :return:
+        :param corpus: string with a value from the available list of spanish (economy or medicine) or a candidate-terms
+                        list exported from TermoStats.txt
         """
         if corpus == "economy":
-            self.candidate_terms_settings(self.get_target_path("candidats_terms_economy.txt"))
+            self.candidate_terms_settings(
+                self.get_target_path("candidats_terms_economy.txt")
+            )
         elif corpus == "medicine":
-            self.candidate_terms_settings(self.get_target_path("candidats_terms_medicine.txt"))
+            self.candidate_terms_settings(
+                self.get_target_path("candidats_terms_medicine.txt")
+            )
         else:
-            self.candidate_terms_settings(self.get_target_path("corpus_terms_ts_all.txt"))
+            self.candidate_terms_settings(self.get_target_path(corpus))
 
     def get_cm_delimiter(self):
         """
         Get a parsed dict with the CM delimiters and its type.
         :return:
         """
-        marc = build_df_from_data(self.get_target_path('marqueurs_hyp.csv', root=True), sep=",")
+        marc = build_df_from_data(
+            self.get_target_path("marqueurs_hyp.csv", root=True), sep=","
+        )
         idd = list(marc["id"])
         el = list(marc["main_element"])
         t = list(marc["type_element"])
@@ -109,10 +115,18 @@ class CTProjection:
             if isinstance(idd[i], str):
                 if "," in el[i]:
                     elements = el[i].split(",")
-                    p = (elements)
-                    delimiters[idd[i]] = {"element": p, "type": t[i], "relational_semantic_type": rel[i]}
+                    p = elements
+                    delimiters[idd[i]] = {
+                        "element": p,
+                        "type": t[i],
+                        "relational_semantic_type": rel[i],
+                    }
                 else:
-                    delimiters[idd[i]] = {"element": el[i], "type": t[i], "relational_semantic_type": rel[i]}
+                    delimiters[idd[i]] = {
+                        "element": el[i],
+                        "type": t[i],
+                        "relational_semantic_type": rel[i],
+                    }
         return delimiters
 
     def patron_parsing(self, path, element, element_type):
@@ -290,19 +304,34 @@ class CTProjection:
         data.to_csv(newpath, index=False)
 
     def ct_projection(self, path, cm_id):
+        """
+        FULL CT projection and saving file as a path_annotated.csv
+        :param path: (str) file path with examples. Expected file in .csv
+        :param cm_id: (str) CM identification (example: H01)
+        :return: pd.DataFrame with CT projections.
+        """
         try:
             m = self.get_cm_delimiter()
-            checker = self.complete_fast_checker(path, m[cm_id]['element'], m[cm_id]['type'])
-            print(f'{path} CM projected')
+            checker = self.complete_fast_checker(
+                path, m[cm_id]["element"], m[cm_id]["type"]
+            )
+            print(f"{path} CM projected")
             self.update_data(path, checker)
             newpath = re.sub(r"(.+)\.csv", r"\1_annotated.csv", path)
             try:
-                data = manual_annotation.create_annotation_file(newpath, ",", cm_id, self.corpus, m[cm_id]["relational_semantic_type"])
-                print(f'{path} saved')
+                data = manual_annotation.create_annotation_file(
+                    newpath,
+                    ",",
+                    cm_id,
+                    self.corpus,
+                    m[cm_id]["relational_semantic_type"],
+                )
+                print(f"{path} saved")
                 return data
             except:
-                print(f'annotation file non created, try create_annotation_file({newpath}, {","}, {cm_id}, {self.corpus}, {m[cm_id]["relational_semantic_type"]})')
+                print(
+                    f'annotation file non created, try create_annotation_file({newpath}, {","}, {cm_id}, {self.corpus}, {m[cm_id]["relational_semantic_type"]})'
+                )
                 return checker
-
         except:
-            print(f'{path} something went wrong')
+            print(f"{path} something went wrong")
