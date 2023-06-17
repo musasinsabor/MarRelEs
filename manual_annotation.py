@@ -1,4 +1,4 @@
-import hyperonym_patterns.fast_checker as fast_checker
+import fast_checker
 
 
 def get_context(ocurrence):

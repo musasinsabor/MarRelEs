@@ -65,16 +65,14 @@ class CTProjection:
         variants = set(element for lst in self.dict_terms.values() for element in lst)
         self.set_terms_extended = self.set_terms | variants
 
-    def get_target_path(self, path, root=False):
+    def get_target_path(self, path, project=True):
         """
         get path from this directory
         :param path:
         :return:
         """
-        if root:
-            current_dir = os.path.abspath(os.getcwd())
-            root_dir = os.path.abspath(os.path.join(current_dir, "../"))
-            target_path = os.path.join(root_dir, path)
+        if project:
+            target_path = os.path.join(os.path.dirname(__file__), "hyperonym_patterns", "medicine_and_economy_projet", path)
             return target_path
         else:
             path = path
@@ -96,7 +94,7 @@ class CTProjection:
                 self.get_target_path("candidats_terms_medicine.txt")
             )
         else:
-            self.candidate_terms_settings(self.get_target_path(corpus))
+            self.candidate_terms_settings(corpus)
 
     def get_cm_delimiter(self):
         """
@@ -104,7 +102,7 @@ class CTProjection:
         :return:
         """
         marc = build_df_from_data(
-            self.get_target_path("marqueurs_hyp.csv", root=True), sep=","
+            self.get_target_path("marqueurs_hyp.csv"), sep=","
         )
         idd = list(marc["id"])
         el = list(marc["main_element"])
@@ -335,3 +333,6 @@ class CTProjection:
                 return checker
         except:
             print(f"{path} something went wrong")
+
+if __name__ == '__main__':
+    CTProjection("economy")

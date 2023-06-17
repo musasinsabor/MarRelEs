@@ -1,0 +1,38 @@
+id,relational_semantic_type,main_element,type_element
+H01,hyp_attributif,ser,lemma
+H02,hyp_attributif,ser,lemma
+H03,hyp_attributif,ser,lemma
+H04,hyp_attributif,ser,lemma
+H05,hyp_attributif,ser,lemma
+H06,hyp_coordonné,CC,tag
+H07,hyp_coordonné,CC,tag
+H08,hyp_coordonné,CC,tag
+H09,hyp_appositif,"CM, PREP",tag
+H10,hyp_appositif,"CM, PREP",tag
+H11,hyp_appositif,"CM, PREP",tag
+H12,hyp_appositif,"CM, PREP",tag
+H13,hyp_appositif,LP,tag
+H14,hyp_appositif,CM,tag
+H15,hyp_appositif,CM,tag
+H16,hyp_appositif,CM,tag
+H17,hyp_appositif,LP,tag
+H18,hyp_d'inclusion,"CM, PREP",tag
+H19,hyp_d'inclusion,tal,lemma
+H20,hyp_d'inclusion,CM,tag
+H21,hyp_d'inclusion,ser,lemma
+H22,hyp_d'inclusion,ser,lemma
+H23,hyp_d'inclusion,ser,lemma
+H24,hyp_d'inclusion,"VL.* ,VCLIinf",tag
+H25,hyp_d'inclusion,"VL.* ,VCLIinf",tag
+H26,hyp_d'inclusion,ser,lemma
+H27,hyp_d'inclusion,"VL.* ,VCLIinf",tag
+H28,hyp_d'inclusion,"VL.* ,VCLIinf",tag
+H29,hyp_d'inclusion,de,lemma
+H30,hyp_d'inclusion,VS.*,tag
+H31,hyp_d'inclusion,"PREP, PDEL",tag
+H32,hyp_d'exemplification,"P.*, ADJ",tag
+H33,hyp_d'exemplification,CM,tag
+H34,hyp_d'exemplification,COLON,tag
+H35,hyp_avec_Utiliser,"CSUBX, PREP",tag
+H36,hyp_avec_Utiliser,"CSUBX, PREP",tag
+H37,hyp_avec_Utiliser,"CSUBX, PREP",tag
