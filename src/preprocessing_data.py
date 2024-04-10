@@ -5,6 +5,16 @@ import glob
 import json
 
 
+def add_det_sum(det):
+    if re.search(r"'(A\w+)'", str(det)) and re.search(r"'(E6--\w+)'", str(det)):
+        return "mix"
+    elif re.search(r"'(A\w+)'", str(det)):
+        return "def"
+    elif re.search(r"'(E6--\w+)'", str(det)):
+        return "indef"
+    else:
+        return "no_det"
+
 def elements_extractor(column):
     """
     Extract both elements tags and tokens from the IULA corpus tagged
@@ -58,17 +68,21 @@ def field_extractor(column):
 
 def token_filter(df, column):
     matched_indices = []
+    neg_indices = []
     # Iteration in the df rows
     for index, row in df.iterrows():
         # Use the regex
-        reg = re.search(r"\bno\b", str(row[column]))
+        reg = re.search(r"\b(no|ni|ninguno|jamás|nunca)\b", str(row[column]))
         # get the index from matched rows
         if not reg:
             matched_indices.append(index)
+        else:
+            neg_indices.append(index)
 
     # df filter
     filtered_df = df.loc[matched_indices]
-    return filtered_df
+    not_included_df = df.loc[neg_indices]
+    return filtered_df, not_included_df
 
 
 def data_format(file_path, cm_types_path):
@@ -114,7 +128,7 @@ def data_format(file_path, cm_types_path):
     all_sentence_tokens = []
     det_presence = []
     cm_type = []
-    spec_lang = [False if field == "general" else True for field in fields]
+    spec_lang = ["FALSE" if field == "general" else "TRUE" for field in fields]
     for i in range(0, len(right_words)):
         context = (
             " ".join(left_words[i])
@@ -124,11 +138,12 @@ def data_format(file_path, cm_types_path):
         target_sentence = " ".join(target_words[i])
         all_context_tokens.append(context)
         all_sentence_tokens.append(target_sentence)
-        dets = re.findall(r"'(A\w+)|(E6\w+)'", str(target_tags[i]))
+        dets = re.findall(r"'(A\w+)|(E6--\w+)'", str(target_tags[i]))
         dets_result = [match[0] or match[1] for match in dets]
         det_presence.append(dets_result)
         type = d[cm]
         cm_type.append(type)
+
     # Create a DataFrame from the extracted information
     data = {
         "cm": cm,
@@ -143,7 +158,10 @@ def data_format(file_path, cm_types_path):
         "specialized_lang": spec_lang,
     }
     df = pd.DataFrame(data)
-    return df
+
+    df_without_duplicates = df.drop_duplicates(subset=["cm", "sentence"]) #delete duplicates
+    df_without_duplicates["det_sum"] = df_without_duplicates["det"].apply(add_det_sum) #add a summary from the determinants
+    return df_without_duplicates
 
 
 if __name__ == "__main__":
@@ -164,5 +182,7 @@ if __name__ == "__main__":
     combined_df_sorted.to_csv("data/combined_data.csv", index=False)
     print("all data phrases extracted", len(combined_df_sorted))
     neg_filter = token_filter(combined_df_sorted, "sentence")
-    neg_filter.to_csv("data/combined_data_filtered.csv", index=False)
-    print("data without neg", len(neg_filter))
+    neg_filter[0].to_csv("data/combined_data_filtered.csv", index=False)
+    print("data without neg", len(neg_filter[0]))
+    neg_filter[1].to_csv("data/combined_data_negative.csv", index=False)
+    print("data with neg", len(neg_filter[1]))
