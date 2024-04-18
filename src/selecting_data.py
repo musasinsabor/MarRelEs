@@ -3,17 +3,18 @@ import pandas as pd
 
 
 def data_selection_from_variables(df, column, n_values):
-    # verify the bool data as str
-    mask = df.applymap(type) != bool
-    d = {True: "TRUE", False: "FALSE"}
+    if column == "selection_features":
+        # verify the bool data as str
+        mask = df.applymap(type) != bool
+        d = {True: "TRUE", False: "FALSE"}
 
-    df = df.where(mask, df.replace(d))
-    # creation the selection features variable
-    df["selection_features"] = df["cm"] + "_" + df["field"] + "_" + df["det_sum"]
+        df = df.where(mask, df.replace(d))
+        # creation the selection features variable
+        df["selection_features"] = df["cm"] + "_" + df["field"]
     # creation dict to get the filtered
     not_filtered_data = set()
     for k, v in df["cm"].value_counts().items():
-        if v > 10:
+        if v > n_values:
             pass
         else:
             not_filtered_data.add(k)

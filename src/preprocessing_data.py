@@ -132,8 +132,8 @@ def data_format(file_path, cm_types_path):
     for i in range(0, len(right_words)):
         context = (
             " ".join(left_words[i])
-            + " ".join(target_words[i])
-            + " ".join(right_words[i])
+            +" "+ " ".join(target_words[i])
+            +" "+ " ".join(right_words[i])
         )
         target_sentence = " ".join(target_words[i])
         all_context_tokens.append(context)
